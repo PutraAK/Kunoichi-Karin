@@ -1,0 +1,1339 @@
+[
+    null,
+    {
+        "id": 1,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 1,
+        "maxTurns": 1,
+        "message1": "は倒れた！",
+        "message2": "を倒した！",
+        "message3": "",
+        "message4": "は立ち上がった！",
+        "minTurns": 1,
+        "motion": 3,
+        "name": "戦闘不能",
+        "note": "ステート１番はＨＰが０になったときに\n自動的に付加されます。",
+        "overlay": 0,
+        "priority": 100,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "description": "",
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "防御",
+        "note": "",
+        "overlay": 0,
+        "priority": 0,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 62,
+                "dataId": 1,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 20,
+        "iconIndex": 71,
+        "maxTurns": 2,
+        "message1": "は拘束された！",
+        "message2": "を拘束した！",
+        "message3": "",
+        "message4": "は拘束を振りほどいた！",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "拘束",
+        "note": "",
+        "overlay": 8,
+        "priority": 80,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 4,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 2,
+        "maxTurns": 1,
+        "message1": "は毒にかかった！",
+        "message2": "に毒をかけた！",
+        "message3": "",
+        "message4": "の毒が消えた！",
+        "minTurns": 1,
+        "motion": 1,
+        "overlay": 1,
+        "name": "毒",
+        "note": "<particle:set doku attach:this def below>",
+        "priority": 50,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.05
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 40,
+        "iconIndex": 3,
+        "maxTurns": 5,
+        "message1": "は暗闇に閉ざされた！",
+        "message2": "を暗闇に閉ざした！",
+        "message3": "",
+        "message4": "の暗闇が消えた！",
+        "minTurns": 3,
+        "motion": 1,
+        "name": "暗闇",
+        "note": "",
+        "overlay": 2,
+        "priority": 60,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": -0.5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 93,
+        "maxTurns": 5,
+        "message1": "は戦技が封印された！",
+        "message2": "を戦技封印させた！",
+        "message3": "",
+        "message4": "の戦技封印が解けた！",
+        "minTurns": 3,
+        "motion": 1,
+        "name": "戦技封印",
+        "note": "",
+        "overlay": 3,
+        "priority": 65,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 42,
+                "dataId": 2,
+                "value": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 5,
+        "iconIndex": 5,
+        "maxTurns": 4,
+        "message1": "は激昂した！　攻撃力上昇！",
+        "message2": "を激昂させた！　攻撃力上昇！",
+        "message3": "",
+        "message4": "は我に返った！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "激昂",
+        "note": "<particle:set gekikou attach:this def above>",
+        "overlay": 4,
+        "priority": 70,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 1,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.8
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 6,
+        "maxTurns": 4,
+        "message1": "は混乱した！",
+        "message2": "を混乱させた！",
+        "message3": "",
+        "message4": "は我に返った！",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "混乱",
+        "note": "",
+        "overlay": 5,
+        "priority": 75,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 2,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 9,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 84,
+        "maxTurns": 2,
+        "message1": "は魅了された！",
+        "message2": "を魅了した！",
+        "message3": "",
+        "message4": "は我に返った！",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "魅了",
+        "note": "<particle:set warp_red_cp attach:this def above>",
+        "overlay": 6,
+        "priority": 80,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 10,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 8,
+        "maxTurns": 5,
+        "message1": "は眠った！",
+        "message2": "を眠らせた！",
+        "message3": "は眠っている。",
+        "message4": "は目を覚ました！",
+        "minTurns": 3,
+        "motion": 2,
+        "name": "睡眠",
+        "note": "",
+        "overlay": 7,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.7
+            }
+        ],
+        "iconIndex": 82,
+        "maxTurns": 2,
+        "message1": "　２ターンの間　回避率上昇！",
+        "message2": "　２ターンの間　回避率上昇！",
+        "message3": "",
+        "message4": "の回避状態が消えた！",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "回避率上昇",
+        "note": "<particle:set kaihi attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 12,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 34,
+        "maxTurns": 4,
+        "message1": "４ターンの間　攻撃力が上昇！",
+        "message2": "",
+        "message3": "",
+        "message4": "の攻撃力強化が消えた！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "攻撃力　２０％上昇",
+        "note": "<particle:set bahu attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 13,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.4
+            }
+        ],
+        "iconIndex": 42,
+        "maxTurns": 2,
+        "message1": "２ターンの間　攻撃力が上昇！",
+        "message2": "",
+        "message3": "",
+        "message4": "の攻撃力強化が消えた！",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "攻撃力　４０％上昇",
+        "note": "<particle:set bahu attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 14,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 7,
+        "maxTurns": 1,
+        "message1": "は興奮している！",
+        "message2": "を発情させた！",
+        "message3": "は興奮している！",
+        "message4": "は我に返った！（媚薬解消）",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "媚薬使用中",
+        "note": "",
+        "overlay": 0,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 35,
+        "maxTurns": 4,
+        "message1": "４ターンの間　守備力が上昇！",
+        "message2": "",
+        "message3": "",
+        "message4": "の守備力強化が消えた！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "守備力　２０％上昇",
+        "note": "<particle:set bahu_syubi attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 16,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.4
+            }
+        ],
+        "iconIndex": 43,
+        "maxTurns": 2,
+        "message1": "２ターンの間　守備力が上昇！",
+        "message2": "",
+        "message3": "",
+        "message4": "の守備力強化が消えた！",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "守備力　４０％上昇",
+        "note": "<particle:set bahu_syubi attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 17,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "iconIndex": 31,
+        "maxTurns": 5,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 3,
+        "motion": 0,
+        "name": "妊娠中",
+        "note": "\n<永続ステート>\n\n<kuishibari:100>\n\n<particle:set bubble_c attach:this def below>",
+        "overlay": 0,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 18,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 6,
+                "value": 1
+            }
+        ],
+        "iconIndex": 77,
+        "maxTurns": 3,
+        "message1": "は反撃の構えをとった！",
+        "message2": "は反撃の構えをとった！",
+        "message3": "",
+        "message4": "の反撃効果がなくなった！",
+        "minTurns": 3,
+        "motion": 0,
+        "name": "反撃",
+        "note": "<particle:set hangeki attach:this def above>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 19,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 10,
+        "iconIndex": 64,
+        "maxTurns": 3,
+        "message1": "は火傷を負った！",
+        "message2": "は火傷を負った！",
+        "message3": "",
+        "message4": "の火傷が消えた！",
+        "minTurns": 2,
+        "motion": 1,
+        "name": "火傷",
+        "note": "<particle:set test attach:this def above>",
+        "overlay": 4,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": -0.03
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 85,
+        "maxTurns": 2,
+        "message1": "は煙幕状態になった！　回避率上昇！",
+        "message2": "は煙幕状態になった！　回避率上昇！",
+        "message3": "",
+        "message4": "の煙幕状態が消えた！",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "煙幕",
+        "note": "<particle:set enmaku attach:this def below>",
+        "overlay": 0,
+        "priority": 60,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.6
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.6
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.6
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.3
+            }
+        ],
+        "iconIndex": 81,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "防御姿勢",
+        "note": "",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 22,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 6,
+                "value": 1
+            }
+        ],
+        "iconIndex": 77,
+        "maxTurns": 3,
+        "message1": "は反撃の構えをとった！",
+        "message2": "は反撃の構えをとった！",
+        "message3": "",
+        "message4": "の反撃効果がなくなった！",
+        "minTurns": 3,
+        "motion": 0,
+        "name": "反撃・半",
+        "note": "<particle:set hangeki attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": true,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 23,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 100,
+        "iconIndex": 23,
+        "maxTurns": 1,
+        "message1": "は興奮している！",
+        "message2": "を発情させた！",
+        "message3": "は興奮している！",
+        "message4": "は我に返った！（媚薬解消）",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "排卵剤　使用中",
+        "note": "",
+        "overlay": 0,
+        "priority": 90,
+        "releaseByDamage": true,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -1
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 50,
+        "iconIndex": 11,
+        "maxTurns": 2,
+        "message1": "は凍結した！",
+        "message2": "を凍結させた！",
+        "message3": "",
+        "message4": "の凍結が消えた！",
+        "minTurns": 1,
+        "motion": 1,
+        "name": "凍結",
+        "note": "<particle:set touketu attach:this def below>",
+        "overlay": 10,
+        "priority": 80,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 25,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 20,
+        "iconIndex": 66,
+        "maxTurns": 2,
+        "message1": "は電撃でしびれ状態になった！",
+        "message2": "は電撃でしびれ状態になった！",
+        "message3": "",
+        "message4": "はしびれ状態が治った！",
+        "minTurns": 1,
+        "motion": 1,
+        "name": "しびれ",
+        "note": "<particle:set sibire attach:this def below>",
+        "overlay": 8,
+        "priority": 80,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 12,
+                "dataId": 2,
+                "value": 0.1
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 54,
+        "maxTurns": 4,
+        "message1": "は速さが低下した！",
+        "message2": "は速さが低下した！",
+        "message3": "",
+        "message4": "の速さ低下が消えた！",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "速さ低下",
+        "note": "",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 27,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 2
+            }
+        ],
+        "iconIndex": 42,
+        "maxTurns": 4,
+        "message1": "４ターンの間　攻撃力が大幅に上昇！",
+        "message2": "",
+        "message3": "",
+        "message4": "の攻撃力強化が消えた！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "攻撃力　１００％上昇",
+        "note": "<particle:set bahu attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 28,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 2
+            }
+        ],
+        "iconIndex": 43,
+        "maxTurns": 4,
+        "message1": "４ターンの間　守備力が大幅に上昇！",
+        "message2": "",
+        "message3": "",
+        "message4": "の守備力強化が消えた！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "守備力　１００％上昇",
+        "note": "<particle:set bahu_syubi attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 29,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.85
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.85
+            },
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.85
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.85
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.85
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 4,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 5,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 6,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 8,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 10,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 19,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 24,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 25,
+                "value": 0
+            },
+            {
+                "code": 32,
+                "dataId": 26,
+                "value": 0
+            }
+        ],
+        "iconIndex": 83,
+        "maxTurns": 2,
+        "message1": "　２ターンの間　回避率上昇！",
+        "message2": "　２ターンの間　回避率上昇！",
+        "message3": "",
+        "message4": "の回避状態が消えた！",
+        "minTurns": 2,
+        "motion": 0,
+        "name": "絶対回避",
+        "note": "<particle:set kaihi attach:this def below>",
+        "overlay": 0,
+        "priority": 90,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 30,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 0.2
+            }
+        ],
+        "iconIndex": 38,
+        "maxTurns": 3,
+        "message1": "は速さが上昇した！",
+        "message2": "は速さが上昇した！",
+        "message3": "",
+        "message4": "の速さ強化が消えた！",
+        "minTurns": 3,
+        "motion": 0,
+        "name": "速さ上昇",
+        "note": "<particle:set bahu＿hayasa attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 31,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 86,
+        "maxTurns": 3,
+        "message1": "は弱体化した！",
+        "message2": "は弱体化した！",
+        "message3": "",
+        "message4": "の弱体化が消えた！",
+        "minTurns": 3,
+        "motion": 1,
+        "name": "弱体",
+        "note": "<particle:set jyakutai attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 32,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.4
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.4
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 2
+            },
+            {
+                "code": 14,
+                "dataId": 29,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            }
+        ],
+        "iconIndex": 126,
+        "maxTurns": 4,
+        "message1": "は強化状態になった！",
+        "message2": "は強化状態になった！",
+        "message3": "",
+        "message4": "の強化状態が消えた！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "敵強化",
+        "note": "<particle:set tekikyou attach:this def below>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 33,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.4
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.4
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.2
+            }
+        ],
+        "iconIndex": 126,
+        "maxTurns": 3,
+        "message1": "は強化状態になった！",
+        "message2": "は強化状態になった！",
+        "message3": "",
+        "message4": "の強化状態が消えた！",
+        "minTurns": 3,
+        "motion": 0,
+        "name": "敵強化 02",
+        "note": "<particle:set tekikyou_03 attach:this def above>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 34,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.8
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.2
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 4
+            }
+        ],
+        "iconIndex": 126,
+        "maxTurns": 3,
+        "message1": "は強化状態になった！",
+        "message2": "は強化状態になった！",
+        "message3": "",
+        "message4": "の強化状態が消えた！",
+        "minTurns": 3,
+        "motion": 0,
+        "name": "敵強化 03",
+        "note": "<particle:set tekikyou_03 attach:this def above>",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 35,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 21,
+        "maxTurns": 4,
+        "message1": "は鬼状態になった！",
+        "message2": "は鬼状態になった！",
+        "message3": "",
+        "message4": "は我に返った！",
+        "minTurns": 4,
+        "motion": 0,
+        "name": "鬼状態",
+        "note": "<particle:set onika attach:this def above>",
+        "overlay": 0,
+        "priority": 70,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 1,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.8
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.8
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.8
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "autoRemovalTiming": 2,
+        "chanceByDamage": 20,
+        "iconIndex": 92,
+        "maxTurns": 4,
+        "message1": "は糸で縛られた！",
+        "message2": "を糸で縛った！",
+        "message3": "",
+        "message4": "は糸縛りを振りほどいた！",
+        "minTurns": 3,
+        "motion": 1,
+        "name": "糸縛り",
+        "note": "",
+        "overlay": 8,
+        "priority": 80,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 4,
+        "stepsToRemove": 100,
+        "traits": []
+    },
+    {
+        "id": 37,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "traits": [],
+        "iconIndex": 67,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "花梨　HP　100以下",
+        "note": "",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 38,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "traits": [],
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "",
+        "note": "",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 39,
+        "autoRemovalTiming": 0,
+        "chanceByDamage": 100,
+        "traits": [],
+        "iconIndex": 0,
+        "maxTurns": 1,
+        "message1": "",
+        "message2": "",
+        "message3": "",
+        "message4": "",
+        "minTurns": 1,
+        "motion": 0,
+        "name": "",
+        "note": "",
+        "overlay": 0,
+        "priority": 50,
+        "removeAtBattleEnd": false,
+        "removeByDamage": false,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 0,
+        "stepsToRemove": 100
+    },
+    {
+        "id": 40,
+        "autoRemovalTiming": 1,
+        "chanceByDamage": 50,
+        "iconIndex": 5,
+        "maxTurns": 4,
+        "message1": "は激昂した！",
+        "message2": "を激昂させた！",
+        "message3": "",
+        "message4": "は我に返った！",
+        "minTurns": 4,
+        "motion": 1,
+        "name": "激昂",
+        "note": "<particle:set gekikou attach:this def above>",
+        "overlay": 4,
+        "priority": 70,
+        "releaseByDamage": false,
+        "removeAtBattleEnd": true,
+        "removeByDamage": true,
+        "removeByRestriction": false,
+        "removeByWalking": false,
+        "restriction": 1,
+        "stepsToRemove": 100,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.8
+            }
+        ]
+    }
+]
