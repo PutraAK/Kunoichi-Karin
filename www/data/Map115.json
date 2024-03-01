@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2282,28 +2282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村長】"
+                                "【Village Chief】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この島は食料が少ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流罪人だけではなく島の者も食事は満足に食えぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飢え死にせぬよう気をつけてな。"
+                                "\"This island has little food. It's not just the exiles, even\nthe islanders can't get a satisfying meal. Be careful not to\nstarve to death.\""
                             ]
                         },
                         {
@@ -2378,7 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや？　釣り竿を手に入れたのかい？"
+                                "...Oh? Did you get yourself a fishing rod?"
                             ]
                         },
                         {
@@ -2402,7 +2388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい！　嬉三郎さんに作ってもらいました。"
+                                "Yes! Kisanosuke-san made it for me."
                             ]
                         },
                         {
@@ -2426,21 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならば餌が必要であろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシが海辺で捕まえたゴカイじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "釣り餌として使うがよいぞ。"
+                                "In that case, you'll need bait. Here are some worms I caught\nby the shore. Feel free to use them for fishing."
                             ]
                         },
                         {
@@ -2464,14 +2436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！　本当ですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長さん、ありがとうございます♪"
+                                "Wow! Really!? Thank you so much, Village Chief♪"
                             ]
                         },
                         {
@@ -2510,7 +2475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【釣り餌】\\c[0]を２０個手に入れた！"
+                                "--Karin obtained 20 \\c[17]Fishing Baits\\c[0]!"
                             ]
                         },
                         {
@@ -2601,21 +2566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……船があればもっと魚が獲れるのじゃが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この島は流罪地ゆえ、連絡船以外の船は禁止されてての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく不便なものじゃよ。"
+                                "...If we had a boat, we could catch more fish, but since\nthis island is a place of exile, no boats are allowed other\nthan the ferry. It's truly inconvenient."
                             ]
                         },
                         {
@@ -2706,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！？　アンタは……？"
+                                "Oh!? You are...?"
                             ]
                         },
                         {
@@ -2730,14 +2681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長さん、ご無沙汰してます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その節は本当にお世話になりました。"
+                                "Mayor, it's been a while. I'm truly grateful for your help\nback then."
                             ]
                         },
                         {
@@ -2761,14 +2705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "船が出航するのを岬から観た時は、正直心が震えたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやはや、江戸まで全員戻れて良かったのぅ。"
+                                "When I saw the ship set sail from the cape, my heart\nhonestly trembled. It's a relief that everyone made it back\nto Edo."
                             ]
                         },
                         {
@@ -2792,21 +2729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべて村長さんとご先祖様の作った船のおかげです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてもお礼を言いたくてまた無常島まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来ちゃいました。本当に感謝してます。"
+                                "It's all thanks to the ship you and your ancestors built,\nMayor. I just had to come back to Mujou Island to express my\ngratitude. I'm truly thankful."
                             ]
                         },
                         {
@@ -2830,28 +2753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機会を活かしたのはアンタの並々ならぬ行動力じゃよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恩赦をもらって再び自由を手に入れられて本当に良かったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの祖先の分まで何処にでも行ける気分を満喫して欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう二度と捕まったりはせぬようにな。"
+                                "The one who made the most of the opportunity was you, with\nyour extraordinary initiative. It's wonderful that you\nreceived a pardon and regained your freedom. I want you to\nenjoy the feeling of being able to go anywhere, on behalf of\nmy ancestors as well. Just make sure not to get caught\nagain."
                             ]
                         },
                         {
@@ -2875,7 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい！　村長さんも長生きしてくださいね。"
+                                "Yes! Mayor, please live a long life as well."
                             ]
                         },
                         {
@@ -2965,28 +2867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "途中で船が難破して、巨大なタコと戦って倒し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのタコを操って浦賀まで辿り着いたと……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっはっは。それはまた痛快な船旅じゃったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく無事に江戸まで戻れて良かったのぅ。"
+                                "The ship was wrecked along the way, and after fighting and\ndefeating a giant octopus, you managed to control it and\nreach Uraga...? Hahahaha. That sure was a thrilling voyage.\nAnyway, it's good that you were able to return to Edo\nsafely."
                             ]
                         },
                         {
@@ -3377,7 +3258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3624,7 +3505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] acquired!"
                             ]
                         },
                         {

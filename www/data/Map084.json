@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "剣術道場",
+    "displayName": "Swordsmanship Dojo",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2771,28 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや？　どなたかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Oh? Who might this be?"
                             ]
                         },
                         {
@@ -2816,14 +2795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さきほど道場に入門した花梨殿です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちら我が道場の師範代ですので、ご挨拶を――"
+                                "She is Karin-dono, who has just joined our dojo. As the\nassistant master of this dojo, please allow me to introduce\nher--"
                             ]
                         },
                         {
@@ -2847,14 +2819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい！　はじめまして、花梨といいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本日から道場にお世話になります。"
+                                "Yes! Nice to meet you, my name is Karin. I will be under\nyour care from today at the dojo."
                             ]
                         },
                         {
@@ -2878,28 +2843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう、道場着が良く似合っているの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道場は武士だけではなく町民にも開放しておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣を学ぶのに身分の上下はない。剣技に励んでおくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ho ho, the dojo uniform suits you well. This dojo is open\nnot only to samurai but also to townspeople. There is no\ndistinction of social status when it comes to learning the\nsword. Please dedicate yourself to your swordsmanship."
                             ]
                         },
                         {
@@ -2923,7 +2867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます！　頑張ります！"
+                                "Thank you very much! I will do my best!"
                             ]
                         },
                         {
@@ -2947,28 +2891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや？　もしやそなた、中太郎殿の娘では？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Oh? Could it be that you are the daughter of Chutarou-\ndono?"
                             ]
                         },
                         {
@@ -2992,28 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？　師範は父のこと、ご存じなのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh!? You know of my father, sensei?"
                             ]
                         },
                         {
@@ -3037,21 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思い出したわい。１３年前くらいかの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中太郎殿は幼児だったお主を連れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道場に剣を学びに来てな。"
+                                "I remember now. It was about 13 years ago. Chutarou-dono\ncame to learn the sword at this dojo, bringing you along as\na toddler."
                             ]
                         },
                         {
@@ -3075,28 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "父がこの道場に……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "My father came to this dojo...?"
                             ]
                         },
                         {
@@ -3120,28 +2987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。鬼気迫る実践的な剣技でワシも圧倒されての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中太郎殿にしばらくの間、食客として師範代になってもらった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目にも見えぬ速さで木剣を振るうから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても普通の町民とは思えなかったわ。本当に強かったわい。"
+                                "Ah, yes. His intense and practical swordsmanship overwhelmed\neven me. For a while, Chutarou-dono became an assistant\nmaster here as a live-in student. He swung the wooden sword\nwith such speed it was invisible to the eye; he didn't seem\nlike an ordinary townsman at all. He was truly strong."
                             ]
                         },
                         {
@@ -3165,28 +3011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうなんですか。初めて聞きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is that so? This is the first time I've heard of it."
                             ]
                         },
                         {
@@ -3210,21 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "平和な時代になり世の中は精神を鍛える流れになったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり剣を振るうならば相手に勝たねばならぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ故、この道場は実戦に重きを置いておるでな。"
+                                "In these peaceful times, the world has shifted towards\ncultivating the spirit, but if one wields a sword, they must\naim to win against their opponent. That's why this dojo\nplaces emphasis on actual combat."
                             ]
                         },
                         {
@@ -3248,28 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥にある稽古場で師範代の拙者が相手になりますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠慮なくかかってくだされ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "In the practice area in the back, I, the assistant master,\nwill be your opponent, so please don't hesitate to come at\nme."
                             ]
                         },
                         {
@@ -3300,7 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかりました。お手柔らかにお願いします！"
+                                "Understood. Please go easy on me!"
                             ]
                         },
                         {
@@ -3338,7 +3128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――道場右奥の【実践稽古場】を使えるようになった！\\c[0]"
+                                "\\c[17]--You can now use the \"Practical Training Area\" at the back\nright of the dojo! \\c[0]"
                             ]
                         },
                         {
@@ -3428,21 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剣術に興味があるならば女子でも歓迎するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強くなりたければ一にも二にも実戦あるのみじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張って稽古を積んでくれ、花梨殿。"
+                                "If you're interested in swordsmanship, we welcome women as\nwell. If you wish to become stronger, actual combat\nexperience is paramount above all else. Work hard and\naccumulate practice, Karin-dono."
                             ]
                         },
                         {
@@ -3997,21 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥の稽古場では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後を取る練習ができ、経験値も上がります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "段をあげたいのならば挑戦するといいですよ。"
+                                "In the practice area beyond here, you can train to take the\nenemy from behind, and your EXP will increase. If you wish\nto advance your level, it would be good to take on the\nchallenge."
                             ]
                         },
                         {
@@ -4088,7 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉおおお！！　えいやぁ！"
+                                "Ohhhhh!! Take this!"
                             ]
                         },
                         {
@@ -4181,7 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せやああぁ――！！"
+                                "Yes--!!"
                             ]
                         },
                         {
@@ -4454,14 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと気合を入れて深く打ち込んで来い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰が引けているぞ！"
+                                "Put more spirit into it and thrust deeper! You're holding\nback!"
                             ]
                         },
                         {
@@ -4561,7 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやーーーっ！！"
+                                "No---!!"
                             ]
                         },
                         {
@@ -4668,28 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、珍しいお客さんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興味があるなら稽古を見ていくといいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道場は江戸で一番門下生が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣術の鍛錬になるはずだ。"
+                                "Oh, what an unusual visitor. If you're interested, you\nshould watch the practice. This dojo has the most students\nin Edo. It should serve as good training for swordsmanship."
                             ]
                         },
                         {
@@ -4789,21 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たくさん面を打ち込んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗をかくと気持ちいいよ。"
+                                "Haa... haa... It feels good to sweat a lot after a vigorous\npractice."
                             ]
                         },
                         {
@@ -4903,14 +4623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "打ち込み稽古の間合いに入ると危ないぞ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice. It's dangerous to enter the striking distance\nduring practice."
                             ]
                         },
                         {
@@ -5189,7 +4902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -5437,7 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たくさん食べてつよくなるぞ～"
+                                "I'm going to eat a lot and get stronger~"
                             ]
                         },
                         {
@@ -5514,14 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は剣術が盛んでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参勤交代の大名も道場に通うくらいさ。"
+                                "Edo is bustling with swordsmanship. Even the daimyo on their\nalternate attendance duty frequent the dojos."
                             ]
                         },
                         {
@@ -6137,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Impenetrable Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -7567,14 +7273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か用かな？　もしかして娘さん、当道場に入門希望かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入門したければ３０００文必要だが。"
+                                "Do you need something? Perhaps, young lady, you wish to\nenroll in our dojo? If you want to join, it will cost 3000\nmon."
                             ]
                         },
                         {
@@ -7598,7 +7297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（剣術かぁ……　強くなるために通ってもいいかも……）\\$"
+                                "(Swordsmanship, huh... It might be good to train and become\nstronger...)"
                             ]
                         },
                         {
@@ -7606,8 +7305,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "剣術道場に入門する【３０００文】",
-                                    "やめる"
+                                    "Enroll in the swordsmanship dojo【3000 mon】",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -7653,14 +7352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わたし、花梨と言います！　剣術に興味があるので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この道場に入門させてください！　お願いします！"
+                                "My name is Karin! I'm interested in swordsmanship, so please\nlet me join this dojo! Please!"
                             ]
                         },
                         {
@@ -7684,14 +7376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おや、本気なのか？　女子で入門希望とは珍しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いやいや、歓迎いたすぞ。"
+                                "Oh, are you serious? It's rare for a girl to wish to enroll.\nNo, no, you're welcome here."
                             ]
                         },
                         {
@@ -7715,7 +7400,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金も用意しました。是非お願いします！"
+                                "I've prepared the money. Please, let me join!"
                             ]
                         },
                         {
@@ -7767,14 +7452,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は３０００文を入門代として支払った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--Karin paid 3000 mon as the enrollment fee."
                             ]
                         },
                         {
@@ -7982,7 +7660,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……さっそく道着を着てみましたけど、似合ってますか？"
+                                "...I've tried on the training outfit, does it suit me?"
                             ]
                         },
                         {
@@ -8006,7 +7684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（……なんとも可憐だ）"
+                                "(...She looks so charming.)"
                             ]
                         },
                         {
@@ -8039,14 +7717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あの……　師範代、これで合ってますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "袴とかは普段は着ないので。"
+                                "Um... Instructor, is this correct? I'm not used to wearing\nhakama and such."
                             ]
                         },
                         {
@@ -8070,21 +7741,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ああ、申し訳ない！　似合っているし問題ない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "入門したからには道場の中を好きに歩いて構わんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "右奥には【実戦稽古場】もある。自由に使うといい。"
+                                "Ah, my apologies! You look fine and there's no problem! Now\nthat you've joined, feel free to walk around the dojo.\nThere's also a 【Combat Training Area】 in the back right.\nFeel free to use it."
                             ]
                         },
                         {
@@ -8164,14 +7821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すみません。今は乗り気じゃなくて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また次の機会にお尋ねします。"
+                                "I'm sorry. I'm not really feeling up to it right now... I'll\nask again another time."
                             ]
                         },
                         {
@@ -9649,28 +9299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、はぁ！　やあぁ～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hah, hah! Yaaaah~~!!"
                             ]
                         },
                         {
@@ -9699,28 +9328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　バシーン！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Bash-!>"
                             ]
                         },
                         {
@@ -9744,14 +9352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【師範代】"
+                                "【Assistant Instructor】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたた……！　それまで！"
+                                "Ouch...! That's it!"
                             ]
                         },
                         {
@@ -9775,7 +9383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やったぁ！　今の胴斬り、一本ですよね？"
+                                "Yes! That torso slash just now was a point, right?"
                             ]
                         },
                         {
@@ -9799,28 +9407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "師範代の拙者から一本取るとは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやはや。花梨殿の剣筋、まことに見事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入門してからそんなに月日が経ってないのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっというまに強くなりましたな。"
+                                "To think you would score a point against me, the assistant\ninstructor... My, my. Karin-dono, your swordsmanship is\ntruly splendid. It hasn't been that long since you started,\nand yet you've become so strong so quickly."
                             ]
                         },
                         {
@@ -9844,14 +9431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道場で何度も実戦稽古した甲斐がありました\\I[15]"
+                                "Ah, thank you very much! All the sparring practice at the\ndojo paid off\\I[15]"
                             ]
                         },
                         {
@@ -9875,28 +9455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は額に滴る汗を手ぬぐいで拭った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Karin wiped the sweat dripping from her forehead with a\nhand towel."
                             ]
                         },
                         {
@@ -9920,14 +9479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……ふぅ。まずいなぁ。なんだか興奮しすぎて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いやらしいこと、したくなっちゃった……）"
+                                "(...Phew. This is bad. I'm getting too excited... and\nstarting to feel lewd...)"
                             ]
                         },
                         {
@@ -9951,21 +9503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【師範代】"
+                                "【Assistant Instructor】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――？　どうしたのだ、花梨殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頬をそんなに赤らめて……　もしや風邪でも？"
+                                "--? What's the matter, Karin-dono? Your cheeks are so\nflushed... Could it be a cold?"
                             ]
                         },
                         {
@@ -9989,7 +9534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………\\I[15]"
+                                "...\\I[15]"
                             ]
                         },
                         {
@@ -9997,8 +9542,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "師範代を誘惑する\\c[27]【Ｈイベント】\\c[0]",
-                                    "我慢する"
+                                    "Seduce the assistant instructor \\c[27][H Event]\\c[0]",
+                                    "Endure"
                                 ],
                                 1,
                                 0,
@@ -10080,7 +9625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Main event count +1, vaginal ejaculation +1, lewdness level\n+3\\c[0]"
                             ]
                         },
                         {
@@ -10215,28 +9760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（い、いけない！　道場で淫らな気分になっちゃった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　落ち着け、私の心……！　平常心……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(No, this is bad! I'm getting indecent thoughts in the dojo!\nCalm down, my heart...! Stay composed...!)"
                             ]
                         },
                         {
@@ -10328,7 +9852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは師範代。今日も精が出てますね。"
+                                "Hello, assistant master. You're full of energy today as\nwell."
                             ]
                         },
                         {
@@ -10352,28 +9876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、これは……！　花梨殿っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wh-What...! Lady Karin!?"
                             ]
                         },
                         {
@@ -10397,28 +9900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　どうしたんですか、師範代。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔を真っ赤にして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? What's wrong, assistant master? Your face is all red..."
                             ]
                         },
                         {
@@ -10442,28 +9924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いや！　先日は大変失礼なことを――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫁入り前のそなたに一時の間違いをしてしまって……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No, it's nothing! The other day, I was terribly rude--! To\nmake such a mistake with you, who are yet to be married...!"
                             ]
                         },
                         {
@@ -10498,14 +9959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ……　そうですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも師範代とが、その……初めてなので……"
+                                "Sigh... Yes, that's true... But it's my first time with you,\nassistant master, so..."
                             ]
                         },
                         {
@@ -10529,7 +9983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――ななッ！　拙者が初めての……相手……！？"
+                                "--Wha-What! I'm your first... partner...!?"
                             ]
                         },
                         {
@@ -10570,28 +10024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ……　別にそんなに気にしなくていいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、手慣れているので――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah... Don't worry about it too much. I'm quite experienced,\nso--"
                             ]
                         },
                         {
@@ -10615,28 +10048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ななッ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにたくさん男と経験したことがあるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wha-What...! Have you been with that many men?"
                             ]
                         },
                         {
@@ -10660,14 +10072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね……　恥ずかしいですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで\\V[2]人くらい、男の人としてますので……"
+                                "Yes, it's embarrassing to say, but I've been with about\n\\V[2] men so far..."
                             ]
                         },
                         {
@@ -10691,14 +10096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～ッ！！　\\V[2]人と！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さ……最近の若い娘はそんな風紀なのか……　うぅむ……）"
+                                "～～～～！！With \\V[2] men!? (Is... Is this the moral standard of\nyoung women these days... Hmm...)"
                             ]
                         },
                         {
@@ -10729,28 +10127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたんですか師範？　さらにお顔を真っ赤にして……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's wrong, master? Your face is getting even redder...?"
                             ]
                         },
                         {
@@ -10774,28 +10151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――い、いや！　なんでもござらん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それで……今日も稽古をしたいのか、花梨殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--No, it's nothing! Well then... Do you wish to practice\nagain today, Lady Karin?"
                             ]
                         },
                         {
@@ -10819,7 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうですねぇ…………"
+                                "...Well, let's see..."
                             ]
                         },
                         {
@@ -10827,8 +10183,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "稽古をつけてもらう\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Receive training \\c[27]【H Event】\\c[0]",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -10910,7 +10266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]尺八＋１　口内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Shakuhachi +1, Oral Creampie +1, Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -11054,14 +10410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……すみません。今日は他に用があるので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またの機会によろしくお願いします。"
+                                "...I'm sorry. I have other things to do today. Please let me\nknow another time."
                             ]
                         },
                         {
@@ -11137,8 +10486,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "師範代に話しかける\\c[27]【Ｈイベント】\\c[0]",
-                                    "やめる"
+                                    "Speak to the assistant instructor \\c[27][H Event]\\c[0]",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -11227,7 +10576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Number of times having sex +1, Creampie +1, Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -11380,28 +10729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――こんにちは、師範代！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Assistant Master!"
                             ]
                         },
                         {
@@ -11425,28 +10753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、花梨殿。今日も道場へよく来てくれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, Lady Karin. You've come to the dojo again today. Well\ndone."
                             ]
                         },
                         {
@@ -11470,28 +10777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだか今日、道場盛り上がってますね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It seems quite lively at the dojo today, doesn't it?"
                             ]
                         },
                         {
@@ -11515,28 +10801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ……　今度、次の道場師範を決める試合があるのでな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes... There's going to be a match soon to decide the next\nmaster of the dojo."
                             ]
                         },
                         {
@@ -11560,28 +10825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？　道場師範を決める……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh? A match to decide the dojo master...?"
                             ]
                         },
                         {
@@ -11605,28 +10849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。道場主の師範が隠居されるのでな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道場は剣の実技を重んじるため、師範は世襲制ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全員で試合を行い、一番強い門弟が師範になるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Indeed. The current master is retiring. This dojo values\nactual swordsmanship, so the position of master isn't\nhereditary. We will have a match, and the strongest disciple\nwill become the new master."
                             ]
                         },
                         {
@@ -11650,28 +10873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ！　じゃあ次は師範代が師範になるんですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow! So that means you, the Assistant Master, will become\nthe next master, right?"
                             ]
                         },
                         {
@@ -11695,28 +10897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅむ。そう願いたいが……　拙者、本番は弱いほうで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大事な試合になると、腹が突然痛くなったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見かけに比べて小心なのだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm... I hope so, but... I tend to be weak under pressure...\nWhen it comes to important matches, I suddenly get stomach\npains and am more faint-hearted than I appear..."
                             ]
                         },
                         {
@@ -11740,28 +10921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんですか？　せっかく人より大きい身体なのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Really? That's surprising, considering you have a larger\nbody than most..."
                             ]
                         },
                         {
@@ -11785,28 +10945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　それを言われるとつらい……　か、厠へ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh... It's tough when you put it that way... I need to go\nto the restroom..."
                             ]
                         },
                         {
@@ -11830,28 +10969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はは、冗談ですよ師範。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく稽古をつけてくださいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Haha, just kidding, Master. Could you start our practice\nsession now?"
                             ]
                         },
                         {
@@ -11875,28 +10993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、では今日もよろしく頼むぞ、花梨殿――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, then let's begin. I'm counting on you today as well,\nLady Karin--"
                             ]
                         },
                         {
@@ -11913,28 +11010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――二人は竹刀を持って互いに礼をし、稽古を始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--The two of them took their bamboo swords, bowed to each\nother, and began their practice."
                             ]
                         },
                         {
@@ -12033,28 +11109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -12083,14 +11138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　バシッ！　バシンッ――！　＞"
+                                "<Clash! Bang!-->"
                             ]
                         },
                         {
@@ -12126,28 +11174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――えいっ！　やぁああぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Ei! Yahhh!!"
                             ]
                         },
                         {
@@ -12171,28 +11198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむっ、見事な唐竹割だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稽古、ここまで――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm! A splendid shinai split! That's enough practice for\ntoday--!"
                             ]
                         },
                         {
@@ -12216,28 +11222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…はぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稽古をつけて頂きありがとうございました、師範！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日もいい汗をかきましたねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Phew... Hah...! Thank you for the practice, Master! I worked\nup a good sweat today."
                             ]
                         },
                         {
@@ -12261,28 +11246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。その……今日は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この後、どうであろうか？　暇はあるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. Well... about today... Do you have any plans after\nthis? Are you free?"
                             ]
                         },
                         {
@@ -12306,28 +11270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははっ\\I[15]　師範代のほうから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘うなんて珍しいですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahaha\\I[15] It's rare for you to ask me out, Assistant\nMaster?"
                             ]
                         },
                         {
@@ -12351,28 +11294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや…………　どうもあれから花梨殿のことが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭から離れぬのでな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No... Somehow I can't get you out of my mind since then..."
                             ]
                         },
                         {
@@ -12396,28 +11318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh--?"
                             ]
                         },
                         {
@@ -12441,28 +11342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなたに惚れてしまったといってもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……想い人として拙者と付き合って頂けぬであろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I might as well say I've fallen for you. Would you consider\ndating me as your suitor?"
                             ]
                         },
                         {
@@ -12486,28 +11366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～！（どうしよう！　これって告白……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "～～～～！(What should I do! Is this a confession...!?）"
                             ]
                         },
                         {
@@ -12531,28 +11390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この通り、頭をさげてお頼みする所存――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨殿のご返答や、いかに……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm sincerely asking you with my head bowed--! What is your\nanswer, Lady Karin...?"
                             ]
                         },
                         {
@@ -12576,28 +11414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……お気持ちは嬉しいですけど、師範代のようにお武家様で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立派な家格のあるお方が、私みたいな町娘に惚れられても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武士と町民だと、結婚は…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I'm flattered by your feelings, but for someone of noble\nsamurai family like yourself to fall for a town girl like\nme... If it's about marriage between a samurai and a\ntownsfolk..."
                             ]
                         },
                         {
@@ -12621,28 +11438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは問題ない。もし武家と町民が婚姻する場合"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度他家の養女になれば武家の娘として同格になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから身分については大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's not an issue. If a samurai and a townsfolk were to\nmarry, becoming adopted as a daughter into another family\nwould make her equal in status as a samurai's daughter. So\nthere's no problem regarding social standing."
                             ]
                         },
                         {
@@ -12666,28 +11462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　そうなんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Is that so?"
                             ]
                         },
                         {
@@ -12711,28 +11486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。かつて古の将軍も町民の娘をそのようにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "婚姻し結ばれたこともあるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……どうであろうか、花梨殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "共に拙者とこの道場で暮らさぬか？"
+                                "Yes. Even a former shogun married a townsfolk's daughter in\nsuch a manner... What do you say, Lady Karin? Would you live\nhere with me at this dojo?"
                             ]
                         },
                         {
@@ -12756,7 +11510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -12764,8 +11518,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "師範代に寄り添う\\c[10]【師範代エンド】\\c[0]",
-                                    "だが断る"
+                                    "Snuggle up to the assistant instructor \\c[10][Assistant Instructor End]\\c[0]",
+                                    "But I refuse"
                                 ],
                                 -1,
                                 0,
@@ -12845,21 +11599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご……ごめんなさい！　私、その……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やらなければいけない大事なことがあるので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今は婚姻できません！　本当、ごめんなさいッ！"
+                                "I'm sorry! I have... important things I must do right now,\nso I can't marry at this time! I'm truly sorry!"
                             ]
                         },
                         {
@@ -12883,7 +11623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は頭を下げて道場を後にした。"
+                                "--Karin bowed her head and left the dojo."
                             ]
                         },
                         {
@@ -13517,7 +12257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゃあああぁ～～っ！！"
+                                "Aaahhhhhhh~!!"
                             ]
                         },
                         {
@@ -13534,7 +12274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は剣士の打ち込み稽古に巻き込まれた！"
+                                "--Karin got caught up in the swordsman's practice swings!"
                             ]
                         },
                         {
@@ -13721,21 +12461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【道場師範】"
+                                "【Dojo Master】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "例え木刀でも、打ち所が悪かったら大変じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稽古中、安易に刀の間合いに入ってはならぬぞよ？"
+                                "Even with a wooden sword, a bad hit can be serious. You\nmustn't carelessly enter the range of the sword during\npractice, understood?"
                             ]
                         },
                         {
@@ -13759,14 +12492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "申し訳ありません、師範……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "油断しすぎてました……"
+                                "I'm so sorry, sensei... I was too careless..."
                             ]
                         },
                         {
@@ -14387,14 +13113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注　実践稽古場で３０回以上　稽古相手を倒した後"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　一度に三連続で相手を倒すと新しい戦技を獲得できます】"
+                                "[Note: If you defeat a sparring partner more than 30 times\nat the practice grounds and then defeat an opponent three\ntimes in a row, you can acquire a new combat technique.]"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "寺院",
+    "displayName": "Temple",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2172,7 +2172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2481,7 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやおや、勝手に入って来られては困りますよ。"
+                                "Oh my, it's quite troubling for you to enter without\npermission."
                             ]
                         },
                         {

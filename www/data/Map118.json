@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "役人屋敷",
+    "displayName": "Official's Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,21 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前は新入りだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女子の身ながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流罪になるような罪を犯したのか？"
+                                "You're the new girl, huh? Did you commit a crime serious\nenough to be exiled, despite being a woman?"
                             ]
                         },
                         {
@@ -2432,14 +2418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらは奉行屋敷だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "島内の監視をしている。"
+                                "This is the magistrate's residence. We're monitoring the\nisland."
                             ]
                         },
                         {
@@ -2516,21 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "３年前に無常島に来たのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役職とはいえ左遷場所みたいなものだからな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本音ではこんな孤島から早く江戸に戻りたいよ。"
+                                "I came to Mujou Island three years ago. Even though it's a\nposition of authority, it's more like a place of exile...\nHonestly, I want to leave this isolated island and return to\nEdo as soon as possible."
                             ]
                         },
                         {
@@ -2607,7 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は非番だ。寝させてくれ……　ぐぅ……"
+                                "I'm off duty today. Let me sleep... zzz..."
                             ]
                         },
                         {
@@ -2684,28 +2649,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【役人】"
+                                "【Official】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魚が上手いのがこの島の良いところだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと、罪人には食べさせぬぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "釣りでもして自分で獲ってまいれ。はっは！"
+                                "The fish here are delicious; that's the best part of this\nisland. Oops, but I won't feed a criminal. Go fish and catch\nyour own. Haha!"
                             ]
                         },
                         {
@@ -2729,14 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……ムッ！　こっちは飢えているのに腹立つなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここにある食料全部、盗んでやろうかしら……）"
+                                "(...Hmph! It's infuriating to be starving like this. Maybe I\nshould steal all the food here...)"
                             ]
                         },
                         {
@@ -2939,7 +2883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -3067,21 +3011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この無常島は伊豆より先の孤島――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船も月に一度の定期便しか来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱走できると思うなよ。"
+                                "This desolate island is a solitary one beyond Izu—only a\nscheduled boat comes once a month. Don't even think about\nescaping."
                             ]
                         },
                         {

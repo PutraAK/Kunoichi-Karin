@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "富兆屋",
+    "displayName": "Tomochouya",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -13394,7 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしよう……　一度撤退しようかな……"
+                                "What should I do... Maybe I should retreat for now..."
                             ]
                         },
                         {
@@ -13402,8 +13402,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "撤退する",
-                                    "撤退しない"
+                                    "Retreat",
+                                    "Do not retreat"
                                 ],
                                 1,
                                 0,
@@ -13449,7 +13449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仕方ない。ここは一度撤退して、再度準備して来よう。"
+                                "Can't be helped. Let's retreat for now and come back\nprepared."
                             ]
                         },
                         {
@@ -13606,7 +13606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は屋敷から撤退した！"
+                                "--Karin has retreated from the mansion!"
                             ]
                         },
                         {
@@ -17612,7 +17612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17859,7 +17859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18106,7 +18106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -18352,7 +18352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -18599,7 +18599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -18846,7 +18846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -23582,14 +23582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Wha-!? Aaahhh--!\\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -24406,14 +24399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -25215,14 +25201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -26055,14 +26034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -26976,14 +26948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Aaahhh--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -27800,14 +27765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -28578,14 +28536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -29462,14 +29413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わわん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２０）\\c[0]"
+                                "Wahh!?\\c[17](EXP +20)\\c[0]"
                             ]
                         },
                         {
@@ -30283,14 +30227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わわん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２０）\\c[0]"
+                                "Wahh!?\\c[17](EXP +20)\\c[0]"
                             ]
                         },
                         {
@@ -31073,14 +31010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わわん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２０）\\c[0]"
+                                "Woof!?\\c[17](EXP +20)\\c[0]"
                             ]
                         },
                         {
@@ -31882,14 +31812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -32635,21 +32558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンジョン説明　その１】"
+                                "【Dungeon Description Part 1】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘中のエロイベントは一部の敵キャラのみになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（１章　用心棒　２章　盗賊　３章　侍　１２章　蠢く触手）"
+                                "Erotic events during battles will only occur with certain\nenemy characters. (Chapter 1 Bodyguards, Chapter 2 Thieves,\nChapter 3 Samurai, Chapter 12 Writhing Tentacles)"
                             ]
                         },
                         {
@@ -32726,21 +32642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンジョン説明　その２】"
+                                "【Dungeon Description Part 2】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボス戦で敗北すると敗北イベントが発生します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（中ボス戦と１２章のボス戦にはありません。ご注意ください）"
+                                "If you are defeated in a boss battle, a defeat event will\noccur. (Please note that this does not apply to mid-boss\nbattles and the boss battle in Chapter 12.)"
                             ]
                         },
                         {
@@ -32817,21 +32726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンジョン説明　その３】"
+                                "【Dungeon Description Part 3】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵は近づいてくる敵と、近づいてこない敵の２種類います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近づいてこない敵は背後斬りが可能です。"
+                                "There are two types of enemies: those that approach you and\nthose that don't. Enemies that don't approach can be\nattacked from behind."
                             ]
                         },
                         {
@@ -32968,14 +32870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンジョン説明　その４】"
+                                "【Dungeon Description Part 4】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飛び石があるところは自動でジャンプします。"
+                                "You will automatically jump where there are stepping stones."
                             ]
                         },
                         {
@@ -33351,7 +33253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {

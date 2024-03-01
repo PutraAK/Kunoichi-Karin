@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "神岱村",
+    "displayName": "Shintai Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9680,21 +9680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸が鬼に襲われた話を聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村民たちには家から出ないように通達済みだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで末法の世みたいだよ……"
+                                "I've heard the tale of Edo being attacked by demons, and\nI've already informed the villagers not to leave their\nhomes. It's like we're in the final days of the law..."
                             ]
                         },
                         {
@@ -10017,7 +10003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -10264,7 +10250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -14942,7 +14928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16153,7 +16139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -16881,21 +16867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神岱村（かみたいむら）へようこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は祭りの準備で村人以外は村に入れてないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんね。また来て欲しい。"
+                                "Welcome to Kamitai Village. We're currently preparing for\nthe festival, so we're not letting anyone but villagers in.\nSorry about that. Please come again."
                             ]
                         },
                         {
@@ -16919,7 +16891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（入れないんだ……　しょうがない、江戸に戻ろう）"
+                                "(I can't enter... Can't be helped, let's head back to Edo.)"
                             ]
                         },
                         {
@@ -17001,7 +16973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ！　そこの娘。金や貴重品を持ってるかい？"
+                                "Heheh! Hey girl, you got any money or valuables on you?"
                             ]
                         },
                         {
@@ -17025,7 +16997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！（もしかして盗賊？　いつの間にこんな輩が村に？）"
+                                "...! (Could it be a thief? When did such scoundrels get into\nthe village?)"
                             ]
                         },
                         {
@@ -17535,21 +17507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊団が古城に住みついてしまって困っているんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供たちに何かあったら心配で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち、どうしたら……"
+                                "We're in trouble because a band of thieves has taken up\nresidence in the old castle. I'm worried about the\nchildren... What should we do..."
                             ]
                         },
                         {
@@ -17617,14 +17575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊たちは役人に捕縛されたようで一安心です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村も以前のように平和になりました。"
+                                "It seems the thieves have been captured by the officials,\nwhich is a relief. The village has become peaceful again,\njust like before."
                             ]
                         },
                         {
@@ -17761,14 +17712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前、盗賊に連れ去られそうになったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖いよぉ……"
+                                "The other day, I almost got kidnapped by a bandit. It was so\nscary..."
                             ]
                         },
                         {
@@ -17845,21 +17789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっきゃっ♪　盗賊がいなくなったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで安心して遊べるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんも一緒に追いかけっこしよ♪"
+                                "Kyaa kyaa♪ Now that the thieves are gone, we can play\nwithout worries! Come on, big sis, let's play tag together♪"
                             ]
                         },
                         {
@@ -18003,21 +17933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神岱村へようこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……といっても今は安全な場所じゃなくてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅人さんも早くこの村から離れたほうがいいよ……"
+                                "Welcome to Kamitai Village... but I must say, it's not a\nsafe place right now. You, traveler, should leave this\nvillage quickly..."
                             ]
                         },
                         {
@@ -18085,14 +18001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ。盗賊たちが捕まってほっとしたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さてさて、また村の祭りの準備に戻るかな。"
+                                "Phew. I'm relieved that the bandits have been caught. Well\nthen, shall I get back to preparing for the village\nfestival?"
                             ]
                         },
                         {
@@ -18640,21 +18549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村は湧水が豊富でねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご覧の通り稲もすくすく育つのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも盗賊たちが盗んでいって本当に困ったものさ……"
+                                "This village is rich in spring water, as you can see. The\nrice grows so well. But it's really troubling how the\nthieves keep stealing it..."
                             ]
                         },
                         {
@@ -18722,21 +18617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さてさて、盗賊たちもいなくなったことだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また稲刈りでもしようかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔の村のように平穏になってありがたいかぎりさ。"
+                                "Well then, now that the bandits are gone, perhaps it's time\nto get back to rice harvesting. It's truly a blessing to\nhave peace in the village like the old days."
                             ]
                         },
                         {
@@ -19044,21 +18925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……盗賊団のやつら、頭に来るぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神社の供え物まで盗んでいきやがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったくバチ当たりな奴らだ。"
+                                "...Those bandits are infuriating. They even stole the\nofferings from the shrine. They're really cursed."
                             ]
                         },
                         {
@@ -19126,28 +18993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしてアンタが盗賊団を倒したのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、そんなはずはないと思うけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも盗賊たちをやっつけてた長髪の娘に似てるんだよなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気のせいかな……"
+                                "Could it be that you're the one who defeated the bandits?\nNah, I don't think that's possible... But you do resemble\nthe long-haired girl who was taking down the bandits. Maybe\nit's just my imagination..."
                             ]
                         },
                         {
@@ -20535,14 +20381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊団の頭は【匂坂迅雷】って男でなかなか強いらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく、なんで俺たちの村の近くを棲家に……"
+                                "The head of the bandits is a man named [Niosaka Jinrai], and\nhe seems to be quite strong. Seriously, why did they have to\nmake their den near our village..."
                             ]
                         },
                         {
@@ -20610,14 +20449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猪の肉は道具屋で売れるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい倒せば小遣い稼ぎになるかもな。"
+                                "You can sell boar meat at the tool shop. If you defeat a lot\nof them, it might even become a nice way to earn some pocket\nmoney."
                             ]
                         },
                         {
@@ -20745,21 +20577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん、ここから先は盗賊団の根城だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊び半分で行くと危険だぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まったらえらいことになるから帰んな。"
+                                "Miss, beyond here lies the thieves' stronghold. It's\ndangerous to go just for fun, you know? If you get caught,\nit'll be a terrible ordeal, so you better head back."
                             ]
                         },
                         {
@@ -20827,14 +20645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長から話は聞いたぜ。行くのは構わねぇが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊団は数が多い。無茶はしないでおくれよ。"
+                                "I've heard from the village chief. I don't mind you going,\nbut there are many in the bandit gang. Please don't do\nanything reckless."
                             ]
                         },
                         {
@@ -20902,21 +20713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町が盗賊団を倒したって噂だが本当かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで村は平和になったから嬉しいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく小町さまさまだ。会えたらお礼を言いたいね。"
+                                "I've heard rumors that Nezumi Komachi defeated the bandits,\nis it true? Thanks to that, the village has become peaceful,\nand I'm happy about it. Really, all thanks to Komachi-sama.\nI'd like to thank her if I meet her."
                             ]
                         },
                         {
@@ -20940,14 +20737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……村の人たち、みな喜んでるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　盗賊団を倒して良かったわ）"
+                                "(...It seems like all the villagers are happy. I'm glad we\ndefeated the bandits.)"
                             ]
                         },
                         {
@@ -21565,7 +21355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】お供え物　盗むべからず――　神岱村"
+                                "[Sign] Do not steal the offerings--Kamitai Village"
                             ]
                         },
                         {
@@ -21753,14 +21543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【タヌキ】"
+                                "【Tanuki】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポンポコポン――！"
+                                "Ponpokopon--!"
                             ]
                         },
                         {
@@ -21793,14 +21583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――あれっ！？　こんなところにタヌキが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上野に連れて行ったら売れるかも♪"
+                                "--Huh?! A tanuki here of all places! If I take it to Ueno,\nit might sell for a good price♪"
                             ]
                         },
                         {
@@ -21855,7 +21638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【タヌキ】\\c[0]を捕獲した！"
+                                "--\\c[17]【Tanuki】\\c[0] captured!"
                             ]
                         },
                         {
@@ -23633,28 +23416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先が盗賊団の縄張りね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町のことで奉行所が忙しいのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が一人で解決してみせる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "From here on out is the territory of the bandits... If the\nmagistrate's office is too busy with the matter of Nezumi\nKomachi, then I'll resolve this myself!"
                             ]
                         },
                         {
@@ -23685,7 +23447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨はねずみ小町の姿に変身した！"
+                                "--Karin transformed into the figure of Nezumi Komachi!"
                             ]
                         },
                         {
@@ -23740,28 +23502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんだぁ？　くノ一の格好の姉ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さん、村の者じゃないな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見たことのねぇツラだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...What's this? A sister dressed as a kunoichi? You're not\nfrom the village, are you? I've never seen your face before."
                             ]
                         },
                         {
@@ -23785,28 +23526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丁度良かった。盗賊団のお仲間ね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この書状をアナタたちのお頭に届けてくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Perfect timing. You're one of the bandits, right? Could you\ndeliver this letter to your boss?"
                             ]
                         },
                         {
@@ -23830,28 +23550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【予告状】――――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊団の首領　匂坂迅雷へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神岱村の人が困っているので盗賊団を討伐しに行きます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げずに首を洗って待っててね　ねずみ小町より"
+                                "----[Challenge Letter]---- To the leader of the bandits,\nNiohsaka Jinrai, the people of Kandai Village are suffering,\nso I'm coming to subdue your bandit gang. Don't run away,\nwash your neck and wait for me. From Nezumi Komachi"
                             ]
                         },
                         {
@@ -23884,28 +23583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ね……ねずみ小町の予告状――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかお前が――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Th... The challenge letter from Nezumi Komachi--!? Could it\nbe that you are--!?"
                             ]
                         },
                         {
@@ -23941,14 +23619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうこと。ねずみ小町本人が来たって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お頭の匂坂って男に伝えなさい！"
+                                "Exactly. Tell that man Niohsaka, your boss, that Nezumi\nKomachi herself has come!"
                             ]
                         },
                         {
@@ -23984,7 +23655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！　ひええぇ～～～～ッ！？"
+                                "~~~~! Eeeeek~~~~!?"
                             ]
                         },
                         {
@@ -24111,7 +23782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし！　このまま盗賊団の根城に進もう！"
+                                "Alright! Let's proceed to the bandits' stronghold!"
                             ]
                         },
                         {
@@ -24234,7 +23905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は盗賊団の根城に進んだ！"
+                                "--Karin advanced towards the bandits' stronghold!"
                             ]
                         },
                         {
@@ -24334,21 +24005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -24372,28 +24029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あわわ～～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "た、大変ですぜ、匂坂のお頭ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, ah~~! T-this is terrible, Boss Niohsaka!"
                             ]
                         },
                         {
@@ -24417,28 +24053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたんだ、泡食ったような顔をして？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなツラ見せられたら盗んできた高級酒も不味くなるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's wrong with you, making a face like you've swallowed\nbubbles? If you show me such a face, even the high-quality\nsake we stole will taste bad."
                             ]
                         },
                         {
@@ -24462,28 +24077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜぇ、はぁ……！　あれだよ！　例のヤツだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、江戸中で話題になってる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*pant* *pant*...! It's that! The one that's been the talk of\nEdo lately...!"
                             ]
                         },
                         {
@@ -24507,28 +24101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと端的に話せ。それではわからんぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Speak more clearly. I can't understand what you're saying?"
                             ]
                         },
                         {
@@ -24552,21 +24125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かかっ……！　快盗ねずみ小町さ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツがここへ一人で乗り込んで来た！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが証拠の予告状だ！"
+                                "*cough*...! It's the phantom thief Nezumi Komachi! She has\nstormed in here all by herself! This is the proof, the\nchallenge letter!"
                             ]
                         },
                         {
@@ -24590,28 +24149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がははっ！　そりゃおもしれぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレたち盗賊団に挨拶しに来たのかよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしや仲間にして欲しいってか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gahaha! That's hilarious! Did she come to greet our bandit\ngang? Or maybe she wants to join us?"
                             ]
                         },
                         {
@@ -24635,14 +24173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、中身は果たし状のようですぜ、迅雷様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村から出て行けと予告状に書いてあります。"
+                                "No, it's like a declaration of war, Lord Jinrai. The letter\nsays to get out of this village."
                             ]
                         },
                         {
@@ -24678,28 +24209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケッケッケ！　一人でオレらに勝てると思ってやがんのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町の奴、先日、富兆屋に忍び込んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たんまり金を持っているはずだ。ここまで来やがったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆に縛り上げて金品巻き上げてやるぜ♪"
+                                "Kekkeke! Does she think she can beat us all by herself? That\nNezumi Komachi brat must have a hefty sum of money from\nsneaking into Tomitakuya the other day. If she's come all\nthis way, we'll just tie her up and strip her of her\nvaluables♪"
                             ]
                         },
                         {
@@ -25878,21 +25388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村の守衛】"
+                                "【Village Guard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駄目だよ、お嬢ちゃん！　ここから先は盗賊団の棲家だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長から誰も通すなと言われてる。危ないから帰りな。"
+                                "No can do, miss! Beyond here lies the bandits' lair. The\nvillage chief has ordered us not to let anyone through. It's\ndangerous, so you should head back."
                             ]
                         },
                         {
@@ -25916,7 +25419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この先に行くには村長に会っておく必要があるみたいね）"
+                                "(It seems I'll need to meet with the village chief before I\ncan go any further.)"
                             ]
                         },
                         {
@@ -26134,21 +25637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【村の守衛】"
+                                "【Village Guard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駄目だよ、お嬢ちゃん！　ここから先は盗賊団の棲家だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長から誰も通すなと言われてる。危ないから帰りな。"
+                                "No can do, miss! Beyond here lies the bandits' lair. The\nvillage chief has ordered not to let anyone through. It's\ndangerous, so go back home."
                             ]
                         },
                         {
@@ -26172,7 +25668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この先に行くには村長に会っておく必要があるみたいね）"
+                                "(It seems I need to meet with the village chief before I can\ngo any further.)"
                             ]
                         },
                         {

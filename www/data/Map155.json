@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "花梨の宿屋",
+    "displayName": "Karin's Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2503,21 +2503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋　総売上　\\c[17]\\V[53]\\c[0]文"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（宿屋の総売上　１００００以上"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　淫乱度　１００以上の時　女将イベントが横に発生）"
+                                "Inn Total Sales\\c[17]\\V[53]\\c[0] mon (When the inn's total\nsales exceed 10,000 and lewdness is over 100, a landlady\nevent will occur to the side)"
                             ]
                         },
                         {
@@ -2786,7 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋　総売上　\\c[17]\\V[53]\\c[0]文"
+                                "Inn Total Sales: \\c[17]\\V[53]\\c[0] mon"
                             ]
                         },
                         {
@@ -4333,21 +4319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -4439,7 +4411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――夜になったため、暖簾を店内に入れた。"
+                                "--As night fell, the noren was brought inside the shop."
                             ]
                         },
                         {
@@ -4463,28 +4435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁい、お夕餉の準備ができましたよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes, dinner preparations are ready~"
                             ]
                         },
                         {
@@ -4508,28 +4459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は宿泊客の部屋にお膳を並べた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin laid out the meal trays in the guests' rooms."
                             ]
                         },
                         {
@@ -4553,28 +4483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（おおっ、可愛いなぁ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Wow, she's cute...)"
                             ]
                         },
                         {
@@ -4598,28 +4507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……？　どうかされました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...? Is something the matter?"
                             ]
                         },
                         {
@@ -4643,28 +4531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうだい、若女将さん。少しばかり俺と遊ばないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "How about it, young landlady? Care to have a little fun with\nme?"
                             ]
                         },
                         {
@@ -4688,28 +4555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ？　遊ぶって……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Eh? Have fun...?"
                             ]
                         },
                         {
@@ -4733,28 +4579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだい、乙女かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "当然、男と女の遊びだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちとらアンタの胸に一目惚れでね\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What's the matter, you're like a maiden, aren't you?\nNaturally, I'm talking about the kind of fun men and women\nhave. I've fallen for your breasts at first sight\\I[15]"
                             ]
                         },
                         {
@@ -4778,7 +4603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええっ～～～～！？"
+                                "Eeeek~!?"
                             ]
                         },
                         {
@@ -4802,28 +4627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なぁ、いいだろう？　その胸で楽しませてくれよ、なぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Come on, it's fine, right? Let me enjoy myself with those\nbreasts of yours, eh?"
                             ]
                         },
                         {
@@ -4847,28 +4651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――男は下半身を膨らませて花梨の胸元を凝視している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--The man swelled his lower half and stared intently at\nKarin's chest."
                             ]
                         },
                         {
@@ -4901,7 +4684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（私の胸、ジロジロ見てる。……ど、どうしよう……？）"
+                                "(He's staring at my breasts... What should I do...?)"
                             ]
                         },
                         {
@@ -4909,8 +4692,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "客の要望に応える\\c[27]【Ｈイベント】\\c[0]",
-                                    "断る"
+                                    "Fulfill the customer's request \\c[27][H Event]\\c[0]",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -4992,7 +4775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]パイずり＋１　体外射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Titty fuck +1 External ejaculation +1 Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -5059,14 +4842,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "昨晩は最高だったよ\\I[15]　また泊まりに来るからな♪"
+                                "Last night was the best\\I[15] I'll be sure to stay here\nagain♪"
                             ]
                         },
                         {
@@ -5099,7 +4882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございました\\I[15]　お気をつけて\\I[15]"
+                                "Thank you very much\\I[15] Please take care\\I[15]"
                             ]
                         },
                         {
@@ -5164,14 +4947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――宿賃として\\c[17]1500文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--As lodging fees, she received \\c[17]1500 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -5215,14 +4991,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――ご、ごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この宿では売りはやってないんですっ！"
+                                "--I'm sorry! We don't offer that kind of service at this\ninn!"
                             ]
                         },
                         {
@@ -5239,7 +5008,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は苦笑いをして、そそくさと部屋を出ていった。"
+                                "--Karin gave a wry smile and hurriedly left the room."
                             ]
                         },
                         {
@@ -5314,14 +5083,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "世話になったな女将。また泊まりに来るぞ。"
+                                "Thanks for everything, landlady. I'll be back to stay again."
                             ]
                         },
                         {
@@ -5354,7 +5123,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございました。お気をつけて～"
+                                "Thank you very much. Take care~"
                             ]
                         },
                         {
@@ -5419,14 +5188,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――宿賃として\\c[17]900文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--As lodging fees, she received \\c[17]900 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -5470,14 +5232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "宿屋総売り上げ１００００以上"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫乱度１００以上で発生――"
+                                "--This event occurs when the inn's total sales exceed 10000\nand lewdness is over 100--"
                             ]
                         },
                         {
@@ -5574,21 +5329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -5680,7 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――夜になったため、暖簾を店内に入れた。"
+                                "--As night fell, the noren was brought inside the shop."
                             ]
                         },
                         {
@@ -5713,28 +5454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（はぁ……どうしよう……　アソコ、疼いちゃってる……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Sigh... What should I do... My pussy is throbbing...)"
                             ]
                         },
                         {
@@ -5751,28 +5471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客への夕飯を作っている最中、花梨は手を股間に伸ばした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "While preparing dinner for the guests, Karin reached her\nhand towards her crotch."
                             ]
                         },
                         {
@@ -5796,14 +5495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……参ったなぁ。体の芯から熱くなって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫らなこと、したいって思ってる……"
+                                "...I'm in trouble. I'm feeling hot to the core... I want to\ndo something lewd..."
                             ]
                         },
                         {
@@ -5811,8 +5503,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿泊客に声をかける\\c[27]【Ｈイベント】\\c[0]",
-                                    "このまま朝まで寝る"
+                                    "Approach a guest \\c[27][H Event]\\c[0]",
+                                    "Sleep until morning as is"
                                 ],
                                 1,
                                 0,
@@ -5894,7 +5586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋３　膣内射精＋３　淫乱度＋５\\c[0]"
+                                "\\c[27]Performance count +3, Creampie +3, Lewdness +5\\c[0]"
                             ]
                         },
                         {
@@ -5961,14 +5653,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "昨晩は最高だったよ\\I[15]　また泊まりに来るからな♪"
+                                "Last night was amazing\\I[15] I'll come to stay again♪"
                             ]
                         },
                         {
@@ -6001,7 +5693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございました\\I[15]　お気をつけて\\I[15]"
+                                "Thank you very much\\I[15] Please take care\\I[15]"
                             ]
                         },
                         {
@@ -6066,14 +5758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿賃として\\c[17]2300文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--As lodging fees, she received \\c[17]2300 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -6117,14 +5802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だめだめ……！　今は仕事中なんだから――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変な気持ちを抑えて今日は寝よう！"
+                                "No, no...! I'm working right now--! I need to suppress these\nstrange feelings and go to sleep tonight!"
                             ]
                         },
                         {
@@ -6148,7 +5826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――淫らな衝動を抑えつけるように、花梨は寝床についた。"
+                                "--In an effort to suppress her lewd urges, Karin went to\nbed."
                             ]
                         },
                         {
@@ -6216,14 +5894,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "世話になったな女将。また泊まりに来るぞ。"
+                                "Thanks for everything, landlady. I'll come to stay again."
                             ]
                         },
                         {
@@ -6256,7 +5934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございました。お気をつけて～"
+                                "Thank you very much. Take care～"
                             ]
                         },
                         {
@@ -6321,14 +5999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿賃として\\c[17]1000文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--As lodging fees, she received \\c[17]1000 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -6432,21 +6103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -6538,7 +6195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――夜になったため、暖簾を店内に入れた。"
+                                "--As night fell, the noren was brought inside the shop."
                             ]
                         },
                         {
@@ -6567,28 +6224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　もみゅっ……　もみゅっ……！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Squeeze... Squeeze...!>"
                             ]
                         },
                         {
@@ -6621,28 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひゃっ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eek...!?"
                             ]
                         },
                         {
@@ -6760,28 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉ、若女将――　今晩もいいかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hey, young landlady--is tonight good for you?"
                             ]
                         },
                         {
@@ -6817,14 +6411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お尻、揉まれちゃった……！）"
+                                "...! (My butt, it's being groped...!)"
                             ]
                         },
                         {
@@ -6848,21 +6435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたのことが好きすぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はこの宿の常連客になったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今晩もいいだろう？　はぁ、はぁ……！"
+                                "I've become a regular guest at this inn because I like you\ntoo much. Is tonight okay? Haa, haa...!"
                             ]
                         },
                         {
@@ -6886,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……どうしよう…………）"
+                                "(...What should I do...)"
                             ]
                         },
                         {
@@ -6894,8 +6467,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "減るもんじゃないですし\\c[27]【Ｈイベント】\\c[0]",
-                                    "断る"
+                                    "It's not like it'll decrease or anything \\c[27][H Event]\\c[0]",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -6988,14 +6561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１０　膣内射精＋５　体外射精＋５"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫乱度＋２０\\c[0]"
+                                "\\c[27]Number of full sessions +10, vaginal ejaculation +5,\nexternal ejaculation +5, lewdness +20\\c[0]"
                             ]
                         },
                         {
@@ -7062,14 +6628,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "昨晩は最高だったよ\\I[15]　また泊まりに来るからな♪"
+                                "Last night was the best\\I[15] I'll come to stay again♪"
                             ]
                         },
                         {
@@ -7102,7 +6668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございました\\I[15]　お気をつけて\\I[15]"
+                                "Thank you very much\\I[15] Please take care\\I[15]"
                             ]
                         },
                         {
@@ -7167,14 +6733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿賃として\\c[17]3300文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Earned 3300 mon as lodging fees.\\$"
                             ]
                         },
                         {
@@ -7218,28 +6777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "駄目ですよお客さん、ここは宿屋です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女体がお望みなら遊郭へどうぞ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No, that won't do, dear guest, this is an inn! If you desire\na woman's body, please go to the red-light district--"
                             ]
                         },
                         {
@@ -7263,28 +6801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちぇっ、ケチだなぁ……　仕方ねぇ、寝るか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Tch, stingy, aren't you... Can't be helped, I'll go to\nsleep..."
                             ]
                         },
                         {
@@ -7308,14 +6825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿泊客は頭を掻いてバツの悪そうな顔をして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨の傍から立ち去った。"
+                                "--The guest scratched his head and walked away from Karin\nwith an embarrassed look on his face."
                             ]
                         },
                         {
@@ -7383,14 +6893,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "世話になったな女将。また泊まりに来るぞ。"
+                                "Thanks for everything, landlady. I'll come to stay again."
                             ]
                         },
                         {
@@ -7423,7 +6933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございました。お気をつけて～"
+                                "Thank you very much. Take care~"
                             ]
                         },
                         {
@@ -7488,14 +6998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿賃として\\c[17]1300文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Earned 1300 mon as lodging fees.\\$"
                             ]
                         },
                         {
@@ -7599,21 +7102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -7705,7 +7194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――夜になったため、暖簾を店内に入れた。"
+                                "--As night fell, the noren was brought inside the shop."
                             ]
                         },
                         {
@@ -7729,28 +7218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...!"
                             ]
                         },
                         {
@@ -7774,28 +7242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉ、今晩も愉しませてもらってもいいかな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hey, mind if I have a good time tonight as well?♪"
                             ]
                         },
                         {
@@ -7819,28 +7266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ！？　噂通りのカワイイ娘じゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その年で女将として宿を切り盛りしてるのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow!? Aren't you the cute girl from the rumors? Running an\ninn as a young landlady at your age?"
                             ]
                         },
                         {
@@ -7864,28 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの宿屋は若女将が体で接待してくれるって聞いたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I heard that this inn offers special services from the young\nlandlady herself. Is that true?"
                             ]
                         },
                         {
@@ -7925,7 +7330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう。お客さん達にすごい期待されちゃってる）"
+                                "(What should I do? The guests are expecting so much...)"
                             ]
                         },
                         {
@@ -7933,8 +7338,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "減るもんじゃ\\c[10]【若女将エンド】\\c[0]",
-                                    "断る"
+                                    "It's not like I'll lose anything \\c[10]【Young Landlady End】\\c[0]",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -7991,28 +7396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご、ごめんなさい！　その……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の体目的で泊まられても困りますから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm sorry! That...! I'd be troubled if you stayed here just\nfor my body!"
                             ]
                         },
                         {
@@ -8048,14 +7432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は男たちに頭を下げて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逃げるように部屋を出ていった。"
+                                "--Karin bowed to the men and hurried out of the room as if\nfleeing."
                             ]
                         },
                         {
@@ -8111,14 +7488,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【宿泊客】"
+                                "【Guest】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "世話になったな女将。また泊まりに来るぞ。"
+                                "Thanks for everything, landlady. I'll come to stay again."
                             ]
                         },
                         {
@@ -8151,7 +7528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございました。お気をつけて～"
+                                "Thank you very much. Please take care~"
                             ]
                         },
                         {
@@ -8216,14 +7593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿賃として\\c[17]1600文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--She received \\c[17]1600 mon\\c[0] as lodging fees.\\$"
                             ]
                         },
                         {
@@ -8564,7 +7934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、せっかく宿屋を手にいれたし自分で切り盛りするかな。"
+                                "Well, now that I've got my hands on an inn, I might as well\nmanage it myself."
                             ]
                         },
                         {
@@ -8572,8 +7942,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿屋で自ら働く",
-                                    "何もしない"
+                                    "Work at the inn myself",
+                                    "Do nothing"
                                 ],
                                 1,
                                 0,
@@ -8654,7 +8024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし。宿屋を開いてお金を稼ごう！"
+                                "Alright. Let's open the inn and make some money!"
                             ]
                         },
                         {
@@ -8671,7 +8041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は宿屋を開店した！"
+                                "--Karin has opened the inn!"
                             ]
                         },
                         {
@@ -8915,7 +8285,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁい、いらっしゃいませ！"
+                                "Welcome, please come in!"
                             ]
                         },
                         {
@@ -8932,14 +8302,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宿を借りたい。一泊いくらで泊まれるのだ？"
+                                "I'd like to rent a room. How much is it per night?"
                             ]
                         },
                         {
@@ -8961,10 +8331,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "一泊【１０００文】",
-                                    "一泊【６００文】",
-                                    "一泊【３００文】",
-                                    "一泊【１００文】"
+                                    "One night [1000 mon]",
+                                    "One night [600 mon]",
+                                    "One night [300 mon]",
+                                    "One night [100 mon]"
                                 ],
                                 -1,
                                 0,
@@ -9017,21 +8387,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……高すぎる！　ぼったくりではないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "とてもじゃないが無理だ。他の宿にさせてもらう。"
+                                "...That's too expensive! Are you ripping me off? I can't\nafford that at all. I'll go to another inn."
                             ]
                         },
                         {
@@ -9094,21 +8457,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……高すぎる！　ぼったくりではないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "とてもじゃないが無理だ。他の宿にさせてもらう。"
+                                "...That's too expensive! Are you ripping me off? I can't\nafford that at all. I'll go to another inn."
                             ]
                         },
                         {
@@ -9171,21 +8527,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "……高すぎる！　ぼったくりではないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "とてもじゃないが無理だ。他の宿にさせてもらう。"
+                                "...That's too expensive! Are you ripping me off? I can't\nafford that at all. I'll go to another inn."
                             ]
                         },
                         {
@@ -9248,21 +8597,14 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "……高すぎる！　ぼったくりではないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 7,
-                            "parameters": [
-                                "とてもじゃないが無理だ。他の宿にさせてもらう。"
+                                "...That's too expensive! Are you ripping me off? I can't\nafford that at all. I'll go to another inn."
                             ]
                         },
                         {
@@ -9392,21 +8734,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なに？　一晩で１０００文もするのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "うーん、野宿して体を壊してもしょうがない。承知した。"
+                                "What? 1000 mon for one night? Hmm, it's better than ruining\nmy health by sleeping outside. Agreed."
                             ]
                         },
                         {
@@ -9517,14 +8852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――宿賃として\\c[17]1000文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\$"
+                                "--Received \\c[17]1000 mon\\c[0] as lodging fee.\\$"
                             ]
                         },
                         {
@@ -9627,14 +8955,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……ぬぬ？　高くてとても無理だ。邪魔したな。"
+                                "...Huh? That's too expensive, I absolutely can't afford it.\nSorry for the bother."
                             ]
                         },
                         {
@@ -9697,14 +9025,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……ぬぬ？　高くてとても無理だ。邪魔したな。"
+                                "...Huh? That's too expensive, I absolutely can't afford it.\nSorry for the bother."
                             ]
                         },
                         {
@@ -9897,21 +9225,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うぅむ。一泊６００文か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "都会は宿賃も高いな。仕方ない、その値段で頼む。"
+                                "Hmm. 600 mon for one night... The city inns are expensive\nindeed. No choice, I'll take it at that price."
                             ]
                         },
                         {
@@ -10022,14 +9343,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――宿賃として\\c[17]600文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\$"
+                                "--Received \\c[17]600 mon\\c[0] as lodging fee.\\$"
                             ]
                         },
                         {
@@ -10132,21 +9446,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "……いや、旅費の予算に合わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "他の宿に行かせてもらおう。失敬――"
+                                "...No, it doesn't fit my travel budget. I'll go to another\ninn. Excuse me--"
                             ]
                         },
                         {
@@ -10367,21 +9674,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふむ、３００文か？　それなりに普通な値段だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "では一晩泊まらせてもらおう。"
+                                "Hmm, 300 mon? That's a fairly normal price. Then, I'll stay\nfor one night."
                             ]
                         },
                         {
@@ -10492,14 +9792,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――宿賃として\\c[17]300文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\$"
+                                "--Received \\c[17]300 mon\\c[0] as lodging fee.\\$"
                             ]
                         },
                         {
@@ -10586,21 +9879,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【旅人】"
+                                "【Traveler】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ほほう、１００文とは安くてよいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "気に入った。この宿に世話になろう。"
+                                "Oh ho, 100 mon is quite cheap. I like it. I'll make use of\nthis inn."
                             ]
                         },
                         {
@@ -10711,14 +9997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――宿賃として\\c[17]100文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\$"
+                                "--Received \\c[17]100 mon\\c[0] as lodging fee.\\$"
                             ]
                         },
                         {
@@ -10825,14 +10104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん、特に今はいいかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お店をやりたい時にまた来よう。"
+                                "Hmm, I don't particularly need it right now. I'll come back\nwhen I want to run a shop."
                             ]
                         },
                         {
@@ -11130,14 +10402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宿は安くて奇麗でいいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅の定宿としてこれから使わせてもらうよ。"
+                                "This inn is cheap and clean, it's nice. I'll be using it as\nmy regular place to stay from now on."
                             ]
                         },
                         {
@@ -11265,14 +10530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宿は安くて奇麗でいいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅の定宿としてこれから使わせてもらうよ。"
+                                "This inn is cheap and clean, nice. I'll be using it as my\nregular place to stay from now on."
                             ]
                         },
                         {
@@ -11400,14 +10658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宿は安くて奇麗でいいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅の定宿としてこれから使わせてもらうよ。"
+                                "This inn is cheap and clean, it's nice. I'll be using it as\nmy regular place to stay from now on."
                             ]
                         },
                         {
@@ -11535,14 +10786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宿は安くて奇麗でいいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅の定宿としてこれから使わせてもらうよ。"
+                                "This inn is cheap and clean, nice. I'll be using it as my\nregular place to stay from now on."
                             ]
                         },
                         {

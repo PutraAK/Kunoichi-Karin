@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "熱海",
+    "displayName": "Atami",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9091,7 +9091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わんわん！"
+                                "Woof woof!"
                             ]
                         },
                         {
@@ -10634,14 +10634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼が東海道を通って行ったよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸から煙が見えてる。まさか攻撃されてるのか？"
+                                "The demon passed through the Tokaido! I can see smoke coming\nfrom Edo. Could it be under attack?"
                             ]
                         },
                         {
@@ -11077,7 +11070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -13249,28 +13242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　貴女たちか――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまぬが自衛のため、これ以上は村には入れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道具屋と武器屋は使えるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そちらで必要なものは揃えて欲しい。"
+                                "Oh! Is it you ladies--? My apologies, but for self-defense,\nwe cannot allow you any further into the village. You can\nuse the tool shop and the weapon shop, so please gather what\nyou need there."
                             ]
                         },
                         {
@@ -17834,21 +17806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱海まで湯治に来たんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも様子がおかしいねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあったのかな？"
+                                "I came all the way to Atami for a hot spring cure, but\nsomething seems off... I wonder if something happened?"
                             ]
                         },
                         {
@@ -20895,7 +20853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火急だけど何か欲しいものはあるかい？"
+                                "It's urgent, but is there anything you want?"
                             ]
                         },
                         {
@@ -20993,7 +20951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう。江戸へ行くなら気をつけて。"
+                                "Thank you. Be careful if you're going to Edo."
                             ]
                         },
                         {
@@ -23034,7 +22992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -23162,7 +23120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】足湯はこちら　熱いので注意――"
+                                "[Sign] Foot bath this way. Caution: It's hot--"
                             ]
                         },
                         {
@@ -24224,14 +24182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱海村の長としてどうか鬼怨党の連中を討伐して欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "海岸洞窟は村の南にある。お頼み申したぞ。"
+                                "As the head of Atami Village, please, I want you to subdue\nthe members of the Oni En Party. The coastal cave is located\nto the south of the village. I'm counting on you."
                             ]
                         },
                         {
@@ -24369,21 +24320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は大漁だったから朝からご馳走さ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういや漁師たちが浦賀沖で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でっかいタコを見たって言ってたけど本当かね？"
+                                "We had a big catch today, so it's a feast from morning! By\nthe way, I heard the fishermen saw a huge octopus off the\ncoast of Uraga. I wonder if it's true?"
                             ]
                         },
                         {

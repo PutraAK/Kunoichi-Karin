@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "小田原　地下",
+    "displayName": "Odawara Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -9077,7 +9077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 5000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -9798,7 +9798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（地上に戻っても仕方あるまい。地下へ向かわねば）"
+                                "There's no point in returning to the surface. We must head\nunderground."
                             ]
                         },
                         {
@@ -9971,28 +9971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイキュイ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeak squeak--"
                             ]
                         },
                         {
@@ -10025,28 +10004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんじゃ、コヤツ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面妖な……？　触手の物の怪か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What is this creature? It's so bizarre... A tentacle\nmonster?"
                             ]
                         },
                         {
@@ -10105,28 +10063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイイイィ～～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeeeeee～～!!"
                             ]
                         },
                         {
@@ -10157,14 +10094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわ？　集まってきた！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先へ通す気はないようじゃな？"
+                                "Whoa? They're gathering! They don't seem to want to let us\npass, do they?"
                             ]
                         },
                         {
@@ -10172,8 +10102,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "普通の攻撃で倒す\\c[27]【Ｈイベント】\\c[0]",
-                                    "戦技で一網打尽にする"
+                                    "Defeat them with a normal attack \\c[27]【H Event】\\c[0]",
+                                    "Wipe them out with a battle skill"
                                 ],
                                 1,
                                 0,
@@ -10210,28 +10140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦技を使うのも勿体ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妾の手刀でケリをつけてやろう！　それっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "It's not worth using my battle skills. I'll finish this with\nmy hand chop! Take this!"
                             ]
                         },
                         {
@@ -10274,28 +10183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "キュイィ！　キシャアアァ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Squeal! Screeeech--!"
                             ]
                         },
                         {
@@ -10319,14 +10207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななな……！？　なんじゃと！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "洞窟の上にもいたのか！？　は、離せ！　離さんかッ！？"
+                                "Wha-wha...!? What the heck!? Were they on the ceiling too!?\nLet go! Let go of me!?"
                             ]
                         },
                         {
@@ -10362,14 +10243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――真沙妃は蠢く触手に手足を拘束され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "衣服を剥ぎ取られた！"
+                                "--Masaki was restrained by the writhing tentacles and had\nher clothes torn off!"
                             ]
                         },
                         {
@@ -10416,14 +10290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この痴れ犬どもが～！　調子に乗りおって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一網打尽にしてくれるわっ！"
+                                "You lustful curs! Getting so carried away! I'll wipe you all\nout at once!"
                             ]
                         },
                         {
@@ -10468,28 +10335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　バリバリバリ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Rip rip rip--!!>"
                             ]
                         },
                         {
@@ -10546,28 +10392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギエエエエエェ～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Screeeeeeeech～～!!"
                             ]
                         },
                         {
@@ -10621,28 +10446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――蠢く触手たちは黒焦げになり消滅した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--The writhing tentacles were charred to a crisp and\nvanished!"
                             ]
                         },
                         {
@@ -10666,14 +10470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……まったく、余計な時間をくってしまったわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はよう三人と合流せねば――"
+                                "...Seriously, what a waste of time. I need to regroup with\nthe others quickly--"
                             ]
                         },
                         {
@@ -10795,28 +10592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フフン！　たくさん集まってもただのカモじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我が妖術を喰らえ！　天破雷霆――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmph! Even in large numbers, you're just easy prey! Taste my\nsorcery! Heavenly Thunderbolt--!"
                             ]
                         },
                         {
@@ -10861,28 +10637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　バリバリバリ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Rip rip rip--!!>"
                             ]
                         },
                         {
@@ -10939,28 +10694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギエエエエエェ～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Screeeeeeeech～～!!"
                             ]
                         },
                         {
@@ -11014,28 +10748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――蠢く触手たちは黒焦げになり消滅した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--The writhing tentacles were charred to a crisp and\nvanished!"
                             ]
                         },
                         {
@@ -11059,14 +10772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カッカッカ！　相手が悪かったのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ、皆と合流するため先へ進むぞい！"
+                                "Ha ha ha! You picked the wrong opponent! Now, let's move on\nto regroup with everyone!"
                             ]
                         },
                         {
@@ -12215,28 +11921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ふしゅう――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Whoosh--!>"
                             ]
                         },
                         {
@@ -12267,28 +11952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ！？　あ、アナタたちは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What!? Ah, you are...!"
                             ]
                         },
                         {
@@ -12312,28 +11976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今までに我々が倒した戦鬼たちか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Are these the war demons we've defeated before?"
                             ]
                         },
                         {
@@ -12357,28 +12000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アオマル……？　どうして……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Aomaru...? Why...!"
                             ]
                         },
                         {
@@ -12409,7 +12031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違う！　こやつらは本人ではない。怨霊鬼じゃ。"
+                                "No! These are not the individuals themselves. They're\nvengeful ghosts."
                             ]
                         },
                         {
@@ -12433,28 +12055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怨霊鬼……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Vengeful ghosts...!?"
                             ]
                         },
                         {
@@ -12478,21 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死んだ者の恨みを意図的に増幅させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凶悪な生霊にする――　平安時代の禁忌の秘法よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、ギョウオンの正体がわかったわ！"
+                                "Amplifying the grudges of the dead to create malevolent\nspirits--it's a forbidden secret technique from the Heian\nperiod. I see, so that's Gyoun's true nature!"
                             ]
                         },
                         {
@@ -12542,28 +12129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様ラ……　ギョウオン様ノ命ニヨリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココデコロス……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You bastards... By the order of Lord Gyoun, we shall kill\nyou here...!"
                             ]
                         },
                         {
@@ -12594,14 +12160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！（死んだ鬼さえ操って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちと戦わせようとしているの！？）"
+                                "~~~~h! (They're even manipulating the dead to fight us!? )"
                             ]
                         },
                         {
@@ -12630,7 +12189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――怨霊鬼たちが襲ってきた！"
+                                "--The vengeful ghosts are attacking!"
                             ]
                         },
                         {
@@ -12760,28 +12319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グフッ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Guh--"
                             ]
                         },
                         {
@@ -12805,28 +12343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガハアァッ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gahaaah...!"
                             ]
                         },
                         {
@@ -12862,28 +12379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グオオオオオオ～～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Grooooooar~~~!!"
                             ]
                         },
                         {
@@ -12923,28 +12419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――怨霊鬼たちは消滅した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--The vengeful ghosts have vanished!"
                             ]
                         },
                         {
@@ -12968,28 +12443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ……！　はぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Phew...! Haah...!"
                             ]
                         },
                         {
@@ -13013,28 +12467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一度殺した相手を再び倒さねばならぬとはな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんとも後味の悪い戦いだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "To have to defeat an opponent we've already killed once...\nWhat an unpleasant battle."
                             ]
                         },
                         {
@@ -13058,28 +12491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "死ねば皆、仏……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "仏になった者までこのような非道をするなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "When one dies, they all become Buddha... To think even those\nwho became Buddha would do such atrocities..."
                             ]
                         },
                         {
@@ -13103,28 +12515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "元は味方であった者も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死んだ後に手駒として操るとはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まこと非情にして恐るべし相手じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "To use those who were once allies as pawns after their\ndeath... Truly a ruthless and fearsome enemy."
                             ]
                         },
                         {
@@ -13148,28 +12539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギョウオン――　あの男、許さないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神通三明剣を頭に叩き込んでやるっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gyoun--I won't forgive that man! I'll smash the Divine\nThreefold Sword into his head!"
                             ]
                         },
                         {
@@ -13212,28 +12582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴゴ！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Rumble rumble rumble!!>"
                             ]
                         },
                         {
@@ -13264,28 +12613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわわっ！？　また揺れ始めた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Uwahh!? It's starting to shake again!"
                             ]
                         },
                         {
@@ -13309,7 +12637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すごい地響き……！　立っていられない！"
+                                "Such a tremendous tremor...! I can't stand up!"
                             ]
                         },
                         {
@@ -13333,28 +12661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出口はこの先じゃ、急げ皆！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "The exit is just ahead, hurry everyone!"
                             ]
                         },
                         {
@@ -13941,7 +13248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――体力と技力が\\c[24]全回復\\c[0]した！"
+                                "--Stamina and skill power have been \\c[24]fully\nrestored\\c[0]!"
                             ]
                         },
                         {
@@ -14699,7 +14006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬の香炉】\\c[0]手に入れた！"
+                                "--\\c[17]【Elixir Incense Burner】\\c[0] obtained!"
                             ]
                         },
                         {

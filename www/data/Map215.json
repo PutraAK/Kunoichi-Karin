@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔谷",
+    "displayName": "Wind Demon Valley",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -18121,7 +18121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 2000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -22451,7 +22451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【超技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired the 【Super Technique Sake】!\\c[0]"
                             ]
                         },
                         {
@@ -27128,28 +27128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -27173,28 +27152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...?"
                             ]
                         },
                         {
@@ -27218,14 +27176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたのじゃ、花梨？　考え込んで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきから様子がおかしいぞ？"
+                                "What's the matter, Karin? You seem lost in thought. You've\nbeen acting strange for a while now?"
                             ]
                         },
                         {
@@ -27287,14 +27238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人とも、ごめん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから風魔の里――　この先は私一人で行きたいの……"
+                                "Sorry, both of you... From here on, I want to go to the Fuma\nvillage alone..."
                             ]
                         },
                         {
@@ -27318,28 +27262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに――？　どういうことだ、花梨？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What--? What do you mean, Karin?"
                             ]
                         },
                         {
@@ -27363,28 +27286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コタローはきっと一人で待っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔の里で起きた因縁は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔の生き残りの私だけで解決したいの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kotaro must be waiting there alone. I want to settle the\ngrudge that occurred in Fuma village by myself, as the only\nsurvivor of the Fuma..."
                             ]
                         },
                         {
@@ -27408,28 +27310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぬぅ……　つまりコタローと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一騎打ちをしたいとうわけか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm... So you mean to say you want a one-on-one duel with\nKotaro?"
                             ]
                         },
                         {
@@ -27453,28 +27334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん……　駄目かしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes... Is that not okay?"
                             ]
                         },
                         {
@@ -27498,28 +27358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一人でコタローに勝つ自信はあるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Are you confident you can defeat Kotaro on your own?"
                             ]
                         },
                         {
@@ -27555,21 +27394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。あの男は今までの敵の中で一番強い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私だってこれまでの戦いで間違いなく強くなったはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対にアイツに勝って紅葉さんを助けて見せるから――"
+                                "Yes. That man is the strongest enemy we've faced so far. But\nI must have become stronger through all the battles we've\nfought. I will definitely defeat him and rescue Momiji-san--"
                             ]
                         },
                         {
@@ -27593,14 +27418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく、ここまで来て頑固じゃのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主がどうしてもというのなら仕方ない。"
+                                "Good grief, you're so stubborn even after coming this far.\nIf you're insistent about it, then there's no helping it."
                             ]
                         },
                         {
@@ -27624,14 +27442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨の決意を信じよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、もし何かあったらすぐに駆けつけるからな。"
+                                "Let's trust in Karin's determination. But if anything\nhappens, we'll come running immediately."
                             ]
                         },
                         {
@@ -27662,28 +27473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ありがとう、二人とも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあコタローと決着をつけるため風魔の里に行ってくるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Thank you, both of you. Then I'm off to settle things\nwith Kotaro in Fuma village."
                             ]
                         },
                         {
@@ -27762,7 +27552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は夕霧と真沙妃と別れた。"
+                                "--Karin parted ways with Yugiri and Masaki."
                             ]
                         },
                         {
@@ -27948,7 +27738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "長時間帰ってこなかったら迎えに行くからな。"
+                                "If you don't come back for a long time, I'll come to pick\nyou up."
                             ]
                         },
                         {
@@ -27972,14 +27762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先より軒並みならぬ鬼気を感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並大抵の敵ではない。本当に用心するのじゃぞ？"
+                                "I sense an extraordinary demonic aura beyond this point.\nThis is no ordinary foe. Are you truly prepared?"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "呉服　富兆屋",
+    "displayName": "Kimono Shop Tomochiyo-ya",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2759,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ワイワイ――　ガヤガヤ――）"
+                                "(Chatter--Bustling--)"
                             ]
                         },
                         {
@@ -2783,14 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（本当、いつも繁盛してるわね、このお店。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　確か……富兆屋だっけ？）"
+                                "(Really, this shop is always bustling. It's... Tomitakuya,\nright?)"
                             ]
                         },
                         {
@@ -2821,7 +2814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ！　これまた美しい娘さんですなぁ！"
+                                "Welcome! What a beautiful young lady we have here!"
                             ]
                         },
                         {
@@ -2845,28 +2838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ……そんな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ehehe... you flatter me..."
                             ]
                         },
                         {
@@ -2897,14 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛いお客さんが似合う品でしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらの桜色のお着物などいかがでしょうか？"
+                                "For a cute customer like you, how about this cherry blossom-\ncolored kimono?"
                             ]
                         },
                         {
@@ -2928,7 +2893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ、素敵！　とってもあでやかな着物ですね？"
+                                "Wow, it's gorgeous! Such a glamorous kimono, isn't it?"
                             ]
                         },
                         {
@@ -2959,14 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうでしょう？　今、着てらっしゃる古いお着物よりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新品のこちらのほうが鮮やかで華々しくなりますよ？"
+                                "Right? It's much more vivid and splendid than the old kimono\nyou're wearing now, don't you think?"
                             ]
                         },
                         {
@@ -2990,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この青い着物、古く見えますか……？"
+                                "Does this blue kimono look old...?"
                             ]
                         },
                         {
@@ -3021,14 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。そうですね。近くで見るとだいぶ擦り切っているかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古着屋に処分して、新品のこちらをお買いになりませんか？"
+                                "Yes, indeed. Upon closer inspection, it seems quite worn.\nWhy not dispose of it at a second-hand shop and buy this new\none here?"
                             ]
                         },
                         {
@@ -3052,21 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この青い着物は、父が昔に買ってくれた大事なものなので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと着てるんです。できればこれからも……"
+                                "...I'm sorry. This blue kimono is something precious my\nfather bought for me a long time ago, so I've been wearing\nit ever since. If possible, I'd like to continue wearing\nit..."
                             ]
                         },
                         {
@@ -3097,14 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですか？　でも新しいモノが着心地が良いですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらの秋物とかどうでしょう？　今、流行りものですよ？"
+                                "Is that so? But new clothes are more comfortable to wear.\nHow about this autumn piece? It's quite fashionable right\nnow."
                             ]
                         },
                         {
@@ -3128,28 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……すみません、お邪魔しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また来ますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I'm sorry for the intrusion. I'll come again later."
                             ]
                         },
                         {
@@ -3173,7 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は番頭に頭を下げて呉服屋を後にした。"
+                                "--Karin bowed to the shopkeeper and left the drapery store."
                             ]
                         },
                         {
@@ -3190,28 +3099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3235,7 +3123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんや、今の娘？　冷やかしか？"
+                                "...What was with that girl? Just window shopping?"
                             ]
                         },
                         {
@@ -3266,14 +3154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、どうもご自身の服に愛着があるらしく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま帰られました。"
+                                "No, it seems she has a strong attachment to her own clothes\nand left as is."
                             ]
                         },
                         {
@@ -3297,28 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、アホらし。んなもん金のない素寒貧の言い訳やろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの呉服を買えもせん輩を相手にしとったら時間の無駄や。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時は金なり――　もっと上客を目当てに接客して売るんやで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええな！？"
+                                "Hmph, ridiculous. That's just an excuse for being broke and\npenniless. It's a waste of time to deal with people who\ncan't even afford our kimonos. Time is money--focus on\nserving customers who will actually buy, got it?!"
                             ]
                         },
                         {
@@ -3342,7 +3202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――はっ、はい！　申し訳ありません、旦那さま！"
+                                "--Yes, sir! My apologies, master!"
                             ]
                         },
                         {
@@ -3366,28 +3226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……富兆屋の旦那。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の件、そろそろ進めませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Master of Tomitakuya. Isn't it about time we proceed with\nthat matter?"
                             ]
                         },
                         {
@@ -3411,28 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。支店の件やな。儲かってるんやから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっともっと手広く商いせんとあかん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ交渉を詰めに、あの団子屋へと行かんとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, the branch store matter. We're making a profit, so we\nneed to expand our business further. It's about time to\ntighten negotiations and head over to that dango shop."
                             ]
                         },
                         {
@@ -3456,21 +3274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -3585,14 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ。お探しの着物や反物はございますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちは品揃えが良いですよ～　どうぞ見て行ってください。"
+                                "Welcome. Are you looking for a kimono or fabric? We have a\ngood selection here~ Please take a look around."
                             ]
                         },
                         {
@@ -3686,7 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？　衣装をお探しですか？"
+                                "Oh? Are you looking for a costume?"
                             ]
                         },
                         {
@@ -3710,28 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。踊り用の衣装はこちらにありますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. Do you have dance costumes here?"
                             ]
                         },
                         {
@@ -3755,14 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっは！　天下の呉服屋である富兆屋に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ない服はありません。ご希望の物を用意いたしましょう。"
+                                "Ha ha! There is no attire that Tomochiyo, the finest drapery\nstore in the land, does not have. We shall prepare whatever\nyou desire."
                             ]
                         },
                         {
@@ -3786,28 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほ、本当ですか！？　やったぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Really!? Yay!"
                             ]
                         },
                         {
@@ -3838,14 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、どちらをお求めですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\$"
+                                "Now, which one would you like to purchase?\\$"
                             ]
                         },
                         {
@@ -3887,14 +3628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "両方ともお買い上げありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またのご来店をお待ちしております。"
+                                "Thank you for purchasing both. We look forward to your next\nvisit."
                             ]
                         },
                         {
@@ -3919,9 +3653,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "巫女装束【踊り用　３０００文】",
-                                    "うさぎ服【踊り用　７０００文】",
-                                    "買わない"
+                                    "Miko Attire [Dance Version 3,000 mon]",
+                                    "Bunny Outfit [Dance Version 7,000 mon]",
+                                    "Don't buy"
                                 ],
                                 2,
                                 0,
@@ -3975,14 +3709,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おや、すでにお持ちの様ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "他に欲しいものはありますか？"
+                                "Oh, it seems you already have this one. Is there anything\nelse you would like?"
                             ]
                         },
                         {
@@ -4065,21 +3792,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お買い上げ、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "――花梨は\\c[17]【巫女装束】\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\$"
+                                "Thank you for your purchase. --Karin has obtained the\n\\c[17]【Miko Attire】\\c[0]!\\$"
                             ]
                         },
                         {
@@ -4141,7 +3854,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "手持ちのお金だと足りないみたい……"
+                                "It looks like I don't have enough money on hand..."
                             ]
                         },
                         {
@@ -4212,14 +3925,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おや、すでにお持ちの様ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "他に欲しいものはありますか？"
+                                "Oh, it seems you already have this one. Is there anything\nelse you would like?"
                             ]
                         },
                         {
@@ -4302,21 +4008,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お買い上げ、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "――花梨は\\c[17]【うさぎ服】\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\$"
+                                "Thank you for your purchase. --Karin has obtained the\n\\c[17]【Bunny Outfit】\\c[0]!\\$"
                             ]
                         },
                         {
@@ -4378,7 +4070,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "手持ちのお金だと足りないみたい……"
+                                "It looks like I don't have enough money on hand..."
                             ]
                         },
                         {
@@ -4533,28 +4225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おおっ！　花梨さん、ようこそお越しくださいました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小劇場のほう、繁盛されているようですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Oh! Welcome, Karin-san! It seems the small theater is\nthriving, isn't it?"
                             ]
                         },
                         {
@@ -4578,28 +4249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あははっ、ありがとうございます♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近はお客さんも前よりも多く来場するようになって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も嬉しいです。踊り用の衣装を売って下さり感謝してます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahaha, thank you very much♪ Lately, more customers have been\ncoming than before, and I'm so happy. I'm grateful for the\ndance costumes you've sold to me."
                             ]
                         },
                         {
@@ -4623,21 +4273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それにしても貴女は運が良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうど良いところにいらっしゃいましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実は昨日、新しい衣装を入荷したところなのですよ。"
+                                "But you are in luck. You've come at just the right time.\nActually, we just got some new costumes in yesterday."
                             ]
                         },
                         {
@@ -4661,7 +4297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "新しい衣装ですか。さてはて一体どのような……？"
+                                "New costumes? What kind might they be...?"
                             ]
                         },
                         {
@@ -4685,21 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ。\\c[17]【バサラ衣装】\\c[0]と南蛮の\\c[17]【踊り子衣装】\\c[0]です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちら二つの新商品をお薦めしたいのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "如何でしょう？"
+                                "Yes. \\c[17]【Basara Costume】\\c[0] and the exotic\n\\c[17]【Dancer's Costume】\\c[0]. I would like to recommend\nthese two new products, what do you think?"
                             ]
                         },
                         {
@@ -4723,14 +4345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わあっ！　両方とも素敵な衣装ですね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "華やかで着やすくて、とっても踊り向きですね！"
+                                "Wow! Both costumes are lovely♪ They're glamorous, easy to\nwear, and perfect for dancing!"
                             ]
                         },
                         {
@@ -4754,28 +4369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バサラ衣装は赤色。そしてこちらの海外経由の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "踊り子衣装は発色の良い青色の生地になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうです、いつも着てらっしゃるその着物と同じで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨さんが着れば大変お似合いだと思いますよ。"
+                                "The Basara Costume is red. And this dancer's costume from\noverseas is made of a beautifully colored blue fabric. How\nabout it? It would suit you as well as the kimono you always\nwear, Karin-san."
                             ]
                         },
                         {
@@ -4799,21 +4393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん。私って青い色が好きなんですよねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（お父ちゃんも青色が好きだったし、どうしてかしら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ご先祖さまから連綿と続いている好み……？）"
+                                "Hmm. I do like blue... (Dad also liked blue, I wonder why...\nCould it be a preference passed down through\ngenerations...?)"
                             ]
                         },
                         {
@@ -4837,21 +4417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お値段は二着で２００００文になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とても珍しい衣装ですから他の人に買われるかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今こそ好機。お求めになられますか？"
+                                "The price for both is 20,000 mon. They are quite rare\ncostumes, so someone else might buy them. Now is the chance.\nWould you like to purchase them?"
                             ]
                         },
                         {
@@ -4875,14 +4441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（どうしよう……　お客さんも喜びそうな衣装だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それなりに高額だし……　買うか、買うまいか……）"
+                                "(What should I do... The customers would probably be happy\nwith these costumes, but they're quite expensive... To buy\nor not to buy...)"
                             ]
                         },
                         {
@@ -4890,8 +4449,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "衣装を買う【２００００文】",
-                                    "買わない"
+                                    "Buy the outfit [20,000 mon]",
+                                    "Don't buy it"
                                 ],
                                 1,
                                 0,
@@ -4937,28 +4496,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "承知しました！　新しい衣装、ぜひ買わせてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "領収書の宛名は伊賀忍組でお願いします！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Understood! Please let me buy the new costumes! Could you\nmake out the receipt to the Iga Ninja Group?"
                             ]
                         },
                         {
@@ -4982,28 +4520,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おおっ！　さすが即決即断の花梨さんですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "では衣装をお持ちください。ご購入ありがとうございました♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Oh! As expected, Karin-san makes quick decisions! Please\ntake the costumes. Thank you for your purchase♪"
                             ]
                         },
                         {
@@ -5068,7 +4585,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――\\c[17]【バサラ衣装】\\c[0]と\\c[17]【踊り子衣装】\\c[0]の二着を手に入れた！"
+                                "--\\c[17]【Basara Costume】\\c[0] and \\c[17]【Dancer's\nCostume】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -5102,7 +4619,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――お金が足りません。"
+                                "--Not enough money."
                             ]
                         },
                         {
@@ -5149,14 +4666,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うーん、御免なさい。値段も結構するので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もうちょっと考えてから買いますね……"
+                                "Uh-uhm, sorry. The price is quite high, so I'll think about\nit a bit more before buying..."
                             ]
                         },
                         {
@@ -5207,14 +4717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "踊り衣装を両方ともご購入頂き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとうございました。"
+                                "Thank you very much for purchasing both of the dance\ncostumes."
                             ]
                         },
                         {
@@ -5306,14 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨さんの劇場ですが日本橋界隈で評判になってますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後も踊りのお仕事、頑張ってくださいね♪"
+                                "Karin-san's theater is becoming quite the talk around\nNihonbashi. Please keep up the good work with your dancing!♪"
                             ]
                         },
                         {
@@ -6177,14 +5673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、高いわねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも他にない逸品だから欲しいわぁ……"
+                                "Uh-huh, it's expensive. But it's a unique item that can't be\nfound elsewhere, so I want it..."
                             ]
                         },
                         {
@@ -6570,14 +6059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらぁ！　素敵な生地ねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらを頂こうかしら。"
+                                "Oh my! What a lovely fabric! Perhaps I shall take this one."
                             ]
                         },
                         {
@@ -6654,14 +6136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらの生地はいかがでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥方様にお似合いかと。"
+                                "How about this fabric? I believe it would suit you well,\nMadam."
                             ]
                         },
                         {
@@ -6858,21 +6333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か生地お探しですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店内でお気に入りの品がありましたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お声をおかけくださいませ。"
+                                "Are you looking for some fabric? If you find something you\nlike in the store, please don't hesitate to call out to us."
                             ]
                         },
                         {
@@ -7429,14 +6890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今、欲しい生地の分だけ奥で断裁してもらってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この富兆屋さんは品揃えが良いからお薦めよ。"
+                                "Right now, they're cutting the fabric I want in the back. I\nrecommend this Tomochiyo store because they have a good\nselection."
                             ]
                         },
                         {
@@ -11232,14 +10686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、いらっしゃい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どのような反物、お求めでっしゃろ？"
+                                "Welcome! What kind of fabric are you looking for today?"
                             ]
                         },
                         {
@@ -11263,28 +10710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギクッ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あれ、どうしてここに富兆屋が……？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yikes--!? (Huh, why is Tomitakuya here...?)"
                             ]
                         },
                         {
@@ -11308,28 +10734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ううん？　なんでワイの顔を見て驚くんや？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Hmm? Why do you look so surprised to see my face?"
                             ]
                         },
                         {
@@ -11353,28 +10758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いえっ！　なんでもないです！　あはは……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そっか、この呉服屋は富兆屋のお店だったよね……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No, it's nothing! Ahaha...! (That's right, this kimono shop\nis Tomitakuya's place...)"
                             ]
                         },
                         {
@@ -11398,28 +10782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さん、よういらしましたな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチの店の反物や着物の種類、豊富でっしゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天下一の品揃えと自負してますわ。ハッハッハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Welcome, dear customer! Our shop boasts a wide variety of\nfabrics and kimonos, don't we? We pride ourselves on having\nthe best selection in the world. Hahaha!"
                             ]
                         },
                         {
@@ -11443,28 +10806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい……　どの商品も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっても美しく煌びやかで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes... Each and every item is so beautiful and dazzling..."
                             ]
                         },
                         {
@@ -11488,28 +10830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はうちの屋敷に南蛮由来の珍しい服があるんや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, right, right. Actually, we have some rare clothes of\nforeign origin at our mansion."
                             ]
                         },
                         {
@@ -11533,28 +10854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ……　珍しい服ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh? Rare clothes, you say?"
                             ]
                         },
                         {
@@ -11578,28 +10878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せや。将軍様もご覧になったことがない珍品でなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回特別にお客さんにお見せしてもいいよってに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どないでっしゃろ。うちの屋敷まで来まへんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's right. They're treasures that even the Shogun has\nnever seen. I'm willing to show them to you specially this\ntime. How about it? Would you like to come to my mansion?"
                             ]
                         },
                         {
@@ -11623,7 +10902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………どうしよう……？）"
+                                "(...What should I do...?)"
                             ]
                         },
                         {
@@ -11631,8 +10910,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "富兆屋の屋敷に行く\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Go to the Tomochiyo Residence \\c[27][H Event]\\c[0]",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -11676,28 +10955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……わかりました。その南蛮の珍しい服を見たいので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お屋敷までついていきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Understood. I would like to see those rare foreign\nclothes, so I'll accompany you to your mansion."
                             ]
                         },
                         {
@@ -11721,28 +10979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おおっ、そりゃ嬉しいですなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では、どうぞどうぞ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Oh, that makes me happy. Well then, please, this way--"
                             ]
                         },
                         {
@@ -11766,7 +11003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は富兆屋と一緒に屋敷へと向かった。"
+                                "--Karin went with Tomitakuya to the mansion."
                             ]
                         },
                         {
@@ -11866,7 +11103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Performance count +1, Creampie +1, Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -11990,28 +11227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご、ごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日はこれから用事があるので……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm sorry! I have an errand to run later today...!"
                             ]
                         },
                         {
@@ -12035,7 +11251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は呉服屋を後にした。"
+                                "--Karin left the kimono shop."
                             ]
                         },
                         {

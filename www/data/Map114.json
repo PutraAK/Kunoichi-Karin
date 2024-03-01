@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "空き家",
+    "displayName": "Vacant House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【鉄の籠手】\\c[0]を手に入れた！"
+                                "--\\c[17]【Iron Gauntlets】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -2588,7 +2588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2835,7 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【釣り餌】\\c[0]を１０個手に入れた！"
+                                "--\\c[17]【Fishing Bait】\\c[0]Gained 10 pieces!"
                             ]
                         },
                         {
@@ -3083,7 +3083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【鉢巻き】\\c[0]を手に入れた！"
+                                "--\\c[17]Obtained the 【Headband】!\\c[0]"
                             ]
                         },
                         {

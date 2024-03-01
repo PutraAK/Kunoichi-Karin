@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "小田原",
+    "displayName": "Odawara",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -12896,7 +12896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 mon!\\c[0]"
                             ]
                         },
                         {
@@ -18475,7 +18475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -18722,7 +18722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21586,7 +21586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Resurrection Bell】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -24344,7 +24344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 mon!\\c[0]"
                             ]
                         },
                         {
@@ -24532,14 +24532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５年前の富士山の噴火で火山灰が凄いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行く必要がなければこの先は行かないほうがいいよ。"
+                                "The volcanic ash is terrible because of the eruption of\nMount Fuji five years ago. It's better not to go any further\nunless you need to."
                             ]
                         },
                         {
@@ -24563,14 +24556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うーん……　地面が灰でひどいなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はここから西に進むのはやめよう）"
+                                "(Hmm... The ground is awful with ash... Let's not proceed\nwest from here for now.)"
                             ]
                         },
                         {
@@ -24927,14 +24913,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【雪猿】"
+                                "【Snow Monkey】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ききっ――　キキッ――"
+                                "Kikii--Kikii--"
                             ]
                         },
                         {
@@ -24967,21 +24953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ～～！　ちっちゃくてカワイイ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雪猿の子供かしら？　この場所じゃ危ないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "保護して上野まで連れて行こう！"
+                                "Wow~~! So tiny and cute♪ Is this a baby snow monkey? It's\ndangerous here, so let's protect it and take it to Ueno!"
                             ]
                         },
                         {
@@ -25036,7 +25008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【雪猿】\\c[0]を捕獲した！"
+                                "--\\c[17]Captured the 【Snow Monkey】!\\c[0]"
                             ]
                         },
                         {
@@ -25531,28 +25503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５年前に起きた富士の噴火のせいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運悪く小田原には灰がたくさん積もってな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃがここから復興させてみせるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わしら小田原の民の手でな。"
+                                "Due to the eruption of Mount Fuji five years ago, Odawara\nwas unluckily buried in ash... But we will rebuild from\nhere. By the hands of us, the people of Odawara."
                             ]
                         },
                         {
@@ -25620,28 +25571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "富士山から鬼の軍勢がやってきて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この小田原を通って行ったわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやはや、ワシも長生きしたつもりじゃが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "産まれて初めて鬼を見て腰をぬかしたわ……"
+                                "An army of demons came from Mount Fuji and passed through\nthis Odawara. Goodness, I thought I had lived a long life,\nbut it was the first time I saw a demon and my knees\nbuckled..."
                             ]
                         },
                         {
@@ -25716,7 +25646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お気をつけてな、お嬢さん。"
+                                "Take care, young lady."
                             ]
                         },
                         {
@@ -25800,14 +25730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごほっ、ごほっ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じいちゃん、集めた灰を川に捨てとくよ。"
+                                "*cough*, *cough*-- Grandpa, I'll go throw the collected\nashes into the river."
                             ]
                         },
                         {
@@ -25979,14 +25902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼が！　凄い数の鬼たちが、東に向かって行ったよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びえぇ！　怖かったよぉ～！"
+                                "Ogres! A tremendous number of ogres went towards the east!\nBieee! It was so scary~!"
                             ]
                         },
                         {
@@ -26070,14 +25986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんたち、西へ向かうのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "富士山も噴火しそうだし、本当に気をつけてね。"
+                                "Big sisters, are you heading west? Mount Fuji looks like it\nmight erupt too, so please be really careful."
                             ]
                         },
                         {
@@ -26249,21 +26158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旅人も大名行列も、みんな速足で通り過ぎていくの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔は大きな街だったけど、多くの人は出て行ってしまったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自然には逆らえないわね……"
+                                "Travelers and daimyo processions alike, everyone passes by\nquickly. It used to be a big town, but many people have\nleft. You can't go against nature..."
                             ]
                         },
                         {
@@ -26331,21 +26226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……　ビックリしたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼たちは江戸のほうへ進んでいったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかにはバカでかい鬼もいたよ……　怖かった……"
+                                "Phew... That was startling. The demons headed towards Edo.\nThere were even some ridiculously huge ones among them... It\nwas scary..."
                             ]
                         },
                         {
@@ -26445,14 +26326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また富士山が噴火したら元の木阿弥になっちゃう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは祈ることしかできないわ……"
+                                "If Mount Fuji erupts again, it'll all be for naught... All\nwe can do is pray..."
                             ]
                         },
                         {
@@ -28009,7 +27883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ――！？"
+                                "Whoa--!?"
                             ]
                         },
                         {
@@ -28052,28 +27926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴ～！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rumble...!!>"
                             ]
                         },
                         {
@@ -28097,28 +27950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！　地割れ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! A fissure in the ground!?"
                             ]
                         },
                         {
@@ -28142,28 +27974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違う！　これは落とし穴だ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No, this is a pitfall!"
                             ]
                         },
                         {
@@ -28224,14 +28035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　バリバリバリッ――！！　ゴゴゴゴ！！　＞"
+                                "<Crackling--!! Rumble!!>"
                             ]
                         },
                         {
@@ -28255,28 +28059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うあああぁ！？　また落とし穴に――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahhh! Not another pitfall--!"
                             ]
                         },
                         {
@@ -28432,28 +28215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨と夕霧と紅葉は落とし穴に落ちて行った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Karin, Yugiri, and Momiji fell into the pitfall!"
                             ]
                         },
                         {
@@ -28477,7 +28239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆っ！？　落下したのか！？　なんということじゃ！"
+                                "Everyone!? Have you fallen!? What a disaster!"
                             ]
                         },
                         {
@@ -28501,28 +28263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rumbling...>"
                             ]
                         },
                         {
@@ -28546,28 +28287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬうぅ！？　この落とし穴、底が見えぬ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これまた深い穴じゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妾だけ地上に取り残されてしまったわい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nuuu! I can't see the bottom of this pitfall! It's another\ndeep one, isn't it? I'm the only one left above ground..."
                             ]
                         },
                         {
@@ -28612,28 +28332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "列の一番最後にいた故に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落とし穴に落ちなかったようですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番厄介な相手が罠にかからずに残念、残念――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It seems you didn't fall into the pitfall because you were\nat the very end of the line? It's unfortunate that the most\ntroublesome opponent didn't fall into the trap, how\nregrettable--"
                             ]
                         },
                         {
@@ -28657,28 +28356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　貴様……　ギョウオンか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! You... Gyoun, is it!?"
                             ]
                         },
                         {
@@ -28702,28 +28380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフッ、我が名を憶えて頂き光栄です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妖の王、真沙妃殿――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heh, I am honored that you remember my name. Oh King of\nApparitions, Lady Masaki--"
                             ]
                         },
                         {
@@ -28747,28 +28404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三人を何処へ落としたのじゃ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Where did you drop those three!?"
                             ]
                         },
                         {
@@ -28792,28 +28428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小田原の地下には広い空洞が存在してまして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょうど貴方たちの墓場には相応しいでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このギョウオンによる大願成就の邪魔は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上されたくはないのでね。フッフッフ――"
+                                "There is a vast cavern beneath Odawara, fitting to be your\ngrave, wouldn't you say? I do not wish to be further\nhindered by you in my grand ambition's fulfillment. Heh heh\nheh--"
                             ]
                         },
                         {
@@ -28837,28 +28452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ギョウオン……　何処かで聞いた名じゃが思い出せぬ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Gyoun... I've heard that name somewhere before, but I can't\nrecall.)"
                             ]
                         },
                         {
@@ -28882,28 +28476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三人を助けに行っても良し。この場で私と戦うのも良し。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、どうされます？　妖の王――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You may go and rescue them if you wish. Or you can fight me\nhere. Now, what will you do? Oh King of Apparitions--?"
                             ]
                         },
                         {
@@ -28927,14 +28500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……三人の身が心配じゃ。無論、妾は地下に助けに向かう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眼前に鬼の大将がいるのに倒せぬのは口惜しいがな。"
+                                "...I am worried about the three of them. Of course, I will\nhead underground to rescue them. It's frustrating that I\ncan't defeat the demon general right before my eyes."
                             ]
                         },
                         {
@@ -28958,28 +28524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが賢明です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はまだ最後の儀式が終わってないのでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直時間をもう少々稼ぎたいのがこちらの内情です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That would be wise. Actually, the final ritual has not yet\nbeen completed. To be honest, we would like to buy a little\nmore time on our side."
                             ]
                         },
                         {
@@ -29003,28 +28548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、平然と実情を伝えるとは余裕があるようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかろう。妾も最大の力を発揮するためには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少し時間が必要じゃ。三人を助けた後"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "富士まで闘いに赴いてやるわ。"
+                                "Hmph, you're quite composed to reveal your situation so\nfrankly. Very well. I too need a bit more time to unleash my\ngreatest power. After rescuing the three, I will head to\nMount Fuji to battle."
                             ]
                         },
                         {
@@ -29108,28 +28632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ザザッ――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rustling-->"
                             ]
                         },
                         {
@@ -29146,28 +28649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――真沙妃は穴の中に向かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Masaki headed towards the hole."
                             ]
                         },
                         {
@@ -29200,21 +28682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕上げは上々――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方たち、あの４人が地下から地上へ出られぬよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで足止めしてください。よろしいですね？"
+                                "The finishing touches are perfect--You all, make sure those\nfour cannot emerge from underground to the surface. Is that\nclear?"
                             ]
                         },
                         {
@@ -29264,28 +28732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴ…………！＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rumbling...!>"
                             ]
                         },
                         {
@@ -29309,21 +28756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -29511,28 +28944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたた……！　何度目の落とし穴よ、もう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ouch...! How many times have I fallen into pitfalls now!"
                             ]
                         },
                         {
@@ -29573,21 +28985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]――花梨の体力が３００減少！\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\c[2]――Karin'S Hp Has Decreased By 300!\\c[0]"
                             ]
                         },
                         {
@@ -29630,14 +29028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地上の光が見えない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり深い地下まで別々に落ちちゃったみたいね。"
+                                "The light from above is no longer visible... It seems we've\nfallen quite deep underground separately."
                             ]
                         },
                         {
@@ -29668,14 +29059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ドクン――　ドクン――　＞"
+                                "<Thump--Thump-->"
                             ]
                         },
                         {
@@ -29711,14 +29095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この地下洞窟、あちこちに鬼の気配を感じるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人でいるには危うい。早く皆と合流しないと――"
+                                "This underground cavern is filled with the presence of\ndemons everywhere. It's dangerous to be alone. I need to\nregroup with everyone quickly--"
                             ]
                         },
                         {
@@ -32384,7 +31761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -32872,7 +32249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！　あれは……！！"
+                                "----!! What is that...!!"
                             ]
                         },
                         {
@@ -33014,21 +32391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴゴゴゴゴゴゴゴゴゴゴッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|\\|\\|"
+                                "<Rumbling--!!>"
                             ]
                         },
                         {

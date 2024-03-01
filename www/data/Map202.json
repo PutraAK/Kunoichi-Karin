@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋",
+    "displayName": "Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2306,7 +2306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　おや、いらっしゃい？　お泊りですかい？"
+                                "Phew... Oh, welcome! Are you staying the night?"
                             ]
                         },
                         {
@@ -2330,28 +2330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いえ。この宿は他と比べると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんが少ないですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...No. This inn seems to have fewer guests compared to\nothers, doesn't it?"
                             ]
                         },
                         {
@@ -2375,21 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは。はっきり言う子だね？　気に入ったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう私も年でねぇ。誰かにこのボロ宿を譲って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠居したいんだけどねぇ……"
+                                "Ahaha. You're quite direct, aren't you? I like that. I'm\ngetting on in years, you see. I've been thinking of handing\nover this old inn to someone and retiring..."
                             ]
                         },
                         {
@@ -2413,28 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？　この宿を売っちゃうんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh? You're going to sell this inn?"
                             ]
                         },
                         {
@@ -2458,21 +2402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうさ。ご覧の通り屋根の雨漏りを放っておいたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家の腐敗が進んでねぇ。誰か買ってくれる人いないかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５００００文くらいで売れたら隠居代になるんだけど。"
+                                "That's right. As you can see, I left the roof leaking and\nthe decay has progressed. I wonder if there's someone who\nwould buy it? If I could sell it for about 50,000 mon, I\ncould retire comfortably."
                             ]
                         },
                         {
@@ -2496,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……（どうしよう……）\\$"
+                                "...(What should I do...)"
                             ]
                         },
                         {
@@ -2504,8 +2434,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿を買う【５００００文】",
-                                    "やめる"
+                                    "Buy the inn [50,000 mon]",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -2558,28 +2488,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わかりました。私がこの宿を買います！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Understood. I will buy this inn!"
                             ]
                         },
                         {
@@ -2603,7 +2512,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほ、本当かい！？"
+                                "Ho, really now!?"
                             ]
                         },
                         {
@@ -2627,28 +2536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい。お金はここにあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうかこちらの宿を譲ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Yes. I have the money right here. Please, let me take over\nthis inn."
                             ]
                         },
                         {
@@ -2672,14 +2560,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あら、こりゃ嬉しいねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いいよ。今日からここはあんたの宿だ。好きに使ってね。"
+                                "Oh, that's wonderful! Alright then. From today on, this inn\nis yours. Use it as you like."
                             ]
                         },
                         {
@@ -2703,28 +2584,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございます！　大切に使いますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Thank you so much! I will take good care of it."
                             ]
                         },
                         {
@@ -2769,7 +2629,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]――花梨は新宿の宿屋を手に入れた！\\c[0]"
+                                "\\c[17]――Karin Has Acquired The Shinjuku Inn!\\c[0]"
                             ]
                         },
                         {
@@ -2852,28 +2712,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さて、今のままだと正直ボロ過ぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お客さんが泊ってくれないよね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "水漏れしているところを修繕して、畳も張り替えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "壊れているところも全部直さなきゃ。"
+                                "Well, as it stands, it's honestly too run-down for guests to\nwant to stay... I need to repair the leaks, replace the\ntatami mats, and fix everything that's broken."
                             ]
                         },
                         {
@@ -2909,28 +2748,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は大工道具を持ってきて、宿屋を直しはじめた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "--Karin brought her carpentry tools and began fixing the\ninn!"
                             ]
                         },
                         {
@@ -2980,28 +2798,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（トントントン……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "(Tap tap tap...!)"
                             ]
                         },
                         {
@@ -3051,7 +2848,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（トンカン、トンカン……！）"
+                                "(Bang clang, bang clang...!)"
                             ]
                         },
                         {
@@ -3101,28 +2898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（――トンテンカン！　トンテンカン！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "(--Ton-ten-kan! Ton-ten-kan!)"
                             ]
                         },
                         {
@@ -3174,21 +2950,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -3400,28 +3162,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふぅ……　まぁ、こんなものでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "新品とはいえないまでも、だいぶ奇麗になったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Phew... Well, that should do it. It's not new, but it's much\ncleaner now."
                             ]
                         },
                         {
@@ -3457,28 +3198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は宿屋を修復した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "--Karin has repaired the inn!"
                             ]
                         },
                         {
@@ -3631,21 +3351,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……あら？　様子を見に来てみればすごいわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あなた一人で全部直したの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "以前と比べて立派になったわねぇ。"
+                                "...Oh my? If you look at the state of it now, it's amazing,\nisn't it? Did you fix everything by yourself? It's become\nquite splendid compared to before."
                             ]
                         },
                         {
@@ -3669,28 +3375,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えへへ！　ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Ehehe! Thank you very much!"
                             ]
                         },
                         {
@@ -3714,21 +3399,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これは私の畑の野菜で作った米と漬物さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "宿を経営するなら夕餉の準備も必要だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "たくさんあるから使いなさいな。"
+                                "This is rice and pickles made from vegetables from my field.\nIf you're going to run an inn, you'll need to prepare dinner\ntoo. There's plenty, so feel free to use it."
                             ]
                         },
                         {
@@ -3752,7 +3423,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わぁ、嬉しい！　遠慮なく使わせて頂きますね\\I[15]"
+                                "Wow, I'm so happy! I'll use it without hesitation\\I[15]"
                             ]
                         },
                         {
@@ -3833,7 +3504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(残念、お金がないや。また今度にしよう……）"
+                                "(Too bad, I don't have the money right now. Maybe some other\ntime...)"
                             ]
                         },
                         {
@@ -3887,28 +3558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんなさい。ちょっと今すぐには決断が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm sorry. I can't make a decision right this moment..."
                             ]
                         },
                         {
@@ -3932,7 +3582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "急ぐ話じゃないさ。また来なさいな。"
+                                "No rush. Come back again sometime."
                             ]
                         },
                         {
@@ -5834,21 +5484,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【宿の女将】"
+                                "【Innkeeper Lady】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お待たせしてごめんなさい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金を工面出来たら必ずお返ししますので……"
+                                "I'm sorry to have kept you waiting... I will definitely\nrepay you as soon as I can arrange the money..."
                             ]
                         },
                         {
@@ -5872,14 +5515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この宿……　とても古いなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　取り込み中みたいだから話しかけないでおこう）"
+                                "(This inn... it's so old... It seems they're busy, so I\nwon't speak to them for now.)"
                             ]
                         },
                         {
@@ -6254,21 +5890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【借金取り】"
+                                "【Debt Collector】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女将さんよぉ。先々月の味噌代がまだ支払われてないぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツケにも限界があるから早めに頼むよ。"
+                                "Hey, Madam Innkeeper. The bill for the miso from the month\nbefore last still hasn't been paid, you know? There's a\nlimit to how much I can put on the tab, so please settle it\nsoon."
                             ]
                         },
                         {

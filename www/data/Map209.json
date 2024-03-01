@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔谷",
+    "displayName": "Wind Demon Valley",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -16016,7 +16016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16263,7 +16263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16510,7 +16510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18317,7 +18317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20063,7 +20063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -25050,7 +25050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]Obtained 【Medicine】!\\c[0]"
                             ]
                         },
                         {
@@ -25436,7 +25436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25682,7 +25682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1000 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -25928,7 +25928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -26972,28 +26972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　ようやく到着したのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Phew... we've finally arrived."
                             ]
                         },
                         {
@@ -27017,28 +26996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが風魔の里の入り口か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "So this is the entrance to the Fuma village..."
                             ]
                         },
                         {
@@ -27062,21 +27020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんだろう。とても物悲しい雰囲気を感じる所ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前に訪れた、明るくて神秘的な妖の杜と比べると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "陰鬱な空気に満ちているというか……"
+                                "...What is this feeling? It's such a melancholic atmosphere.\nCompared to the bright and mystical Forest of Spirits we\nvisited before, this place is filled with a gloomy air..."
                             ]
                         },
                         {
@@ -27100,21 +27044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -27143,28 +27073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ざわ……　ザワワ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rustle... Rustling...>"
                             ]
                         },
                         {
@@ -27188,7 +27097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　二人とも気をつけて！　暗闇に何かいる！"
+                                "--!? Both of you, be careful! There's something in the\ndarkness!"
                             ]
                         },
                         {
@@ -27221,28 +27130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我らの里に無断で入る者……　見過ごせぬ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死をもって償え…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Those who enter our village without permission... We cannot\noverlook this... Pay with your death..."
                             ]
                         },
                         {
@@ -27266,28 +27154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんじゃ、こやつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足が半透明ぞ？　亡霊の類か！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What is this creature? Its legs are translucent? Could it be\na ghost!"
                             ]
                         },
                         {
@@ -27346,28 +27213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ざわわわ……　ザワワワワ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rustling... Rustling rustle...>"
                             ]
                         },
                         {
@@ -27398,28 +27244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーむ、この先に行かせたくない様じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道を塞ぐようにわらわらと集まって来たぞ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm, it seems they don't want us to proceed. They're\ngathering around, blocking the way?"
                             ]
                         },
                         {
@@ -27443,28 +27268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忍びの格好をしているということは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔忍者……　その亡霊ということか？　どうする花梨？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "If they're dressed as ninjas, does that mean they're the\nghosts of the Fuma ninjas? What should we do, Karin?"
                             ]
                         },
                         {
@@ -27500,28 +27304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かつての縁者かもしれないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は生きている紅葉さんの救出が一番大事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲ってくるなら追い払うのみよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "They may be former acquaintances, but saving Momiji-san, who\nis alive, is our top priority. If they attack, we have no\nchoice but to drive them away!"
                             ]
                         },
                         {
@@ -27559,14 +27342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怖れを知らぬ愚か者よ、死して土へと還れ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らのように――"
+                                "Foolish ones who know not fear, return to the earth in death\n--just like us--"
                             ]
                         },
                         {
@@ -27595,7 +27371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――風魔の亡霊たちが襲ってきた！"
+                                "--The ghosts of the Fuma are attacking!"
                             ]
                         },
                         {

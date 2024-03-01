@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "四谷",
+    "displayName": "Yotsuya",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8325,7 +8325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -8753,7 +8753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】参拝歓迎――　体の火照りを抑える神社"
+                                "[Sign] Visitors Welcome--A Shrine to Soothe Your Body's\nBurning Desires"
                             ]
                         },
                         {
@@ -8777,7 +8777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？（火照りを抑える？　なんか意味がわからないわね）"
+                                "...? (Soothe burning desires? I don't quite understand what\nthat means...)"
                             ]
                         },
                         {
@@ -9521,28 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道の北側にある幽霊屋敷には近づかないほうがいいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の幽霊に憑りつかれるって話さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "南側にある宗教施設は天狗てんぐ教の屋敷さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不思議なことに教祖に会うと信者になっちまうって話だ。"
+                                "You'd better not get close to the haunted house on the north\nside of the road. They say you'll get possessed by a female\nghost. The religious facility on the south side is the house\nof the Tengu religion. Strangely enough, they say you'll\nbecome a believer once you meet the high priest."
                             ]
                         },
                         {
@@ -9610,14 +9589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天狗てんぐ教はお上によって解散させられたそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのいかがわしい教祖も島流しになったって聞いたよ。"
+                                "I heard that the Tengu Sect was disbanded by the\nauthorities. They say that shady cult leader was even exiled\nto an island."
                             ]
                         },
                         {
@@ -9685,21 +9657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの幽霊屋敷、本当に幽霊が出たのか知らないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前から幕府の管轄になったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお怖い……　くわばらくわばら……"
+                                "I don't know if that haunted mansion over there really has\nghosts, but it's been under the shogunate's jurisdiction\nsince recently. Oh scary... kuwabara kuwabara..."
                             ]
                         },
                         {
@@ -9767,7 +9725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あわわ！　どうしよう！　鬼が出たって嘘だろ！？"
+                                "Ah! What should I do! It can't be true that an ogre has\nappeared, right?!"
                             ]
                         },
                         {
@@ -11131,14 +11089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この屋敷は立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たとえ廃墟といえども中に入ることはまかりならぬ。"
+                                "This mansion is off-limits. Even if it's a ruin, entering is\nstrictly forbidden."
                             ]
                         },
                         {
@@ -11206,14 +11157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お城で騒乱があったとは本当なのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拙者は当番ゆえここから動けぬのだ。"
+                                "Is it true that there was a disturbance at the castle? I\ncannot leave from here as I am on duty."
                             ]
                         },
                         {
@@ -11672,14 +11616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この時期になると落ち葉が気になりますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日ほうきで掃いてるのですが、なかなか大変で……"
+                                "When this season comes, the fallen leaves start to bother\nme. I sweep them up with a broom every day, but it's quite a\ntask..."
                             ]
                         },
                         {
@@ -12016,21 +11953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪談話のせいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よそ者から気味悪がられてるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まいったね……"
+                                "Because of the ghost stories, outsiders find us creepy. It's\nquite troubling..."
                             ]
                         },
                         {
@@ -12136,14 +12059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四谷からでもお城が炎上しているのが見えたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな怖がって家の中に閉じ籠っているよ……"
+                                "You could see the castle ablaze even from Yotsuya. Everyone\nis scared and has barricaded themselves inside their\nhomes..."
                             ]
                         },
                         {
@@ -14733,7 +14649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――淫乱度が１以上ある場合、お参りで下げられます。"
+                                "If Lust is above 1, it can be lowered by praying."
                             ]
                         },
                         {
@@ -14820,7 +14736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――神社にお参りしますか？\\c[27]【 現在の淫乱度　\\V[1] 】\\c[0]\\$"
+                                "--Would you like to pray at the shrine?\\c[27]【 Current\nLewdness Level\\V[1] 】\\c[0]\\$"
                             ]
                         },
                         {
@@ -14828,8 +14744,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お参りする【お賽銭１００文】（淫乱度－１０）",
-                                    "しない"
+                                    "Pray【Offering 100 Mon】(Lewdness -10)",
+                                    "Do not pray"
                                 ],
                                 -2,
                                 0,
@@ -14912,7 +14828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（お祈りしよう……　良いことありますように）"
+                                "(Let's pray... May good things come our way.)"
                             ]
                         },
                         {
@@ -14950,14 +14866,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨の淫乱度が１０低下！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[27]【 現在の淫乱度　\\V[1] 】\\c[0]"
+                                "--Karin's lewdness level has decreased by 10!\\c[27]【 Current\nLewdness Level\\V[1] 】\\c[0]"
                             ]
                         },
                         {
@@ -15012,7 +14921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません……"
+                                "You don't have enough money..."
                             ]
                         },
                         {
@@ -15140,7 +15049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "媚薬使用中はお参りできません――"
+                                "You cannot pray while using an aphrodisiac--"
                             ]
                         },
                         {
@@ -15670,7 +15579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16458,14 +16367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちら法術屋です。移動円陣を買いませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自宅近くからここまで移動できるので便利ですよ。\\$"
+                                "Welcome to the magic shop. Would you like to buy a\nteleportation circle? It's convenient as it can move you\nfrom near your home to here."
                             ]
                         },
                         {
@@ -16473,8 +16375,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "購入する【５００文】",
-                                    "断る"
+                                    "Buy [500 Mon]",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -16522,14 +16424,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございます！　ではここに方陣をひきますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "行ったり来たりできますので大切にお使いください。"
+                                "Thank you! Now, I'll draw the circle here. You can go back\nand forth, so please use it carefully."
                             ]
                         },
                         {
@@ -16576,7 +16471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]――四谷への移動円陣が完成した！\\c[0]"
+                                "\\c[17]--The teleportation circle to Yotsuya has been\ncompleted!\\c[0]"
                             ]
                         },
                         {
@@ -16603,14 +16498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……あれ？　残念、お金足りませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "またの機会にお願いしますね。"
+                                "...Huh? That's unfortunate, you don't have enough money.\nPlease come again when you have the chance."
                             ]
                         },
                         {
@@ -18799,28 +18687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺はくず拾いで生計を立ててるのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまに財布も拾うんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これがまたあんまり銭が入ってないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大金が入ってたら遊郭にでも行きてぇよなぁ……"
+                                "I make a living picking up trash. Sometimes I find wallets\ntoo, but they hardly ever have much money in them. If I ever\nfound a big sum, I'd love to go to the pleasure quarters..."
                             ]
                         },
                         {
@@ -18953,14 +18820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　もしかして、あの人！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手に持っているのは……！"
+                                "--! Could it be, that person!? What he's holding is...!"
                             ]
                         },
                         {
@@ -18984,28 +18844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん？　なんだい、娘さん。オレっちにご用かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たはは、モテル男はつらいねぇ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Hm? What's up, young lady? Do you need something from me?\nHaha, it's tough being a popular guy\\I[15]"
                             ]
                         },
                         {
@@ -19029,7 +18868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先日、通行手形を拾いませんでした？"
+                                "Did you happen to pick up a pass the other day?"
                             ]
                         },
                         {
@@ -19053,28 +18892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、コレかい？　道端に落ちててねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, this thing? Found it lying on the side of the road."
                             ]
                         },
                         {
@@ -19098,7 +18916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -19129,28 +18947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それ、私が落としたモノです！　どうか返してください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いします！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's mine! Please, I beg you to return it!"
                             ]
                         },
                         {
@@ -19174,28 +18971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ、いいぜ。そのかわり接吻してくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拾い物したお礼としてね。へっへっへ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hehe, sure thing. But in exchange, how about a kiss? As a\nthank you for finding it. Heh heh heh\\I[15]"
                             ]
                         },
                         {
@@ -19219,7 +18995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　ええっ、接吻ですか！？"
+                                "--! A kiss, you say?!?"
                             ]
                         },
                         {
@@ -19243,21 +19019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鶴だって亀だって、助けられたら恩返しするもんさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大事な手形なんだろ？　接吻ぐらい良いじゃねぇかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "減るもんじゃねぇしよ。うへへっ……♪"
+                                "Even cranes and turtles repay their debts when they're\nsaved. It's an important pass, right? A kiss isn't too much\nto ask for, is it? It's not like you'll lose anything.\nUhehe...♪"
                             ]
                         },
                         {
@@ -19281,7 +19043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……（どうも簡単に返してくれないみたい……）"
+                                "...(It seems he won't return it easily...)"
                             ]
                         },
                         {
@@ -19289,8 +19051,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "接吻する\\c[27]【Ｈイベント】\\c[0]",
-                                    "通行手形を返してもらう"
+                                    "Kiss her \\c[27][H Event]\\c[0]",
+                                    "Ask for the pass back"
                                 ],
                                 -1,
                                 0,
@@ -19407,28 +19169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隙あり！　えいっ――――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Now's my chance! Ei----!"
                             ]
                         },
                         {
@@ -19452,28 +19193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわあぁ～～！　な、なにを！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Whoa~~! Wh-what are you doing?!?"
                             ]
                         },
                         {
@@ -19577,28 +19297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "通行手形、返してもらいますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "拾ってくれてありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'll be taking my pass back now! Thank you for picking it\nup!"
                             ]
                         },
                         {
@@ -19653,28 +19352,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は通行手形を男から取り戻し関所へ戻った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin managed to retrieve the pass from the man and\nreturned to the checkpoint!"
                             ]
                         },
                         {
@@ -19824,14 +19502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ひいぃ！？　お、襲って悪かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう許してくれ！"
+                                "--Eek!? I-I'm sorry for attacking you! Please forgive me\nalready!"
                             ]
                         },
                         {
@@ -19913,14 +19584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前は手形"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拾って頂きありがとうございました。"
+                                "Thank you for picking up the promissory note the other day."
                             ]
                         },
                         {
@@ -19944,14 +19608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、アンタかい？　今度は落とすなよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（抱けなくて残念だったなぁ……）"
+                                "Ah, it's you? Don't drop it again next time. (It's a shame I\ncouldn't hold you...)"
                             ]
                         },
                         {
@@ -20746,7 +20403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】私有地につき　肝試し禁止――"
+                                "[Sign] No test of courage allowed on private property--"
                             ]
                         },
                         {
@@ -20814,7 +20471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】こちらの屋敷は公儀の所有物件　立ち入りを禁ず――"
+                                "[Sign] This mansion is a property of the authorities—entry\nis prohibited--"
                             ]
                         },
                         {
@@ -20898,14 +20555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天狗てんぐ教団にようこそ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩みがあったら我らの教祖、黒曜天狗さまに相談されよ……"
+                                "Welcome to the Tengu Sect... If you have any troubles,\nconsult our spiritual leader, Kokuyou Tengu-sama..."
                             ]
                         },
                         {
@@ -20929,14 +20579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（覆面姿にふんどし一丁……　これは変態ね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うーん、怪しい団体みたいだから近づかないでおこう）"
+                                "(A masked figure in nothing but a loincloth... This is\nperverted... Hmm, it seems like a suspicious group, so I\nbetter not get too close.)"
                             ]
                         },
                         {
@@ -24425,7 +24068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】只今、外出中――　ふんどし工房"
+                                "[Sign] Currently Out - Fundoshi Workshop"
                             ]
                         },
                         {
@@ -25090,21 +24733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家賃が安いから四谷に引っ越してきたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか隣が幽霊屋敷だとは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとちゃんと調べて借りれば良かったわい……"
+                                "I moved to Yotsuya because the rent was cheap, but who would\nhave thought the place next door would be a haunted house...\nI should have researched more before renting..."
                             ]
                         },
                         {
@@ -25128,14 +24757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（幽霊相手に武器とか通じるのかなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし遭遇したら試してみたいわね）"
+                                "(I wonder if weapons work against ghosts... If I ever\nencounter one, I'd like to test that out.)"
                             ]
                         },
                         {
@@ -25210,21 +24832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前と比べて隣の屋敷から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な声とかは聞こえなくなったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幽霊も引っ越したのかね？　それとも成仏したのかな……"
+                                "Compared to before, I don't hear any strange voices from the\nmansion next door anymore. Did the ghost move out, I wonder?\nOr maybe it passed on to the afterlife..."
                             ]
                         },
                         {
@@ -25352,21 +24960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで活動していた天狗てんぐ教団は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人心を惑わした罪により幕府によって取り潰しになった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まった教祖は島流しになったという話だ。"
+                                "The Tengu cult that was active here was disbanded by the\nshogunate for the crime of leading people astray. The\ncaptured cult leader was reportedly exiled to an island."
                             ]
                         },
                         {

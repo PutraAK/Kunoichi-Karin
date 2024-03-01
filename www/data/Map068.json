@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "酒場",
+    "displayName": "Tavern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,21 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだい、姉ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはあんまり客層が良くねぇぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖い目に遭いたくなければ帰んな。"
+                                "What's up, sis? This place doesn't exactly have the best\ncrowd. If you don't want to run into trouble, you better\nhead home."
                             ]
                         },
                         {
@@ -2329,14 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前、ひどい目に遭った様だな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言っただろう？　ここは客層が悪いって……"
+                                "You had a rough time before, didn't you? I told you, didn't\nI? That the clientele here is bad..."
                             ]
                         },
                         {
@@ -2499,14 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥座敷で飲んでる輩たちには話しかけねぇほうがいいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいつら酒癖が悪くて有名だからな。"
+                                "It's best not to talk to the guys drinking in the back room.\nThey're infamous for their bad drinking habits."
                             ]
                         },
                         {
@@ -2583,14 +2555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近、夜鷹がさらわれる事件が頻発しててさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃんも夜中に出歩かないほうが身のためだぜ。"
+                                "Lately, there's been a spate of incidents where courtesans\nare being kidnapped. It'd be safer for you, young lady, not\nto wander about at night."
                             ]
                         },
                         {
@@ -4402,7 +4367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がっはっはー！　今晩も酒が美味いぜ！"
+                                "Gahahaha! The booze tastes great tonight too!"
                             ]
                         },
                         {
@@ -4426,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ん……？　この人たち……）"
+                                "(Hmm...? Who are these people...?)"
                             ]
                         },
                         {
@@ -4450,14 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　なんだい姉ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて見る顔だな？　店の子かい？"
+                                "Oh!? What's up, miss? Haven't seen your face around here\nbefore. Are you a girl from the shop?"
                             ]
                         },
                         {
@@ -4481,21 +4439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【酔っ払いB】"
+                                "【Drunkard B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちへ来て酌でもしてくんな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガハハハ――！"
+                                "Come over here and pour us some drinks! Gahahaha--!"
                             ]
                         },
                         {
@@ -4519,7 +4470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう……）"
+                                "(What should I do...)"
                             ]
                         },
                         {
@@ -4527,8 +4478,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お酌をする\\c[27]【Ｈイベント】\\c[0]",
-                                    "懇切丁寧に断る"
+                                    "Pour a drink \\c[27][H Event]\\c[0]",
+                                    "Politely decline"
                                 ],
                                 1,
                                 0,
@@ -4572,7 +4523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……いいですよ。お酌ぐらいなら。"
+                                "...Sure, I can pour some drinks."
                             ]
                         },
                         {
@@ -4596,14 +4547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おっ！　近くで見ると色っぽい子だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "若い娘さんのうなじがおじさんの好みだよ\\I[15]"
+                                "Oh! You're quite the seductive one up close. A young lady's\nnape is just to this old man's liking\\I[15]"
                             ]
                         },
                         {
@@ -4627,14 +4571,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【酔っ払いB】"
+                                "【Drunkard B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ！　こっちも酌をしてくれよ、嬢ちゃん。"
+                                "Hehe! Pour some for me too, young lady."
                             ]
                         },
                         {
@@ -4658,7 +4602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はいはい、どうぞどうぞ――"
+                                "Yes, yes, here you go--"
                             ]
                         },
                         {
@@ -4675,7 +4619,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は男たちに酒を注ぎまわった。"
+                                "--Karin went around pouring drinks for the men."
                             ]
                         },
                         {
@@ -4699,14 +4643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（……それから一時間後……）"
+                                "(...An hour later...)"
                             ]
                         },
                         {
@@ -4730,7 +4667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すぅ……　すぅ……"
+                                "Zzz... Zzz..."
                             ]
                         },
                         {
@@ -4754,7 +4691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへへ……　ぐっすり寝たようだな♪"
+                                "Hehehe... She's sound asleep, isn't she♪"
                             ]
                         },
                         {
@@ -4778,21 +4715,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【酔っ払いB】"
+                                "【Drunkard B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "途中から強い酒にこっそり変えたからなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "滅多なことじゃ起きやしねぇ。"
+                                "We switched to stronger liquor halfway through. She won't be\nwaking up easily."
                             ]
                         },
                         {
@@ -4809,28 +4739,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【酔っ払いC】"
+                                "【Drunkard C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここは個室だ。外にはバレねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無防備に寝た嬢ちゃんが悪い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酒の代金分、愉しませてもらうぜ♪"
+                                "This is a private room. No one outside will know. It's the\ngirl's fault for sleeping so defenselessly. We'll have our\nfun as payment for the booze♪"
                             ]
                         },
                         {
@@ -4854,7 +4770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すぅ……　すぅ…………"
+                                "Zzz... Zzz..."
                             ]
                         },
                         {
@@ -4871,7 +4787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――男たちは花梨の服を脱がし始めた。"
+                                "--The men began to undress Karin."
                             ]
                         },
                         {
@@ -4976,14 +4892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋６　膣内射精＋３　体外射精＋３　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "淫乱度＋５\\c[0]"
+                                "\\c[27]Main acts +6, vaginal ejaculation +3, external ejaculation\n+3, lewdness +5\\c[0]"
                             ]
                         },
                         {
@@ -5051,14 +4960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご……ごめんなさい！　私、お店の人じゃないのでっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さ、さようなら～～～～！"
+                                "I'm sorry! I'm not one of the shop's girls! Goodbye~~~!"
                             ]
                         },
                         {
@@ -5082,7 +4984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はその場から立ち去った。"
+                                "--Karin left the scene."
                             ]
                         },
                         {
@@ -5232,21 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町って、何処に行っちまったんだろうなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女が撒いた小判を拾って博打に大勝ちしたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度礼を言いたかったぜ。"
+                                "I wonder where Nezumi Komachi has gone off to... I wanted to\nthank her at least once for scattering those koban that I\npicked up and won big with at gambling."
                             ]
                         },
                         {
@@ -6044,21 +5932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭には芸子をしている用心棒がいるらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもこの前、旗本奴相手に素手で取り押さえて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コテンパンにのしたそうだぜ。"
+                                "It seems there's a bodyguard working as a geisha in the\npleasure district. I heard she took down a samurai retainer\nwith her bare hands just recently."
                             ]
                         },
                         {

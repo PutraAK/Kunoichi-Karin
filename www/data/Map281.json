@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下部屋",
+    "displayName": "Underground Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2087,7 +2087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -2335,7 +2335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【天狗のお面】\\c[0]を手に入れた！"
+                                "--\\c[17]【Tengu's Mask】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -2641,7 +2641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -4173,7 +4173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -4419,7 +4419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 Mon!\\c[0]"
                             ]
                         },
                         {

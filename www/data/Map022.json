@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋",
+    "displayName": "Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,14 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先日、玄関に小判が置いてあって驚いたのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町が配ってくれたのかね。ありがたいねぇ♪"
+                                "The other day, I was surprised to find koban (gold coins)\nplaced at the entrance. I wonder if Nezumi Komachi\ndistributed them. How grateful I am♪"
                             ]
                         },
                         {
@@ -2905,21 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上州から江戸に買出しに来たのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の将軍様は賢君で優秀な御方らしいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし叶うのなら一度お会いしたいものだ。"
+                                "I've come from Joshu to Edo to do some shopping. It seems\nthe current Shogun-sama is a wise and excellent lord. If\npossible, I would like to meet him at least once."
                             ]
                         },
                         {
@@ -2996,21 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちの田舎と比べて都会はにぎやかでええなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸の遊郭は大変豪華で遊女も美人揃いだそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊郭へ行くの楽しみだよ。えへへっ♪"
+                                "Compared to my countryside home, the city is so lively and\nnice... I've heard that the pleasure quarters in Edo are\nincredibly luxurious and filled with beautiful courtesans.\nI'm looking forward to going to the pleasure quarters.\nEhehe♪"
                             ]
                         },
                         {
@@ -3106,21 +3071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺は旅の行商人さ。貴重な実と装飾品を売ってるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでしか売ってないものだから値段は高いけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全て有用な逸品だぜ。"
+                                "I'm a traveling merchant. I sell precious fruits and\nornaments. They're exclusive to this place, so they're\npricey, but everything's a useful rarity."
                             ]
                         },
                         {
@@ -3168,14 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとな。いつでもここにいるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要な時は買いに来てくれ。"
+                                "Thanks. I'm always here, so come by when you need something."
                             ]
                         },
                         {
@@ -3370,7 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {

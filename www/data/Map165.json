@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭廃屋",
+    "displayName": "Brothel Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 80,
@@ -19893,7 +19893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21952,7 +21952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -22199,7 +22199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -22445,7 +22445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【150 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -22691,7 +22691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -22937,7 +22937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -23184,7 +23184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Swiftness】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -23431,7 +23431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -23677,7 +23677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -23984,7 +23984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -33766,7 +33766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -40002,7 +40002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……遊郭に戻りますか、花梨ちゃん？"
+                                "...Will you be returning to the red-light district, Karin-\nchan?"
                             ]
                         },
                         {
@@ -40010,8 +40010,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "撤退する",
-                                    "撤退しない"
+                                    "Retreat",
+                                    "Do not retreat"
                                 ],
                                 1,
                                 0,
@@ -40057,7 +40057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんなさい、紅葉さん。一度戻ります。"
+                                "I'm sorry, Momiji-san. I'll be returning just this once."
                             ]
                         },
                         {
@@ -40081,14 +40081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "承知しました。遊郭廃屋に行く時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また私に話しかけてください。"
+                                "Understood. Please speak to me again when you wish to go to\nthe abandoned red-light district."
                             ]
                         },
                         {
@@ -40169,7 +40162,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨たちは遊郭廃屋から撤退した！"
+                                "--Karin and her party have retreated from the abandoned red-\nlight district!"
                             ]
                         },
                         {
@@ -40476,7 +40469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]【注　紅葉の装備を強い防具や装飾品に変更してください】\\c[0]"
+                                "\\c[17]Please change Momiji's equipment to stronger armor and\naccessories."
                             ]
                         },
                         {

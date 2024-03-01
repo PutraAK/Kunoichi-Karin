@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "寺小屋",
+    "displayName": "Temple Hut",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,28 +2221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【寺小屋の先生】"
+                                "【Temple Hut Teacher】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "玄関先に小判が置いてあって驚いた次第だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "快盗ねずみ小町が置いて行ったのかわからぬが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教材費のために有難く使わせて貰うよ。"
+                                "I was surprised to find a koban coin placed at the entrance.\nI'm not sure if it was left by the Phantom Thief Nezumi\nKomachi, but I'll gratefully use it for teaching materials."
                             ]
                         },
                         {
@@ -2266,21 +2252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうですか、それは良かったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お父ちゃんが寺子屋にお金を寄付していたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私も置いて行ったけど、喜んでもらって良かったな♪）"
+                                "...Is that so, that's great. (Dad has been donating money to\nthe temple school, so I left some too. I'm glad they're\nhappy with it♪)"
                             ]
                         },
                         {
@@ -3996,7 +3968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃお……　にゃあぁん。"
+                                "Meow... Nyaaan."
                             ]
                         },
                         {
@@ -4655,14 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いま、習字の時間だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生に字を教えてもらってるの。"
+                                "It's time for calligraphy now. I'm being taught how to write\nby the teacher."
                             ]
                         },
                         {
@@ -4739,21 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕、字を書くの苦手だなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨お姉ちゃんは絵もうまいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あこがれるなぁ。"
+                                "I'm not good at writing... Karin-oneechan is also good at\ndrawing, isn't she? I admire that."
                             ]
                         },
                         {
@@ -4830,14 +4781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、ダメだよ寝ちゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生に怒られるよ……（ひそひそ）"
+                                "Hey, you can't fall asleep... Sensei will get mad at us...\n(whispering)"
                             ]
                         },
                         {
@@ -4923,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うとうと……　うとうと……"
+                                "Dozing off... Dozing off..."
                             ]
                         },
                         {
@@ -5000,7 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨おねえちゃん！　こんにちわー！"
+                                "Karin-oneechan! Hello-!"
                             ]
                         },
                         {
@@ -5084,14 +5028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お団子、家で全部食べたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お爺ちゃんも美味しそうに食べてたよ♪"
+                                "I ate all the dango at home. Grandpa also seemed to enjoy\neating them♪"
                             ]
                         },
                         {
@@ -5185,28 +5122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、お美津ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Omitsu-chan!"
                             ]
                         },
                         {
@@ -5239,28 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、花梨お姉ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざわざ寺小屋まで遊びに来てくれたんだ？　嬉しい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, Karin-neechan! Did you come all the way to the temple\nhut to play? I'm so happy♪"
                             ]
                         },
                         {
@@ -5284,14 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お栄さんからお団子を差し入れて欲しいって頼まれてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと勉強してるんだ。偉いねぇ。"
+                                "Oei-san asked me to bring some dango as a treat. You're\nstudying properly, that's great."
                             ]
                         },
                         {
@@ -5315,28 +5203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ、今お習字の時間なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんはねずみって漢字で書ける？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ehehe, it's calligraphy time right now. Neechan, can you\nwrite the kanji for 'mouse'?"
                             ]
                         },
                         {
@@ -5360,28 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ――！？　ねずみを……漢字で……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私、ねずみ小町を名乗っているのに、書けない！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Uh--!? Mouse in... kanji...? (I call myself 'Nezumi\nKomachi', but I can't write it!)"
                             ]
                         },
                         {
@@ -5405,28 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうだよ。これがねずみって漢字だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's like this. This is the kanji for 'mouse'?"
                             ]
                         },
                         {
@@ -5450,28 +5275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5502,28 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……すごい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私より漢字を知ってるんだね、お美津ちゃんは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Amazing. You know more kanji than I do, Omitsu-chan."
                             ]
                         },
                         {
@@ -5547,28 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ！　お爺ちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみを追っかけてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたし調べて漢字を覚えたんだよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ehehe! Grandpa was chasing a mouse, so I looked it up and\nlearned how to write the kanji～"
                             ]
                         },
                         {
@@ -5592,28 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふーん、そっか。それは大変だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自宅にねずみが出たのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Hmm, I see. That must have been tough. So a mouse\nappeared at your home?"
                             ]
                         },
                         {
@@ -5637,21 +5378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【寺小屋の先生】"
+                                "【Temple Hut Teacher】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、まだ授業中だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨さんも用があるなら授業が終わった後で頼むよ？"
+                                "Hey hey, class is still in session, you know? If you have\nbusiness, Karin-san, please wait until after class is over."
                             ]
                         },
                         {
@@ -5675,28 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！？　ご、ごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃね、お美津ちゃん。お団子早めに食べてね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah! Uh, sorry! Well then, Omitsu-chan. Eat the dango soon,\nokay!"
                             ]
                         },
                         {
@@ -5720,28 +5433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！　ありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お栄さんにもよろしくね～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yeah! Thank you! Say hi to Oei-san for me～"
                             ]
                         },
                         {
@@ -5777,7 +5469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は寺小屋から出て帰宅した。"
+                                "--Karin left the temple hut and went home."
                             ]
                         },
                         {
@@ -5876,28 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5921,28 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱい勉強したら夕方になっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "After studying a lot, it became evening before I knew it."
                             ]
                         },
                         {
@@ -5966,28 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおい。お美津や――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hey. Omitsu--"
                             ]
                         },
                         {
@@ -6011,28 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――あっ！？　お爺ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Ah! Grandpa!"
                             ]
                         },
                         {
@@ -6056,28 +5664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅いから迎えに来たのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあったのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I came to pick you up because it's late. Did something\nhappen?"
                             ]
                         },
                         {
@@ -6101,28 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴメンね。寺小屋が終わった後も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生からたくさん字を教えてもらったの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sorry. After the temple hut class ended, the teacher taught\nme a lot of characters!"
                             ]
                         },
                         {
@@ -6146,28 +5712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか。それは良かったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ夕飯の時間だ。早く帰ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I see. That's good. It's about time for dinner. Let's go\nhome quickly."
                             ]
                         },
                         {
@@ -6191,28 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！　お爺ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yeah! Grandpa!"
                             ]
                         },
                         {
@@ -6236,21 +5760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -6377,14 +5887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨お姉ちゃんもお習字する？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生、教えるのが上手だから、すぐ上達するよ♪"
+                                "Karin-oneechan, will you also practice calligraphy? Sensei\nis really good at teaching, so you'll improve quickly♪"
                             ]
                         },
                         {
@@ -6519,14 +6022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お腹すいたなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お昼の時間まだかなぁ……"
+                                "I'm so hungry... Is it lunchtime yet..."
                             ]
                         },
                         {
@@ -7082,7 +6578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] obtained!"
                             ]
                         },
                         {

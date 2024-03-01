@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "相模駐屯所",
+    "displayName": "Sagami Garrison",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -15760,7 +15760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】相模駐屯所　関係者以外　立入禁止"
+                                "[Sign] Unauthorized Personnel Prohibited Beyond This Point -\nSagami Garrison"
                             ]
                         },
                         {
@@ -23408,7 +23408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を３個手に入れた！"
+                                "--\\c[17]【Speed Fruit】\\c[0]Gained 3 pieces!"
                             ]
                         },
                         {
@@ -24176,7 +24176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【3500 mon】!\\c[0]"
                             ]
                         },
                         {

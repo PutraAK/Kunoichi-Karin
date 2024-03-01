@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "小田原　地下",
+    "displayName": "Odawara Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -17334,7 +17334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17581,7 +17581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -17828,7 +17828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18075,7 +18075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -18322,7 +18322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]Obtained the 【Elixir】!\\c[0]"
                             ]
                         },
                         {
@@ -18569,7 +18569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18815,7 +18815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【150 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -19061,7 +19061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 2000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -19307,7 +19307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -19553,7 +19553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 mon!\\c[0]"
                             ]
                         },
                         {
@@ -19800,7 +19800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -23266,28 +23266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイ……キュイ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeak... Squeak..."
                             ]
                         },
                         {
@@ -23311,14 +23290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　こいつ……鬼ではないな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヌメヌメして気持ち悪い……！"
+                                "--! This thing... it's not a demon, is it? It's slimy and\ndisgusting...!"
                             ]
                         },
                         {
@@ -23342,28 +23314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイイィ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeeeaaak~!"
                             ]
                         },
                         {
@@ -23387,14 +23338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃっ！　こっちは急いでいるのに邪魔をする気か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいだろう、私の二刀流で切り刻んでやる！"
+                                "Tch! Are you trying to get in my way when I'm in a hurry?\nFine then, I'll slice you to pieces with my dual-wielding!"
                             ]
                         },
                         {
@@ -23418,28 +23362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイ～～～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeeeaaaak~~~!!"
                             ]
                         },
                         {
@@ -23468,7 +23391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――蠢く触手が襲ってきた！"
+                                "--Wriggling tentacles are attacking!"
                             ]
                         },
                         {

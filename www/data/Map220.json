@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "中太郎の自宅",
+    "displayName": "Nakataro's Home",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -4389,14 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お出かけですか？　いってらっしゃい、貴方。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小太郎殿によろしくお伝えください。"
+                                "Are you going out? Take care, dear. Please give my regards\nto Kotarou-dono."
                             ]
                         },
                         {
@@ -4478,7 +4471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨晩は楽しかったですね。花梨も満足したみたいです。"
+                                "Last night was fun, wasn't it? It seems Karin was also\nsatisfied."
                             ]
                         },
                         {
@@ -4560,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはようございます、中太郎さま。"
+                                "Good morning, Nakatarou-sama."
                             ]
                         },
                         {
@@ -4584,7 +4577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはよう呼凛。　その……昨晩はスマンかったの……"
+                                "Good morning, Korin. About... last night, I'm sorry..."
                             ]
                         },
                         {
@@ -4608,14 +4601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ……　この三か月間、お忙しかったのですから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくは羽を休めてはいかがですか。"
+                                "No... You've been busy these past three months, so why not\ntake a break for a while?"
                             ]
                         },
                         {
@@ -4639,21 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうさの。本格的に冬になる前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くの隠し温泉にでも家族三人で遊びに参ろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨も喜ぶであろう。"
+                                "That's true. How about we go to a hidden hot spring nearby\nwith the family before it gets fully into winter? Karin\nwould be delighted, I'm sure."
                             ]
                         },
                         {
@@ -4677,14 +4649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ、ではそうしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小太郎殿に里から外出する許可を頼んでおきますね。"
+                                "Yes, let's do that. I will ask Koutarou-dono for permission\nto leave the village."
                             ]
                         },
                         {
@@ -4708,7 +4673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっ、きゃ……♪"
+                                "Kyaa, kya...♪"
                             ]
                         },
                         {
@@ -4798,14 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も良い天気ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寒くなる前に温泉に参りましょう。"
+                                "It's another beautiful day today. Let's go to the hot\nsprings before it gets cold."
                             ]
                         },
                         {
@@ -4896,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっ、きゃっ\\I[15]"
+                                "Kya, kya\\I[15]"
                             ]
                         },
                         {
@@ -4978,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すや……すや…………"
+                                "Zzz... Zzz..."
                             ]
                         },
                         {
@@ -5060,7 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばぶ……ばぶぅ……♪"
+                                "Babu... Babuu...♪"
                             ]
                         },
                         {
@@ -5518,7 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -5542,7 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宝剣――　相変わらず光っているの。"
+                                "This treasured sword—it still glows as always."
                             ]
                         },
                         {
@@ -5566,14 +5524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜、抜き身にすると照明代わりになって便利ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "油代も浮きますし。"
+                                "At night, when drawn, it serves as a light source. Quite\nconvenient and saves on oil too."
                             ]
                         },
                         {
@@ -5597,21 +5548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元は呼凛が落ち延びる時に一緒に持ってきた剣じゃが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先祖代々から受け継いだ宝剣というのに嘘は無さそうよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "刀身が薄く青白く光っているからの。まこと面妖な剣じゃ。"
+                                "Originally, it was the sword that Karin brought with her\nwhen she fled... It seems true that it's a treasured sword\npassed down through generations. The blade glows a pale\nblue, truly an eerie sword."
                             ]
                         },
                         {
@@ -5635,7 +5572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -5659,28 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼討の神器――　かつてそう呼ばれていましたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はもう本当の名前さえも伝わっていない剣です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "門外不出の大切な剣だから、お婆様も受け継いだだけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に使ったことがないと仰ってました。"
+                                "The demon-slaying divine weapon—it was once called that, but\nnow even its true name has been lost. It's a precious sword\nnever to leave the family, so my grandmother said she\ninherited it but never actually used it."
                             ]
                         },
                         {
@@ -5704,28 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼など実際にいないゆえ試しようがないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしこの剣、底知れぬ何かを感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼凛のご先祖様のことを思い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大切に受け継いでいかねばな――"
+                                "There's no way to test it since demons don't actually exist.\nHowever, I feel something unfathomable with this sword. I\nmust cherish it and continue to pass it down in honor of\nKarin's ancestors—"
                             ]
                         },
                         {
@@ -5846,7 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――宝剣は青白く光っている…………"
+                                "--The treasured sword is glowing pale blue..."
                             ]
                         },
                         {
@@ -6009,14 +5904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨ちゃん、でんでん太鼓好きなんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっても喜ぶんです。ふふっ♪"
+                                "Karin-chan really loves playing the pellet drum. She gets so\nhappy. Fufu♪"
                             ]
                         },
                         {
@@ -6052,7 +5940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっ、きゃっ\\I[15]"
+                                "Kya, kya\\I[15]"
                             ]
                         },
                         {
@@ -6422,28 +6310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　チュン、チュン――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Chirp, chirp--"
                             ]
                         },
                         {
@@ -6467,28 +6334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふぅ……　朝か……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Phew... Is it morning already...)"
                             ]
                         },
                         {
@@ -6519,14 +6365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お早うございます、中太郎さま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずいぶんとお疲れになってたのですね。"
+                                "Good morning, Nakatarou-sama. You seemed to be quite\nexhausted."
                             ]
                         },
                         {
@@ -6550,28 +6389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ……　無理をしたわけではないのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体が長旅で疲れていたようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が家ゆえ安心してぐっすりと寝てしまったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Indeed... I didn't overexert myself, but it seems my body\nwas tired from the long journey. I slept soundly, feeling\nsafe at home."
                             ]
                         },
                         {
@@ -6595,14 +6413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "久方ぶりです、中太郎おじさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "諜報の任務お疲れ様でした。"
+                                "It's been a while, Uncle Nakatarou. You must be tired from\nyour espionage mission."
                             ]
                         },
                         {
@@ -6626,28 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だぁっ、だぁっ――♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Daah, daah--♪"
                             ]
                         },
                         {
@@ -6678,14 +6468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、紅葉か？　三か月ぶりじゃのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久しぶりに会えて嬉しいぞ。"
+                                "Oh, Momiji? It's been three months, hasn't it? I'm glad to\nsee you after such a long time."
                             ]
                         },
                         {
@@ -6709,14 +6492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も花梨の面倒を見に来てくれたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子育てを助けてくれる人がいると本当にありがたいわ。"
+                                "You came to take care of Karin again today. It's truly a\nblessing to have someone help with child-rearing."
                             ]
                         },
                         {
@@ -6740,21 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が子供の頃、呼凛さんにいつもあやして貰ってましてたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時のお返しですよ。それに花梨ちゃんも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に良くなついてくれて嬉しいし……　ね、花梨ちゃん？"
+                                "When I was a child, you always took care of me, so this is\nmy way of returning the favor. Plus, Karin-chan has grown\nquite fond of me... right, Karin-chan?"
                             ]
                         },
                         {
@@ -6778,7 +6540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばぶうっ、ばぶあっ――♪"
+                                "Babuuh, babuah--♪"
                             ]
                         },
                         {
@@ -6809,14 +6571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂が留守の間、花梨の面倒をよく見てくれたと聞いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "礼を申すぞ紅葉。"
+                                "I've heard that you took good care of Karin while I was\naway. I am grateful to you, Momiji."
                             ]
                         },
                         {
@@ -6840,14 +6595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ……　それで父の小太郎が上方の話を聞きたい故"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "館へ来て欲しいと申しておりました。"
+                                "No... And so, my father Kotarou would like to hear about the\nsituation in the capital and has asked for you to come to\nthe mansion."
                             ]
                         },
                         {
@@ -6871,14 +6619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。これから風魔の館へ伺おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭領にはたくさん伝えるべき話があるのでな。"
+                                "Ah, I shall visit the Fuma mansion shortly. There are indeed\nmany things I need to report to the leader."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "指圧屋",
+    "displayName": "Acupressure Parlor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2641,7 +2641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -3067,7 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -3382,28 +3382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、いらっしゃい。若い娘さんが来るとは珍しいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, welcome. It's rare to see a young lady come in."
                             ]
                         },
                         {
@@ -3427,14 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは。勝手に入っちゃってすみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このお店は……？"
+                                "Hello. Sorry for coming in uninvited. What kind of shop is\nthis...?"
                             ]
                         },
                         {
@@ -3458,14 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "指圧屋だよ。お客さんは年寄りが多いから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君のような娘さんが来るとちょっと緊張するね。"
+                                "It's a shiatsu massage place. Most of my customers are\nelderly, so I get a bit nervous when a young lady like you\ncomes in."
                             ]
                         },
                         {
@@ -3489,28 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ～　指圧ですか？　面白そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh? Shiatsu, huh? Sounds interesting."
                             ]
                         },
                         {
@@ -3534,28 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肩とか凝ってないかい？　今なら安くするよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Are your shoulders stiff? I can give you a discount right\nnow?"
                             ]
                         },
                         {
@@ -3579,7 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（指圧かぁ……　骨休みには良いかも……）\\$"
+                                "(Shiatsu, huh... It might be good for some rest...)"
                             ]
                         },
                         {
@@ -3587,8 +3510,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一番いい指圧を頼む（１０００文必要）",
-                                    "店から出る"
+                                    "I'll take the best acupressure treatment (1000 mon needed)",
+                                    "Leave the shop"
                                 ],
                                 1,
                                 0,
@@ -3634,28 +3557,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうですね。せっかくだから指圧をお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Well, since I'm here, I'd like to ask for a shiatsu massage,\nplease."
                             ]
                         },
                         {
@@ -3679,28 +3581,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお、本当かい？　よぉし、じゃあそこの布団に寝転んで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "服はそのままで大丈夫だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Oh, really? Alright then, lie down on that futon over there.\nYou can keep your clothes on, it's fine."
                             ]
                         },
                         {
@@ -3724,28 +3605,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（最近、肩と腰が凝ってたのよね。ちょうど良い機会だわ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "(I've been having some stiffness in my shoulders and back\nlately. This is a good opportunity.)"
                             ]
                         },
                         {
@@ -3778,21 +3638,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は１０００文を支払い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "うつぶせの状態で布団に寝転んだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--Karin paid 1000 mon and lay face down on the futon."
                             ]
                         },
                         {
@@ -3823,28 +3669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……はい。これ施術は終わったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうだい。体の調子は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "...Alright. The treatment is finished. How do you feel?\nHow's your body feeling?"
                             ]
                         },
                         {
@@ -3868,28 +3693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁ……　ほんと最高の心地でした……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まるで生まれ変わったような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "体の凝りが全部吹っ飛びました\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Ah... It was truly the best feeling... It's like I've been\nreborn... All the stiffness in my body has been blown\naway\\I[15]"
                             ]
                         },
                         {
@@ -3913,28 +3717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はっはっは！　そりゃ良かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺の指圧が気に入ってくれたらまた来てくれよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Ha ha ha! That's great to hear! If you liked my shiatsu,\nmake sure to come again."
                             ]
                         },
                         {
@@ -3958,28 +3741,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい！　また疲労が溜まったら、必ず来ますね\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Yes! I'll definitely come back when I'm feeling fatigued\nagain\\I[15]"
                             ]
                         },
                         {
@@ -4028,21 +3790,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]――花梨の体力の最大値が２０上昇！\\c[0]"
+                                "\\c[17]Karin'S Max Hp Has Increased By 20!\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――体力と技術が全回復した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\|\\|"
+                                "--Karin's Max HP and Technique have fully recovered!"
                             ]
                         },
                         {
@@ -4100,7 +3855,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]淫乱度＋１０\\c[0]"
+                                "\\c[27]Lewdness +10\\c[0]"
                             ]
                         },
                         {
@@ -4141,7 +3896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません――"
+                                "You don't have enough money--"
                             ]
                         },
                         {
@@ -4188,7 +3943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんなさい、他にやることがあるので……"
+                                "I'm sorry, but I have other things to do..."
                             ]
                         },
                         {
@@ -4212,7 +3967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃ残念だ。いつでもお店やってるから来てくれよな。"
+                                "That's too bad. The shop is always open, so come by anytime."
                             ]
                         },
                         {

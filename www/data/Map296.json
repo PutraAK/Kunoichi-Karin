@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "幽霊屋敷",
+    "displayName": "Haunted Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2375,7 +2375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -2954,28 +2954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ドクン――　ドクン――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Thump--Thump-->"
                             ]
                         },
                         {
@@ -3030,28 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！（激しい胸騒ぎが……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! (This intense feeling in my chest...!?)"
                             ]
                         },
                         {
@@ -3075,28 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたんだ、花梨？　体調が悪いのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's wrong, Karin? Are you feeling ill?"
                             ]
                         },
                         {
@@ -3120,28 +3057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ……　体調は問題ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、どうもこの奥にとんでもない鬼がいるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No... I'm not feeling unwell. But it seems like there's an\nincredibly powerful demon deeper inside."
                             ]
                         },
                         {
@@ -3165,28 +3081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに？　どうしてわかるのだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What? How can you tell?"
                             ]
                         },
                         {
@@ -3210,28 +3105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故かわからないけど、心臓の鼓動が速くなるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて小鬼にあった時にも感じたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いなく、この先に桁違いの相手がいるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I don't know why, but my heart is beating faster. I felt\nthis when I first encountered a lesser demon, but I'm\ncertain there's an extraordinary foe ahead."
                             ]
                         },
                         {
@@ -3255,14 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "承知した。勘か何か知らないが、お前の言うことを信じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "互いに警戒しながら油断せず先へ進もう。"
+                                "Understood. I don't know if it's intuition or something\nelse, but I'll trust what you say. Let's proceed with\ncaution and stay alert."
                             ]
                         },
                         {
@@ -3286,7 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……その……　この先に行く前に一つ質問いいかな？"
+                                "...Um... Can I ask you something before we go any further?"
                             ]
                         },
                         {
@@ -3310,7 +3177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………？　なんだ花梨、急に改まって。"
+                                "...? What is it, Karin? You're being so formal all of a\nsudden."
                             ]
                         },
                         {
@@ -3334,28 +3201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧ちゃんってさ、鬼に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並々ならぬ憎しみを感じるんだけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはどうして？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yugiri-chan, you seem to harbor an exceptional hatred\ntowards demons... Why is that?"
                             ]
                         },
                         {
@@ -3379,28 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは敵地だぞ。のんびり話す余裕などない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is enemy territory. We don't have the luxury to chat\nleisurely."
                             ]
                         },
                         {
@@ -3424,14 +3249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……公儀隠密の忍者が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　軽々と自分のことを語るわけないよね）"
+                                "(...It's not like a ninja of the shogunate's secret service\nwould casually talk about themselves.)"
                             ]
                         },
                         {
@@ -3455,21 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一つだけ言うのなら、私にとって鬼は敵であり仇――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全ての鬼を倒し尽くすと幼少の頃に決めたのだ。"
+                                "Well... If I were to say just one thing, it's that demons\nare my enemies and my vendetta—I decided to exterminate all\nof them when I was very young."
                             ]
                         },
                         {
@@ -3493,28 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3550,28 +3333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この世にいる鬼たちを全て葬って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の様な境遇の人間が二度と現れない世を作ること――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが私の生きる目的だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ洞窟の奥に進むぞ。この先に鬼の頭がいるのだろう？"
+                                "To bury all the demons in this world and create a place\nwhere no one else has to live through what I did—that's my\npurpose in life. Now, let's move on into the depths of the\ncave. The demon leader is ahead, isn't he?"
                             ]
                         },
                         {
@@ -3607,14 +3369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん。行こう――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここからは敵が多いみたいだから気をつけて。"
+                                "Yeah. Let's go—there seem to be many enemies from here on,\nso let's be careful."
                             ]
                         },
                         {

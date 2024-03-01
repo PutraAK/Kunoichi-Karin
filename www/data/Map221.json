@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔の館",
+    "displayName": "Mansion of the Wind Demon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5278,7 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【風魔の館・当主の間】――――"
+                                "----[Fuma Clan Mansion. Lord's Chamber]----"
                             ]
                         },
                         {
@@ -5302,28 +5302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、兄者！　よくぞ無事に帰って来た！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, elder brother! You've returned safely!"
                             ]
                         },
                         {
@@ -5347,14 +5326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風魔ご当主様におかれましては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご壮健そうで何よりでござる。昨日帰還いたしました。"
+                                "Lord Fuma, you seem to be in good health, which is a relief.\nI returned yesterday."
                             ]
                         },
                         {
@@ -5378,14 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハッ、そのように恭しくせんでもよいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人払いはしてある。いつもの口調で構わぬよ、兄者。"
+                                "Ha ha! No need to be so formal. I've sent everyone away. You\ncan speak as you usually do, elder brother."
                             ]
                         },
                         {
@@ -5409,28 +5374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回の任務はさすがに疲れたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若い時と違って儂も齢をとったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今朝は不覚にも寝坊をしてしまったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This mission was indeed exhausting. I'm not as young as I\nused to be. This morning, I even overslept."
                             ]
                         },
                         {
@@ -5454,28 +5398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご苦労だったな。上方の動向はどうであった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり関東まで攻め寄せてくる気か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You've worked hard. What's the situation in the capital? Are\nthey really planning to advance to Kanto?"
                             ]
                         },
                         {
@@ -5499,28 +5422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。兵士も鉄砲も軍船も並の数ではなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく年を越せば全軍動員して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小田原まで進軍して来るであろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Indeed. The number of soldiers, guns, and warships was\nextraordinary. It's likely that by the end of the year, they\nwill mobilize the entire army and march to Odawara."
                             ]
                         },
                         {
@@ -5544,28 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵の兵数はどれくらいだ？　５万ほどか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "How many troops does the enemy have? About 50,000?"
                             ]
                         },
                         {
@@ -5589,28 +5470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……聞いて驚くな。２０万以上だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Prepare to be shocked. Over 200,000."
                             ]
                         },
                         {
@@ -5641,28 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！　に、２０万の軍勢だと……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのような大軍勢を上方軍は組織立てるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!! 200,000 troops...!? Can the capital's army really\norganize such a massive force?"
                             ]
                         },
                         {
@@ -5686,28 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし奥州の軍も加われば全兵力は２５万にもなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小田原には里へ戻る前に報告済みだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大坂の城には兵糧も申し分なく米蔵に買い貯めあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵站も何も問題なく大軍を率いて関東に攻めて来るであろう。"
+                                "If the armies from Oshu join them, the total force could\nreach 250,000. I've already reported this to Odawara before\nreturning to the village. Osaka Castle has ample provisions,\nand the rice stores are well stocked. They'll have no\nproblem leading a large army to Kanto."
                             ]
                         },
                         {
@@ -5731,28 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！　２０万とは……とても信じられぬ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! Over 200,000... It's hard to believe..."
                             ]
                         },
                         {
@@ -5776,28 +5573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5821,28 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なぁ、小太郎よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実の弟であるお前としか話せぬことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いてくれるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Hey, Kotaro. There's something I can only discuss with\nyou, my true brother. Will you listen?"
                             ]
                         },
                         {
@@ -5866,7 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………？　俺にしか話せぬこと……？"
+                                "...? Something you can only discuss with me...?"
                             ]
                         },
                         {
@@ -5890,28 +5645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここだけの話、我ら上方軍へつかぬか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが我ら風魔党が生き残る術だと儂は確信している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is just between us, but should we not join the\ncapital's army? I am convinced that is how our Fuma clan\nwill survive."
                             ]
                         },
                         {
@@ -5935,28 +5669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　上方へ？　小田原を裏切れと――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? Join the capital? Betray Odawara--?"
                             ]
                         },
                         {
@@ -5980,28 +5693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。向こうはこのままだと本気で攻めてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従属せぬ大名はどうなるか、全国の大名家たちへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せつけるためだ。一切の妥協はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. If things continue as they are, they will seriously\nattack us. Any lord who does not submit will be made an\nexample of for all the daimyo across the country. There will\nbe no compromise."
                             ]
                         },
                         {
@@ -6025,28 +5717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぬぬ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Grrr...!"
                             ]
                         },
                         {
@@ -6070,28 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてこの大戦の結果次第で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我ら風魔一族は歴史の渦に巻き込まれて消え去ることになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "And depending on the outcome of this great war, our Fuma\nclan could be swept away by the tides of history."
                             ]
                         },
                         {
@@ -6115,28 +5765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~~~~~!"
                             ]
                         },
                         {
@@ -6160,28 +5789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天地神明に誓って嘘はついていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵に偽情報を掴まされたわけでもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手は天下をほぼ手中にしている規格外の大大大名だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂は里の滅亡を避けたいのだ。わかってくれ、小太郎――"
+                                "I swear to the gods above and below that I am not lying. We\nhaven't been fed false information by the enemy. The\nopponent is an extraordinary daimyo who nearly has the whole\ncountry in his grasp. I want to avoid the destruction of our\nvillage. Understand me, Kotaro--"
                             ]
                         },
                         {
@@ -6205,21 +5813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……造反など無理だ。この度の上野（こうずけ）で起きた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "惣無事令違反の戦は我ら風魔も参加した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今さら寝返りなどできようか。上方も許さぬであろう。"
+                                "...Rebellion is impossible. We participated in the recent\nbattle in Kozuke that violated the peace edict. How could we\npossibly turn traitor now? The capital would never allow it."
                             ]
                         },
                         {
@@ -6243,28 +5837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6288,28 +5861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我ら風魔は五代に渡って小田原方に仕えてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ相応の褒美も金も惜しみなく貰った一族だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆえに兄者が上方へ諜報に出ている間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "館の屋根も茅葺きから瓦にできた。"
+                                "We Fuma have served the Odawara side for five generations.\nWe've received ample rewards and gold from them. That's why\nwe were able to change from thatched to tiled roofing on the\nmansion while elder brother was spying in the capital."
                             ]
                         },
                         {
@@ -6333,28 +5885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……愚かな。屋根瓦など、京や大坂では何も珍しくない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上方では寺社や城は当たり前。商家も瓦も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "民家でさえ瓦であったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Foolish. Tiled roofs are nothing unusual in Kyoto or\nOsaka. Temples, shrines, and castles there naturally have\nthem. Even merchants and common houses are tiled."
                             ]
                         },
                         {
@@ -6378,14 +5909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！　我を侮辱する気か！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例え実の兄でも風魔の当主として許さぬぞ！？"
+                                "~~~~~! Are you insulting me?! Even if you are my true\nbrother, I will not tolerate such disrespect as the head of\nthe Fuma!"
                             ]
                         },
                         {
@@ -6409,28 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "田舎の一年、京の昼寝という言葉もある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく向こうは我らと比べて圧倒的に優れているのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂も悔しいがな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\"A year in the countryside is like an afternoon nap in\nKyoto.\" Anyway, they are overwhelmingly superior to us in\nevery way. It pains me to admit it..."
                             ]
                         },
                         {
@@ -6454,28 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~~~~~!!"
                             ]
                         },
                         {
@@ -6499,28 +5981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6549,28 +6010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　がらら……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<rustle rustle...>"
                             ]
                         },
                         {
@@ -6594,21 +6034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの……　お話の所すみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今晩、中太郎伯父さんの慰労会を開こうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆で考えているのですが、よろしいですか？"
+                                "Excuse me for interrupting your conversation. We were\nthinking of holding a celebration tonight for Uncle\nChutaro's safe return. Is that alright?"
                             ]
                         },
                         {
@@ -6632,28 +6058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉ッ！　今、大事な話をしている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼んでいないのに勝手に襖を開けるでないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Momiji! We're having an important discussion here! Don't\njust open the sliding doors without being called!"
                             ]
                         },
                         {
@@ -6684,28 +6089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ！　も、申し訳ありません、父上……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ouch! My apologies, Father...!"
                             ]
                         },
                         {
@@ -6729,28 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すまねぇ！　紅葉じゃなくて俺が提案したんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許してやってくれ、お頭――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sorry! It wasn't Momiji's idea; it was mine! Please forgive\nus, boss--!"
                             ]
                         },
                         {
@@ -6781,28 +6144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6826,28 +6168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……わかった。とにかく任務ご苦労であった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中太郎の慰労のために、今夜宴席を開こう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔の里の皆全員に知らせておけ、青丸。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Understood. Anyway, you've done well on your mission.\nLet's hold a banquet tonight to celebrate Chutaro's return.\nInform everyone in the Fuma village, Aomaru."
                             ]
                         },
                         {
@@ -6871,28 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ！　ありがてぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ里の皆に伝えておきますぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "料理もわんさか用意しますんで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heheh! Thanks a lot! I'll let everyone know! We'll prepare\nloads of food!"
                             ]
                         },
                         {
@@ -6916,7 +6216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大事なお話の所、申し訳ありませんでした……"
+                                "I apologize for interrupting your important conversation..."
                             ]
                         },
                         {
@@ -6940,28 +6240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6985,28 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7110,28 +6368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7155,28 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぇっ！　お頭もあんなに怒ることもないのにさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思わねぇか、紅葉？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Tch! The boss didn't have to get so angry. Don't you think\nso, Momiji?"
                             ]
                         },
                         {
@@ -7200,28 +6416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……？　父上と中太郎さん、二人とも表情が暗かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何かあったのかな……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(...? Father and Chutaro-san both had grim expressions. I\nwonder if something happened...)"
                             ]
                         },
                         {
@@ -7245,28 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7365,28 +6539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7410,28 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7455,28 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ご思案されているようですな、ご当主殿――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...It seems you are deep in thought, my lord--"
                             ]
                         },
                         {
@@ -7500,28 +6611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "蓬竹爺か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さては先ほどの会話、秘かに物陰で聞いていたな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Houzukijii... You were secretly listening to our\nconversation from behind the scenes, weren't you?"
                             ]
                         },
                         {
@@ -7545,28 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すみませぬ。つい忍びの習性で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I apologize. It's just a habit of a shinobi..."
                             ]
                         },
                         {
@@ -7590,28 +6659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正直どう思う……？　上方へ組しろという兄者の提案は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What do you honestly think... about the proposal from my\nbrother to align with the upper ranks?"
                             ]
                         },
                         {
@@ -7635,28 +6683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホッホッホ。儂のような年寄りに判断は無理ですわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出たとこ勝負ではないですかのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ho ho ho. It's impossible for an old man like me to judge.\nIsn't it a gamble either way?"
                             ]
                         },
                         {
@@ -7680,28 +6707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7725,28 +6731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利を求め上方に寝返り、風魔の里を生かすか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "義を重んじ、今まで通り恩のある小田原方に助力するか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔のご当主である小太郎様のご判断に全てお任せします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我ら一党は刃となり敵を斬るだけにそうらえば――"
+                                "To seek profit by defecting to the upper ranks and\npreserving the Fuma village, or to honor our debts and\ncontinue assisting the Odawara side as we have always\ndone... I leave all decisions to you, Lord Kotaro, the head\nof the Fuma clan. We, your party, will simply become blades\nto cut down our enemies if you so command--"
                             ]
                         },
                         {
@@ -7770,28 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7815,28 +6779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8122,28 +7065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【中太郎の家】――――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----[Chutaro's House]----"
                             ]
                         },
                         {
@@ -8160,28 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8205,28 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぅ……ぐぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Zzz... Zzz..."
                             ]
                         },
                         {
@@ -8250,7 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（幸せそうに寝ているわね。どんな夢を見ているのかしら）"
+                                "(He seems to be sleeping peacefully. I wonder what kind of\ndreams he's having.)"
                             ]
                         },
                         {
@@ -8274,28 +7154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ガララ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Garara...>"
                             ]
                         },
                         {
@@ -8319,28 +7178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼凛、ただいま戻ったぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Korin, I have returned."
                             ]
                         },
                         {
@@ -8364,28 +7202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お帰りなさい。小太郎殿との対面、どうでしたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Welcome back. How was your meeting with Lord Kotaro?"
                             ]
                         },
                         {
@@ -8409,28 +7226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8454,28 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……何かあったのですか？　表情がお暗いですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Did something happen? You look troubled..."
                             ]
                         },
                         {
@@ -8499,28 +7274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。儂も少し言い過ぎたやもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが……大事な風魔の未来がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしても言わずにはいれなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah. Perhaps I spoke too harshly. But... the future of Fuma\nis at stake. I had to speak my mind no matter what."
                             ]
                         },
                         {
@@ -8544,28 +7298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが留守の間にも里にも噂は伝わっていました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままだと本当に戦になるのではないかと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上方軍はそれほどまでに強く、大勢なのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "While you were away, rumors reached the village as well.\nPeople are saying that it might truly lead to war... Is the\nupper ranks' army really that strong and numerous?"
                             ]
                         },
                         {
@@ -8589,28 +7322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。判断を誤れば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれこの里も火の海になるやもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に困ったことだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm. If we make the wrong decision, this village might\neventually be engulfed in flames. It's a troubling situation\nindeed..."
                             ]
                         },
                         {
@@ -8634,28 +7346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうですか…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨のような何も知らぬ子供たちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "災禍が降りかかねば良いのですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I see... I just hope that children like Karin, who know\nnothing of this, will be spared from any disaster..."
                             ]
                         },
                         {
@@ -8679,28 +7370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶぅ……だぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Buu... Daa..."
                             ]
                         },
                         {
@@ -8724,28 +7394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、目を覚ましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから日が暮れたら小太郎が宴会を催してくれるそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったら花梨と一緒に来るか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, have you woken up? When the day turns to dusk, Kotaro is\ngoing to host a banquet. Would you like to come with Karin?"
                             ]
                         },
                         {
@@ -8769,14 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "承知しました。このところ私の身体の調子も良いので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨を連れて参りましょう。"
+                                "I understand. I've been feeling well lately, so I will bring\nKarin along."
                             ]
                         },
                         {
@@ -8807,28 +7449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あう……ばぶぅ……♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah... Babu...♪"
                             ]
                         },
                         {
@@ -8859,21 +7480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -9086,28 +7693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【風魔の館】――――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----[Fuma Mansion]----"
                             ]
                         },
                         {
@@ -9124,28 +7710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　わいわい――　がやがや――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Waiwai-- Gaya Gaya-->"
                             ]
                         },
                         {
@@ -9169,28 +7734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――皆の者、全員揃ったか？　では今宵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長い諜報から帰って来た中太郎の無事を祝って宴を行う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無礼講だ。楽しくやってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Has everyone gathered? Then let us commence tonight's\nfeast to celebrate Chutaro's safe return from his long\nespionage mission. It's an open house tonight. Have fun\neveryone."
                             ]
                         },
                         {
@@ -9226,14 +7770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【風魔一党】"
+                                "【Fuma Clan】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　乾杯――！"
+                                "Ooh! Cheers--!"
                             ]
                         },
                         {
@@ -9250,28 +7794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9295,7 +7818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任務ご苦労であったな、中太郎殿。ささ、一献。"
+                                "You've worked hard on your mission, Lord Chutaro. Come,\nlet's drink."
                             ]
                         },
                         {
@@ -9319,7 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。有難う、間柄殿。"
+                                "Yes, thank you, Aibara-dono."
                             ]
                         },
                         {
@@ -9343,28 +7866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この里は賑やかで良い。風魔の里へ来て５年になるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のような主家が滅びた浪人者を受け入れてくれたこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても感謝している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This village is lively and nice. It's been five years since\nI came to the Fuma village, and I'm very grateful that they\naccepted a ronin like me whose lord's house had fallen."
                             ]
                         },
                         {
@@ -9388,21 +7890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間柄殿は確か越前の出身だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔も誰もがを受け入れているわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そなたが武芸の達人であり、鍛冶の腕も上級者だからよ。"
+                                "Aibara-dono is from Echizen, if I recall correctly. Not just\nanyone is accepted into the Fuma. It's because you are a\nmaster of martial arts and also an expert blacksmith."
                             ]
                         },
                         {
@@ -9426,28 +7914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフッ。自分で言うのもなんだが、芸は身を助けるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "主家が滅び浪人として各地を彷徨っていた拙者にとって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この風魔の里は命の恩人ということだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "合戦になれば一番槍として先陣を切らせてもらうぞ。"
+                                "Heh, it may sound self-serving, but skills do save one's\nlife. For someone like me who became a ronin and wandered\nafter my lord's house fell, this Fuma village has been my\nsavior. If there's a battle, I'll be the first to spearhead\nthe charge."
                             ]
                         },
                         {
@@ -9471,7 +7938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まぁ、大きな戦が起きぬことを儂は願うがの。"
+                                "...Well, I do hope that no major battles occur."
                             ]
                         },
                         {
@@ -9495,21 +7962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時に呼凛殿が持っている刀、拙者に見せてくれぬか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "６００年以上前に作られたと噂に聞いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと気になっているのだが……"
+                                "By the way, Aibara-dono, could you show me the sword you\ncarry? I've been curious about it ever since I heard rumors\nthat it was made over 600 years ago..."
                             ]
                         },
                         {
@@ -9533,21 +7986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい、間柄さん……　アレは門外不出の剣でして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安易に人に見せてはいけないと祖母からきつく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言われておりますので……"
+                                "I'm sorry, Aibara-san... That sword is not to be shown\nlightly as it's strictly forbidden to be taken outside the\ngate, and my grandmother has strictly told me not to show it\nto others..."
                             ]
                         },
                         {
@@ -9571,28 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅむ、そうか……　いや、拙者の鍛冶の腕を上げるために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神の名がつく宝剣とやらを見たかったのだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえ、門外不出なら致し方ありませぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理を申したこと、お詫びいたす。"
+                                "Hmm, is that so... No, I wanted to see this divine-named\ntreasure sword to improve my blacksmithing skills... But if\nit's forbidden, then there's nothing to be done. I apologize\nfor asking too much."
                             ]
                         },
                         {
@@ -9616,21 +8034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、そうだ。言い忘れておったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長旅で間柄殿に作ってもらった剣の目釘や鍔が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緩んでしまった。直してもらえるか？"
+                                "Oh, that reminds me. The sword you made for me on my long\njourney has become loose at the hilt and guard. Could you\nfix it?"
                             ]
                         },
                         {
@@ -9654,14 +8058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。では預かっておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日以降、修理して持って参る。"
+                                "Hmm. Then I shall take it with me. I'll repair it and bring\nit back after tomorrow."
                             ]
                         },
                         {
@@ -9685,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬな。どうか頼んだぞ。"
+                                "My apologies. I'm counting on you."
                             ]
                         },
                         {
@@ -9709,7 +8106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっきゃっ♪"
+                                "Kyaha kyaha♪"
                             ]
                         },
                         {
@@ -9808,28 +8205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　わいわい――　がやがや――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Waiwai-- Gaya Gaya-->"
                             ]
                         },
                         {
@@ -9853,28 +8229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さささっ！　中太郎さま\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間柄殿と喋ってばかりでなく、わたくしのお酒もどうぞ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Come now, Chutaro-sama\\I[15], don't just talk with Aibara-\ndono, please enjoy my sake as well♪"
                             ]
                         },
                         {
@@ -9898,28 +8253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、すまぬな家菊――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしそんなに並々と杯に酒をつがれても困るぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, my apologies, Iekiku-- but if you pour so much sake\ninto every cup, it will be troublesome, won't it?"
                             ]
                         },
                         {
@@ -9943,28 +8277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウフフフ\\I[15]　中太郎さまはお酒にお強いでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁさぁ、遠慮せずにお飲みくださいませ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ufufufu\\I[15], Chutaro-sama can handle his liquor, can't he?\nCome now, don't be shy and please drink up\\I[15]"
                             ]
                         },
                         {
@@ -9988,14 +8301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この酒、よく見ると不思議な色をしているの……）"
+                                "----!? (This sake... upon closer inspection, it has a\nstrange color...)"
                             ]
                         },
                         {
@@ -10019,28 +8325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、中太郎さん。その酒は飲まねぇ方がいいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉ちゃんが惚れ薬やら精力剤やらを混ぜ込んだヤバイ酒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲んだらどうなるか、わかったもんじゃないぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Whoa there, Chutaro-san. You better not drink that sake. Sis\nhas mixed in some love potion and aphrodisiacs into that\ndangerous drink. Who knows what will happen if you drink it♪"
                             ]
                         },
                         {
@@ -10064,28 +8349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、コラッ！　青丸！　余計なことを――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hey! Aomaru! Don't say unnecessary things--!"
                             ]
                         },
                         {
@@ -10109,28 +8373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……この酒、庭に捨ててきてよいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...May I dispose of this sake in the garden?"
                             ]
                         },
                         {
@@ -10154,28 +8397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何回も試して完成させたのに！　せっかく作ったんですよ！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一口だけでもいいから飲んでくださいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I've tested it many times to perfect it! I made it with\ngreat care! Even just one sip would be fine, please drink\nit!"
                             ]
                         },
                         {
@@ -10199,28 +8421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ちょっと、うちの亭主に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しいお酒を飲ませないで貰えます、家菊さん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Excuse me, Iekiku-san, could you please not give my\nhusband such suspicious drinks?"
                             ]
                         },
                         {
@@ -10244,7 +8445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばぶぅ……　ばぶっ――"
+                                "Babu... babu--"
                             ]
                         },
                         {
@@ -10282,28 +8483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげげっ――！？　こ、呼凛さん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘の花梨ちゃんまで――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めっ、珍しいですね？　宴会に顔出すなんて？　あははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugege--!? Ko-, Korin-san!? Even your daughter Karin-chan--?\nWell, this is rare? It's unusual for you to show up at a\nbanquet? Ahahaha!"
                             ]
                         },
                         {
@@ -10327,28 +8507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨も落ち着きが良くなってきましたので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし泣いたら外であやしますから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宴会の邪魔はしませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin has become more settled now. If she cries, I'll take\nher outside... We won't disturb the banquet."
                             ]
                         },
                         {
@@ -10372,28 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうですか？　では中太郎さん、また今度"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の特注酒を飲んでくださいね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふっ――\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is that so? Then Chutaro-san, please try my special sake\nanother time? Ufufu--\\I[15]"
                             ]
                         },
                         {
@@ -10417,7 +8555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じーっ…………"
+                                "Stare..."
                             ]
                         },
                         {
@@ -10441,28 +8579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん……？　なんじゃ、その目は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忍びの儂があんな怪しい酒、飲むわけはなかろうに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hm...? What's with that look? As a shinobi, there's no way I\nwould drink such suspicious sake."
                             ]
                         },
                         {
@@ -10486,28 +8603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10531,28 +8627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こらっ――！　青丸！　貴方が一言いわなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中太郎様は私のものになったのに！（グリグリ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hey!-- Aomaru! If you hadn't said anything, Chutaro-sama\nwould have been mine! (Gripping tightly!)"
                             ]
                         },
                         {
@@ -10583,28 +8658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたたたっ！？　姉ちゃんもいい加減諦めなよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中太郎さんと呼凛さん、結婚してから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう何年も経ってるんだからさ！　赤ん坊もいるんだぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ouch ouch ouch! Sis, give it a rest already! Chutaro-san and\nKorin-san have been married for years now! They even have a\nbaby!"
                             ]
                         },
                         {
@@ -10628,28 +8682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　わいわい――　がやがや――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Waiwai-- Gaya Gaya-->"
                             ]
                         },
                         {
@@ -10673,7 +8706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれ？　珍しい。花梨ちゃんも連れて来たんですね。"
+                                "...Huh? That's unusual. You brought Karin-chan along too."
                             ]
                         },
                         {
@@ -10697,14 +8730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。こういう大勢の人がいる場所へ連れてきて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れさせないと人見知りになってしまいますから。"
+                                "Yes. It's important to get her used to being around lots of\npeople so she doesn't become shy."
                             ]
                         },
                         {
@@ -10728,7 +8754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んうぅ……　うつら……うつら……"
+                                "Nuu... dozing off... dozing off..."
                             ]
                         },
                         {
@@ -10752,28 +8778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、でもとっても眠そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理もない。赤ん坊は寝ている時間ですもんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, but she looks very sleepy. It can't be helped. Babies\nneed their sleep after all."
                             ]
                         },
                         {
@@ -10797,21 +8802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宴もたけなわだが仕方あるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで寝させたら風邪をひいてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ帰るか。"
+                                "The party is in full swing, but it can't be helped. If we\nlet her sleep here, she might catch a cold. It might be time\nto head back."
                             ]
                         },
                         {
@@ -10835,28 +8826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、兄者。もう帰るのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's this, brother? Are you leaving already?"
                             ]
                         },
                         {
@@ -10880,7 +8850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬな。花梨がもうおねむのようでな。"
+                                "I'm sorry. It seems Karin is already sleepy."
                             ]
                         },
                         {
@@ -10904,7 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……んがっ…………　すやぁ……"
+                                "...Ngh... snooze..."
                             ]
                         },
                         {
@@ -10928,21 +8898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兄者と呼凛殿の血を引いている花梨は将来が楽しみだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅葉と歳が１０以上も離れているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従兄弟同士、仲良く風魔の里の未来を築いて欲しいのぅ。"
+                                "Karin, who carries the blood of my brother and Lady Korin,\nhas a promising future. She's over 10 years younger than\nMomiji, but as cousins, I hope they get along well and build\na bright future for the Fuma clan."
                             ]
                         },
                         {
@@ -10966,7 +8922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃな……　親としては幸せを願うばかりよ。"
+                                "Indeed... As a parent, all I can wish for is her happiness."
                             ]
                         },
                         {
@@ -10990,28 +8946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中太郎さんが留守の間、小太郎さんには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々と援助して頂いたんですよ。大根もたくさん頂いて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "While Chutaro-san was away, Kotaro-san provided us with a\nlot of support. We even received many radishes."
                             ]
                         },
                         {
@@ -11035,7 +8970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左様か。心遣いすまぬな、小太郎。"
+                                "Is that so? I apologize for the trouble, Kotaro."
                             ]
                         },
                         {
@@ -11059,28 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは当然であろう。今回の任務は重要な仕事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の指示で一番優秀な忍びである兄者を上方に派遣したのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅葉もこの三か月の間、呼凛殿の子育ての負担を減らすため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良くやってくれた。"
+                                "It's only natural. This mission was of great importance. I\nsent my most skilled ninja, my brother, to the capital on my\norders. Momiji has also done well in reducing the burden of\nchild-rearing on Lady Korin during these three months."
                             ]
                         },
                         {
@@ -11104,28 +9018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ……　そう言って頂けると嬉しいです、父上。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hehe... I'm glad to hear you say that, Father."
                             ]
                         },
                         {
@@ -11149,28 +9042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兄者。帰る前に一献――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この風魔の里がこれからも繁栄することを願って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Brother, before you leave, let's have a toast--wishing for\nthe continued prosperity of our Fuma village."
                             ]
                         },
                         {
@@ -11201,14 +9073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。かたじけないな、ご当主殿――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我ら風魔党の栄達を願って――"
+                                "Ah, I am grateful, Lord--here's to the success and\nprosperity of our Fuma party--"
                             ]
                         },
                         {
@@ -11232,21 +9097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -13878,21 +11729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三か月の間、特段にかわったことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しいていえば小田原の方で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器や鎧の値が高くなったことくらいですな。"
+                                "Nothing particularly changed over the course of three\nmonths. If I had to say, it would be that the prices of\nweapons and armor have risen in Odawara."
                             ]
                         },
                         {
@@ -14020,14 +11857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日お帰りになったそうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三か月もの間、諜報の任務とは大変だったでしょう。"
+                                "I heard you returned yesterday. It must have been tough\nbeing on an intelligence mission for three months."
                             ]
                         },
                         {
@@ -14104,14 +11934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、中太郎殿！　よくぞお帰りに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お頭さまがお待ちですぞ。"
+                                "Oh, Nakataro-dono! Welcome back. The boss has been waiting\nfor you."
                             ]
                         },
                         {
@@ -14188,14 +12011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日お帰りになられたそうですな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご無事で何よりです。"
+                                "I heard you returned home yesterday. I'm glad to hear you're\nsafe and sound."
                             ]
                         },
                         {
@@ -14263,14 +12079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その……　昨日からご当主様の様子が変でして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあったのかな？"
+                                "Um... since yesterday, the master's behavior has been\nunusual... I wonder if something happened?"
                             ]
                         },
                         {
@@ -17878,14 +15687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは中太郎殿。ご当主様が【鬼の社】でお待ちです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人だけで話したいので急ぎ来てくれるようにと。"
+                                "This is for you, Nakataro-dono. The lord is waiting at the\n[Demon Shrine]. He wishes to speak with you alone, so please\ncome quickly."
                             ]
                         },
                         {
@@ -17909,7 +15711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……鬼の社に来いと？　承知した。"
+                                "...He wants me to come to the Demon Shrine? Understood."
                             ]
                         },
                         {
@@ -18001,14 +15803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは中太郎殿。ご当主様が【鬼の社】でお待ちです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人だけで話したいので急ぎ来てくれるようにと。"
+                                "This is a message for Nakataro-dono. The lord is waiting for\nyou at the [Oni Shrine]. He wishes to speak with you alone,\nso please come quickly."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "瓦版屋",
+    "displayName": "Tile-roofed House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3241,14 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この部屋で瓦版を刷っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "量があるから刷るのも大変だよ。"
+                                "We're printing newsletters in this room. There's a lot to\nprint, so it's quite a task."
                             ]
                         },
                         {
@@ -3334,21 +3327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがたいことにねずみ小町のおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瓦版の売上が増えているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小町様様だよ。わっはっは！"
+                                "Thankfully, sales of the gazette have increased thanks to\nNezumi Komachi. All hail Komachi-sama. Wahahaha!"
                             ]
                         },
                         {
@@ -3425,14 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近、ねずみ小町が現れなくなってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瓦版の売上も激減さ。もしかして捕まったのかなぁ……"
+                                "Lately, Nezumi Komachi hasn't been showing up, and the sales\nof the gazette have plummeted. Maybe she got caught..."
                             ]
                         },
                         {
@@ -4528,7 +4500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] obtained!"
                             ]
                         },
                         {

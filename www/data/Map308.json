@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "作者部屋",
+    "displayName": "Author's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2642,7 +2642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また次回作でお会いしましょう～♪"
+                                "Let's meet again in the next game~♪"
                             ]
                         },
                         {
@@ -3633,7 +3633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでプレイして頂き感謝にゃ～！"
+                                "Thank you for playing this far, nya~!"
                             ]
                         },
                         {
@@ -4668,14 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――回想小屋のイベントを全て開放しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（VER1.2の追加イベントも含まれます）"
+                                "--Would you like to unlock all events in the Recollection\nHut? (This includes added events from VER1.2)"
                             ]
                         },
                         {
@@ -4683,8 +4676,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "全開放する",
-                                    "しない"
+                                    "Unlock everything",
+                                    "Do not unlock"
                                 ],
                                 1,
                                 0,
@@ -6155,7 +6148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――イベントを全開放しました！\\c[0]"
+                                "\\c[17]--All events have been unlocked!\\c[0]"
                             ]
                         },
                         {
@@ -6264,7 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――回想小屋のイベントを全て開放しますか？"
+                                "--Would you like to unlock all events in the Recollection\nHut?"
                             ]
                         },
                         {
@@ -6272,8 +6265,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "全開放する",
-                                    "しない"
+                                    "Unlock everything",
+                                    "Do not unlock"
                                 ],
                                 1,
                                 0,
@@ -7438,7 +7431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――イベントを全開放しました！\\c[0]"
+                                "\\c[17]--All events have been unlocked!\\c[0]"
                             ]
                         },
                         {
@@ -7818,7 +7811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――回想小屋のイベントを全て開放しますか？"
+                                "--Would you like to unlock all events in the Recollection\nHut?"
                             ]
                         },
                         {
@@ -7826,8 +7819,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "全開放する",
-                                    "しない"
+                                    "Unlock all",
+                                    "Do not unlock"
                                 ],
                                 1,
                                 0,
@@ -8992,7 +8985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――イベントを全開放しました！\\c[0]"
+                                "\\c[17]--All events have been unlocked!\\c[0]"
                             ]
                         },
                         {

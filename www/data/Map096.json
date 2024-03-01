@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ご隠居屋敷",
+    "displayName": "The Hermit's Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3375,7 +3375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -7075,7 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うと……うと……"
+                                "Ugh...ugh..."
                             ]
                         },
                         {
@@ -7653,14 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うと……うと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ご隠居はうたたねをしている……）"
+                                "Hmm... Hmm... (The old man is dozing off...)"
                             ]
                         },
                         {
@@ -7740,28 +7733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　さわっ……！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Touch...!>"
                             ]
                         },
                         {
@@ -7785,28 +7757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひゃうんッ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の胸を……！　な、何するのよっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahnn--!? My breasts...! What are you doing!?"
                             ]
                         },
                         {
@@ -7830,28 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはこちらの台詞じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に人の屋敷にズカズカと入って来おって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's my line. You just barged into someone's residence\nwithout permission."
                             ]
                         },
                         {
@@ -7875,28 +7805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううぅ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ooh...!?"
                             ]
                         },
                         {
@@ -7920,28 +7829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不法侵入といっていい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういう躾をされて育ってきたのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "曲者の乱入として奉行所に訴えてもよいのじゃぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's tantamount to breaking and entering. What kind of\nupbringing did you have? I could report you to the\nmagistrate for intruding like a criminal, you know?"
                             ]
                         },
                         {
@@ -7965,28 +7853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　ご、ごめんなさい。勝手にお屋敷に入って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（正論だわ……　勝手に他人の家に入るの慣れすぎちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　住んでいる人に怒られるのはもっともだわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Uhh... I'm sorry. For entering your residence without\npermission... (He's right... I've gotten too used to\nentering other people's homes without thinking. It's only\nnatural for the residents to be angry...)"
                             ]
                         },
                         {
@@ -8010,28 +7877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ素直に謝ったので許してやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well, since you apologized honestly, I'll forgive you. But\nstill..."
                             ]
                         },
                         {
@@ -8055,28 +7901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...?"
                             ]
                         },
                         {
@@ -8100,28 +7925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずいぶんと美人な娘じゃのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここら辺に住んでいる者か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're quite a beauty, aren't you? Do you live around here?"
                             ]
                         },
                         {
@@ -8145,28 +7949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はい。城下町の団子屋の横に住んでいる花梨と申します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非礼をお詫びします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Yes. My name is Karin, and I live next to the dango shop\nin the castle town. I apologize for my rudeness."
                             ]
                         },
                         {
@@ -8190,28 +7973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。花梨と申すか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主、処女で間違いあるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm, Karin, is it? You're a virgin, aren't you?"
                             ]
                         },
                         {
@@ -8235,28 +7997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　そ、そうですけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてわかるんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Yes, but... how can you tell?"
                             ]
                         },
                         {
@@ -8280,28 +8021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "匂いじゃよ。この齢になるまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抱いた娘は１０００人はくだるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシは鼻が優れていて見抜けるのじゃ。ホッホ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "By the scent. I must have bedded no less than a thousand\ngirls in my time. My nose is quite skilled at discerning\nsuch things. Ho ho ho!"
                             ]
                         },
                         {
@@ -8325,28 +8045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（このおじいさん、好々爺にみえて異様な人だなぁ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...(This old man seems like a friendly grandpa, but he's\nactually quite strange...)"
                             ]
                         },
                         {
@@ -8370,28 +8069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。どうじゃ、花梨とやら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで出会えたのも何かの縁――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このワシの愛人とならぬか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm, what do you say, Karin? Meeting here must be some kind\nof fate—would you become my mistress?"
                             ]
                         },
                         {
@@ -8415,28 +8093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ――！？　あ、愛人……ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh--!? A mistress...?"
                             ]
                         },
                         {
@@ -8460,28 +8117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃ。ワシは妹小路家の大名だったのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は当主の座を倅に譲り、隠居してこの日比谷に住んで居る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Indeed. I was once the lord of the Imoutokoji family. Now\nI've retired and handed over the reins to my son, living\nhere in Hibiya."
                             ]
                         },
                         {
@@ -8505,28 +8141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、妹小路家……！？　あの名門の――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大大名じゃないですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The Imoutokoji family...!? That prestigious—!? A great lord,\naren't you!?"
                             ]
                         },
                         {
@@ -8550,21 +8165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっほっほ。よく存じておるの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛人になったら即決現金で【１５０００文】を支払おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうじゃ？　悪い話ではあるまい。"
+                                "Ho ho ho. You know of it well♪ If you become my mistress,\nI'll pay you 15,000 mon in cash right away. What do you say?\nIt's not a bad deal."
                             ]
                         },
                         {
@@ -8588,7 +8189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１５０００文――！（私、処女だけど、どうしよう……！？）"
+                                "15,000 mon--! (I'm still a virgin, but what should I do...!?\n)"
                             ]
                         },
                         {
@@ -8596,8 +8197,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ご隠居の愛人になる\\c[27]【Ｈイベント】\\c[0]",
-                                    "お断りする"
+                                    "Become the patron's mistress \\c[27]【H Event】\\c[0]",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -8763,7 +8364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――花梨は処女を売って１５０００文、手に入れた！\\c[0]"
+                                "\\c[17]--Karin sold her virginity and obtained 15,000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -8805,7 +8406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "んッ……　まだアソコがズキズキする…………"
+                                "Nn... It still throbs down there..."
                             ]
                         },
                         {
@@ -8847,14 +8448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は股間を手でおさえて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "破瓜の痛みに我慢しながら床に就いた。"
+                                "--Karin held her crotch with her hand, enduring the pain of\nher defloration as she went to bed."
                             ]
                         },
                         {
@@ -8915,28 +8509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……すみません、お断りします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勝手にお屋敷に入ってすみませんでした。では――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...I'm sorry, but I must decline. I apologize for entering\nyour residence without permission. Now, if you'll excuse\nme--"
                             ]
                         },
                         {
@@ -8960,7 +8533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は沈黙しながら頭を下げて屋敷から立ち去った。"
+                                "--Karin bowed her head in silence and left the mansion."
                             ]
                         },
                         {
@@ -9057,28 +8630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうも……ご隠居さま……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you... Master..."
                             ]
                         },
                         {
@@ -9102,28 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、花梨か？　よく屋敷に参ったの♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう二度と来ぬかと思っておったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主のような若い娘が老いたワシに会いに来てくれて嬉しいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, is that you, Karin? It's good to see you've come to the\nmansion♪ I thought you might never return. I'm delighted\nthat a young girl like you would come to visit an old man\nlike me."
                             ]
                         },
                         {
@@ -9147,28 +8678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その……　一応、愛人って話でしたから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金もたくさん貰ってますし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well... since we're talking about being a mistress... I've\nalso received a lot of money."
                             ]
                         },
                         {
@@ -9192,28 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意外と義理固いの。芯の強い性格のようじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば……これから楽しめそうじゃの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're surprisingly dutiful. You seem to have a strong will.\nIn that case... it looks like we're going to have some fun."
                             ]
                         },
                         {
@@ -9237,28 +8726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　楽しむって何を……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? Have fun? What do you mean...?"
                             ]
                         },
                         {
@@ -9282,28 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうじゃ。良かったらワシの秘密の部屋へ来ぬか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "How about it? Would you like to come to my secret room?"
                             ]
                         },
                         {
@@ -9327,7 +8774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？（秘密の部屋って何だろう）"
+                                "...? (What could he mean by a secret room?)"
                             ]
                         },
                         {
@@ -9335,8 +8782,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ご隠居について行く\\c[27]【Ｈイベント】\\c[0]",
-                                    "断る"
+                                    "Follow the retiree \\c[27][H Event]\\c[0]",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -9457,7 +8904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すみません、やっぱり今日は帰ります……"
+                                "I'm sorry, but I think I'll go home for today..."
                             ]
                         },
                         {
@@ -9481,7 +8928,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はご隠居に頭を下げて屋敷を後にした。"
+                                "--Karin bowed her head to the master and left the mansion."
                             ]
                         },
                         {
@@ -9578,28 +9025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、ご隠居さま……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Master..."
                             ]
                         },
                         {
@@ -9623,28 +9049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、花梨か？　また屋敷に来てくれて嬉しいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歓迎しよう。茶でも飲むか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, is that you, Karin? I'm happy you've come to visit the\nmansion again. Welcome. Would you like some tea?"
                             ]
                         },
                         {
@@ -9668,28 +9073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい……　頂きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes... I'll have some, thank you."
                             ]
                         },
                         {
@@ -9713,28 +9097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃあぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Meow..."
                             ]
                         },
                         {
@@ -9758,28 +9121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれっ、猫が……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Huh, a cat...?"
                             ]
                         },
                         {
@@ -9803,28 +9145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "屋敷に紛れ込んだ野良に餌をやったらいついてしまってのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんどん増えて、今では近隣の者からは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫屋敷なぞと呼ばれておる有様じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "After I fed a stray that snuck into the mansion, it ended up\nstaying. They've been multiplying, and now the neighbors\nhave started calling this place the Cat Mansion."
                             ]
                         },
                         {
@@ -9860,7 +9181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃ～～ん\\I[15]"
+                                "Meow~~n\\I[15]"
                             ]
                         },
                         {
@@ -9884,28 +9205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに広いお屋敷なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他にお手伝いさんもいないのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Such a large mansion, and there are no other maids or\nhelpers?"
                             ]
                         },
                         {
@@ -9929,28 +9229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々、大名の時から人付き合いは苦手なのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠居して一人気楽にやるのがワシの性にあっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I've always been bad with people since my days as a lord.\nLiving alone in retirement suits me best."
                             ]
                         },
                         {
@@ -9974,28 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sigh..."
                             ]
                         },
                         {
@@ -10019,28 +9277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに、女性からはすぐに逃げられるのはいつものことよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの性癖を知った花梨ならわかるじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Plus, women always run away quickly. You understand my\ntastes, Karin, since you know about them."
                             ]
                         },
                         {
@@ -10064,28 +9301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ……普通の女性の感性なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご隠居さまの道楽にドン引きして失踪しますよね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well... Any normal woman would be horrified by your hobbies\nand disappear..."
                             ]
                         },
                         {
@@ -10109,28 +9325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフフ、だから花梨がまた来てくれたこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本心ではとても嬉しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうじゃ、今日もワシの趣味につきあわぬか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hahaha, that's why I'm truly happy that you've come again,\nKarin. How about it, will you indulge in my hobbies today as\nwell?"
                             ]
                         },
                         {
@@ -10154,7 +9349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -10162,8 +9357,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ご隠居につきあう\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Accompany the retiree \\c[27]【H Event】\\c[0]",
+                                    "Walk away"
                                 ],
                                 1,
                                 0,
@@ -10243,7 +9438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]淫乱度＋１０\\c[0]"
+                                "\\c[27]Lewdness +10\\c[0]"
                             ]
                         },
                         {
@@ -10317,14 +9512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご、ごめんなさい。先日の鞭を蝋燭が衝撃すぎて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は遠慮させて頂きますね。"
+                                "I'm sorry. The whipping and candles from the other day were\ntoo shocking... I'll have to decline for today."
                             ]
                         },
                         {
@@ -10416,28 +9604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおぉ！　今日も来てくれたのか、花梨♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先日はすまなかったな。股の調子、大事ないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh! You came to visit again today, Karin♪ I apologize for\nthe other day. How's your crotch? No serious harm?"
                             ]
                         },
                         {
@@ -10461,28 +9628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はい。しばらくの間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アソコがジンジンして痛かったですけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腫れは少し引きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Yes. My pussy was throbbing and painful for a while...\nbut the swelling has gone down a bit."
                             ]
                         },
                         {
@@ -10506,28 +9652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれだけ痛くて辛い目に遭っても、また通って来る度胸――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このワシも心打たれたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は大事な話がある。よいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Even after such painful and harsh experiences, you still\nhave the courage to come back--I'm truly moved. I have\nsomething important to discuss today. Are you ready?"
                             ]
                         },
                         {
@@ -10551,28 +9676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………？　大事な話……ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? Something important... to discuss?"
                             ]
                         },
                         {
@@ -10596,28 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうじゃ。この屋敷に住まぬか、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛人などではなく、ワシの正式な妻としてじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What do you say? Would you live in this mansion, Karin? Not\nas a mistress, but as my official wife."
                             ]
                         },
                         {
@@ -10641,28 +9724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　ええっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がご隠居さまの……？　妻として……ですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? Eh?! Me, as your...? As your wife...?!"
                             ]
                         },
                         {
@@ -10686,28 +9748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。正室が亡くなってから、はや２０年は経つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日線香を立ててるから、先妻も許してくれるじゃろうて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この老人の余生、共に過ごしてくれぬか花梨。後生じゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. It's been 20 years since my wife passed away. I offer\nincense daily, so I believe my late wife would forgive me.\nWould you spend the rest of this old man's life with me,\nKarin? Please..."
                             ]
                         },
                         {
@@ -10731,7 +9772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！（私が……ご隠居さまの……正式な妻に……）"
+                                "...! (Me... as the official wife of...)"
                             ]
                         },
                         {
@@ -10739,8 +9780,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ご隠居に寄り添う\\c[10]【ご隠居エンド】\\c[0]",
-                                    "断る"
+                                    "Stay by the master's side \\c[10]【Master's End】\\c[0]",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -10815,7 +9856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………（いくらなんでも、お爺さんと結婚なんて……）"
+                                "...(No matter what, marrying an old man like...)"
                             ]
                         },
                         {
@@ -10839,28 +9880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……返事は無しか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よい。未来ある若い娘に失礼なことをお願いした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だが、また屋敷に遊びに来ておくれよ、花梨――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...No answer? That's fine. It was impolite of me to ask such\na thing of a young girl with her future ahead. But do come\nand visit the mansion again, Karin--"
                             ]
                         },
                         {
@@ -10884,7 +9904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は沈黙しながら頭を下げて屋敷から立ち去った。"
+                                "--Karin silently bowed her head and left the mansion."
                             ]
                         },
                         {
@@ -11599,7 +10619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（猫は気持ちよさそうに寝ている……）"
+                                "(The cat seems to be sleeping comfortably...)"
                             ]
                         },
                         {

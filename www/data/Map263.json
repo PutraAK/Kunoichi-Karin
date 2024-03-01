@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "天守閣　１階",
+    "displayName": "Castle Tower 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -15902,7 +15902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【2800 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -16148,7 +16148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 2500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -16394,7 +16394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1800 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -16641,7 +16641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1500 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -16888,7 +16888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17135,7 +17135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19077,7 +19077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Skill Power Sake】\\c[0] has been obtained!"
                             ]
                         },
                         {

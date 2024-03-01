@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "奉行所",
+    "displayName": "Magistrate's Office",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3859,21 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は大都市だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事件も多くて正直人手が足りないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場はいつも大変だよ。とほほ……"
+                                "Edo is a big city, so there are many incidents, and frankly,\nwe're short on manpower. The scene is always tough. Alas..."
                             ]
                         },
                         {
@@ -3950,21 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから変な事件が増えてなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "化け物を見たとか、そんな通報が多くなったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さらに忙しくなってトホホだよ……"
+                                "Ever since then, there's been an increase in strange\nincidents... Reports of seeing monsters and such have become\nmore frequent. It's gotten even busier, which is quite a\ndowner..."
                             ]
                         },
                         {
@@ -4620,21 +4592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊のねずみ小町が庶民に人気で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々役人も歯がゆいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はやく捕まえたいものだ。"
+                                "The popularity of the thief Nezumi Komachi among the common\nfolk is quite frustrating for us officials. We want to catch\nher quickly."
                             ]
                         },
                         {
@@ -4702,28 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快盗ねずみ小町は行方不明――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奉行所の記録ではそうなっているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにせお主は江戸の人気者だ。島流しにしたと町人たちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知られたら暴動になるかもしれないからな。"
+                                "The phantom thief Nezumi Komachi is missing--that's what the\nmagistrate's records show. After all, you're a celebrity in\nEdo. If the townspeople found out you were exiled, it might\nlead to a riot."
                             ]
                         },
                         {
@@ -9451,14 +9388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町め……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奉行所の名誉に賭けて必ず捕まえてやる……！"
+                                "You little mouse...! I swear on the honor of the\nmagistrate's office, I will definitely catch you...!"
                             ]
                         },
                         {
@@ -9591,21 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老中殿の決めたことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らは何も言わぬ。己の仕事を全うするだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんもそうすればいいさ。"
+                                "It's a decision made by the elder. We won't say anything.\nJust fulfill our own duties. You should do the same."
                             ]
                         },
                         {
@@ -10767,14 +10683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奉行所にご用かね、娘さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ったことがあったら伝えに来なさい。"
+                                "Do you have business at the magistrate's office, young lady?\nIf you have any troubles, come and tell us."
                             ]
                         },
                         {
@@ -10907,28 +10816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よもや無常島から帰ってくるとは、さすがに思わなかったぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老中殿が目をかけるのもよくわかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかく江戸へ戻って来たのだ。新しい人生が始まったと考え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主のやりたいことを為すがよい、花梨――"
+                                "I never expected you to return from Mujou Island. It's clear\nwhy the Elder has taken a liking to you. Now that you've\nfinally come back to Edo, think of it as the start of a new\nlife. Do as you wish, Karin--"
                             ]
                         },
                         {
@@ -11144,21 +11032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こらっ！　娘、何をしている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはお白州――　厳粛な場所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "城下町に戻るがいい。"
+                                "Hey! Girl, what are you doing! This is a sacred place--you\nshould return to the town below the castle."
                             ]
                         },
                         {
@@ -11238,14 +11112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああっ！　勝手にお白州の中に入るな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっき奇麗に掃除したばっかりなのに……！"
+                                "Ahh! Don't just go into the distillery on your own! I just\nfinished cleaning it up...!"
                             ]
                         },
                         {
@@ -11904,28 +11771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　このような所へどうして？　えっ、社会科見学？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは判決前の罪人を留置する場所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罪を自白させるための拷問刑具もある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ普通の若い娘さんには無縁の部屋だよ。"
+                                "...? Why are you in a place like this? Eh, a social studies\nfield trip? This is where criminals awaiting judgment are\ndetained. There are also torture devices used to extract\nconfessions. Well, it's a room unrelated to ordinary young\nladies."
                             ]
                         },
                         {
@@ -11993,14 +11839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……捕縛した時に激しい拷問をして済まなかったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらも仕事だ。許して欲しい。"
+                                "...I'm sorry for the intense torture when I captured you. It\nwas part of my job. Please forgive me."
                             ]
                         },
                         {

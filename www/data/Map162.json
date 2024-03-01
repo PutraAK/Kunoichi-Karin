@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大名屋敷　地下",
+    "displayName": "Daimyo Mansion Basement",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10181,7 +10181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -12156,7 +12156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -12402,7 +12402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -12708,7 +12708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 mon!\\c[0]"
                             ]
                         },
                         {
@@ -14247,14 +14247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -15091,14 +15084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -15793,7 +15779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "馬鹿な！？　なぜ生きている！？"
+                                "Impossible!? Why are you still alive!?"
                             ]
                         },
                         {
@@ -15817,14 +15803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん！　落ちる途中で体をひねって壁にくっついたのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくもこんな地下に落としてくれたわね！"
+                                "Hmph! I twisted my body while falling and stuck to the wall!\nHow dare you drop me into such a basement!"
                             ]
                         },
                         {
@@ -15848,14 +15827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぬぬっ！　ならば生かして捕えてやるッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟しろ、ねずみ小町！"
+                                "Grrr! Then I shall capture you alive! Prepare yourself,\nlittle mouse!"
                             ]
                         },
                         {
@@ -18033,7 +18005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……階段が近くにある。先にそっちへ行ってみよう。"
+                                "...There's a staircase nearby. Let's try heading there\nfirst."
                             ]
                         },
                         {
@@ -19518,7 +19490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Vigor Sake】\\c[0] acquired!"
                             ]
                         },
                         {

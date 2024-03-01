@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "武具屋",
+    "displayName": "Weapon Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2281,21 +2281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【武具屋】"
+                                "【Weapon Shop】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや？　アンタ島民の者ではないな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは流罪者は武器を買えぬ。すまぬが帰ってくれ。"
+                                "...Oh? You're not an islander, are you? Exiles cannot\npurchase weapons here. I'm sorry, but please leave."
                             ]
                         },
                         {
@@ -2319,14 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……立派な装飾品と強そうな籠手が売ってるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　流罪人だと買えないんだ……　残念）"
+                                "(...They have splendid ornaments and sturdy-looking\ngauntlets for sale, but as an exile, I can't buy them...\nWhat a shame.)"
                             ]
                         },
                         {
@@ -2420,14 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタ、流罪人じゃなくなったんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならモノを売らないとな。何か欲しいものはあるかい？"
+                                "You're no longer a convict, I hear? If that's the case, I've\ngot to sell you something. Is there anything you want?"
                             ]
                         },
                         {
@@ -2485,7 +2464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう。島から出ても元気にな。"
+                                "Thank you. Stay healthy even after you leave the island."
                             ]
                         },
                         {

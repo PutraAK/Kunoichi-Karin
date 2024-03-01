@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "牢屋",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2340,7 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3655,21 +3655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -3693,28 +3679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たち流罪人がやろうとした島抜けは極刑に相当する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがこの島の法だ。明日の朝、一人づつ斬首する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかったな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You all, the exiles, attempting to escape from this island\nis a crime punishable by death. That is the law of this\nisland. Tomorrow morning, each of you will be beheaded. Do\nyou understand?"
                             ]
                         },
                         {
@@ -3738,28 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！（明日の朝に斬首……？　そんなぁ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! (Beheaded tomorrow morning...? No way...)"
                             ]
                         },
                         {
@@ -3795,7 +3739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――役人たちは牢屋から出て行った。"
+                                "--The officials left the prison cell."
                             ]
                         },
                         {
@@ -3812,21 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -3857,28 +3787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3909,28 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬな……皆の衆……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシが偽りの情報を信じてしまったせいで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm sorry... everyone... It's my fault for believing in\nfalse information..."
                             ]
                         },
                         {
@@ -3954,28 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いのは流罪人頭たちです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黒曜天狗さんは悪くないですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The ones at fault are the leaders of the exiles. Kokuyou\nTengu-san, you did nothing wrong."
                             ]
                         },
                         {
@@ -3999,28 +3866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "後悔してもしょうがないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは前向きにいかないと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There's no use in regretting now. We have to stay\npositive..."
                             ]
                         },
                         {
@@ -4044,28 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "島から脱出の前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この牢屋から脱出するのが先になっちまったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げられるかい、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタ、盗みの専門家なんだろ？"
+                                "Before we escape from the island, we need to break out of\nthis prison cell. Can you do it, Karin-san? You're an expert\nthief, aren't you?"
                             ]
                         },
                         {
@@ -4089,28 +3914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "牢屋から抜け出さねば話にならん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主、快盗であったなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵開けとかの技術を持っているのじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We can't proceed without breaking out of this cell. If you\nwere a master thief, surely you have the skills to pick\nlocks?"
                             ]
                         },
                         {
@@ -4141,28 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ……！　私は……その……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押し込み強盗みたいな盗賊だったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開錠とか、さっぱり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Uh...! I was... that is... more of a burglar type of thief,\nso I'm not really good with locks..."
                             ]
                         },
                         {
@@ -4193,28 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どよーん…………）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Gloom...)"
                             ]
                         },
                         {
@@ -4245,28 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が島から脱出したいなんて言わなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことには……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I'm sorry. If I hadn't said I wanted to escape from the\nisland, this wouldn't have happened..."
                             ]
                         },
                         {
@@ -4290,28 +4031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨さんが謝ることはないですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはここにいる全員で決めたことですし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin-san, there's no need for you to apologize. This was a\ndecision made by all of us here."
                             ]
                         },
                         {
@@ -4335,28 +4055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……華蝶さん…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Kachou-san..."
                             ]
                         },
                         {
@@ -4380,28 +4079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕方ねぇ。果報は寝て待てだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "処刑場に連れていかれるときにせいぜい暴れてやろうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Can't be helped. Good things come to those who wait. Let's\nmake as much trouble as we can when they take us to the\nexecution ground."
                             ]
                         },
                         {
@@ -4425,21 +4103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（たとえ役人から逃げたとしても、この島から逃げられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　脱出可能な船がないなら、どうしようも…………）"
+                                "...(Even if we manage to escape from the officials, there's\nno way off this island. Without a ship capable of escape,\nthere's nothing we can do...)"
                             ]
                         },
                         {
@@ -4463,28 +4127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――不安の気持ちをおさえながら、それぞれ眠りについた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--With feelings of anxiety suppressed, each of them fell\nasleep..."
                             ]
                         },
                         {
@@ -4501,28 +4144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4608,28 +4230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4662,28 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（日が昇って周囲が明るくなってきた……　もう朝か……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(The sun has risen and it's getting brighter around... Is it\nmorning already...)"
                             ]
                         },
                         {
@@ -4707,28 +4287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4757,28 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ざっ……　ざっ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Rustle... rustle...)"
                             ]
                         },
                         {
@@ -4802,28 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　人が来たようだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Sounds like someone's coming?"
                             ]
                         },
                         {
@@ -4847,28 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is it then..."
                             ]
                         },
                         {
@@ -4899,28 +4395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4944,7 +4419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、華蝶さん。あなたの身は私が守るから……"
+                                "Don't worry, Kachou-san. I will protect you..."
                             ]
                         },
                         {
@@ -4968,28 +4443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5013,7 +4467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ……　まさか登流峠の隠し港へ行くとはの。"
+                                "Tsk tsk... To think they went to the hidden port at Touro\nPass."
                             ]
                         },
                         {
@@ -5130,28 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！　あ、あなたは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~h! You are...!"
                             ]
                         },
                         {
@@ -5214,7 +4647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………\\|\\|"
+                                "..."
                             ]
                         },
                         {
@@ -5313,7 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！！　村長……さん！？"
+                                "--!! The village chief...!?"
                             ]
                         },
                         {
@@ -5337,28 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声は小さめに。役人が気づいて来てしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "して、隠し港には船があったかの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Keep your voices down. The officials will notice and come\nhere. So, was there a ship at the hidden port?"
                             ]
                         },
                         {
@@ -5382,28 +4794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ありましたけど、たらい舟で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全員が乗れて島から脱出できるようなものでは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, there was one, but it was just a tub boat... Not\nsomething that could carry everyone and escape from the\nisland..."
                             ]
                         },
                         {
@@ -5427,28 +4818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ。それは替え玉じゃよ。本物の船は確かに存在する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外洋の荒波を乗り越え、江戸まで戻れる立派な帆船がな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Haha. That was just a decoy. The real ship certainly exists.\nA fine sailing ship capable of overcoming the rough seas and\nreturning to Edo."
                             ]
                         },
                         {
@@ -5472,28 +4842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？　帆船が……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Huh?! A sailing ship...!?"
                             ]
                         },
                         {
@@ -5517,21 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの隠し港で秘密裏に作られたのじゃ。何十年もかけてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし寿命が来て、ついぞ船は使われることはなかった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船を作っていた男はこの島に流されてきた武将じゃ。"
+                                "It was secretly built at that hidden port over many decades.\nHowever, its time came and went without the ship ever being\nused... The man who built it was a warlord who had been\nexiled to this island."
                             ]
                         },
                         {
@@ -5555,28 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　あの墓碑の……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! That tombstone...!?"
                             ]
                         },
                         {
@@ -5600,28 +4914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左様。たらい舟は替え玉よ。もし役人が見つけても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのような舟では脱出はできぬと安心させるためにな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、そのたらい舟を流罪人頭が脱出用の船があると偽り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪用してたみたいじゃが……"
+                                "Exactly. The tub boat was just a decoy. It was there to\nreassure any officials who found it that escape was\nimpossible with such a boat. However, it seems that the\nleaders of the exiles were falsely using it as if there was\nan escape ship..."
                             ]
                         },
                         {
@@ -5645,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぬっ……！　では一応は脱出できる船があることは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まことであったのじゃな。流罪人頭め……"
+                                "Hmm...! So there was indeed a ship capable of escape, as\nrumored. Those exile leaders..."
                             ]
                         },
                         {
@@ -5676,14 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長さんよ。じゃあその本物の船とやらは何処にあるんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの隠し港には、たらい舟一隻しかなかったが……"
+                                "Village Chief-san, where is this real ship you speak of?\nThere was only a tub boat at the hidden port..."
                             ]
                         },
                         {
@@ -5707,28 +4986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見つからぬよう港の奥に秘密部屋があっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠し港の片隅に【人形】がある。それが手掛かりじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There's a secret room deep within the port. Look for a\n[Doll] in a corner of the hidden port. That's your clue."
                             ]
                         },
                         {
@@ -5752,28 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人形……？　それが秘密部屋に行ける手掛かりなんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "A doll...? So that's the clue to the secret room.\nUnderstood."
                             ]
                         },
                         {
@@ -5797,28 +5034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁこれ以上の長話は役人に気づかれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くこの牢屋から抜け出すのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Now, we can't talk for long or the officials will notice.\nHurry and escape from this cell."
                             ]
                         },
                         {
@@ -5863,7 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――村長が鍵を使って扉を開錠した！"
+                                "--The Village Chief used a key to unlock the door!"
                             ]
                         },
                         {
@@ -5887,7 +5103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにっ！？　我々を牢屋から逃がしてくれるというのか？"
+                                "What?! You're going to help us escape from the cell?"
                             ]
                         },
                         {
@@ -5923,21 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワシは無常島の村長じゃぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "島内の牢屋の鍵の複製ぐらい持っておるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ一刻も早く逃げるがいい。"
+                                "I am the Village Chief of Mujou Island, am I not? Of course,\nI have copies of all the keys to the cells on the island.\nNow, escape quickly."
                             ]
                         },
                         {
@@ -5961,28 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "脱走の手助けなんかしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たとえ村長でも、アンタも捕まるんじゃないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "If you help us escape, won't you get caught too, even if you\nare the Village Chief?"
                             ]
                         },
                         {
@@ -6006,28 +5187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしてそんなに私たちに助力してくれるんです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは無常島の村長でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで私たち流罪人の肩を持つような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Why are you helping us so much? You're the Village Chief of\nMujou Island, aren't you? It's like you're taking the side\nof us exiles..."
                             ]
                         },
                         {
@@ -6051,28 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6096,7 +5235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -6120,21 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワシはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて１００年前にこの島に流された武将の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "孫の孫なんじゃよ。"
+                                "You see, I am the great-great-grandson of a warlord who was\nexiled to this island a hundred years ago."
                             ]
                         },
                         {
@@ -6158,28 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！　――村長も流罪人の……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!! The Village Chief is also a descendant of exiles...!?"
                             ]
                         },
                         {
@@ -6203,28 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流罪されたご先祖様が成し遂げられなかった島抜けの夢――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが叶うところをワシも見てみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使われなかった帆船が動く姿もな。"
+                                "That's right. I too wish to see the dream of escaping this\nisland, a dream my exiled ancestor could not fulfill. I want\nto see that unused sailing ship set sail."
                             ]
                         },
                         {
@@ -6248,28 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……村長さん…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Village Chief-san..."
                             ]
                         },
                         {
@@ -6293,14 +5355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ再び登流峠を北上し、隠し港へ行くのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうそろそろ役人も気づくぞ。急ぐのじゃ！"
+                                "Now, head north again through Tohru Pass and go to the\nhidden port. The officials will notice soon. Hurry!"
                             ]
                         },
                         {
@@ -6324,21 +5379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかりました、村長さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方の意志とご先祖様の果たせなかった夢――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちが絶対に成し遂げて見せます！"
+                                "Understood, Village Chief-san! We will definitely fulfill\nyour will and the unachieved dream of your ancestor!"
                             ]
                         },
                         {
@@ -6362,28 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは餞別じゃ。持っていきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に江戸まで戻るのじゃぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm. Thank you. Take this as a parting gift. Make sure you\nreturn safely to Edo."
                             ]
                         },
                         {
@@ -6429,7 +5449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を１０個手に入れた！"
+                                "--Gained 10 \\c[17]Healing Medicine\\c[0]!"
                             ]
                         },
                         {

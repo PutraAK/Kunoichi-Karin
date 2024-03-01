@@ -40,7 +40,7 @@ var $plugins = [
       "Number Max Cols": "1",
       "Cursor Line Number": "4",
       "Cursor Height Space": "0",
-      "Font Size": "28",
+      "Font Size": "24",
       "Window Padding": "18",
       "Window Line Height": "36",
       "Window Opacity": "192",
@@ -3102,7 +3102,7 @@ var $plugins = [
       "アウトラインの色(緑)": "70",
       "アウトラインの色(青)": "70",
       アウトラインの透過率: "1",
-      フォントサイズ: "24",
+      フォントサイズ: "20",
     },
   },
   {

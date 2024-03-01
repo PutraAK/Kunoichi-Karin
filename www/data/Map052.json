@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "幽霊屋敷",
+    "displayName": "Haunted Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10680,7 +10680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -12271,7 +12271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -12517,7 +12517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -12764,7 +12764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13011,7 +13011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13451,7 +13451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -14070,7 +14070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -14317,7 +14317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Swiftness】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -14564,7 +14564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Godspeed Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15592,7 +15592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【覚醒のお守り】\\c[0]を手に入れた！"
+                                "--\\c[17]【Awakening Charm】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15838,7 +15838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -16085,7 +16085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -23425,28 +23425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケケケッ！　貴様らが侵入してきた人間ダナ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kekeke! Are you the humans who dared to intrude?"
                             ]
                         },
                         {
@@ -23470,28 +23449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先には行かせネェ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くたばるまで切り裂いてヤル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You shall not pass! I'll slash you to pieces until you drop\ndead!"
                             ]
                         },
                         {
@@ -23522,28 +23480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今までと違う小鬼ね？　敵の精鋭っぽいわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "These imps are different from the ones before, aren't they?\nThey seem like the enemy's elite."
                             ]
                         },
                         {
@@ -23567,28 +23504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突破するぞ花梨！　この奥に首魁が控えているはずだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We must break through, Karin! The ringleader must be waiting\nfurther inside!"
                             ]
                         },
                         {
@@ -23626,28 +23542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケケッ！　死ねエエェ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Keke! Dieeee!!"
                             ]
                         },
                         {
@@ -23676,7 +23571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――精鋭小鬼たちが襲ってきた！"
+                                "--The elite imps have attacked!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2348,21 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……わしらは無力です。貴方たちに頼るしか術はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか山賊砦にいる山賊たちをやっつけてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いします。"
+                                "...We are powerless. We have no choice but to rely on you.\nPlease, defeat the bandits in their stronghold. We beg of\nyou."
                             ]
                         },
                         {
@@ -2453,14 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村を山賊たちから開放してくれてまことに嬉しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨殿と夕霧殿はこの村の救世主じゃ！"
+                                "I am truly delighted that you have liberated this village\nfrom the bandits! Karin-dono and Yugiri-dono are the saviors\nof this village!"
                             ]
                         },
                         {
@@ -2723,7 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -2969,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -3318,28 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おのれ山賊ども！　でやあぁッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Damn you bandits! Take this!"
                             ]
                         },
                         {
@@ -3370,28 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！？　危ない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Whoa! That was close!"
                             ]
                         },
                         {
@@ -3415,14 +3352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また悪さしに村まできたか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は殺されても構わん！　一人で最後まで戦ってやるッ！"
+                                "Have you come to cause trouble in our village again?! I\ndon't care if I'm killed today! I'll fight to the end alone!"
                             ]
                         },
                         {
@@ -3446,21 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！　待て！　村長殿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に手紙を送ってあるはずだ！　私たちは山賊ではない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村を助けに来た者だ！"
+                                "Wait! Village chief! We should have sent a letter ahead! We\nare not bandits! We have come to help this village!"
                             ]
                         },
                         {
@@ -3484,28 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むむっ！？　もしや幕府の役人の方々か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは失敬。また山賊が強請に来たのかと勘違いを。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm? Could it be that you are officials from the shogunate?\nMy apologies. I thought bandits had come to extort us again."
                             ]
                         },
                         {
@@ -3529,28 +3424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（治安の悪い村だけあって、村長も気性が荒い感じね……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Given the poor public order of the village, it's no wonder\nthe village chief has such a rough temperament...)"
                             ]
                         },
                         {
@@ -3574,28 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は伊賀忍組の組頭の夕霧と申す者――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一人はくノ一の花梨だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊たちの情報をできるだけ教えて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I am Yugiri, the leader of the Iga ninja group--and this is\nthe kunoichi Karin. We would like to know as much as\npossible about the bandits."
                             ]
                         },
                         {
@@ -3619,28 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。奴ら数か月前に突然この村にやって来ましてな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ近くの山に砦を築いて大変迷惑しております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村の人間だけではとても倒せる数でもなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に困っている次第で……"
+                                "Yes. Those bandits suddenly came to this village a few\nmonths ago... They built a fortress in the nearby mountains\nand have been causing us a great deal of trouble. The\nvillagers alone are no match for their numbers; we are truly\nat our wits' end..."
                             ]
                         },
                         {
@@ -3664,28 +3496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村娘をさらっているのも本当なんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is it true that they are abducting the village girls?"
                             ]
                         },
                         {
@@ -3709,28 +3520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ。奴ら女狩りと称してこの一帯の村を襲っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若い村娘が連れられており、取り返すこともできません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "領地のお上に伝えても、なにせこの村が元から悪名高いゆえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "難色を示しており山賊退治に来る兵もままならぬ有様で……"
+                                "Indeed. They call it \"hunting women\" and have been attacking\nvillages in this area. Young village girls have been taken,\nand we cannot retrieve them. Even when we report to the lord\nof the land, given this village's already notorious\nreputation, they are reluctant to send soldiers to deal with\nthe bandits..."
                             ]
                         },
                         {
@@ -3754,28 +3544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……まるで見捨てられた村ね。領主も放っておくなんて）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(It's like a village that's been abandoned. To think that\nthe lord would ignore them...)"
                             ]
                         },
                         {
@@ -3799,21 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで申し訳なかったな村長……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが我らが来たからには山賊どもは一人も容赦はしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幕府の権威にかけて山賊砦を落城させて見せる。"
+                                "I apologize for what has happened until now, village\nchief... But now that we are here, we will show no mercy to\nthe bandits. In the name of the shogunate's authority, we\nwill take down their fortress."
                             ]
                         },
                         {
@@ -3837,28 +3592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　本当ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その言葉は嬉しいのですが、懸念が一つ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊たちの首領に気をつけてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh! Is that true? I am glad to hear that, but there is one\nconcern... Please be careful of the bandits' leader."
                             ]
                         },
                         {
@@ -3882,28 +3616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊たちの首領……？　どのような男なんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The bandits' leader...? What kind of man is he?"
                             ]
                         },
                         {
@@ -3927,21 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。古めかしい戦国時代の甲冑を着ている大男です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の背丈を超えるほどの長くて分厚い大刀を操る猛者でして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か……名前を【マガラ】と名乗ってました。"
+                                "Yes. He's a large man who wears old-fashioned armor from the\nWarring States period. He wields a long and thick katana\nthat exceeds the height of a man; his name is Magara, if I\nrecall correctly."
                             ]
                         },
                         {
@@ -3965,28 +3664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マガラ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Magara...?"
                             ]
                         },
                         {
@@ -4010,21 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。普段は山賊砦の奥にいるようで滅多に姿を現しません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度だけ遠くから見たことがあるんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間とは思えない雰囲気で――　まるで鬼の様な風貌でした。"
+                                "Yes. He usually stays deep within the bandit fortress and\nrarely shows himself. I've only seen him from a distance\nonce, but he had an aura that didn't seem human--like the\nvisage of a demon."
                             ]
                         },
                         {
@@ -4055,28 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!"
                             ]
                         },
                         {
@@ -4107,21 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊どもが来てから、村民の人心も荒れるばかりで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長である私も、正直疲れ切っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかこの巣裸無村を救ってください。お願いします！"
+                                "Ever since the bandits arrived, the villagers' morale has\nonly worsened... As the village chief, I am honestly\nexhausted. Please save our Suranamu Village. I beg of you!"
                             ]
                         },
                         {
@@ -4145,21 +3774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか……　承知した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らがさらわれた村娘を助け出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊どもと、その首領のマガラを必ずや討伐する所存だ。"
+                                "I see... Understood. We will rescue the abducted village\ngirls and ensure that the bandits, and their leader Magara,\nare defeated."
                             ]
                         },
                         {
@@ -4183,28 +3798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちが来たからには絶対に解決して見せますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか安心してください、村長さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We will definitely resolve this since we have come. Please\nrest assured, village chief."
                             ]
                         },
                         {
@@ -4235,28 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　あ、ありがとうございます――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか山賊どもを一掃してください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはせめてものお礼です。軍資金にお使いください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh! Thank you so much--! Please wipe out those bandits! This\nis a small token of our gratitude. Please use it as military\nfunds."
                             ]
                         },
                         {
@@ -4301,7 +3874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――巣裸無村の村長から\\c[17]３０００文\\c[0]受け取った！"
+                                "--Received \\c[17]3000 mon\\c[0] from the village chief of\nSuranamu Village!"
                             ]
                         },
                         {
@@ -4425,28 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長さん、山賊の首領のこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼のようなって言ってたね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Village chief, you mentioned that the bandit leader seemed\nlike a demon..."
                             ]
                         },
                         {
@@ -4470,28 +4022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。私が受け取った部下の報告通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マガラという山賊の首領――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "十中八九、本物の鬼で間違いあるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. According to reports from my subordinates, that bandit\nleader Magara--most likely, he is indeed a real demon."
                             ]
                         },
                         {
@@ -4515,28 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四谷の幽霊屋敷で見た戦鬼の一人かもね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし戦うとしたら強敵だわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "He might be one of the war demons we saw at the haunted\nmansion in Yotsuya... If we have to fight him, he'll be a\nformidable enemy."
                             ]
                         },
                         {
@@ -4572,28 +4082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし。巣裸無村の村長にも挨拶をしたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから山賊討伐に向かうとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動くなら早いほうが良いだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Alright. Now that we've greeted the village chief of\nSuranamu Village, let's head out to subdue the bandits. It's\nbetter to move sooner rather than later."
                             ]
                         },
                         {
@@ -4617,28 +4106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかったわ。それはそうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人でいるとかえって怪しまれないかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Understood. By the way, don't you think we might be more\nsuspicious if we're seen together?"
                             ]
                         },
                         {
@@ -4662,28 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな。先の戦いで二人とも鬼に顔が割れてるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで一旦二手に別れよう。私は人目を避けて隠れながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊砦の情報を集める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's true. Our faces are known to the demons from our\nprevious battle. Let's split up for now. I'll gather\ninformation on the bandit fortress while staying hidden from\nsight."
                             ]
                         },
                         {
@@ -4707,28 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん。しばらく互いに別行動して情報を集めたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またこの場所で落ち合いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sure. Let's act separately for a while and gather\ninformation, then meet back here later."
                             ]
                         },
                         {
@@ -4752,21 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。じゃあな、花梨――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊だけではなく、巣裸無村の住人にも凶暴な輩が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気をつけて情報を集めてくれ。では再度ここで合おう、"
+                                "Alright then, Karin--not just the bandits, but also many of\nSuranamu Village's residents are violent types. Be careful\nas you gather information. Let's meet back here later,"
                             ]
                         },
                         {
@@ -4811,7 +4223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は夕霧と別れて、巣裸無村の探索を始めた。"
+                                "--Karin parted ways with Yugiri and began exploring Suranamu\nVillage."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "幽霊屋敷",
+    "displayName": "Haunted Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -11672,7 +11672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -17930,7 +17930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -18177,7 +18177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Fortitude】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18423,7 +18423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 150 mon!\\c[0]"
                             ]
                         },
                         {
@@ -18670,7 +18670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【奇貨】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired \\c[0]Rare Item!"
                             ]
                         },
                         {
@@ -18917,7 +18917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19164,7 +19164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -20007,7 +20007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20147,7 +20147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]【注　夕霧の装備を強い防具や装飾品に変更してください】\\c[0]"
+                                "\\c[17]Please change Yugiri's equipment to stronger armor and\naccessories.\\c[0]"
                             ]
                         },
                         {
@@ -26155,7 +26155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしよう……　一度撤退しようかな……"
+                                "What should I do... Maybe we should retreat for now..."
                             ]
                         },
                         {
@@ -26163,8 +26163,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "撤退する",
-                                    "撤退しない"
+                                    "Retreat",
+                                    "Do not retreat"
                                 ],
                                 1,
                                 0,
@@ -26210,7 +26210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夕霧ちゃん。ここは一度撤退しよう。"
+                                "Yugiri-chan, let's retreat for now."
                             ]
                         },
                         {
@@ -26234,14 +26234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なに？　撤退するつもりか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……致し方ない。屋敷の前で待っているぞ。"
+                                "What? You're planning to retreat?... Can't be helped. I'll\nbe waiting in front of the mansion."
                             ]
                         },
                         {
@@ -26398,7 +26391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨たちは幽霊屋敷から撤退した！"
+                                "--Karin and the others retreated from the haunted mansion!"
                             ]
                         },
                         {

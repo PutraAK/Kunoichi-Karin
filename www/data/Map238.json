@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "銭湯　２階",
+    "displayName": "Public Bathhouse 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -1969,21 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、冷えたお茶が美味い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸の風呂は熱すぎるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引っ越してきた者からすると困ったもんだよ。"
+                                "Ah, chilled tea is delicious. The baths in Edo are too hot,\nit's quite a problem for someone who's moved here."
                             ]
                         },
                         {
@@ -2120,21 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔、この銭湯の２階には湯女がいた盛り場でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも幕府が禁止にして、湯女をみんな遊郭に連れて行った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は普通の休憩処になって将棋や囲碁をやったりする場さ。"
+                                "Long ago, the second floor of this bathhouse was a bustling\nplace with bathhouse girls. But the shogunate banned it, and\nall the girls were taken to the pleasure quarters. Now, it's\njust a regular resting spot where people play shogi and go."
                             ]
                         },
                         {
@@ -2452,21 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ、長湯してさっぱりしたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸っ子は風呂が大好きだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日に二度も三度も入浴しにくるのさ。"
+                                "Phew, a long bath really freshens you up. Edo folks love\ntheir baths so much they come to bathe two or even three\ntimes a day."
                             ]
                         },
                         {
@@ -3263,7 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぬぬぬ……！　だめだ、詰まれた……"
+                                "Gnnngh...! No good, I'm cornered..."
                             ]
                         },
                         {
@@ -3340,14 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風呂上がりに将棋するのが好きでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういった皆で交流する場は大事だね。"
+                                "I like playing shogi after a bath. It's important to have\nthese kinds of places where everyone can interact."
                             ]
                         },
                         {
@@ -3424,7 +3375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっへ！　賭け将棋に勝ったぜ！"
+                                "Heh heh! I won the bet in shogi!"
                             ]
                         },
                         {
@@ -3501,14 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我ら武士も家には風呂がないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはある種、平等な場所だよ。"
+                                "Even we samurai don't have baths at home. This place is, in\na way, a place of equality."
                             ]
                         },
                         {
@@ -3753,14 +3697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "娘さん、あんた囲碁できるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかったら遊んでいきなよ。"
+                                "Miss, can you play Go? If you'd like, let's play a game\nbefore you go."
                             ]
                         },
                         {
@@ -4195,7 +4132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {

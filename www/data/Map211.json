@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔谷",
+    "displayName": "Wind Demon Valley",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -14861,7 +14861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -15768,7 +15768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16015,7 +16015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17882,7 +17882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -23409,7 +23409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -24976,7 +24976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -25703,7 +25703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -26250,7 +26250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【超技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired the \\c[0]Super Technique Sake!"
                             ]
                         },
                         {
@@ -26558,7 +26558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【空狐の弓】を手に入れた！\\c[0]"
+                                "\\c[17]--Obtained the 【Sky Fox Bow】!\\c[0]"
                             ]
                         },
                         {
@@ -27177,7 +27177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -33162,28 +33162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――きゃあああぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Kyaaahhh!?"
                             ]
                         },
                         {
@@ -33207,28 +33186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだと……？　橋が！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What the...? The bridge!?"
                             ]
                         },
                         {
@@ -33252,28 +33210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むああぁッ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Muuaaah--!?"
                             ]
                         },
                         {
@@ -33316,28 +33253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――橋が突然落ちて、全員が川に落っこちた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--The bridge suddenly collapsed, and everyone fell into the\nriver!"
                             ]
                         },
                         {
@@ -33397,21 +33313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -33444,28 +33346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あうぅ……！　川に落ちて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びしょびしょになっちゃった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahh...! I fell into the river and got all soaked..."
                             ]
                         },
                         {
@@ -33489,28 +33370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然橋が落ちるとは……　油断したな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "To think the bridge would collapse so suddenly... I was\ncaught off guard."
                             ]
                         },
                         {
@@ -33534,14 +33394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっくしょん！　運が悪かったのぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "橋が渡れぬなら是非もない。迂回せんとな。"
+                                "Achoo! Just our luck... If the bridge is out, there's\nnothing to be done. We'll have to find a detour."
                             ]
                         },
                         {

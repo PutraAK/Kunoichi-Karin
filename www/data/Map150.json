@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -1976,7 +1976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここから去る前に、村長さんにお礼を言わないと……）"
+                                "(I need to thank the village chief before I leave here...)"
                             ]
                         },
                         {
@@ -2173,7 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここから去る前に、村長さんにお礼を言わないと……）"
+                                "(Before I leave this place, I must say thank you to the\nvillage chief...)"
                             ]
                         },
                         {
@@ -2370,7 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここから去る前に、村長さんにお礼を言わないと……）"
+                                "(Before I leave here, I must say thanks to the village\nchief...)"
                             ]
                         },
                         {
@@ -2738,7 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや、もう体は大丈夫なのかい？"
+                                "...Oh, are you feeling better already?"
                             ]
                         },
                         {
@@ -2762,21 +2762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。おかげさまで体調も戻り、元気になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長さんにはたくさんお世話になって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にありがとうございました、"
+                                "Yes, thanks to you, I've recovered and am feeling energetic.\nI've received so much care from you, Village Chief... I\ntruly appreciate it,"
                             ]
                         },
                         {
@@ -2800,21 +2786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何も何も。この港町では舟仕事が生業。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遭難した人間がいたら助けるのが同業者として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "海の男として当然のことだよ。"
+                                "It's nothing, really. In this port town, working on boats is\nour livelihood. It's only natural for a fellow seafarer and\na man of the sea to help someone who's been shipwrecked."
                             ]
                         },
                         {
@@ -2838,28 +2810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても感謝しています。タコ……じゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船から海に落ちた時はもう駄目かと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm very grateful. When I fell from the ship... I mean, when\nI fell into the sea, I thought it was the end..."
                             ]
                         },
                         {
@@ -2883,28 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬉三郎たちが待っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くこの村から去ったほうが良いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨日からお上が島抜けの罪人のことを探しているからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人がたくさんいる江戸のほうがかえって安全だ。"
+                                "Kisanosuke and the others are waiting. It's best if you\nleave this village quickly. Since yesterday, the authorities\nhave been searching for a criminal who escaped from the\nisland. It's actually safer in the crowded city of Edo."
                             ]
                         },
                         {
@@ -2928,28 +2858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　えっ……！？　わ、私たちは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Eh...!? W-We are...!"
                             ]
                         },
                         {
@@ -2973,28 +2882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬉三郎の奴、島流しになったって噂を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１年前に聞いてたからなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大方脱走してきただろうと思ったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あえて訊かなかったのさ。はっは。"
+                                "I heard rumors a year ago that Kisanosuke had been exiled to\nan island. I figured he must have escaped, so I deliberately\ndidn't ask. Haha."
                             ]
                         },
                         {
@@ -3018,28 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3063,21 +2930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この浦賀も安心じゃあない。これは餞別だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸への旅路に持っていきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉三郎に華蝶さんと幸せにと伝えてくれ。"
+                                "This Uraga isn't safe either. This is a parting gift. Take\nit with you on your journey to Edo. Tell Kisanosuke to be\nhappy with Kachou-san."
                             ]
                         },
                         {
@@ -3101,28 +2954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ありがとうございます、村長さん。恩に来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Thank you very much, Village Chief. I am indebted to you."
                             ]
                         },
                         {
@@ -3161,7 +2993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は村長から\\c[17]【おにぎり】\\c[0]５個を受け取った！"
+                                "--Karin received 5 \\c[17]【Onigiri】\\c[0] from the Village\nChief!"
                             ]
                         },
                         {
@@ -3252,28 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうして島流しになったかは訊かぬよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か事情があったのであろうが、お主は悪人には見えぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その目をみればわかる。わしはこれでも村長じゃからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人生はいつだって旅の途中。良き旅を――"
+                                "I won't ask why you were exiled to this island... There must\nhave been some circumstances, but you don't seem like a bad\nperson. I can tell by looking into your eyes. After all, I\nam the village chief. Life is always a journey in progress.\nHave a good trip--"
                             ]
                         },
                         {
@@ -4538,28 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4583,28 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、目が覚めたかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, have you awakened?"
                             ]
                         },
                         {
@@ -4628,28 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　あ、あなたは…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? Ah, you are..."
                             ]
                         },
                         {
@@ -4673,28 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はこの村の村長だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずいぶんと長いこと寝ていたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、嬉三郎たちを呼んでくるから待っていなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I am the village chief here. You've been asleep for quite a\nlong time. I'll go call Kisanosuke and the others, so wait\nhere."
                             ]
                         },
                         {
@@ -4718,28 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4763,28 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……みんな、助かったの……？　ここって何処……？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(...Did everyone make it...? Where is this place...?)"
                             ]
                         },
                         {
@@ -4808,28 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4846,28 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ダダダダッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Thudding footsteps--!>"
                             ]
                         },
                         {
@@ -4903,28 +4546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　ようやく目が覚めたか、花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Oh! You've finally woken up, Karin!"
                             ]
                         },
                         {
@@ -4948,14 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かった。花梨さんだけが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと目を覚まさないから心配して……"
+                                "I'm so relieved. You were the only one who hadn't woken up,\nso we were all worried..."
                             ]
                         },
                         {
@@ -4979,28 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ははっ！　花梨さんがこれくらいで倒れるわけないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三日間も寝てたから体力も回復したはずだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ha ha! There's no way Karin would be taken down by something\nlike this, right? You've been sleeping for three days, so\nyou should have regained your strength."
                             ]
                         },
                         {
@@ -5031,28 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな……　無事だったんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち、荒海を渡り切ったんだね？　本当に良かった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Everyone... is safe... We made it across the rough sea,\ndidn't we? I'm so glad..."
                             ]
                         },
                         {
@@ -5076,28 +4649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "海に落ちた全員を、嬉三郎さんが浮き袋に縄を繋いで泳いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうにか海辺まで引っ張ってくれたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "All of us who fell into the sea were pulled to the shore by\nKisanosuke-san, who tied ropes to flotation bags and swam us\nthere."
                             ]
                         },
                         {
@@ -5121,28 +4673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺っちは元漁師――　泳ぐのも得意だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ったよりも陸地まで近かったのが幸いだったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I used to be a fisherman--I'm good at swimming. It was\nfortunate that the land was closer than we thought."
                             ]
                         },
                         {
@@ -5166,28 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、嬉三郎さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちが辿り着いたここは……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you, Kisanosuke-san. Where have we ended up...?"
                             ]
                         },
                         {
@@ -5211,28 +4721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【浦賀】じゃ。江戸湾への玄関口の港よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目が覚めたなら急ぎ出立するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役人たちに気づかれる前にな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is Uraga. It's a port that serves as the gateway to Edo\nBay. Now that you're awake, we must hurry and depart before\nthe officials notice us."
                             ]
                         },
                         {
@@ -5256,28 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔、俺が住んでた場所だから地の利には明るい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから歩いて江戸まで帰ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I used to live here, so I'm familiar with the area. Let's\nwalk back to Edo from here."
                             ]
                         },
                         {
@@ -5301,21 +4769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待って、二人とも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨さん、まだ起きたばかりだから急に歩くと危ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気になったら村の入り口に来てください。"
+                                "Wait, both of you. Karin-san, you've just woken up, so it's\ndangerous to start walking suddenly. Please come to the\nvillage entrance once you're feeling better."
                             ]
                         },
                         {
@@ -5339,28 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、わかったわ、華蝶さん――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, I understand, Kachou-san--"
                             ]
                         },
                         {
@@ -5384,21 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かった良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三人とも御嬢さんの事を心配してたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感激もひとしおだなぁ♪"
+                                "That's a relief. All three of you were worried about the\nyoung lady, so this is quite moving♪"
                             ]
                         },
                         {
@@ -5422,14 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長さん、本当世話になったな。漂着した場所が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔馴染みのアンタが住んでいる故郷の浦賀で良かったよ。"
+                                "Village chief, we truly owe you a lot. It was fortunate that\nthe place we drifted ashore was Uraga, your hometown and a\nplace familiar to your face."
                             ]
                         },
                         {
@@ -5453,21 +4865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "海辺で見つけた遭難者が嬉三郎だった時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちも驚いたが、息災で何よりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い嫁さんと気をつけて江戸へ戻るんだぞ？　幸せ者め。"
+                                "When I found out that the castaway we found on the beach was\nKisanosuke, I was surprised too, but it's good to see you're\nsafe. Take care on your way back to Edo with your cute wife,\nyou lucky fellow."
                             ]
                         },
                         {
@@ -5491,28 +4889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ――？　その……私は……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh--? That... I am...!"
                             ]
                         },
                         {
@@ -5536,28 +4913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、すまねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "華蝶さんのこと、嫁と言ったほうが信用してくれると思って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……勝手に言っちまった……　御免な（ひそひそ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, sorry about that! I thought they'd trust us more if I\nsaid Kachou-san was my wife... I just went ahead and said\nit... My apologies (whispering)."
                             ]
                         },
                         {
@@ -5581,7 +4937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………っ！　もう、勝手なんだから……（ひそひそ）"
+                                "...! Geez, doing things on your own... (whispering)"
                             ]
                         },
                         {
@@ -5612,28 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨よ。皆で一緒にいると村の者に怪しまれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らは先に外で待っておるからな。早く来いよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin. If we all stay together, the villagers will become\nsuspicious. We'll be waiting outside first. Come quickly,\nokay?"
                             ]
                         },
                         {
@@ -5666,7 +5001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――三人は村長の家を後にした。"
+                                "--The three left the village chief's house."
                             ]
                         },
                         {

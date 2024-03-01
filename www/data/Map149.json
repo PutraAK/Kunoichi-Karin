@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浦賀村",
+    "displayName": "Uraga Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -11082,21 +11082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ？　漂流者さんご一行かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪我もなくて元気そうで良かったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう船に乗るんじゃないぞ。"
+                                "Oh? Is that the group of castaways? Good to see you're all\nunharmed and looking well. Don't go getting on a ship again,\nyou hear?"
                             ]
                         },
                         {
@@ -11202,14 +11188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今さらジタバタしてもしょうがあんめぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも通りに漁の仕事をしてるよ。ははっ♪"
+                                "It's no use fussing about it now. I'm just doing my fishing\nwork as usual. Haha♪"
                             ]
                         },
                         {
@@ -11623,7 +11602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -11990,7 +11969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -12440,14 +12419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "富士の山頂から噴煙が昇っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５年前のようにまた噴火するのかね？"
+                                "Smoke is rising from the peak of Mount Fuji. Could it be\nerupting again, like it did five years ago?"
                             ]
                         },
                         {
@@ -12726,21 +12698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【未来予知爺さん】"
+                                "【Future-Predicting Old Man】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むおおぉ！？　沖に――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "沖にでかい黒い船が来るっ……！"
+                                "Mwoooah!? Offshore--!? A huge black ship is coming\noffshore...!"
                             ]
                         },
                         {
@@ -12957,21 +12922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじいちゃん、最近ぼけちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浦賀に黒い船が来るって言ってるのよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当、困ったわねぇ……"
+                                "Grandpa's been getting senile lately, saying that black\nships are coming to Uraga... Really, it's quite troubling..."
                             ]
                         },
                         {
@@ -14681,7 +14632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コケッ！　コケッ！"
+                                "Cluck! Cluck!"
                             ]
                         },
                         {
@@ -14749,7 +14700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コケッ！　コケッ！　コケケッ――！"
+                                "Cluck! Cluck! Cluck-cluck--!"
                             ]
                         },
                         {
@@ -16173,14 +16124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴重な実と装飾品はいらないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他では売ってない品だよ。"
+                                "Don't you need precious fruits and ornaments? They're items\nnot sold anywhere else."
                             ]
                         },
                         {
@@ -16238,7 +16182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとな。旅の幸運を祈っているよ。"
+                                "Thanks. I'm wishing you luck on your journey."
                             ]
                         },
                         {
@@ -16318,21 +16262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "好きな場所で死ぬのも乙なもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村が好きだからここに居続けるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、何か欲しいものはあるかい？"
+                                "It's quite nice to die in a place you love. I stay here\nbecause I love this village. So, is there anything you want?"
                             ]
                         },
                         {
@@ -16390,7 +16320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとな。旅の幸運を祈っているよ。"
+                                "Thanks. I'm wishing you luck on your journey."
                             ]
                         },
                         {
@@ -17143,7 +17073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -17528,14 +17458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに？　無常島まで行きたいってか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠いから２０００文なら連れていってもいいぜ。\\$"
+                                "What? You want to go to Mujou Island? It's far, so I'll take\nyou there for 2000 mon.\\$"
                             ]
                         },
                         {
@@ -17543,8 +17466,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "無常島へ連れて行ってもらう",
-                                    "やめる"
+                                    "Take me to Mujou Island",
+                                    "Cancel"
                                 ],
                                 1,
                                 0,
@@ -17590,7 +17513,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お願いします！　もう一度無常島へ行きたいんです。"
+                                "Please! I want to go to Mujou Island once more."
                             ]
                         },
                         {
@@ -17607,14 +17530,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "本気かい？　しょうがねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こっちも気合入れて船を漕ぐぜ。船酔いに気をつけな。"
+                                "Are you serious? Can't be helped. I'll put some spirit into\nrowing the boat. Be careful not to get seasick."
                             ]
                         },
                         {
@@ -17659,14 +17575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は２０００文を支払い、船に乗った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--Karin paid 2000 mon and boarded the boat!\\$"
                             ]
                         },
                         {
@@ -17894,7 +17803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――お金が足りません"
+                                "--You don't have enough money"
                             ]
                         },
                         {
@@ -18843,8 +18752,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "華蝶たちに話しかける",
-                                    "まだここにいる"
+                                    "Speak to Kachou and the others",
+                                    "I'm still here"
                                 ],
                                 1,
                                 0,
@@ -18888,7 +18797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　花梨さん！"
+                                "--! Karin-san!"
                             ]
                         },
                         {
@@ -18912,28 +18821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう体調は万全になったみたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "It seems your health has fully recovered."
                             ]
                         },
                         {
@@ -18957,28 +18845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お待たせしてごめんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう大丈夫。江戸を目指しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Sorry to keep you waiting. I'm all better now. Let's head\nfor Edo."
                             ]
                         },
                         {
@@ -19002,28 +18869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……さて、ではワシはここで別れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Well then, I shall take my leave here."
                             ]
                         },
                         {
@@ -19047,7 +18893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ？　黒曜天狗さんも一緒に江戸へ行かないんですか？"
+                                "Eh? Kokuyou Tengu-san, you're not coming with us to Edo?"
                             ]
                         },
                         {
@@ -19071,28 +18917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ。ワシの場合、顔が割れてる有名人じゃからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かといって変装するのも性に合わんし、江戸へは行かぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "山奥で以前の様な修験者の生活に戻るつもりじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ah, in my case, being a well-known figure with a\nrecognizable face, it wouldn't suit me to disguise myself,\nnor will I go to Edo. I plan to return to the life of a\nmountain ascetic as before."
                             ]
                         },
                         {
@@ -19116,28 +18941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうなんだ。てっきり一緒に江戸へ行くのかと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I see. I thought for sure you'd come with us to Edo..."
                             ]
                         },
                         {
@@ -19161,28 +18965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうかい。急な話で残念だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタと出会わなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無常島から逃げ出すのは無理だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺たちを導いてくれてマジで感謝してるぜ。"
+                                "Is that so? It's a shame it's so sudden. If we hadn't met\nyou, escaping from Mujou Island would have been impossible.\nWe're seriously grateful for your guidance."
                             ]
                         },
                         {
@@ -19206,28 +18989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今までありがとうございました、天狗さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お化けダコを操った姿、とても素敵でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Thank you for everything, Tengu-san. The way you controlled\nthe ghost octopus was truly magnificent."
                             ]
                         },
                         {
@@ -19251,28 +19013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "華蝶に嬉三郎――　お前たち二人も仲良く暮らせよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "奉行所の役人に見つからぬよう質素にな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kachou and Kisanosuke--you two also live well together. Live\nmodestly so the officials from the magistrate's office don't\nfind you."
                             ]
                         },
                         {
@@ -19296,7 +19037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -19320,7 +19061,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……なんじゃ花梨？　その表情は？"
+                                "...What is it, Karin? That expression?"
                             ]
                         },
                         {
@@ -19344,28 +19085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いざ別れるとなると不思議と寂しくもなるわね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も感謝してるわ、黒曜天狗。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一緒に鯛汁を食べたこと、決して忘れないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "When it comes time to part, it's strangely sad... I'm also\ngrateful, Kokuyou Tengu. I'll never forget the time we\nshared sea bream soup together."
                             ]
                         },
                         {
@@ -19389,21 +19109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ。ワシもじゃ♪　あの鯛汁、美味かったのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さらばじゃ。乱暴で釣りが上手い娘、花梨よ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "二度と盗賊などせず、達者に暮らすがよい。"
+                                "Hmm. I feel the same♪ That sea bream soup was delicious!\nFarewell then. Karin, the rough and skilled fisher-girl--\nlive well and never turn to thievery again."
                             ]
                         },
                         {
@@ -19436,7 +19142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――黒曜天狗は花梨たちと別れた。"
+                                "--Kokuyou Tengu parted ways with Karin and the others."
                             ]
                         },
                         {
@@ -20137,21 +19843,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -20189,7 +19881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やったー！　無事に江戸まで帰ってこれた～！"
+                                "We did it-! We've safely made it back to Edo~!"
                             ]
                         },
                         {
@@ -20213,28 +19905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "脱出成功だぜ！　無常島の役人ども、ざまぁ見さらせ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遠島流罪にされて初めて帰って来た偉業を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺たちは成し遂げたぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "We've successfully escaped! Take that, officials of Mujou\nIsland, eat your hearts out! We've accomplished the great\nfeat of returning from exile!"
                             ]
                         },
                         {
@@ -20258,28 +19929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだかとても懐かしい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私にとっては２年ぶりの江戸ですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "町並みはそんなに変わってませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "It feels so nostalgic... It's been two years for me, but the\nstreets of Edo haven't changed much."
                             ]
                         },
                         {
@@ -20310,28 +19960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "華蝶さん、急ぎ深川に向かおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっと今日もお母さんが橋の上にいるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kachou-san, let's hurry to Fukagawa. I'm sure your mother is\nwaiting on the bridge even today."
                             ]
                         },
                         {
@@ -20355,28 +19984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……でも……　今さら母に会っても……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか、とても気まずくて…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...But... meeting mother now... somehow, it feels very\nawkward..."
                             ]
                         },
                         {
@@ -20400,28 +20008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何言ってんだい、華蝶さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺がついてる。お袋さんに会って安心させようぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What are you talking about, Kachou-san? I'm with you. Let's\nmeet your mother and put her mind at ease!"
                             ]
                         },
                         {
@@ -20445,14 +20032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだよ華蝶さん。お母さん、ずっと待ってるんだから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁさぁ、日が暮れる前に急ごう――！"
+                                "That's right, Kachou-san. Your mother has been waiting all\nthis time! Come on, let's hurry before the sun sets--!"
                             ]
                         },
                         {
@@ -20476,28 +20056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "～～～～...!!"
                             ]
                         },
                         {
@@ -20521,7 +20080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨と嬉三郎は華蝶の腕を引っ張り、深川へと向かった。"
+                                "--Karin and Kisanosuke pulled Kachou by the arm and headed\ntowards Fukagawa."
                             ]
                         },
                         {
@@ -20579,21 +20138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -20727,28 +20272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -20772,28 +20296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いたいた！　ほら、華蝶さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お母さん、待ってたよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "There she is! Look, Kachou-san! Your mother, she's been\nwaiting!"
                             ]
                         },
                         {
@@ -20817,28 +20320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "母……さん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Mother...san..."
                             ]
                         },
                         {
@@ -20893,7 +20375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！！　華蝶！？　あなた、華蝶じゃないの！？"
+                                "--!! Kachou!? Aren't you Kachou!?"
                             ]
                         },
                         {
@@ -20917,14 +20399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんね。島から逃げ出して会いに来たよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "母さん……　今まで心配させて御免なさい……"
+                                "I'm sorry. I escaped from the island to come see you...\nMother... I'm sorry for worrying you all this time..."
                             ]
                         },
                         {
@@ -20948,28 +20423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何を言っているんだい！　元々は私の病気の薬を買うために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタが遊郭に行って事件に巻き込まれて……　私のせいで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ああっ……本物の華蝶だ……　本当、会いたかったよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What are you saying?! It was originally because I needed\nmedicine for my illness that you went to the pleasure\ndistrict and got caught up in that incident... It's my\nfault... Ahh... The real Kachou... I really wanted to see\nyou..."
                             ]
                         },
                         {
@@ -20993,28 +20447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ううっ！　お母さん――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うわあぁ～～～～ん！　私もずっと会いたかったよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Uuh! Mother--! Waaah~ I've wanted to see you so much too!"
                             ]
                         },
                         {
@@ -21061,28 +20494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――華蝶は母親と涙を流しながら抱擁した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Kachou embraced her mother while shedding tears."
                             ]
                         },
                         {
@@ -21181,28 +20593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -21226,28 +20617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "良かったね……華蝶さん……　お母さんに会えて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm glad for you... Kachou-san... meeting your mother..."
                             ]
                         },
                         {
@@ -21271,14 +20641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ。こっちも思わず涙が出ちまうねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "離れ離れになった母親と娘の２年ぶりの再会だ。"
+                                "Ah. I can't help but tear up myself... It's a reunion\nbetween a mother and daughter who've been apart for two\nyears."
                             ]
                         },
                         {
@@ -21309,28 +20672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……あなた？　いつぞやの娘さん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...You? The girl from back then?"
                             ]
                         },
                         {
@@ -21354,28 +20696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "覚えてましたか？　花梨です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も同じく無常島に流されたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "華蝶さんと一緒に逃げてきました。あははっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Do you remember me? It's Karin. I was also exiled to Mujou\nIsland, so I escaped together with Kachou-san. Ahaha..."
                             ]
                         },
                         {
@@ -21399,28 +20720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨さん、とてもたくましくて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼女がいなかったら私、ここまで帰れなかった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の大恩人よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin-san, you're so strong... If it weren't for her, I\nwouldn't have been able to make it back here... She's my\ngreat benefactor."
                             ]
                         },
                         {
@@ -21444,21 +20744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうね。花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴女のおかげで娘に再び会えたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんとお礼を言っていいのか……"
+                                "Thank you, Karin-san. Thanks to you, I was able to see my\ndaughter again. I don't know how to thank you enough..."
                             ]
                         },
                         {
@@ -21482,14 +20768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いえいえ……　ずっと橋の上で待っていた甲斐がありましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お二人とも、再会できて本当良かったです。"
+                                "No, no... It was worth waiting on the bridge all this time.\nI'm really glad that both of you could be reunited."
                             ]
                         },
                         {
@@ -21513,28 +20792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちらの男の方は……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "And who is this gentleman...?"
                             ]
                         },
                         {
@@ -21558,28 +20816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "初めまして。その……怪しいもんじゃございません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "華蝶さんと花梨さんと共に島から逃げてきた風来坊です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヘッヘッヘ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nice to meet you. Uh... I'm not a suspicious person. I'm\njust a wanderer who escaped from the island with Kachou-san\nand Karin-san. Heh heh heh!"
                             ]
                         },
                         {
@@ -21603,7 +20840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この人は喜三郎さん。私の……夫よ。"
+                                "This person is Kisanosuke-san. He's my... husband."
                             ]
                         },
                         {
@@ -21634,7 +20871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えええっ――！？　お、夫……！？"
+                                "Eeeeh--!? H-husband...!?"
                             ]
                         },
                         {
@@ -21658,7 +20895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら！？　結婚してたのかい、華蝶！？"
+                                "Oh!? You're married, Kachou!?"
                             ]
                         },
                         {
@@ -21682,14 +20919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん。そう……　前に話しましたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "江戸に戻ったら嬉三郎さん、私と結婚して欲しいって……"
+                                "Yes, that's right... I told you before, didn't I? When we\nget back to Edo, I want Kisanosuke-san to marry me..."
                             ]
                         },
                         {
@@ -21713,14 +20943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほ、本気かい？　華蝶さん……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺が亭主でいいのかい……？"
+                                "R-really? Kachou-san...? Are you sure about me being your\nhusband...?"
                             ]
                         },
                         {
@@ -21744,7 +20967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どきどき…………"
+                                "*thump thump*"
                             ]
                         },
                         {
@@ -21768,14 +20991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい……　夫婦でいたほうが役人にも怪しまれないですし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このまま三人で一緒に暮らしましょう。"
+                                "Yes... It's less suspicious for officials if we're married,\nso let's live together, just the three of us from now on."
                             ]
                         },
                         {
@@ -21799,28 +21015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、ありがてぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大好きな華蝶さんと夫婦になれてほんと嬉しいぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ……これからも宜しく！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Thank you! I'm so happy to be able to become husband and\nwife with the woman I love, Kachou-san! So... please take\ncare of me from now on!"
                             ]
                         },
                         {
@@ -21844,21 +21039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "娘が帰って来たと思ったら、亭主も連れてきて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あははっ。わたしゃ二度驚きだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うれし涙も良いものだねぇ♪"
+                                "Just when I thought my daughter had come back, she brought a\nhusband with her too... Ahaha. I'm doubly surprised. Tears\nof joy are a wonderful thing, aren't they?♪"
                             ]
                         },
                         {
@@ -21882,28 +21063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "良かったですね、お母さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それじゃ私、自宅に帰ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ずっと留守にしてたから、お栄さんにも会いたいし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お二人とも、お幸せにね♪"
+                                "I'm happy for you, Mother. Well then, I'll be heading home.\nI've been away for so long, I want to see Oei-san too. Both\nof you, be happy together♪"
                             ]
                         },
                         {
@@ -21927,21 +21087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨さん。ここまでこれたのもアンタのおかげだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マジでありがとうな！　お互い役人に捕まらないよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気をつけて生きような！"
+                                "Karin-san. It's thanks to you that we made it this far.\nSeriously, thank you! Let's both be careful not to get\ncaught by the officials!"
                             ]
                         },
                         {
@@ -21965,21 +21111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "落ち着いたらまた会いましょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴女に出会えてよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当にありがとう、花梨さん――"
+                                "Let's meet again once things have settled down. I'm glad I\nmet you. Thank you so much, Karin-san--"
                             ]
                         },
                         {
@@ -21996,7 +21128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は笑顔で華蝶と嬉三郎と別れた。"
+                                "--Karin parted ways with Kachou and Kisanosuke with a smile."
                             ]
                         },
                         {
@@ -22234,28 +21366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -22279,28 +21390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（華蝶さん、お母さんと再会できて良かったわ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(I'm glad Kachou-san could reunite with her mother.)"
                             ]
                         },
                         {
@@ -22324,28 +21414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -22369,21 +21438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（さて、ここからどうしようかな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　自宅に帰るのも、お栄さんに会いに行くのも危なそうだし）"
+                                "...(Now, what should I do from here... Going home or\nvisiting Oei-san seems dangerous.)"
                             ]
                         },
                         {
@@ -22407,28 +21462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -22532,28 +21566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -22577,28 +21590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………ねぇ、そろそろ正体を現したら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここなら誰もいない。二人だけで話せるよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Hey, isn't it about time you showed yourself? No one's\naround here. We can talk, just the two of us."
                             ]
                         },
                         {
@@ -22622,28 +21614,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【声】"
+                                "【Voice】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ほう。こちらの尾行に気づいていたか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神岱村での盗賊退治の時と比べて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "腕を上げたようだな、ねずみ小町。"
+                                "...Hmm. You noticed someone was tailing you. You've improved\nsince the bandit subjugation in Kandai Village, Nezumi\nKomachi."
                             ]
                         },
                         {
@@ -22704,28 +21682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -22749,28 +21706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "江戸に着いてから妙に誰かさんの視線が気になっててね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタが尾行してたのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ever since arriving in Edo, I've felt someone's gaze on me.\nSo it was you who was following me?"
                             ]
                         },
                         {
@@ -22794,28 +21730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その通りだ。しかし率直に驚いたぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "島流しになった流罪人が無常島より脱走し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "江戸まで戻って来たのは初めてのことで今まで記録がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "盗賊とはいえ、たいした根性だ。褒めてやろう。"
+                                "That's right. But I must say I'm surprised. It's\nunprecedented for a banished criminal to escape from Mujou\nIsland and make it back to Edo. Even as a thief, that's\nquite the spirit. I'll give you that much credit."
                             ]
                         },
                         {
@@ -22839,28 +21754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……！　私のこと、捕まえに来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "奉行所の手先――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...! Are you here to capture me? An underling of the\nmagistrate's office--?"
                             ]
                         },
                         {
@@ -22884,21 +21778,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "違う。奉行所とは管轄が別の者だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれから我らの組織もさらに忙しくなってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "猫の手どころか鼠の手も借りたい……といった所だ。"
+                                "No. We belong to a different jurisdiction than the\nmagistrate's office. Since then, our organization has become\neven busier. We could use a cat's paw or even a mouse's\nhelp... that's where we're at."
                             ]
                         },
                         {
@@ -22922,28 +21802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………？　鼠の手も借りたい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...? A mouse's help?"
                             ]
                         },
                         {
@@ -22967,28 +21826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここからは言葉は不要――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずは腕っぷしの確認をさせて貰う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人目のないここならお互い全力で戦えるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No need for words from here on--first, let me test your\nstrength. We can fight with all our might here where there\nare no prying eyes."
                             ]
                         },
                         {
@@ -23077,28 +21915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ザザッ――――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<[Rustling]----!!>"
                             ]
                         },
                         {
@@ -23122,28 +21939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　その姿、忍者……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! That figure, a ninja...!?"
                             ]
                         },
                         {
@@ -23179,28 +21975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我が名は夕霧（ゆうぎり）――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サシで勝負だ。いいな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "My name is Yugiri--I challenge you to a one-on-one duel.\nAgreed?"
                             ]
                         },
                         {
@@ -23231,14 +22006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……どうしても私と刃を交えたいわけね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わかったわ……"
+                                "...So you really want to cross swords with me? Fine..."
                             ]
                         },
                         {
@@ -23262,28 +22030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はねずみ小町の姿に変身した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin transformed into her Nezumi Komachi persona!"
                             ]
                         },
                         {
@@ -23326,21 +22073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "腕試しなんて偉そうね――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何が何だか理由がわからないけど、売られた喧嘩は買う！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "反対に叩き潰してあげるわ！"
+                                "Talking big isn't necessary--I don't fully understand your\nreasons, but I'll accept the fight you've picked! In return,\nI'll crush you!"
                             ]
                         },
                         {
@@ -23364,28 +22097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "威勢の良い言葉も不要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "参るぞ、ねずみ小町。尋常に勝負――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No need for brave words either. Here I come, Nezumi Komachi.\nLet's have a fair fight--!"
                             ]
                         },
                         {
@@ -23414,7 +22126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――夕霧が襲ってきた！"
+                                "--Yugiri attacked!"
                             ]
                         },
                         {
@@ -23604,28 +22316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　キンッ――！　キンッ！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Clang--! Clang!>"
                             ]
                         },
                         {
@@ -23661,28 +22352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やああぁッ――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Yaaah--!!"
                             ]
                         },
                         {
@@ -23706,21 +22376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――ちっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（思っていたよりも技量がある……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　盗賊と思って侮りすぎたか！？）"
+                                "--Tch! (She's more skilled than I thought...! Did I\nunderestimate her because I thought she was just a thief!?)"
                             ]
                         },
                         {
@@ -23756,7 +22412,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでトドメよ！　やああぁッ――！！"
+                                "This is the finishing blow! Yaaah--!!"
                             ]
                         },
                         {
@@ -23792,7 +22448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "奥の手だ……　皆、鎖を投げろ――！"
+                                "It's my trump card... Everyone, throw the chains--!"
                             ]
                         },
                         {
@@ -23828,28 +22484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　ざざざざざっ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Rustle rustle rustle--!>"
                             ]
                         },
                         {
@@ -23892,7 +22527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えっ！　援軍――！？　屋根の上に待機してたの……！？"
+                                "Eh! Reinforcements--!? They were waiting on the roof...!?"
                             ]
                         },
                         {
@@ -23916,7 +22551,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "勝機！　脇腹を貰ったぞ――！"
+                                "Now's my chance! I've got you in the flank--!"
                             ]
                         },
                         {
@@ -23959,28 +22594,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　ドカカッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Thud--!!>"
                             ]
                         },
                         {
@@ -24011,7 +22625,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "きゃあああぁ～～っ！！"
+                                "Kyaaaah~~~!!"
                             ]
                         },
                         {
@@ -24035,14 +22649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "安心しろ、峰打ちだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前に死なれたらこちらも困るのでな――"
+                                "Rest assured, it was a blunt strike. It would be troublesome\nfor us if you died--"
                             ]
                         },
                         {
@@ -24066,28 +22673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あううぅ！？　忍者、汚い……！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Ouch! Ninja, that's dirty...!!"
                             ]
                         },
                         {
@@ -24123,28 +22709,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は腹部を強打されて地面に倒れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "--Karin was struck hard in the abdomen and fell to the\nground!"
                             ]
                         },
                         {
@@ -24286,28 +22851,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　ドカカカッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Thud thud thud--!>"
                             ]
                         },
                         {
@@ -24331,7 +22875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あううぅ！？（つ、強い……！　二回攻撃……！？）"
+                                "Ouch! (So strong...! A double attack...!?)"
                             ]
                         },
                         {
@@ -24355,28 +22899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "フン。いささか失望したぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その程度の腕前ならば誘う必要が無かったかもな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Hmph. I'm somewhat disappointed. If that's the extent of\nyour skill, perhaps there was no need to lure you out."
                             ]
                         },
                         {
@@ -24400,28 +22923,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ま、負けてなんかない！　まだ……戦えるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "I haven't lost yet! I can still... fight!"
                             ]
                         },
                         {
@@ -24445,28 +22947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その根性だけは認めてやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だが……ここまでだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "I'll acknowledge your spirit. But... this is the end."
                             ]
                         },
                         {
@@ -24502,28 +22983,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　バキッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Crack--!!>"
                             ]
                         },
                         {
@@ -24554,28 +23014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うあぁ！？（つ……強すぎる……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Ugh! (He's... too strong...!)"
                             ]
                         },
                         {
@@ -24611,28 +23050,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は腹部を強打されて地面に倒れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "--Karin was struck hard in the abdomen and fell to the\nground!"
                             ]
                         },
                         {
@@ -24670,28 +23088,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふぅ……　あう…ぅ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Fuu... Oww... ugh..."
                             ]
                         },
                         {
@@ -24715,28 +23112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、大人しくなったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前たち、ねずみ小町を屋敷に連れて行け。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Good, she's calmed down. You guys, take Nezumi Komachi to\nthe mansion."
                             ]
                         },
                         {
@@ -24772,28 +23148,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ハハッ――　夕霧さま！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Ha ha-- Lady Yugiri!"
                             ]
                         },
                         {
@@ -24824,28 +23179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（忍者の……軍団……？　私を……何処へ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "...! (Ninja... a troop of them...? Where are they taking\nme...)"
                             ]
                         },
                         {
@@ -24899,7 +23233,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は忍びたちに連れ去られた！"
+                                "--Karin was taken away by the ninjas!"
                             ]
                         },
                         {
@@ -25828,21 +24162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【役人】"
+                                "【Official】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我らは逃亡した罪人を探している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし怪しい者を見つけたら速やかに伝えるように。"
+                                "\"We are searching for an escaped criminal. If you find\nanyone suspicious, report it immediately.\""
                             ]
                         },
                         {
@@ -25866,14 +24193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まずい……　早く江戸に逃げたほうがいいわね）"
+                                "Yes...! (This is bad... I need to escape to Edo quickly.)"
                             ]
                         },
                         {
@@ -27306,14 +25626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ最近、季節はずれの暴風が続いたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく晴れたって感じだね。これで漁に出れるよ。"
+                                "We've had unseasonal storms recently, but it finally feels\nlike it's cleared up. Now we can go out to fish."
                             ]
                         },
                         {

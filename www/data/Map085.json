@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "伊賀忍屋敷",
+    "displayName": "Iga Ninja Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3480,7 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Impenetrable Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3908,14 +3908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は【修練場】です。敵地へ行くのに心細ければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで戦って技量をあげるといいですよ。"
+                                "What lies ahead is the [Training Grounds]. If you feel\nuneasy about heading into enemy territory, it would be good\nto fight here and improve your skills."
                             ]
                         },
                         {
@@ -3992,21 +3985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先の鬼たちとの戦いで、ほとんどの伊賀忍が殺されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の兄も帰らぬ人に……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか我らと一緒に戦ってください。"
+                                "In the previous battle with the demons, almost all of the\nIga ninjas were killed. My brother also... he's not coming\nback. Please, fight alongside us."
                             ]
                         },
                         {
@@ -4074,14 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭へ女性が入るには紹介状がいるそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心当たりのある人へ頼んでみると良いですよ。"
+                                "It seems that women need a letter of introduction to enter\nthe pleasure district. It would be good to ask someone you\nknow might have one."
                             ]
                         },
                         {
@@ -4257,21 +4229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "四谷の幽霊屋敷が小鬼たちの棲家になっているとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "灯台下暗しだな……　別に幽霊が怖くて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "捜査しなかったわけではないぞ？"
+                                "It's like not seeing what's right under your nose that the\nYotsuya haunted mansion has become a den for little\ndemons... It's not like I didn't investigate because I was\nscared of ghosts, okay?"
                             ]
                         },
                         {
@@ -4312,14 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……鬼は私にとっての仇敵だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "滅ぼすまで戦い続ける覚悟だ。"
+                                "...Demons are my sworn enemies. I am determined to fight\nuntil they are annihilated."
                             ]
                         },
                         {
@@ -4418,14 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧殿は巣裸無村に出かけたはずですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ、どうして花梨殿がここに？"
+                                "Yugiri-dono should have gone to Suranashi Village... Huh,\nwhy is Karin-dono here?"
                             ]
                         },
                         {
@@ -4514,28 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧殿は布団に寝かせています。怪我が早く治るよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らも最善を尽くしますのでご安心を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと、浦賀で新しく船の航路が作られたようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船賃を払えば浦賀から無常島へ行けると思いますよ、"
+                                "Yugiri-sama is resting in the futon. We are doing our best\nto ensure her injuries heal quickly, so please be at ease.\nAlso, it seems a new shipping route has been established at\nUraga. If you pay the fare, I believe you can travel from\nUraga to Mujou Island."
                             ]
                         },
                         {
@@ -4640,14 +4563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊砦で負った傷は完治した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから遠出する際は一緒に戦えるぞ。"
+                                "The wounds I sustained at the bandit fortress have fully\nhealed. From now on, when we travel far, I can fight\nalongside you."
                             ]
                         },
                         {
@@ -4736,7 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧殿は留守です。こちらには帰って来てませんよ？"
+                                "Yugiri-sama is not at home. She hasn't returned here, you\nknow?"
                             ]
                         },
                         {
@@ -4853,21 +4769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵は風魔か……　戦国時代の忍びに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当世の忍びが負けるわけにはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決着を着けに行くのなら一緒に戦うからな。"
+                                "The enemy is Fuma... There's no way the ninjas of this era\ncan lose to those from the Sengoku period. If you're going\nto settle this, I'll fight alongside you."
                             ]
                         },
                         {
@@ -4972,21 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸城が焼失したことで町民たちは浮足立っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼の首魁を倒さねば世に平和は来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に勝つぞ、花梨――"
+                                "The townspeople are in a state of panic since Edo Castle\nburned down. Peace will not come to this world unless we\ndefeat the chief of the demons. We must win at all costs,\nKarin--"
                             ]
                         },
                         {
@@ -5070,21 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか快盗ねずみ小町が我らと一緒に戦ってくれるとはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴殿の活躍はよく知っているつもりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとも心強い。夕霧殿を助けてあげてくれ。"
+                                "Who would have thought that the master thief Nezumi Komachi\nwould fight alongside us. I'm well aware of your exploits.\nIt's truly reassuring. Please help Yugiri-dono."
                             ]
                         },
                         {
@@ -5152,14 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊砦で捕縛された賊たちは島流しにされたそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで少しは巣裸無村の治安も良くなるであろう。"
+                                "The bandits captured at the bandit fortress were reportedly\nexiled to an island. This should improve the public order in\nSunudashi Village somewhat."
                             ]
                         },
                         {
@@ -5776,28 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は聞いているようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて５０人いた我ら伊賀忍も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今や１０人ほどしか残っておらぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵は悪鬼――　戦力の補強が必要なのだ。"
+                                "It seems you've heard the story. Once we, the Iga ninjas,\nnumbered 50, but now only about 10 remain. The enemy is a\ndemon--we need to reinforce our strength."
                             ]
                         },
                         {
@@ -5865,14 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幽霊屋敷に鬼がいるとは迂闊であったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主の体を張った囮捜査、拙者は敬意を表する。"
+                                "It was careless of me to not consider the presence of a\ndemon in the haunted mansion. I express my respect for your\nbrave decoy investigation."
                             ]
                         },
                         {
@@ -5940,21 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧殿にはもっと組頭らしく構えて欲しいのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも前線に出てしまうゆえ困ったものだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しは休んで欲しいのだがな。"
+                                "I wish Yugiri-dono would act more like a leader, but she\nalways ends up on the front lines... It's quite troubling. I\ndo wish she would rest a bit."
                             ]
                         },
                         {
@@ -6964,7 +6789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -7174,28 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……（この怪しい建物が忍者屋敷だったのね……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "... (So this eerie building was a ninja mansion...)"
                             ]
                         },
                         {
@@ -7219,28 +7023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来たか、花梨。待っていたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin, you've arrived. I've been waiting for you."
                             ]
                         },
                         {
@@ -7264,28 +7047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ……　忍者屋敷なんて本当にあるのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも丸の内の中に……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow... I never knew a real ninja mansion existed. And right\nin the middle of Marunouchi..."
                             ]
                         },
                         {
@@ -7309,28 +7071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一応確認だが、この屋敷に来たということは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らと一緒に戦ってくれるということで良いのだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Just to confirm, by coming to this mansion, you mean to say\nthat you'll fight alongside us, correct?"
                             ]
                         },
                         {
@@ -7354,7 +7095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！"
+                                "...!"
                             ]
                         },
                         {
@@ -7362,8 +7103,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒に戦う",
-                                    "迷っていると告げる"
+                                    "Fight together",
+                                    "Confess that you're hesitating"
                                 ],
                                 1,
                                 0,
@@ -7408,28 +7149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ。くノ一花梨として貴方たちと一緒に戦うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それで今までのことを全部恩赦してもらえるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お安い御用よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes. As the kunoichi Karin, I will fight with you all. If\nthat means all my past deeds will be pardoned, then it's a\nsmall price to pay."
                             ]
                         },
                         {
@@ -7453,28 +7173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "有り難し。ねずみ小町であった花梨殿が来られたなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我ら伊賀忍組の士気もあがります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Thank you. With Karin-dono, who was once known as Nezumi\nKomachi, joining us, the morale of our Iga ninja group will\nsurely rise."
                             ]
                         },
                         {
@@ -7498,28 +7197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よろしくね、伊賀忍の皆さん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nice to meet you, everyone from the Iga ninjas♪"
                             ]
                         },
                         {
@@ -7543,28 +7221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我ら伊賀忍組は歴史が古く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "江戸を守るために昔から存在する幕府直属の組織でな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "火付け盗賊など、表向きの犯罪は奉行所が管轄し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それ以外の相手は我らが影で滅してきた隠密部隊だ。"
+                                "The Iga ninja group has a long history and has existed since\nancient times to protect Edo. It is an organization directly\nunder the shogunate. We handle crimes like arson and theft\npublicly through the magistrate's office, and any other\nadversaries are secretly eliminated by our covert operations\nteam."
                             ]
                         },
                         {
@@ -7588,28 +7245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その相手が鬼ってことなのね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にわかには信じられないけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "So the adversaries are demons... It's hard to believe at\nfirst."
                             ]
                         },
                         {
@@ -7633,21 +7269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前はまだ鬼を見ていないからそう言える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "老中の真苗様が申されてたことに偽りない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この江戸は鬼たちに狙われているのだ。"
+                                "You can say that because you haven't seen a demon yet.\nThere's no falsehood in what Lord Shinana has stated. Edo is\nbeing targeted by demons."
                             ]
                         },
                         {
@@ -7671,28 +7293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここに来る前に瓦版屋が言ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近、夜鷹が続けて行方不明になっているって――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかしてそれが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I heard about it from the town crier before coming here.\nLately, courtesans have been going missing one after another\n--could it be that..."
                             ]
                         },
                         {
@@ -7716,28 +7317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "察しが良いな。それが鬼の手によるものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夜な夜な小鬼が出没し、何処かに夜鷹を連れ去っているのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "You catch on quickly. It is indeed the work of demons. Night\nafter night, lesser demons appear and abduct courtesans to\nsomewhere."
                             ]
                         },
                         {
@@ -7761,28 +7341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……連れ去られた場所はわかるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Do we know where they're being taken?"
                             ]
                         },
                         {
@@ -7806,28 +7365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小鬼どもは素早く、追跡の途中で行方をくらましてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこで花梨。お前の協力が必要なのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "The lesser demons are swift, and they manage to lose us\nduring pursuit. That's why we need your help, Karin."
                             ]
                         },
                         {
@@ -7851,28 +7389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど。じゃあ私が夜鷹のふりをして連れ去られ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鬼たちの棲家を発見するのが一番良いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I see. Then it's best if I pretend to be a courtesan and let\nmyself be abducted to discover the demons' lair."
                             ]
                         },
                         {
@@ -7896,28 +7413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　なんだと花梨？　お前自身が夜鷹になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鬼相手に囮捜査をやるつもりなのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! What did you say, Karin? You intend to become a\ncourtesan yourself and conduct an undercover investigation\nagainst the demons?"
                             ]
                         },
                         {
@@ -7994,28 +7490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ。これ以上、夜鷹の人が犠牲になるのはやるせないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私だったら殺されそうになったら逃げきれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その自信はあるよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes. It's unbearable to see more courtesans become victims.\nIf it comes down to it, I'm confident I can escape if they\ntry to kill me."
                             ]
                         },
                         {
@@ -8039,28 +7514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ざわ……ざわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(murmurs... murmurs...)"
                             ]
                         },
                         {
@@ -8084,28 +7538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "良いだろう。囮になる覚悟があるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちらを持っていけ。周りからは夜鷹に見えるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Very well. If you're prepared to be bait, then take this\nwith you. You should appear as a courtesan to those around\nyou."
                             ]
                         },
                         {
@@ -8158,7 +7591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――夕霧から\\c[17]【夜鷹のゴザ】\\c[0]を貰った！"
+                                "--Karin received the \\c[17]Courtesan's Mat\\c[0] from Yugiri!"
                             ]
                         },
                         {
@@ -8182,28 +7615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴザを貰ったりして、なんだか本格的になってきたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夜鷹のフリでいいんだよね……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Receiving a mat and all, it's getting quite serious, but I\njust have to pretend to be a courtesan, right...?"
                             ]
                         },
                         {
@@ -8227,28 +7639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ。夜になったら江戸中をくまなく捜査してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頼んだぞ、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes. Once night falls, search thoroughly throughout Edo. I'm\ncounting on you, Karin."
                             ]
                         },
                         {
@@ -8272,28 +7663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うん。もし小鬼が出たら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "追跡と援護をお願いね、夕霧ちゃん――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Alright. If a lesser demon shows up, I'll count on you for\nbackup and pursuit, Yugiri-chan--"
                             ]
                         },
                         {
@@ -8317,28 +7687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゆ……夕霧ちゃん……っ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yu... Yugiri-chan...?"
                             ]
                         },
                         {
@@ -8371,28 +7720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ！　おい、花梨！　ちゃん付けはやめろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が部下たちに舐められるだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "～～～～! Hey, Karin! Stop with the 'chan'! My subordinates will\nstart taking me lightly!"
                             ]
                         },
                         {
@@ -8416,28 +7744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アハハッ！　いいじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう夕霧ちゃんって呼ぶことにしたからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私のこと、花梨ちゃんって呼んでもいいよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahaha! It's fine. I've decided to call you Yugiri-chan from\nnow on. Feel free to call me Karin-chan too♪"
                             ]
                         },
                         {
@@ -8461,28 +7768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ううっ……！（やりづらいな……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ugh...! (This is awkward...)"
                             ]
                         },
                         {
@@ -8506,28 +7792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今日はこのまま自宅に帰るね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "明日から捜査開始するわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm going home for today. I'll start the investigation\ntomorrow."
                             ]
                         },
                         {
@@ -8551,28 +7816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……忠告しておくが、あくまで夜鷹のふりでいいからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男が近寄ってきたら断るのだぞ。わかったな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Just a word of caution, make sure you only pretend to be\na courtesan. If any men approach you, turn them away.\nUnderstood?"
                             ]
                         },
                         {
@@ -8608,14 +7852,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]【注　今後、自宅横の行燈をクリックすると夜になります】\\c[0]"
+                                "\\c[17][Note: From Now On, Clicking On The Lantern Next To Your Home Will Turn It To Night.]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\|\\|"
+                                "From Now On, Clicking On The Lantern Next To Your Home Will\nTurn It To Night.]: From Now On, Clicking On The Lantern\nNext To Your Home Will Turn It To Night.]"
                             ]
                         },
                         {
@@ -8690,28 +7934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……その……　まだ迷ってて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Well... I'm still hesitating..."
                             ]
                         },
                         {
@@ -8735,21 +7958,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか。ならば決心がついたらまた話しかけてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "異形の鬼と戦うのだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それなりに迷うの仕方ないからな。"
+                                "I see. Then speak to me again once you've made up your mind.\nIt's understandable to have reservations about fighting\ngrotesque demons."
                             ]
                         },
                         {
@@ -9745,21 +8954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝ていろと言われても、体がなまってしまうからな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "共に戦えなくてすまないな、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの炎を使う戦鬼は強敵だ。負けるなよ。"
+                                "Even if I'm told to stay in bed, my body will grow weak...\nI'm sorry I can't fight alongside you, Karin. That war demon\nwho uses flames is a formidable enemy. Don't lose."
                             ]
                         },
                         {

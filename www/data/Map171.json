@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "関所",
+    "displayName": "Checkpoint",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7469,7 +7469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -8728,21 +8728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの関所は厳重でな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関所ができてから、今まで突破した者はいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通りたければ通行手形を手に入れることだ。"
+                                "The checkpoint over there is heavily guarded... Since its\nestablishment, no one has ever broken through. If you want\nto pass, you'll need to obtain a pass."
                             ]
                         },
                         {
@@ -8810,7 +8796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒を飲んでないとやってられないぜ。ひっく……"
+                                "I can't handle this without drinking. *hic*..."
                             ]
                         },
                         {
@@ -11286,7 +11272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "のんびり釣りをしている時が一番好きだな。"
+                                "I love it best when I'm fishing leisurely."
                             ]
                         },
                         {
@@ -12648,7 +12634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -13730,7 +13716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……？　花梨さん、忘れ物ですか？"
+                                "...? Karin-san, did you forget something?"
                             ]
                         },
                         {
@@ -13754,21 +13740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだ？　一度江戸に帰るのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たちはここで待っているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "用が済んだら早く戻って来るんだぞ。"
+                                "What? Are you going back to Edo for a bit? We'll be waiting\nhere, so come back quickly once you're done."
                             ]
                         },
                         {
@@ -13792,7 +13764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "のじゃー♪"
+                                "Noja-♪"
                             ]
                         },
                         {
@@ -13992,7 +13964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……？　花梨さん、忘れ物ですか？"
+                                "...? Karin-san, did you forget something?"
                             ]
                         },
                         {
@@ -14016,21 +13988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだ？　一度江戸に帰るのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たちはここで待っているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "用が済んだら早く戻って来るんだぞ。"
+                                "What? Are you going back to Edo for a bit? We'll be waiting\nhere, so come back quickly once you're done."
                             ]
                         },
                         {
@@ -16172,7 +16130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16367,14 +16325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この関所を通るならば【通行手形】が必要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持っていなければ帰るがいい。"
+                                "If you wish to pass through this checkpoint, you need a\n[Pass Permit]. If you don't have one, you should turn back."
                             ]
                         },
                         {
@@ -16494,7 +16445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。手形を持っているな。通ってよし――"
+                                "Indeed. You have the pass. You may proceed--"
                             ]
                         },
                         {
@@ -16614,14 +16565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……我々は自分たちの仕事を全うするだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々考えても埒が明かぬゆえな。"
+                                "...We simply fulfill our duties. There's no point in\npondering over it, as it leads nowhere."
                             ]
                         },
                         {
@@ -16743,14 +16687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通行手形を持っていれば関所は何度でも通行可能だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足りない道具があったら江戸へ戻るのも大切だぞ。"
+                                "If you have a pass, you can go through the checkpoint as\nmany times as you want. It's also important to return to Edo\nif you're missing any tools."
                             ]
                         },
                         {
@@ -16856,21 +16793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相模の駐屯所も炎上したそうで、とても心配している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先日、同僚が与力として駐屯所の警護に向かったのだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何事もなく壮健であればよいが……"
+                                "I've heard that the garrison in Sagami has also gone up in\nflames, and I'm very worried. The other day, a colleague of\nmine went to guard the garrison as an assistant... I hope\nhe's safe and sound without any incidents..."
                             ]
                         },
                         {
@@ -16985,14 +16908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "関所を破られたら切腹ものだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休日でも剣術に勤しんでいるのだ。"
+                                "If the checkpoint is breached, it's a matter for seppuku.\nThat's why I'm devoted to swordsmanship even on holidays."
                             ]
                         },
                         {
@@ -17098,14 +17014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼に攻められ御城が炎上した話を聞いたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流言ではないのか？　とても信じられぬ……"
+                                "I heard that the castle was set ablaze by demons, but could\nit be just a rumor? It's so hard to believe..."
                             ]
                         },
                         {
@@ -17220,21 +17129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駄目だ駄目だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "袖の下を使ってもまかりならぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "法の番人を銭で買えると思うなよ？"
+                                "No good, no good. Even using a bribe won't do. Don't think\nyou can buy the guardians of the law with money!"
                             ]
                         },
                         {
@@ -17400,28 +17295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど……どうか通してください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手形は盗賊に盗られてしまって……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関所を通してくださるならば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくばかりか持ち金を差し上げますよ……！"
+                                "Please... please let me through! My pass was stolen by\nthieves...! If you let me through the checkpoint, I'll give\nyou all the money I have...!"
                             ]
                         },
                         {
@@ -17587,28 +17461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸への橋が完成してから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで宿に泊まる人が少なくなってね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店をたたむことにしたのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これも時代の流れかね……"
+                                "Ever since the bridge to Edo was completed, the number of\npeople staying at the inn here has decreased... I've decided\nto close up shop. Perhaps this is just the way of the\ntimes..."
                             ]
                         },
                         {
@@ -17991,21 +17844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この関所から南は下総の国だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妖しい森があるって旅人が言ってたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にあるのかなぁ……"
+                                "South of this checkpoint is the province of Shimousa.\nTravelers say there's an eerie forest, but I wonder if it\nreally exists..."
                             ]
                         },
                         {
@@ -18831,28 +18670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっき依頼主に手紙を渡して、今は休憩中さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ、今回も走った走った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "走るの大好きだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレにとっちゃ飛脚の仕事は天職だよ。"
+                                "I just delivered a letter to the client and now I'm taking a\nbreak. Man, I really ran a lot this time too. I love\nrunning, so being a courier is the perfect job for me."
                             ]
                         },
                         {
@@ -19921,7 +19739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -20356,14 +20174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まったく、通行手形を落とすなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨に大事なモノは預けられないな……"
+                                "...Honestly, dropping the pass permit like that... I can't\nentrust Karin with Key Items..."
                             ]
                         },
                         {
@@ -20505,14 +20316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫ですよ、花梨ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち、ここで待ってますから。"
+                                "It's okay, Karin-chan. We'll be waiting here for you."
                             ]
                         },
                         {
@@ -20654,28 +20458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人とも、お待たせっ！　ごめんね、遅くなって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sorry to keep you both waiting! My apologies for being late!"
                             ]
                         },
                         {
@@ -20699,28 +20482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ？　手形は見つかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh? Did you find the pass?"
                             ]
                         },
                         {
@@ -20744,14 +20506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かったですね花梨ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ妖の杜へ向かいましょう――"
+                                "That's great, Karin-chan. Now, let's head to the Forest of\nSpirits--"
                             ]
                         },
                         {
@@ -20782,7 +20537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "門番さん、これで通れますよね？"
+                                "Gatekeeper-san, we can pass through with this, right?"
                             ]
                         },
                         {
@@ -20818,7 +20573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は門番に通行手形を見せた。"
+                                "--Karin showed the gatekeeper the pass."
                             ]
                         },
                         {
@@ -20849,14 +20604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。これは本物の通行手形――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つかって良かったな。さぁ通るがよい。"
+                                "Hmm. This is a genuine pass--glad you found it. Go ahead and\npass through."
                             ]
                         },
                         {
@@ -20914,7 +20662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やった！　これで堂々と関所を通れるわ♪"
+                                "Yay! Now we can go through the checkpoint with our heads\nheld high♪"
                             ]
                         },
                         {
@@ -20965,7 +20713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、目指すはここから南にある【妖の杜】だ。"
+                                "Now, our destination is the Forest of Spirits to the south\nfrom here."
                             ]
                         },
                         {
@@ -21016,14 +20764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "妖の杜は私も見知った場所。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内できますのでさっそく参りましょう――"
+                                "The Forest of Spirits is a place I'm also familiar with. I\ncan guide us there, so let's get going--"
                             ]
                         },
                         {
@@ -21095,7 +20836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――夕霧と紅葉が仲間に加わった！\\c[0]"
+                                "\\c[17]--Yugiri and Momiji have joined the party!\\c[0]"
                             ]
                         },
                         {
@@ -21497,14 +21238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こらっ！　通行手形を持ってない者は通れぬ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強引に突破しようとするなら牢屋にブチ込むぞ！"
+                                "Hey! Those without a pass cannot go through! If you try to\nforce your way past, I'll throw you in jail!"
                             ]
                         },
                         {
@@ -21528,7 +21262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うぅ……　通行手形を落としちゃうなんて……情けない）"
+                                "(Ugh... To think I dropped my pass... How shameful...)"
                             ]
                         },
                         {
@@ -21705,7 +21439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――夕霧と紅葉と真沙妃が仲間に加わった！\\c[0]"
+                                "\\c[17]--Yugiri, Momiji, and Masaki have joined your party!\\c[0]"
                             ]
                         },
                         {
@@ -21891,7 +21625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――夕霧と紅葉が仲間に加わった！\\c[0]"
+                                "\\c[17]--Yugiri and Momiji have joined your party!\\c[0]"
                             ]
                         },
                         {
@@ -22117,14 +21851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まずは紅葉さんに会いに行かないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜、遊郭へ行ってみよう――"
+                                "First, I need to go see Momiji-san. Let's try going to the\npleasure district at night--"
                             ]
                         },
                         {
@@ -23296,21 +23023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -23327,7 +23040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【関所】――――"
+                                "----【Checkpoint】----"
                             ]
                         },
                         {
@@ -23351,28 +23064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お待たせしてごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm sorry for making you wait!"
                             ]
                         },
                         {
@@ -23396,28 +23088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅いぞ、花梨？　もう昼時だぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're late, Karin? It's already noon, you know?"
                             ]
                         },
                         {
@@ -23441,7 +23112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先が下総です。さぁ関所を越えましょう。"
+                                "We're now entering Shimousa. Let's cross the checkpoint."
                             ]
                         },
                         {
@@ -23465,21 +23136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -23515,14 +23172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主たち、女の子三人で旅に行くのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "門を通るのならば各々の通行手形を見せるがいい。"
+                                "Are you three girls traveling together? If you wish to pass\nthrough the gate, show me your travel permits."
                             ]
                         },
                         {
@@ -23553,28 +23203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これでよろしいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is this alright?"
                             ]
                         },
                         {
@@ -23598,7 +23227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。問題ない。"
+                                "Yes. No problems here."
                             ]
                         },
                         {
@@ -23636,7 +23265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうぞ――"
+                                "Please--"
                             ]
                         },
                         {
@@ -23660,7 +23289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、通れ。"
+                                "Alright, you may pass."
                             ]
                         },
                         {
@@ -23698,28 +23327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あれ……？　私の通行手形が……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Oh...? Where's my travel permit...)"
                             ]
                         },
                         {
@@ -23743,14 +23351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……如何したのだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしや通行手形を持ってないのか？"
+                                "...What seems to be the matter? Don't tell me you don't have\nyour travel permit?"
                             ]
                         },
                         {
@@ -23774,28 +23375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたんだ花梨？　まさか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's wrong, Karin? Don't tell me..."
                             ]
                         },
                         {
@@ -23819,28 +23399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日、奉行所で貰った通行手形を紛失したのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Did you lose the travel permit you got from the magistrate's\noffice yesterday?"
                             ]
                         },
                         {
@@ -23871,28 +23430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ、そんなぁ……！　確かに手形を貰ったのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慌てて帰宅したから、帰り道で落としちゃったのかな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見当たらないわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh, no way...! I definitely received the permit, but I\nrushed home and might have dropped it on the way back... I\ncan't find it..."
                             ]
                         },
                         {
@@ -23916,28 +23454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく仕方のない奴だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通行手形は気軽に再発行できるものじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうする気だ、花梨？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You really are hopeless. Travel permits aren't something you\ncan just casually reissue. What are you planning to do,\nKarin?"
                             ]
                         },
                         {
@@ -23961,28 +23478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　本当にごめんなさい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh... I'm really sorry..."
                             ]
                         },
                         {
@@ -24006,28 +23502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落としたのなら一緒に探しますよ、花梨ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "If you dropped it, then let's look for it together, Karin-\nchan."
                             ]
                         },
                         {
@@ -24051,14 +23526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、私の失敗だから、すぐに探し出してくるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人とも御免なさい――"
+                                "No, it's my fault, so I'll go look for it right away. Sorry\nto both of you--"
                             ]
                         },
                         {
@@ -24101,7 +23569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は通行手形を探すため、来た道を戻ることにした。"
+                                "--Karin decided to retrace her steps in search of the lost\ntravel permit."
                             ]
                         },
                         {

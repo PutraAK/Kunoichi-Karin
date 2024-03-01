@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭廃屋",
+    "displayName": "Brothel Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7878,7 +7878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15799,7 +15799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -22705,7 +22705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained \\c[0]1500 mon!"
                             ]
                         },
                         {
@@ -22952,7 +22952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -26781,7 +26781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【400 Mon】\\c[0]!"
                             ]
                         },
                         {

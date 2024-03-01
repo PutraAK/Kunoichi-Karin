@@ -3208,7 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注　これより先へ進むと戻れません。富士山へ進みますか？】"
+                                "Warning: You cannot return once you proceed. Will you\nadvance to Mount Fuji?"
                             ]
                         },
                         {
@@ -3216,8 +3216,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備万端！　このまま富士山へ進む",
-                                    "まだ向かわない"
+                                    "Fully prepared! Let's head to Mount Fuji now",
+                                    "Not heading there yet"
                                 ],
                                 1,
                                 0,
@@ -3370,21 +3370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -3408,14 +3394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "樹海……っていうの？　初めて来たけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "石と高い樹木で自然一杯って感じだね……"
+                                "A sea of trees... is that what it's called? It's my first\ntime here, but it's full of nature with rocks and tall\ntrees..."
                             ]
                         },
                         {
@@ -3439,14 +3418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妖の杜も木々は多かったが、それ以上に鬱蒼としているな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "噴火のせいか、所々に溶岩の吹き溜まりが出来ている。"
+                                "The Forest of Apparitions also had many trees, but this\nplace is even more densely overgrown. Perhaps due to the\neruption, there are pockets of lava here and there."
                             ]
                         },
                         {
@@ -3470,28 +3442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "残りの鬼達はまだまだ多いはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "進むならば用心して行かないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "We should still expect many more demons ahead. If we're to\nproceed, we must do so with caution."
                             ]
                         },
                         {
@@ -3515,21 +3466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -3565,28 +3502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グフフフフフッ――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Mwahahaha--!!"
                             ]
                         },
                         {
@@ -3610,7 +3526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――！？"
+                                "----!?"
                             ]
                         },
                         {
@@ -3634,21 +3550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さっそくお出ましのようじゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう戻れぬかもしれぬ。気合を入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コヤツらを撃破して参るぞ。"
+                                "It seems they've already shown themselves, haven't they? We\nmight not be able to go back. Let's brace ourselves and\ndefeat these creatures."
                             ]
                         },
                         {
@@ -3679,14 +3581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギョウオン様の命にヨリ、これから先へは進まセヌワ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死ねイ、侵入者ドモ！！"
+                                "By Lord Gyōon's command, you shall not pass beyond this\npoint! Die, intruders!!"
                             ]
                         },
                         {
@@ -3715,7 +3610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――鬼たちが攻撃してきた！"
+                                "--The demons have attacked!"
                             ]
                         },
                         {
@@ -3926,7 +3821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どきなさい！　邪魔はさせないんだからっ！"
+                                "Move aside! I won't let you interfere!"
                             ]
                         },
                         {
@@ -3976,28 +3871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　ガガガガガッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Clash--!!>"
                             ]
                         },
                         {
@@ -4033,28 +3907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "グハアアアァ！！　つ……ツヨイ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Guhahaaa!! So... strong...!?"
                             ]
                         },
                         {
@@ -4078,28 +3931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "フン！　江戸に攻めて来た鬼よりは頑丈じゃが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "妾たちの敵ではないわ！　道を開けろ、下郎――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Hmph! They may be sturdier than the demons that attacked\nEdo, but they are no match for us! Clear the way,\nscoundrels--!"
                             ]
                         },
                         {
@@ -4142,28 +3974,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガガガッ！　グギャアアアアアァ～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Clash!> Gyaahaaaaa~~~!!"
                             ]
                         },
                         {
@@ -4224,28 +4035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――鬼たちは消滅した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "--The demons have been vanquished!"
                             ]
                         },
                         {
@@ -4269,14 +4059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……この鬼たちはギョウオンが選別してきた元人間。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やはり今まで以上に強敵に感じますね。"
+                                "...These demons were once humans, handpicked by Gyōon.\nIndeed, they feel like stronger adversaries than before."
                             ]
                         },
                         {
@@ -4300,28 +4083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "選別……？　それってどういうことなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Handpicked...? What do you mean by that?"
                             ]
                         },
                         {
@@ -4345,28 +4107,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "鬼になった人間には鬼の力が宿りますが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それは元の人間の能力や強さに比例するもの――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つまり普通のどこにでもいる村人が鬼になるよりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "剣豪や達人が人から鬼になれば、すなわち……"
+                                "Humans transformed into demons inherit demonic powers, which\nare proportional to their original human abilities and\nstrength--in other words, if an ordinary villager becomes a\ndemon, it's one thing, but if a master swordsman or expert\nbecomes a demon, then..."
                             ]
                         },
                         {
@@ -4390,28 +4131,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "通常の鬼以上の……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "強力無比な鬼が誕生するというわけか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "They become demons of unparalleled strength, far surpassing\nordinary ones."
                             ]
                         },
                         {
@@ -4435,28 +4155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この富士を守っている鬼は、人であった時に強者であった者達。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギョウオンにとって親衛隊のような存在みたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "The demons guarding this Mount Fuji were strong individuals\nwhen they were human. They seem to be like an elite guard\nfor Gyōon."
                             ]
                         },
                         {
@@ -4480,28 +4179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "奴が人間を鬼人にするためには鬼の芽を使う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だがそれは指示受けの鬼になるため、案外臨機応変に戦えぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "例えるなら生きた操り人形みたいなものじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "To turn humans into demonkin, he uses demon seeds. However,\nsince these are meant to create obedient demons, they\nsurprisingly lack the ability to adapt in battle. They're\nlike living puppets."
                             ]
                         },
                         {
@@ -4525,7 +4203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それ故に風魔忍者の精鋭であるコタロー達を配下に？"
+                                "Is that why he has Kotarō and the other elite ninjas of the\nFūma under his command?"
                             ]
                         },
                         {
@@ -4549,28 +4227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "私たち風魔の生き残りは、自ら鬼の肉を食べた例外的存在。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ですから鬼の芽を植え付けられた走狗の鬼人たちより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "能力も判断力も圧倒的に高い。そのためギョウオンから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "八怨戦鬼と呼ばれ重宝がられてました。"
+                                "We survivors of the Fūma clan are exceptional beings who ate\nthe flesh of demons by our own will. Therefore, we have far\ngreater abilities and judgment than those demonkin who were\nimplanted with demon seeds and became mere minions. That's\nwhy Gyōon called us the Eight Grudge War Demons and valued\nus highly."
                             ]
                         },
                         {
@@ -4594,28 +4251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なるほど。だがその自我の残りが強いおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギョウオンに反抗し、袂を分かつことができたのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "I see. But it's because your sense of self remained strong\nthat you were able to rebel against Gyōon and part ways with\nhim."
                             ]
                         },
                         {
@@ -4639,28 +4275,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その話が本当なら……　今まで倒した鬼たちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "紅葉さんのように元は全員人間だったってことだよね……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人に害を為す鬼を討っているつもりだったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "知らずのうちに、実は元は人間である人達をこの手で……"
+                                "If that story is true... then all the demons we've defeated\nso far were once humans like Momiji-san...? I thought I was\nslaying demons that harm people, but unknowingly, I've been\nkilling those who were once human with my own hands..."
                             ]
                         },
                         {
@@ -4684,14 +4299,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（考えたくなかったが……　小鬼……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　あれはもしかして元は人間の子供の……）"
+                                "(I didn't want to think about it... but those small\ndemons... could they possibly have been human children\noriginally...)"
                             ]
                         },
                         {
@@ -4715,28 +4323,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4760,28 +4347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "二人とも、気持ちはわかるが深く懊悩までせぬともよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "紅葉のような人の心が残っているならともかく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "完全に鬼人となれば、即ち人間ではなく鬼そのもの――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Both of you, I understand how you feel, but there's no need\nto torment yourselves too deeply. If they retained a human\nheart like Momiji, it would be one thing, but once fully\ntransformed into demonkin, they are no longer human but\ndemons themselves--"
                             ]
                         },
                         {
@@ -4812,28 +4378,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4864,28 +4409,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "鬼にされた彼らはギョウオンの手により人の生涯を壊され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "否応なく鬼として生きる宿命に曲げさせられたのじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人を殺したと思うでない。化け物になってしまった彼らを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "悪なる鬼の道から助けた……　そう思え。その方が気が楽じゃ。"
+                                "Their lives were ruined by Gyōon's hand as they were forced\ninto a fate of living as demons against their will... Do not\nthink of it as killing people. Think of it as saving them\nfrom the wicked path of demons... It's easier on the\nconscience that way."
                             ]
                         },
                         {
@@ -4909,28 +4433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……うん、そう考えることにする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがとう、真沙妃ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "...Yeah, I'll try to think of it that way. Thank you,\nMasaki-chan."
                             ]
                         },
                         {
@@ -4966,28 +4469,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ますますギョウオンを許すことが出来なくなりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "必ず奴に罪を償わせてみせます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "I can't forgive Gyōon even more now. I will make sure he\npays for his crimes."
                             ]
                         },
                         {
@@ -5110,28 +4592,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴゴ……！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "<Rumbling...!!>"
                             ]
                         },
                         {
@@ -5162,28 +4623,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "再び地面が揺れ始めた！？　急がなければ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "The ground has started shaking again!? We must hurry...!"
                             ]
                         },
                         {
@@ -5207,7 +4647,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このふさげた儀式を始めたギョウオンをとっちめに行くぞ！"
+                                "We're going to put an end to this cursed ritual started by\nGyōon!"
                             ]
                         },
                         {
@@ -5243,7 +4683,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨たち４人は富士山に攻め入った！"
+                                "--Karin and the four others have stormed into Mount Fuji!"
                             ]
                         },
                         {
@@ -5700,7 +5140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ここから富士山に登れそうね。でも立ち入り禁止みたい）"
+                                "(It looks like we can climb Mount Fuji from here. But it\nseems to be off-limits.)"
                             ]
                         },
                         {
@@ -6167,21 +5607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……この村は正直苦手だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "入るのであるならば、ここで待っているからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵と戦う時だけは参戦するぞ。"
+                                "...Honestly, I'm not fond of this village. If you're going\nin, I'll wait here. I'll only join in when it's time to\nfight enemies."
                             ]
                         },
                         {
@@ -6249,14 +5675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……その、村の雰囲気が良くないので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私たちはここで待っています。ごめんなさい……"
+                                "...That is, the atmosphere of the village isn't good, so\nwe'll wait here. Sorry..."
                             ]
                         },
                         {
@@ -6384,14 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨！　今は寄り道している場合ではないだろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いで江戸へ向かうぞ！"
+                                "Karin! Now is not the time for detours! We must hurry to\nEdo!"
                             ]
                         },
                         {
@@ -6586,14 +5998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ぬぬ？　こんな辺鄙な村に寄り道するのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妾たちは外で待ってるぞ。"
+                                "...Hmm? Are we making a detour to such a remote village? We\nshall wait outside."
                             ]
                         },
                         {

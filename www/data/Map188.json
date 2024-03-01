@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "無人島",
+    "displayName": "Deserted Island",
     "encounterList": [],
     "encounterStep": 30,
     "height": 19,
@@ -11408,7 +11408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -11655,7 +11655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -11790,7 +11790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……どうしましょう。とても助けなんて来ないですよね……"
+                                "...What should we do? Help isn't going to come after all, is\nit..."
                             ]
                         },
                         {
@@ -11881,21 +11881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雨のせいで体が冷えて来ちまった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寒さにやられないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は火をくべるくらいしかできないな。"
+                                "The rain's made me so cold... All I can do now to avoid the\nchill is to keep the fire going."
                             ]
                         },
                         {
@@ -11986,21 +11972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暴雨でずぶ濡れじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく島から脱出できたと思ったのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遭難とは本当ついてないのぅ……"
+                                "I'm drenched from the downpour... Just when I thought I\nfinally escaped from the island, to end up shipwrecked is\nreally unlucky..."
                             ]
                         },
                         {
@@ -12091,14 +12063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　パチッ……　パチッ……　＞"
+                                "*Click*...*Click*..."
                             ]
                         },
                         {
@@ -12122,28 +12087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　危うく波に沈められるところだったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びしょ濡れになっちゃった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Phew... That was close. I almost got swallowed by the waves.\nI'm completely drenched..."
                             ]
                         },
                         {
@@ -12167,14 +12111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのまま無茶に航海していたら、沈没してましたね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも幸いにも無人島がすぐ近くにあって良かったです。"
+                                "If we had continued sailing recklessly, we would have\nsunk... But fortunately, there was an uninhabited island\nnearby."
                             ]
                         },
                         {
@@ -12198,14 +12135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ……　だが船の被害は決して軽くはないぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あちこち傷んで、これ以上の航海は無理かもしれねぇ……"
+                                "Ah... But the damage to the ship is far from light. It's\nbattered all over, and it might be impossible to sail any\nfurther..."
                             ]
                         },
                         {
@@ -12229,28 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！　そんなに船が傷んでるんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What! Is the ship that badly damaged?"
                             ]
                         },
                         {
@@ -12274,28 +12183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この船、未使用とはいえ５０年以上は経ってるからなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれだけの暴風に遭遇すりゃあ無傷ってわけには……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帆にも破れてる箇所があるし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This ship, although unused, is over 50 years old. After\nencountering such a storm, it's not surprising... There are\nalso tears in the sails..."
                             ]
                         },
                         {
@@ -12319,28 +12207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "困ったのぅ。しばらくは４人で無人島生活か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is troubling. Looks like the four of us will be living\non this deserted island for a while..."
                             ]
                         },
                         {
@@ -12364,28 +12231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -12455,14 +12301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……この島、もしかしたら他に人がいるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、島の中を探索してみるわ。"
+                                "...This island, there might be other people here. I'll go\nexplore inside the island."
                             ]
                         },
                         {
@@ -12486,21 +12325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気をつけろよ花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主が強いのは知っているが、この島は不吉な気配がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理はせずにすぐに帰ってくくるのじゃぞ？"
+                                "Be careful, Karin. I know you're strong, but this island has\nan ominous aura. Don't overdo it and make sure to come back\nsoon, alright?"
                             ]
                         },
                         {
@@ -12703,7 +12528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――船はボロボロで、出航できそうにない…………"
+                                "--The ship is falling apart and doesn't seem capable of\nsetting sail..."
                             ]
                         },
                         {

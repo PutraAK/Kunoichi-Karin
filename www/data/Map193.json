@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "実戦稽古場",
+    "displayName": "Actual Combat Training Grounds",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2532,14 +2532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬわっ！　お見事――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１００）\\c[0]"
+                                "Wow! Splendid--\\c[17](EXP +100)\\c[0]"
                             ]
                         },
                         {
@@ -2972,14 +2965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【師範代】"
+                                "【Assistant Instructor】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えいやああっ――！！"
+                                "Eiyaaaah--!!"
                             ]
                         },
                         {
@@ -3015,7 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたっ――！！"
+                                "Ouch--!!"
                             ]
                         },
                         {
@@ -3039,14 +3032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと早く正確に背後を取らねばなりませんぞ、花梨殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上達したければまた挑戦されよ。"
+                                "You must take the rear more quickly and accurately, Karin-\ndono. If you wish to improve, challenge it again."
                             ]
                         },
                         {
@@ -3340,28 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やったぁ！　私の勝ち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]――花梨は稽古相手を全員倒した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（全員倒した追加ボーナス　経験値＋１００）\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "Yay! I win!\\c[17]--Karin has defeated all her sparring\npartners! (Defeated All Bonus EXP +100)\\c[0]"
                             ]
                         },
                         {
@@ -3697,14 +3662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +50)\\c[0]"
                             ]
                         },
                         {
@@ -4141,14 +4099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【稽古相手】"
+                                "【Practice Partner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "甘い！　そらっ！！"
+                                "Too naive! Take this!!"
                             ]
                         },
                         {
@@ -4184,7 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたっ――！！"
+                                "Ouch--!!"
                             ]
                         },
                         {
@@ -4201,14 +4159,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【稽古相手】"
+                                "【Practice Partner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "惜しかったな。次からはもっと上手く背後をとるんだな。"
+                                "That was close. Next time, try to take the rear more\nskillfully."
                             ]
                         },
                         {
@@ -4533,14 +4491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +50)\\c[0]"
                             ]
                         },
                         {
@@ -4977,14 +4928,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【稽古相手】"
+                                "【Practice Partner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "甘い！　そらっ！！"
+                                "Naive! Dodge this!!"
                             ]
                         },
                         {
@@ -5020,7 +4971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたっ――！！"
+                                "Ouch--!!"
                             ]
                         },
                         {
@@ -5037,14 +4988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【稽古相手】"
+                                "【Practice Partner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "惜しかったな。次からはもっと上手く背後をとるんだな。"
+                                "That was close. Next time, try to take the back more\nskillfully."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "温泉宿",
+    "displayName": "Hot Spring Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2519,14 +2519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "横の階段を上がると客室です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごゆっくりどうぞ。"
+                                "If you go up the stairs to the side, you'll find the guest\nrooms. Please make yourself comfortable."
                             ]
                         },
                         {
@@ -2603,21 +2596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この熱海は幕府の初代将軍も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご入浴された歴史のある温泉地なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記念に君も温泉に入っていくといい。"
+                                "This Atami is a historic hot spring resort where even the\nfirst shogun of the shogunate bathed. You should take a dip\nin the hot springs as a memento."
                             ]
                         },
                         {
@@ -2713,14 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ熱海の温泉宿へ。【２０００文】で何度も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご自由に利用できます。お泊まりになりますか？\\$"
+                                "Welcome to the Atami hot spring inn. For [2000 mon], you can\nuse the facilities as many times as you like. Will you be\nstaying with us?\\$"
                             ]
                         },
                         {
@@ -2728,8 +2700,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2777,21 +2749,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございます。お休みされたい場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "２階の奥の部屋でお休みください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "温泉は左側奥になります。"
+                                "Thank you very much. If you wish to rest, please use the\nroom at the back on the second floor. The hot spring is\nlocated at the back on the left side."
                             ]
                         },
                         {
@@ -2839,14 +2797,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――\\c[17]【温泉入浴券】\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "温泉宿へ宿泊できるようになった！"
+                                "--\\c[17]【Hot Spring Bath Ticket】\\c[0] acquired! You can now\nstay at the hot spring inn!"
                             ]
                         },
                         {
@@ -2873,7 +2824,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -2974,14 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸から来られたのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、遠いところからようこそ。"
+                                "Did you come from Edo? Well, welcome from such a far place."
                             ]
                         },
                         {
@@ -3058,14 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "浴場はこちら奥になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "熱いのでお気をつけてくださいね。"
+                                "The bathhouse is further inside. Please be careful as the\nwater is hot."
                             ]
                         },
                         {
@@ -4837,14 +4774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、温泉良いよなぁ……\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、貴重な実と装飾品を売っているが見ていくかい？"
+                                "Ah, hot springs are so nice...\\I[15] Now, shall we take a\nlook at the precious fruits and ornaments for sale?"
                             ]
                         },
                         {
@@ -4929,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう。さてまた温泉に入ってくるかな……"
+                                "Thank you. Well, maybe I'll go back to the hot spring\nagain..."
                             ]
                         },
                         {
@@ -5298,21 +5228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -5336,28 +5252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーい！　温泉宿だぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく皆でお風呂に入りましょう♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yay! A hot spring inn! Let's all go take a bath together\nright away♪"
                             ]
                         },
                         {
@@ -5381,14 +5276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本格的な宿ですね。とても雰囲気が良くて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと浴場も素敵なんでしょうね。"
+                                "It's a genuine inn, isn't it? The atmosphere is so nice. I'm\nsure the bathhouse must be lovely too."
                             ]
                         },
                         {
@@ -5412,7 +5300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私も一緒に温泉に入らないとダメか？"
+                                "...Do I have to join in the hot spring as well?"
                             ]
                         },
                         {
@@ -5436,28 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはそうよ。ずっと戦い続けたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "温泉に入って傷を癒しながら、親睦を深めるのも必要でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Of course. We've been fighting continuously, so it's\nnecessary to heal our wounds and deepen our bonds while\nsoaking in the hot springs, right?"
                             ]
                         },
                         {
@@ -5481,28 +5348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……承知した。ではそうする…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Understood. Then that's what we'll do..."
                             ]
                         },
                         {
@@ -5538,7 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――三人は浴場へ向かった。"
+                                "--The three headed to the bathhouse."
                             ]
                         },
                         {
@@ -5765,21 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――三人は温泉を心ゆくまで楽しんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]全員の技力が２０上昇！\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "--The three enjoyed the hot springs to their hearts'\ncontent. \\c[17]Everyone's skill power increased by 20!\\c[0]"
                             ]
                         },
                         {
@@ -5944,28 +5776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5982,28 +5793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（――――夜――――）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(----Night----)"
                             ]
                         },
                         {
@@ -6103,21 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -6141,14 +5917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（夜中なのに目が覚めちゃった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう一回お風呂に入りに行こうかな）\\|\\|"
+                                "(I woke up in the middle of the night... Maybe I should go\ntake another bath.)"
                             ]
                         },
                         {

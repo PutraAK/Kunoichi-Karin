@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "七十朗の家",
+    "displayName": "Shichirou's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,21 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう少しで子供が産まれそうなんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、難産になりそうだと言われて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に生まれることを願っています。"
+                                "The baby seems like it will be born soon. But I've been told\nit might be a difficult birth... I'm praying for a safe\ndelivery."
                             ]
                         },
                         {
@@ -2312,21 +2298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【七十朗の妻　お清】"
+                                "【Shichirou'S Wife, Osei】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴女が花梨さん？　おかげで息子が無事に産まれました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夫を助けて頂き本当にありがとうございます。"
+                                "Are you Miss Karin? Thanks to you, my son was born safely.\nThank you so much for helping my husband."
                             ]
                         },
                         {
@@ -2403,7 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぎゃあ！　おぎゃあぁ！"
+                                "Wahh! Wahhh!"
                             ]
                         },
                         {
@@ -2478,14 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっ！　きゃっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]（男の子の数　\\V[44]人　　女の子の数　\\V[45]人）\\c[0]"
+                                "Eek! Eek! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
                             ]
                         },
                         {

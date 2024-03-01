@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔谷　洞窟",
+    "displayName": "Fuma Valley Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -17178,7 +17178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -18122,7 +18122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18789,7 +18789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19276,7 +19276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -20423,7 +20423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20729,7 +20729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1800 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -21036,7 +21036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25886,7 +25886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -26133,7 +26133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -26440,7 +26440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -31343,7 +31343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -32083,7 +32083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【戦神の首飾り】\\c[0]を手に入れた！"
+                                "--\\c[17]【War God's Necklace】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -35648,28 +35648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビシュッ――！　ビシュッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Whoosh--! Whoosh!"
                             ]
                         },
                         {
@@ -35693,7 +35672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁から矢が――！？"
+                                "Arrows from the wall--!?"
                             ]
                         },
                         {
@@ -35701,8 +35680,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "前後に避ける",
-                                    "左右に避ける"
+                                    "Dodge forward and backward",
+                                    "Dodge left and right"
                                 ],
                                 1,
                                 0,
@@ -35832,7 +35811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨たちは矢をかわした！"
+                                "--Karin and her companions dodged the arrows!"
                             ]
                         },
                         {
@@ -35856,14 +35835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ……　危なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさか壁から急に矢が発射されるなんて……"
+                                "Phew... That was close. I didn't expect arrows to suddenly\nshoot out from the wall..."
                             ]
                         },
                         {
@@ -35887,28 +35859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "忍びの里に繋がる道だけあって、罠が多いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "It's a path leading to the ninja village, so it's full of\ntraps."
                             ]
                         },
                         {
@@ -35932,14 +35883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく小賢しいのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "進むにも用心せねばなるまいな。"
+                                "Absolutely cunning! We must be careful as we proceed."
                             ]
                         },
                         {
@@ -36039,7 +35983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！（駄目だ！　橋が狭くて横にはかわせない！）"
+                                "--! (No good! The bridge is too narrow to dodge sideways!)"
                             ]
                         },
                         {
@@ -36075,28 +36019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ざくっ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Slash!)"
                             ]
                         },
                         {
@@ -36151,28 +36074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いたっ！　腕に矢が……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ouch! An arrow in my arm...!?"
                             ]
                         },
                         {
@@ -36196,28 +36098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかも毒入りか？　くそっ、忌々しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "And it's poisoned too? Damn, how vexing!"
                             ]
                         },
                         {
@@ -36346,7 +36227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[2]――全員の体力が１００減少！　毒を受けた！\\c[0]"
+                                "\\c[2]--Everyone's health decreased by 100! Afflicted with\npoison!\\c[0]"
                             ]
                         },
                         {
@@ -36379,28 +36260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ふぅ、驚いたの？　しかし致命傷でなく幸いじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Huh, that was startling, wasn't it? But fortunately, it's\nnot a fatal wound."
                             ]
                         },
                         {
@@ -36433,28 +36293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わあぁ！？　真沙妃ちゃんの頭に矢が刺さってる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Wow! Masaki-chan has an arrow stuck in her head!?"
                             ]
                         },
                         {
@@ -36478,28 +36317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だだ、大丈夫ですか、真沙妃どの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Are you alright, Lady Masaki!?"
                             ]
                         },
                         {
@@ -36530,14 +36348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "安心せい。妾は妖の王。これくらいでは死なぬわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だが、進むにも用心せねばなるまいな……"
+                                "Fear not. I am the king of spirits. Such a thing will not\nkill me. However, we must be cautious as we continue..."
                             ]
                         },
                         {

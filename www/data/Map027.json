@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "木賃宿",
+    "displayName": "Wooden Lodging Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2881,21 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巣裸無村の木賃宿に一人で泊まったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妊娠した娘がいるらしいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝ている間に襲われたのかもな。怖いねぇ。"
+                                "I heard there's a girl who stayed alone at the timber\nlodging in Suranashi Village and ended up pregnant. Maybe\nshe was attacked while she was asleep. Scary, huh."
                             ]
                         },
                         {
@@ -2963,21 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "娘さん、こんな貧しい木賃宿に寄ってる場合じゃねぇぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと江戸から避難しちまいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若い命を散らすことはねぇよ。"
+                                "Miss, this is no time to be stopping by such a poor lodging\nhouse. Hurry and evacuate from Edo. There's no need to throw\naway your young life."
                             ]
                         },
                         {
@@ -3054,14 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは労働者用の木賃宿です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雑魚寝とか平気じゃないと泊まれませんよ。"
+                                "This is a lodging house for workers. If you're not okay with\nsleeping in a communal space, you won't be able to stay\nhere."
                             ]
                         },
                         {
@@ -3138,14 +3103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あわわ！　もう世の中、終わりなんでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素敵な恋をしたかったな……　ぐすん……"
+                                "Oh no! Is the world coming to an end already? I wanted to\nexperience a wonderful romance... *sniffle*..."
                             ]
                         },
                         {
@@ -3260,21 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "浦賀の沖合で【お化けダコ】という"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬鹿でかいタコを見た漁師がいるそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当かね？"
+                                "They say there's a fisherman who saw a ridiculously huge\noctopus called the \"Ghost Octopus\" off the coast of Uraga.\nIs that true?"
                             ]
                         },
                         {
@@ -3342,14 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "船で逃げようにも俺の船が盗まれちまった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やけ酒でもしねぇとやってらねぇぜ……　ヒック。"
+                                "Even if I wanted to escape by boat, my ship's been stolen...\nI can't go on unless I drown my sorrows in booze... *hic*."
                             ]
                         },
                         {
@@ -3426,28 +3363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日波止場で働いて金を貯めてんのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこの木賃宿は安くて助かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、いびきがうるさい人が横で寝てると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠れなくて困るけどね……"
+                                "I work at the docks every day to save up money. That's why\nthis cheap lodging house is such a lifesaver. But it's tough\nto sleep when someone next to you is snoring loudly..."
                             ]
                         },
                         {
@@ -3515,14 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今さら逃げたってしょうがねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はこの江戸が好きだから最期の時まで居続けるさ。"
+                                "It's no use running away now. I love this Edo, so I'll stay\nhere until the very end."
                             ]
                         },
                         {
@@ -3611,7 +3520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐおおおっ……！　ごおおっ……！（いびき声）"
+                                "Groooah...! Goooah...! (Snoring)"
                             ]
                         },
                         {
@@ -3647,7 +3556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……すごいイビキ。こんな人の横じゃとても眠れないわね）"
+                                "(...Such loud snoring. There's no way I can sleep next to\nsomeone like this.)"
                             ]
                         },
                         {
@@ -3722,14 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まったく、とんでもねぇ事態だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっかねぇからまた寝るかな……　二度寝ふて寝ってやつさ。"
+                                "...Seriously, what a ridiculous situation. It's so scary I\nmight just go back to sleep... Yeah, a second round of\ndefiant slumber, that's what it is."
                             ]
                         },
                         {
@@ -4224,7 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {

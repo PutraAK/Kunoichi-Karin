@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "温泉宿　２階",
+    "displayName": "Hot Spring Inn 2nd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -1969,14 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "療養のため熱海に来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの温泉はとても良いよ。"
+                                "I came to Atami for recuperation. The hot springs here are\nvery good."
                             ]
                         },
                         {
@@ -2113,14 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっへっへ。二階から温泉が丸見えなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らなかっただろう？"
+                                "Heh heh heh. You can see the hot springs completely from the\nsecond floor. You didn't know that, did you?"
                             ]
                         },
                         {
@@ -2188,14 +2174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前はありがとうな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "温泉宿まで旅しに来た甲斐があったぜ。"
+                                "Thanks for last time♪ It was worth the trip all the way to\nthe hot spring inn."
                             ]
                         },
                         {
@@ -2391,7 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -2759,14 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "富士山で異変が感じられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前噴火したが、また天災が起きるかもな……"
+                                "Something strange is being felt at Mount Fuji. It erupted\nbefore, and there might be another natural disaster\nlooming..."
                             ]
                         },
                         {
@@ -3443,7 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――今日は休みますか？（体力回復・一日経過）"
+                                "--Shall we take a day off today? (Recover stamina. One day\nwill pass.)"
                             ]
                         },
                         {
@@ -3451,8 +3423,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "休む",
-                                    "まだ休まない"
+                                    "Rest",
+                                    "Not resting yet"
                                 ],
                                 1,
                                 0,

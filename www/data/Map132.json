@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "盗賊団の根城",
+    "displayName": "Thieves' Stronghold",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -7781,7 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -8436,7 +8436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16100,7 +16100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18304,7 +18304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒消し草】\\c[0]を手に入れた！"
+                                "--\\c[17]【Antidote Herb】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -18611,7 +18611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21497,14 +21497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５０）\\c[0]"
+                                "Gyaaah--! \\c[17](EXP +50)\\c[0]"
                             ]
                         },
                         {
@@ -22460,14 +22453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋４５）\\c[0]"
+                                "Gueee~~h! \\c[17](EXP +45)\\c[0]"
                             ]
                         },
                         {
@@ -23396,14 +23382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋７０）\\c[0]"
+                                "Guueeh~~! \\c[17](EXP +70)\\c[0]"
                             ]
                         },
                         {
@@ -24206,14 +24185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋４５）\\c[0]"
+                                "Gueeehh! \\c[17](EXP +45)\\c[0]"
                             ]
                         },
                         {
@@ -25067,7 +25039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -25398,14 +25370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１００）\\c[0]"
+                                "Gyaaah--!\\c[17](EXP +100)\\c[0]"
                             ]
                         },
                         {
@@ -26023,28 +25988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オホホッ！　騒ぎを聞いて駆けつけてみれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何者ですか、貴女は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ohoho! Hearing the commotion, I've come to see who do we\nhave here. Who might you be, miss?"
                             ]
                         },
                         {
@@ -26068,21 +26012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村に迷惑かけてる盗賊がいるって噂を聞いてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと懲らしめに来ただけよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタたち盗賊団のお頭は何処？"
+                                "I heard rumors about a bandit causing trouble in this\nvillage. I just came to give them a little lesson. Where is\nthe head of your bandit gang?"
                             ]
                         },
                         {
@@ -26106,21 +26036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホホッ！　匂坂迅雷さまはこの古城の奥にいらっしゃいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですがこの門を通しませんよ！　正義感にかられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人で来た愚かさを後悔しなさい！"
+                                "Hohoho! Lord Nyuusaka Jinrai is in the depths of this\nancient castle. But I will not let you pass through this\ngate! Regret your foolishness for coming here alone, driven\nby your sense of justice!"
                             ]
                         },
                         {
@@ -26151,7 +26067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお～～っ！　畳んじまえ！"
+                                "Ohhh! Flatten them!"
                             ]
                         },
                         {
@@ -26180,7 +26096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――金ぴか盗賊たちが襲ってきた！"
+                                "--The glittering bandits have attacked!"
                             ]
                         },
                         {
@@ -26853,7 +26769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {

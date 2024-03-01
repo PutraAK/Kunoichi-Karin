@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "天狗てんぐ教",
+    "displayName": "Tengu Doctrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2537,7 +2537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -4043,28 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニョホホ！　よく来たな、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "首を長くして待っておったぞ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nyohoho! You've come at last, Karin. I've been eagerly\nawaiting you♪"
                             ]
                         },
                         {
@@ -4088,28 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（思い出した！　私、ここで催眠術にかかって……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!! (I remember now! I was put under hypnosis here...!?)"
                             ]
                         },
                         {
@@ -4133,28 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、催眠の効果が切れていたようじゃの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも会いに来たということは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやらワシの術を気に入ってくれ様じゃな。ククク！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh? It seems the effects of the hypnosis have worn off? Yet\nyou still came to see me, which means you must have taken a\nliking to my techniques. Kukuku!"
                             ]
                         },
                         {
@@ -4178,28 +4115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！！　そ、そんなわけないでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタのこと、奉行所に突き出してあげる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~!! No way! I'm going to turn you in to the magistrate!"
                             ]
                         },
                         {
@@ -4223,28 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、そうはさせぬわ！　お前たち、花梨を捕まえろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmph, I won't let you do that! You guys, capture Karin!"
                             ]
                         },
                         {
@@ -4275,28 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハッ！　教祖サマ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Haha! Master--!"
                             ]
                         },
                         {
@@ -4327,7 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～！！（どうする！？）"
+                                "~~~~~~~~!! (What should I do!?)"
                             ]
                         },
                         {
@@ -4335,8 +4209,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "抵抗しない\\c[27]【Ｈイベント】\\c[0]",
-                                    "叩き潰す"
+                                    "Don't resist \\c[27][H Event]\\c[0]",
+                                    "Crush them"
                                 ],
                                 1,
                                 0,
@@ -4401,28 +4275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、こっちを見よ！　ワシの目をじっくりと見るのじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Now, look this way! Gaze deeply into my eyes!"
                             ]
                         },
                         {
@@ -4446,28 +4299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ！？（意識が……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~~!!? (My consciousness is...!?)"
                             ]
                         },
                         {
@@ -4512,7 +4344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――抵抗は無駄ぞ！　むぅうぅ～～ン！！"
+                                "--Resistance is futile! Mmmmm~n!!"
                             ]
                         },
                         {
@@ -4536,28 +4368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふーっ……　はーっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Fu-...ha-..."
                             ]
                         },
                         {
@@ -4593,28 +4404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そらそら！　二度と解けぬよう深く深くかけてくれるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "完全なワシの操り人形にしてくれるッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "There there! I'll cast it so deeply that it will never come\nundone! Turn her into my complete puppet!"
                             ]
                         },
                         {
@@ -4647,28 +4437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああぁ……　やめ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（頭が……働かない……？　この術、強力だわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahh...stop...! (My head...isn't working...? This technique\nis powerful...)"
                             ]
                         },
                         {
@@ -4704,28 +4473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ウオォーン　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Growl>"
                             ]
                         },
                         {
@@ -4749,28 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……どうじゃ、花梨。気分は如何ようじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...How do you feel, Karin? Are you feeling alright?"
                             ]
                         },
                         {
@@ -4815,28 +4542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4860,28 +4566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ククク！　術に掛かったようじゃな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我が名を申してみよ、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kukuku! It seems you're under the spell♪ Now, say my name,\nKarin."
                             ]
                         },
                         {
@@ -4917,28 +4602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黒曜天狗……さま……です……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kokuyou Tengu...sama..."
                             ]
                         },
                         {
@@ -4962,28 +4626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ワシのこと、どう思っておるのじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What do you think of me?"
                             ]
                         },
                         {
@@ -5016,28 +4659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "好き……です……　お慕いしております……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I like...you...I adore you..."
                             ]
                         },
                         {
@@ -5061,28 +4683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ニョホホホッ！　完全に催眠状態になったな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ、前と同じように服を脱げ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "寝室で可愛がってくれよう\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nyohohoho! You're completely hypnotized now♪ Now, undress as\nyou did before. Let's retire to the bedroom where I shall\ndote on you\\I[15]"
                             ]
                         },
                         {
@@ -5106,28 +4707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……は…い……　花梨のこと、可愛がって……ください……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Yes...please dote on...Karin..."
                             ]
                         },
                         {
@@ -5144,7 +4724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は着物を脱ぎ、半裸になって黒曜天狗に抱きついた。"
+                                "--Karin undressed out of her kimono, becoming half-naked and\nembraced Kokuyou Tengu."
                             ]
                         },
                         {
@@ -5227,7 +4807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Main event count +1, vaginal ejaculation +1, lewdness\n+3\\c[0]"
                             ]
                         },
                         {
@@ -5335,14 +4915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………？　日が暮れてる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたし……今まで何を……？"
+                                "...? It's getting dark? What have I been doing...?"
                             ]
                         },
                         {
@@ -5421,7 +4994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ぽたっ……　ぽたたっ……）"
+                                "(Drip...drip drip...)"
                             ]
                         },
                         {
@@ -5485,14 +5058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――ええっ？　アソコから白いのが零れて……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な、なんで！？"
+                                "--Eh? Something white is spilling from down there...!? Why?!"
                             ]
                         },
                         {
@@ -5516,14 +5082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨は自身の膣中にある白濁液が精子と気づかず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "道端の井戸水で洗い流した。"
+                                "Karin, unaware that the cloudy liquid inside her was semen,\nwashed it away with water from a roadside well."
                             ]
                         },
                         {
@@ -5547,21 +5106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（もしかして、寝ている間に男の人に襲われたとか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　うーん、もやもやするなぁ……　とりあえず帰宅しよう）"
+                                "...? (Could it be that I was attacked by a man while I was\nasleep...? Hmm, this is troubling... I should head home for\nnow.)"
                             ]
                         },
                         {
@@ -5684,7 +5229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――不思議な違和感を感じたまま花梨は家路についた。"
+                                "--Feeling a strange sense of discomfort, Karin made her way\nhome."
                             ]
                         },
                         {
@@ -5807,28 +5352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれ、なんで私……　ここへ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Huh, why am I... here...?"
                             ]
                         },
                         {
@@ -5852,28 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニョホホッ！　この前は気持ち良かったぞ花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kokuyou Tengu: Nyohoho! You felt good last time, Karin."
                             ]
                         },
                         {
@@ -5897,7 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ……！？　この前……？"
+                                "Eh...!? Last time...?"
                             ]
                         },
                         {
@@ -5921,28 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに？　覚えてないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシと熱い情交をしたではないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What? Don't you remember? We had a passionate encounter."
                             ]
                         },
                         {
@@ -5966,28 +5448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……！　ああっ！？　思い出した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私、操られて……！　好き放題にされたんだ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh...! Ahh!? I remember now! (I was manipulated...! He did\nwhatever he wanted with me!)"
                             ]
                         },
                         {
@@ -6011,21 +5472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その口調、もしやまた術が解けたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったくしょうがない娘じゃの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度ワシの目を見よ！"
+                                "That tone, has the spell worn off again? You really are a\ntroublesome girl. Look into my eyes once more!"
                             ]
                         },
                         {
@@ -6049,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！（まずい！　また催眠状態に……！？）"
+                                "--Ah! (This is bad! I'm falling under hypnosis again...!? )"
                             ]
                         },
                         {
@@ -6057,8 +5504,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "抵抗しない\\c[27]【Ｈイベント】\\c[0]",
-                                    "叩き潰す"
+                                    "Don't resist \\c[27][H Event]\\c[0]",
+                                    "Crush it"
                                 ],
                                 1,
                                 0,
@@ -6107,28 +5554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、こっちを見よ！　ワシの目をじっくりと見るのじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Come now, look here! Gaze deeply into my eyes!"
                             ]
                         },
                         {
@@ -6161,28 +5587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ！？（意識が……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~~h!? (My consciousness is...!? )"
                             ]
                         },
                         {
@@ -6218,14 +5623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬふふっ！　抵抗は無意味じゃぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そらっ、こっちを見ろっ！"
+                                "Nufufu! Resistance is futile! Now, look this way!"
                             ]
                         },
                         {
@@ -6258,21 +5656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふーっ……　はーっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（目をそらそうにも身体が動かない！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ダメぇ……　しっかりしなさい花梨……！）"
+                                "Fu-uh... Ha-ah...! (I can't look away, my body won't move!?\nNo, stay strong, Karin...!)"
                             ]
                         },
                         {
@@ -6308,28 +5692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "再び解けぬよう徹底的に術をかけてくれるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぬぅーん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'll cast the spell thoroughly so it won't come undone\nagain! Nuu-n!"
                             ]
                         },
                         {
@@ -6362,28 +5725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああぁ……　やめ……！　んぅ、ああぁ～～～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahh... stop...! Nn, ahhh~~~~~!"
                             ]
                         },
                         {
@@ -6407,21 +5749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -6438,7 +5766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（――――半刻後――――）"
+                                "(----Half a koku later----)"
                             ]
                         },
                         {
@@ -6455,21 +5783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -6514,28 +5828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6589,28 +5882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6641,14 +5913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フーッ！　ハーッ！　どうじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これで自我は閉ざされて、ワシに逆らうことはできまい！"
+                                "Fu-uh! Ha-ah! How about that! With your ego sealed away, you\nwon't be able to defy me!"
                             ]
                         },
                         {
@@ -6672,28 +5937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6717,7 +5961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨よ、ワシのことをどう思っているのじゃ？"
+                                "Karin, what do you think of me?"
                             ]
                         },
                         {
@@ -6760,28 +6004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はい。お慕いしており……ます……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "偉大なる……黒曜天狗さま……\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Yes. I admire you... greatly... mighty Kokuyou Tengu-\nsama...\\I[15]"
                             ]
                         },
                         {
@@ -6810,28 +6033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は再び催眠状態に陥った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin fell into a hypnotic state once again!"
                             ]
                         },
                         {
@@ -6855,28 +6057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ニョホホッ！　よいぞよいぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よぉし、今日もじっくりと抱いてやるからな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "覚悟せい、花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kokuyou Tengu: Nyohoho! Excellent, excellent! Alright, I'll\nembrace you thoroughly today as well♪ Prepare yourself,\nKarin!"
                             ]
                         },
                         {
@@ -6909,28 +6090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はい。私の体、お気が済むまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度でも抱いてください……　黒曜天狗さま\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Yes. Please embrace my body as much as you please...\nKokuyou Tengu-sama\\I[15]"
                             ]
                         },
                         {
@@ -6954,14 +6114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（クククッ！　慌てたが成功した様じゃのう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　しかし驚いたわ。我が術を自力で破るとは……）"
+                                "(Kukuku! That was a close one, but it seems to have worked.\nHowever, I'm surprised. She managed to break my spell on her\nown...)"
                             ]
                         },
                         {
@@ -6985,28 +6138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨が催眠状態になったことに安堵する黒曜天狗。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこに信者の男たちが申し訳なさそうに歩み寄った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Kokuyou Tengu is relieved that Karin has fallen into a\nhypnotic state. Then, some male followers approached with an\napologetic look."
                             ]
                         },
                         {
@@ -7061,28 +6193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その……　不躾なのは山々ですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレ達も情事に参加させて頂けませんか、教祖さま？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "We're sorry to be so forward... but may we also partake in\nthe pleasures with her, great leader?"
                             ]
                         },
                         {
@@ -7137,28 +6248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……この花梨という娘の体、我々も楽しみたくて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうかお願いします……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...We too wish to enjoy the body of this girl named Karin...\nplease allow us..."
                             ]
                         },
                         {
@@ -7182,28 +6272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬぅ？　お前たちも花梨の肢体を愉しみたいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nuu? You too wish to enjoy Karin's body?"
                             ]
                         },
                         {
@@ -7234,28 +6303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい……　どうか……ご一緒させてください……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes... please... let us join..."
                             ]
                         },
                         {
@@ -7286,28 +6334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（やれやれ、下手に断って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　こやつらにかけている術が解けるのも厄介じゃのぅ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Good grief, refusing them outright could cause the spells\non these fellows to break as well...)"
                             ]
                         },
                         {
@@ -7331,28 +6358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの……　ご返答は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Um... your response?"
                             ]
                         },
                         {
@@ -7376,28 +6382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よかろう。大事な信者の要望じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その望み、叶えて進ぜよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Very well. It's important to heed the requests of devoted\nfollowers. I shall grant your wish."
                             ]
                         },
                         {
@@ -7428,28 +6413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、ありがとうございます！　教祖さま！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ah, thank you so much! Great leader!"
                             ]
                         },
                         {
@@ -7480,7 +6444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨よ、合わせて４人でするが構わぬな？"
+                                "Karin, you don't mind if all four of us do it together, do\nyou?"
                             ]
                         },
                         {
@@ -7504,7 +6468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はい……　ヨロコンデ…………\\I[15]"
+                                "...Yes... I am pleased to...\\I[15]"
                             ]
                         },
                         {
@@ -7595,7 +6559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は自ら裸になり、寝室へ向かった。"
+                                "--Karin stripped herself naked and headed towards the\nbedroom."
                             ]
                         },
                         {
@@ -7720,14 +6684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　肛内射精＋１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "尺八＋１　口内射精＋１　淫乱度＋５\\c[0]"
+                                "\\c[27]Main event count +1, vaginal ejaculation +1, anal\nejaculation +1, fellatio +1, oral ejaculation +1, lewdness\nlevel +5\\c[0]"
                             ]
                         },
                         {
@@ -7751,28 +6708,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さて、今日はご苦労であったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また教団に来るのじゃぞ、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Well then, you've worked hard today. Be sure to come back to\nthe cult, Karin."
                             ]
                         },
                         {
@@ -7805,28 +6741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ、はぁ……\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はい……　黒曜天狗さま……\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Phew, haah...\\I[15]Yes... Kokuyou Tengu-sama...\\I[15]"
                             ]
                         },
                         {
@@ -7850,28 +6765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服は着てはならぬ。裸の姿で家まで帰るのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "You must not dress. Return home in your naked state."
                             ]
                         },
                         {
@@ -7895,28 +6789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はい……　承知しました……\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Yes... I understand...\\I[15]"
                             ]
                         },
                         {
@@ -7940,7 +6813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は着物を脇に抱えたまま、教団の屋敷を後にした。"
+                                "--Karin left the cult's mansion, holding her kimono at her\nside."
                             ]
                         },
                         {
@@ -8161,28 +7034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...\\I[15]"
                             ]
                         },
                         {
@@ -8208,14 +7060,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【町人A】"
+                                "【Townsperson A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……おいおい、あの娘を見ろよ？　裸だぜ……（ざわざわ）"
+                                "...Hey, hey, look at that girl? She's naked...(murmur\nmurmur)"
                             ]
                         },
                         {
@@ -8241,14 +7093,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【町人B】"
+                                "【Townsperson B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一体どうしたんだ、追剥ぎにでも遭ったのか？"
+                                "What on earth happened to her, did she get robbed?"
                             ]
                         },
                         {
@@ -8274,14 +7126,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【町人C】"
+                                "【Townsperson C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ふへへ、良い胸してるなぁ……\\I[15]）"
+                                "(Hehehe, she's got a nice set of breasts...\\I[15])"
                             ]
                         },
                         {
@@ -8298,28 +7150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...\\I[15]"
                             ]
                         },
                         {
@@ -8336,14 +7167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は周囲の好奇な視線も気にせずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "裸のまま自宅まで帰った。"
+                                "--Without minding the curious gazes of those around her,\nKarin returned home still naked."
                             ]
                         },
                         {
@@ -8508,28 +7332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ、黒曜天狗さま\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Kokuyou Tengu-sama\\I[15]"
                             ]
                         },
                         {
@@ -8553,28 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、よくぞ教団へ参った花梨♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh! You've done well to come to the cult, Karin♪"
                             ]
                         },
                         {
@@ -8605,28 +7387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ、私が働いている団子屋の団子です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったら天狗さまに食べて頂ければと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is a dango from the shop where I work. If it pleases\nyou, I would like Tengu-sama to have some..."
                             ]
                         },
                         {
@@ -8650,28 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニョホホッ！　気が利くのぅ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシは甘いものに目がなくてな。では頂こうか♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nyohoho! How thoughtful of you\\I[15]I have a sweet tooth\nindeed. Well then, I shall partake♪"
                             ]
                         },
                         {
@@ -8702,28 +7442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8747,28 +7466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...?"
                             ]
                         },
                         {
@@ -8792,28 +7490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8837,7 +7514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……如何したのじゃ、花梨？　もしや……？"
+                                "What seems to be the matter, Karin? Could it be...?"
                             ]
                         },
                         {
@@ -8861,28 +7538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――？　あれ、私……　なんでこんな所に……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----? Eh, why am I... in a place like this...?"
                             ]
                         },
                         {
@@ -8906,28 +7562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！？　まさか、ワシの術が解けたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~!!? Could it be that my spell has been broken?"
                             ]
                         },
                         {
@@ -8958,28 +7593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああぁっ！？　思い出した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタ、変な術をかけた怪しい天狗ね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahh! I remember now! You're that suspicious Tengu who cast a\nstrange spell on me!?"
                             ]
                         },
                         {
@@ -9003,21 +7617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぬぬっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（馬鹿な！　どうしてこの娘、何度も術が解けるのじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なにか神通力でも持っておる血筋なのか！？）"
+                                "Gnununu!? (Foolish! Why does this girl keep breaking my\nspell? Does she have some sort of divine power in her\nlineage!?）"
                             ]
                         },
                         {
@@ -9041,28 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "団子をここに持ってきたの、私みたいね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また怪しい催眠術をかけて私を操ってたのね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタのこと、奉行所に突き出してあげる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I brought the dango here, didn't I... You've been\ncontrolling me with your suspicious hypnotic spells again!\nI'll report you to the magistrate!"
                             ]
                         },
                         {
@@ -9086,28 +7665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、そうはさせぬわ！　お前たち、花梨を捕まえろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また術をかけて操ってくれるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmph, I won't let you do that! You guys, capture Karin! I'll\ncast a spell on her again and control her!"
                             ]
                         },
                         {
@@ -9131,28 +7689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハッ！　教祖サマ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Haha! Master of the cult--!"
                             ]
                         },
                         {
@@ -9176,7 +7713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～！！（どうする！？）"
+                                "~~~~~~~~!! (What to do!?）"
                             ]
                         },
                         {
@@ -9184,8 +7721,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "抵抗しない\\c[10]【催眠エンド】\\c[0]",
-                                    "叩き潰す"
+                                    "Do not resist \\c[10][Hypnosis End]\\c[0]",
+                                    "Crush them"
                                 ],
                                 1,
                                 0,
@@ -9234,28 +7771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そらっ！　ワシの目をしかと見るのじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Behold my eyes closely!"
                             ]
                         },
                         {
@@ -9279,28 +7795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うあぁ……！　やあぁ…ッ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（逃げようにも、逃げられない……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ugh...! Noo...! (I can't escape...!?)"
                             ]
                         },
                         {
@@ -9345,21 +7840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もはや生半可なかけ方はせぬッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全身全霊を込めて、何重にも術をかけ続けてやるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "――ムウウゥウン！！"
+                                "I won't cast it half-heartedly anymore--! With all my soul,\nI'll cast layers upon layers of spells on you!--Muuuun!!"
                             ]
                         },
                         {
@@ -9392,28 +7873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………っ！　～～～～～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...! ~~~~~~~~~~!!"
                             ]
                         },
                         {
@@ -9458,14 +7918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ウオォーン！　ウオォーン！　＞"
+                                "<Woof! Woof!>"
                             ]
                         },
                         {
@@ -9491,28 +7944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は黒曜天狗から何度も何度も催眠をかけられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin was hypnotized over and over again by Kokuyou Tengu!"
                             ]
                         },
                         {
@@ -9563,28 +7995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（――――半刻後――――）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(----Half an hour later----)"
                             ]
                         },
                         {
@@ -9627,28 +8038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...\\I[15]"
                             ]
                         },
                         {
@@ -9672,7 +8062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁっ！　はーっ！　これでもう二度と解けまい！"
+                                "Haah! Ha-! With this, it should never come undone!"
                             ]
                         },
                         {
@@ -9708,21 +8098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……天狗さま、ダイスキです……\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も花梨のアソコに……　濃い精子……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たっぷりと注いでくださいね……\\I[15]"
+                                "...I love you, Tengu-sama...\\I[15]Please fill my pussy with\nyour thick semen again today...\\I[15]"
                             ]
                         },
                         {
@@ -9746,14 +8122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――カカカッ！　よくぞ申した花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ、床に参れ！　今日もじっくり可愛がってやるぞ\\I[15]"
+                                "--Kakaka! Well said, Karin! Now, come to the floor! I will\ncherish you thoroughly today as well\\I[15]"
                             ]
                         },
                         {
@@ -9770,7 +8139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は黒曜天狗に接吻し、男女の営みを始めた。"
+                                "--Karin kissed Kokuyou Tengu and they began their intimate\nactivities."
                             ]
                         },
                         {
@@ -9801,28 +8170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9919,28 +8267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（――――五日後――――）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(----Five days later----)"
                             ]
                         },
                         {
@@ -9991,28 +8318,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10036,28 +8342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく……　花梨は何処に行ったんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "店の団子、勝手に持って行ってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "五日も行方不明になるなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Really now... Where did Karin go? It's been five days since\nshe took off with the shop's dango without permission..."
                             ]
                         },
                         {
@@ -10081,28 +8366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10126,28 +8390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アタシが天狗てんぐ教団の屋敷に行ってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "様子がおかしくなった気がする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして……　あの屋敷に入り浸ってるんじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I've had a strange feeling ever since I went to the Tengu\ncult's mansion... Could it be... she's been staying there..."
                             ]
                         },
                         {
@@ -10171,7 +8414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――お栄は四谷にある天狗てんぐ教団へ向かった。"
+                                "--Oei headed towards the Tengu cult's mansion located in\nYotsuya."
                             ]
                         },
                         {
@@ -10222,28 +8465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10267,28 +8489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これはこれは……　以前、教団に来られた方ですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Well, well... if it isn't someone who has visited our cult\nbefore?"
                             ]
                         },
                         {
@@ -10312,28 +8513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この前は世話になったね。ここに花梨が来てないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "五日前から自宅に帰ってないんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Last time was quite the ordeal. Have you seen Karin around\nhere? She hasn't returned home for the past five days."
                             ]
                         },
                         {
@@ -10357,28 +8537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ククク……　それはそれは……お困りのようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我ら教団に入信すれば、その悩みも解決するはずデス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kukuku... That is quite troubling indeed. If you join our\ncult, your worries should be resolved."
                             ]
                         },
                         {
@@ -10402,28 +8561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……っ！　茶化す気ならやめておくれよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちは真剣なんだ。あの子を赤ん坊の時から育てた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "母親代わりとしてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...! Stop joking around! I'm serious here. I've raised that\ngirl like she was my own child since she was a baby."
                             ]
                         },
                         {
@@ -10447,28 +8585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "承知しました。では教祖さまの寝室にお連れします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうぞ中へ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Understood. Then, I shall take you to the cult leader's\nbedroom. Please, come inside--"
                             ]
                         },
                         {
@@ -10492,28 +8609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………？（寝室……　なんで……？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...? (Bedroom... Why...?)"
                             ]
                         },
                         {
@@ -10578,14 +8674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪訝そうな顔で教団の屋敷内に入っていくお栄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこで見たものは――"
+                                "With a puzzled look, Oei entered the cult's mansion. What\nshe saw there was--"
                             ]
                         },
                         {
@@ -10801,7 +8890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くれぐれも、教祖さまに粗相のないように――"
+                                "Please be extra careful not to be rude to the High Priest-\nsama--"
                             ]
                         },
                         {
@@ -10980,14 +9069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主も教団の一員として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偉大なる黒曜天狗さまに尽くすのだ。"
+                                "You too must serve the great Kokuyou Tengu-sama as a member\nof the order."
                             ]
                         },
                         {
@@ -13114,7 +11196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -13469,21 +11551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -13507,14 +11575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にょほほほっ！　服の上からでもよくわかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体つきが素晴らしいのぅ♪　豊満と言っていい。"
+                                "Nyohohoho! Even over your clothes, it's clear. You have a\nsplendid figure♪ I'd say it's quite voluptuous."
                             ]
                         },
                         {
@@ -13538,28 +11599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ…りがとうござい…ます。黒曜天狗…さま……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah... thank you very much... Kokuyou Tengu-sama..."
                             ]
                         },
                         {
@@ -13583,28 +11623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "服を脱いでワシに乳を見せてみよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Strip and show me your breasts."
                             ]
                         },
                         {
@@ -13628,28 +11647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は…い……　どうぞ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ye... yes... here you go..."
                             ]
                         },
                         {
@@ -13696,28 +11694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――お栄は着物の襟に手をやり、乳房を露出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Oei reached for the collar of her kimono and exposed her\nbreasts."
                             ]
                         },
                         {
@@ -13780,7 +11757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………これで、よろしいですか？\\I[15]"
+                                "...Is this alright?\\I[15]"
                             ]
                         },
                         {
@@ -13804,28 +11781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっほー\\I[15]　いやはや、立派な乳房じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よぉし、その胸でワシの愚息を愉しませてくれるかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hohoho-\\I[15] My, my, what splendid breasts. Alright then,\nwill you please entertain my foolish son with those breasts\nof yours?"
                             ]
                         },
                         {
@@ -13849,28 +11805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかり…ました……　黒曜天狗さま……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Understood... Kokuyou Tengu-sama..."
                             ]
                         },
                         {
@@ -13887,28 +11822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お栄は黒天狗の体にまたがり腰を降ろして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パイずりをしはじめた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oei straddled Kokuyou Tengu's body, lowered her hips, and\nbegan to perform a paizuri."
                             ]
                         },
                         {
@@ -13932,28 +11846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ……はっ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nn... Ah..."
                             ]
                         },
                         {
@@ -13977,28 +11870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっほぉ～！　良いかな良いかな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの愚息を隙間なく包んでくれる♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hohoho~! Excellent, excellent! Your breasts envelop my\nfoolish son without any gaps♪"
                             ]
                         },
                         {
@@ -14107,28 +11979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょーっと、待ったあぁ～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wait just a minute, ahhh~~~!!"
                             ]
                         },
                         {
@@ -14152,28 +12003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　なぬぬ？　お主は……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? What the? Who are you...!?"
                             ]
                         },
                         {
@@ -14197,28 +12027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は花梨――　お栄さんに何をしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかりしてお栄さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I am Karin--what have you done to Oei-san? Pull yourself\ntogether, Oei-san!"
                             ]
                         },
                         {
@@ -14284,28 +12093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -14329,28 +12117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ううぅ！　どうしたの？　目の焦点があってない！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Ugh! What's wrong? She's not focusing her eyes!? )"
                             ]
                         },
                         {
@@ -14374,28 +12141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくく！　無駄じゃ無駄じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの術はそう簡単に解けるものではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kukuku! Futile, futile. My technique isn't something that\ncan be undone so easily."
                             ]
                         },
                         {
@@ -14419,28 +12165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "術……？　お栄さんに催眠術でもかけたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Magic...? Did you put Oei-san under some kind of hypnotic\nspell?"
                             ]
                         },
                         {
@@ -14464,21 +12189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左様。勝ち気な性格じゃが、なかなかの美貌と身体。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま家に帰すには惜しくなってのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシと一緒にいたいじゃろ、お栄よ？"
+                                "Indeed. She has a feisty personality, but she's quite\nbeautiful and has a nice body. It would be a shame to send\nher home just like that. You want to stay with me, don't\nyou, Oei?"
                             ]
                         },
                         {
@@ -14502,7 +12213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ええ……　黒曜天狗さま……\\I[15]"
+                                "...Yes... Kokuyou Tengu-sama...\\I[15]"
                             ]
                         },
                         {
@@ -14526,28 +12237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない……　お栄さん、ゴメン――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I can't help it... I'm sorry, Oei-san--!"
                             ]
                         },
                         {
@@ -14635,28 +12325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（びびびびびび！！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Bzzzzzz!!)"
                             ]
                         },
                         {
@@ -14697,7 +12366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨はお栄の頬にビンタを繰り出した！"
+                                "--Karin slapped Oei's cheek!"
                             ]
                         },
                         {
@@ -14737,28 +12406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたあッ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ななな！　なに？　いったい何をするのさ、花梨！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ouch--!? Wha-what? What are you doing, Karin!?"
                             ]
                         },
                         {
@@ -14782,28 +12430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！！　良かった！　気づいたのね、お栄さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!! Thank goodness! You've come to your senses, Oei-san!"
                             ]
                         },
                         {
@@ -14847,14 +12474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？　なんでアタシ、胸を出してんのさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みっともないったらありゃしない！"
+                                "Eh!? Why am I exposing my breasts like this? This is so\nshameful!"
                             ]
                         },
                         {
@@ -14878,28 +12498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン……　痛みで覚醒してしまったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく力づくでワシの術を解きおってからに――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmph... Awakened by pain, have you? To think you'd undo my\ntechnique by force--"
                             ]
                         },
                         {
@@ -14923,28 +12522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしてお栄さん、この屋敷に？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Why are you in this mansion, Oei-san?"
                             ]
                         },
                         {
@@ -14968,28 +12546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。昨晩から腰痛がさらに悪くなってね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんの一人がこの黒曜天狗って爺さんを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紹介してくれたのさ。なんでも不思議な術で腰痛を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治してくれたって。それでアタシも来たんだけど――"
+                                "Ah. Since last night my back pain got even worse... One of\nthe customers introduced me to this old man called Kokuyou\nTengu. Apparently, he has some mysterious technique to cure\nback pain. So I came here but--"
                             ]
                         },
                         {
@@ -15013,28 +12570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だめだめ！　これはどう見ても怪しい術でしょ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このおじいさん、とてもお医者さんに見えないし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "団子屋に帰ろう、お栄さん。常連客の人も待ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No way, no way! This looks suspicious no matter how you look\nat it. This old man doesn't look like a doctor at all...\nLet's go back to the dango shop, Oei-san. The regular\ncustomers are waiting for you."
                             ]
                         },
                         {
@@ -15058,28 +12594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！　しまった！　いつの間にかもうお昼過ぎてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんを待たせたらマズイね！　すぐに帰るよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! Oh no! It's already past noon!? It's bad to keep the\ncustomers waiting! I need to go back right away!"
                             ]
                         },
                         {
@@ -15135,28 +12650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――お栄は慌てて団子屋に向かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Oei hurriedly headed back to the dango shop!"
                             ]
                         },
                         {
@@ -15180,28 +12674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……やれやれ、せっかくの新規の美人客を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り逃がしてしまったわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく余計なことをしてくれたな、花梨とやら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Good grief, I let a potential new beautiful customer slip\naway. Karin or whatever her name is, she really did\nsomething unnecessary."
                             ]
                         },
                         {
@@ -15225,14 +12698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何さ。こんな怪しい術で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "病気や怪我が治ったりしないでしょ？"
+                                "What's that about? Your suspicious techniques won't heal\nillnesses or injuries, will they?"
                             ]
                         },
                         {
@@ -15256,21 +12722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まてまて、ワシの治療は嘘ではないぞ？　病は気から。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛覚は人の脳で感じるもの。我が至高の術で麻痺させれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛みも消える。皆もそう思うであろう――"
+                                "Hold on now, my treatment is no lie. Illness comes from the\nmind. Pain is felt by the brain. If my supreme technique\nparalyzes it, the pain disappears. Everyone would agree--"
                             ]
                         },
                         {
@@ -15294,7 +12746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ハイ。黒曜天狗サマの仰る……とおりで……"
+                                "...Yes. Just as Kokuyou Tengu-sama says..."
                             ]
                         },
                         {
@@ -15318,14 +12770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……教団へ来て、教祖様にお会いしてから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩みが全てフキトビマシタ……"
+                                "...After coming to the congregation and meeting the guru,\nall my worries were blown away..."
                             ]
                         },
                         {
@@ -15356,28 +12801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！（洗脳されている！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~!! (They're brainwashed!? )"
                             ]
                         },
                         {
@@ -15401,28 +12825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうじゃ、花梨よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの弟子たちの言葉を聞いたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人を救うのがこの天狗てんぐ教団の教義よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "How about it, Karin? Did you hear what my disciples said?\nSaving people is the doctrine of this Tengu congregation."
                             ]
                         },
                         {
@@ -15446,28 +12849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……本当はどうだか……　どうみても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デタラメでいんちきな方法にしか見えないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I wonder if that's really true... No matter how you look\nat it, it seems like a bunch of nonsense and trickery."
                             ]
                         },
                         {
@@ -15491,28 +12873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デタラメとは許しがたい暴言ぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの術がどれだけ多くの人々を救ってきたか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小娘のお主なんぞには分かるまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで否定するならば、一度試してみたらどうじゃ？"
+                                "Calling it nonsense is an unforgivable insult. You, a young\ngirl, wouldn't understand how many people my techniques have\nsaved. If you're so skeptical, why not try it for yourself?"
                             ]
                         },
                         {
@@ -15536,7 +12897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！"
+                                "...!"
                             ]
                         },
                         {
@@ -15544,8 +12905,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "試しに術をかけてもらう\\c[27]【Ｈイベント】\\c[0]",
-                                    "叩き潰す"
+                                    "Try out a spell on me \\c[27][H Event]\\c[0]",
+                                    "Crush them"
                                 ],
                                 1,
                                 0,
@@ -15589,28 +12950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふん、そんな屁理屈を言うのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私にその至高の術ってものをかけてみたら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "効かなかったらお上に訴えてやるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmph, if you're going to spout such nonsense, then why don't\nyou try that supreme technique on me? If it doesn't work,\nI'll report you to the authorities!"
                             ]
                         },
                         {
@@ -15634,21 +12974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クククッ！　よーし！　ならばこちらを見よッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "長年の修行で手に入れた我が力――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お主にいやがうえにも教えてくれるわい！"
+                                "Kukuku! Very well! Behold! I will demonstrate the power I've\nobtained through years of training--even if you're\nreluctant, I'll teach you!"
                             ]
                         },
                         {
@@ -15672,7 +12998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――黒曜天狗は花梨の目の前に歩み寄り、目を近づけた。"
+                                "--Kokuyou Tengu stepped forward and brought his face close\nto Karin's."
                             ]
                         },
                         {
@@ -15708,28 +13034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ！　ワシの目をよーく見るのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目を逸らしてはならない。じっくりとな……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Now! Look into my eyes. Do not look away. Focus deeply...!"
                             ]
                         },
                         {
@@ -15765,14 +13070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……くだらない。こんなので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　催眠にかかるわけないじゃない。あくびが出るわ……）"
+                                "(...Ridiculous. There's no way I'd fall for hypnosis with\nsomething like this. It's making me yawn...)"
                             ]
                         },
                         {
@@ -15814,21 +13112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -15845,7 +13129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――だが半刻後、恐るべき事態に――"
+                                "--But half an hour later, a terrifying situation unfolded--"
                             ]
                         },
                         {
@@ -15862,7 +13146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（――――半刻後――――）"
+                                "(----Half an hour later----)"
                             ]
                         },
                         {
@@ -15879,21 +13163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -15965,28 +13235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………（とろーん）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...(Dazed)"
                             ]
                         },
                         {
@@ -16010,28 +13259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クックック！　ちょろいのぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "深い催眠状態になったようじゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kukukuku! How naive! Are you deeply hypnotized now?"
                             ]
                         },
                         {
@@ -16067,28 +13295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -16112,28 +13319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ニョホホホホ！　さぁ着物を脱げ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生まれた時の姿になるのじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nyohohoho! Now, take off your clothes! Return to the state\nyou were born in!"
                             ]
                         },
                         {
@@ -16157,28 +13343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………えっ……？　は、裸に……ですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Eh...? You mean, get naked...?"
                             ]
                         },
                         {
@@ -16202,21 +13367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "左様――　これからワシの聖なる棒を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お主の肉体に教授して遣わす故な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "教祖であるワシの命令は絶対ぞ？　早よう裸になれ。"
+                                "Indeed--from here on, I shall impart my sacred rod upon your\nflesh. The orders of me, the guru, are absolute, aren't\nthey? Hurry up and get naked."
                             ]
                         },
                         {
@@ -16240,7 +13391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……は、はい……　黒曜天狗……さま……"
+                                "...Yes... Kokuyou Tengu-sama..."
                             ]
                         },
                         {
@@ -16285,7 +13436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は言われるがまま、着物をゆっくりと脱ぎ始めた。"
+                                "--As told, Karin slowly began to undress."
                             ]
                         },
                         {
@@ -16354,7 +13505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]尺八＋１　口内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Shakuhachi +1 Oral Ejaculation +1 Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -16378,14 +13529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今日は楽しかったわい♪　また屋敷に来るのじゃぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わかったな、花梨よ――"
+                                "Today was quite enjoyable ♪ Make sure to visit the mansion\nagain. You understand, Karin--"
                             ]
                         },
                         {
@@ -16418,7 +13562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はい、黒曜天狗さま…………"
+                                "...Yes, Kokuyou Tengu-sama..."
                             ]
                         },
                         {
@@ -16435,7 +13579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は黒曜天狗に接吻し、屋敷を後にした。"
+                                "--Karin kissed Kokuyou Tengu and left the mansion."
                             ]
                         },
                         {
@@ -16459,21 +13603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -16548,7 +13678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（とろーん…………）"
+                                "(Dazed...)"
                             ]
                         },
                         {
@@ -16640,14 +13770,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐはっ……！？"
+                                "Guh...!?"
                             ]
                         },
                         {
@@ -16664,14 +13794,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飛脚】"
+                                "【Courier】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おおっ！　すまねぇな姉ちゃん！　急いでるんで勘弁な！"
+                                "Whoa! Sorry about that, miss! I'm in a hurry, please forgive\nme!"
                             ]
                         },
                         {
@@ -16688,7 +13818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は飛脚に吹っ飛ばされた！"
+                                "--Karin was knocked over by the courier!"
                             ]
                         },
                         {
@@ -16735,21 +13865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -16773,28 +13889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……あれ……？　私、どうしてこんなところを歩いて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Huh...? Why am I walking around in a place like this..."
                             ]
                         },
                         {
@@ -17003,28 +14098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　べとっ……べととッ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Sticky... sticky...>"
                             ]
                         },
                         {
@@ -17057,28 +14131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ううぅ！？　な、ナニコレ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "口の中に変な白いのが……？　……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ugh!? What's this? There's some weird white stuff in my\nmouth...?"
                             ]
                         },
                         {
@@ -17102,28 +14155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自身の口中にある粘着物が精子と気づかず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "道端の井戸水でうがいをする花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Unaware that the sticky substance in her mouth was semen,\nKarin rinsed her mouth with water from a roadside well."
                             ]
                         },
                         {
@@ -17147,28 +14179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（わたし、何をしてたんだっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お栄さんを探してたような……　とりあえず帰宅しよう）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...?(What was I doing again? It feels like I was looking for\nOei-san... I should head home for now.)"
                             ]
                         },
                         {
@@ -17291,7 +14302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――不思議な違和感を感じたまま花梨は家路についた。"
+                                "--Feeling a strange sense of discomfort, Karin made her way\nhome."
                             ]
                         },
                         {

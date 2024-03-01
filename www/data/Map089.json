@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "狐茶屋",
+    "displayName": "Fox Teahouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2244,21 +2244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく来たな花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すいーつを食べていくか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おいなりさんもあるぞ！"
+                                "Well done for coming, Karin! Would you like some sweets? We\nalso have Inari sushi!"
                             ]
                         },
                         {
@@ -2735,14 +2721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに甘い菓子が食べれるなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長生きして良かったわい。"
+                                "To be able to eat such sweet confections... I'm glad I've\nlived this long."
                             ]
                         },
                         {
@@ -2830,14 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初めて来たけど舌がとろけそうだわぁ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ち帰りはできないのかしら？"
+                                "It's my first time here, but my tongue feels like it's\nmelting...\\I[15]I wonder if I can take some home?"
                             ]
                         },
                         {
@@ -3174,7 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しい！　美味しい！"
+                                "Delicious! Delicious!"
                             ]
                         },
                         {
@@ -3562,14 +3534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたし、甘いものに目がないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの茶屋のすいーつは絶品よ。"
+                                "I just can't resist sweets. The desserts at this tea house\nare exceptional."
                             ]
                         },
                         {
@@ -3657,14 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このお店ができる前、ここは野原だったのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの間に家が建ったのかしら？　不思議よねぇ……"
+                                "Before this shop was built, this place was just a field... I\nwonder when the house was built? It's quite mysterious..."
                             ]
                         },
                         {
@@ -3761,21 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野イチゴと砂糖が絡み合って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっても美味しいわぁ\\I[15]"
+                                "Wow...! The wild strawberries and sugar are intertwined and\nit's so delicious\\I[15]"
                             ]
                         },
                         {
@@ -3981,7 +3925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -4418,14 +4362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んん～～っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しいぃい！\\I[15]"
+                                "Mmm~! Delicious!\\I[15]"
                             ]
                         },
                         {
@@ -4573,21 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供も喜んでくれて良かったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店主の巫女さんも、つけ耳して可愛いし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても良いお店よ。"
+                                "I'm glad the children are happy too. The shrine maiden\nshopkeeper with her cute animal ears makes it a very nice\nshop."
                             ]
                         },
                         {
@@ -4735,7 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "狐と和解せよ――"
+                                "Make peace with the fox--"
                             ]
                         },
                         {
@@ -5755,7 +5678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【狐茶屋】――――"
+                                "----[Fox Tea House]----"
                             ]
                         },
                         {
@@ -5772,28 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（わいわい！　がやがや！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Bustling with noise and excitement!)"
                             ]
                         },
                         {
@@ -5817,28 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　すごい人の数！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! What a crowd!?"
                             ]
                         },
                         {
@@ -5862,28 +5743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで正月の初詣のようだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's like a shrine visit during New Year's, isn't it?"
                             ]
                         },
                         {
@@ -5907,28 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧ちゃん？　先にお店へ来てたのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yugiri-chan? You came to the shop earlier, huh?"
                             ]
                         },
                         {
@@ -5952,28 +5791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。下見に来たらこの有様で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yeah. When I came to check it out, it was already like\nthis..."
                             ]
                         },
                         {
@@ -5997,28 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、花梨さんに夕霧さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店に来てくれたんですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, Karin-san and Yugiri-san. You came to the shop, did you?"
                             ]
                         },
                         {
@@ -6042,28 +5839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――あっ！？　紅葉さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごい数のお客さんですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Ah! Momiji-san! There are so many customers, aren't there?"
                             ]
                         },
                         {
@@ -6087,21 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。先日、お師匠様が甘味屋を始めたんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開店早々大人気でして……　私も手伝っているんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご覧の通りなかなか忙しくて大変です。"
+                                "Yes. The other day, our master started a sweet shop and it\nbecame popular right from the opening... I'm helping out,\nbut as you can see, it's quite busy and tough."
                             ]
                         },
                         {
@@ -6125,28 +5887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お栄さんの団子屋でもこんなに行列はないですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸で一番繁盛してるんじゃないですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Even Oei-san's dumpling shop doesn't have such a line. It\nmight be the most prosperous in Edo, right?"
                             ]
                         },
                         {
@@ -6223,28 +5964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！？　花梨と夕霧か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく来たのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Oh! Karin and Yugiri? Good of you to come!"
                             ]
                         },
                         {
@@ -6268,28 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、真沙妃ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "熱海では助けに来てくれてありがとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Masaki-chan. Thanks for helping us out in Atami."
                             ]
                         },
                         {
@@ -6313,28 +6012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんぞなんぞ！　妾は義理固いのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれくらいなぞ朝飯前よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体どうしたんじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's nothing, it's nothing! I'm bound by duty. That was a\npiece of cake for me. What brings you here?"
                             ]
                         },
                         {
@@ -6358,28 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その、真沙妃殿に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伺いたいことがありまして――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well, there's something we would like to ask Masaki-dono--"
                             ]
                         },
                         {
@@ -6403,28 +6060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今、大丈夫かしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is now a good time?"
                             ]
                         },
                         {
@@ -6467,28 +6103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【客】"
+                                "【Customer】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員さーん！　注文お願いします～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Excuse me, server! I'd like to place an order~"
                             ]
                         },
                         {
@@ -6512,28 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまんが見ての通り、店が忙しくてのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は対応できんのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm sorry, but as you can see, the shop is too busy right\nnow. I can't attend to you at the moment."
                             ]
                         },
                         {
@@ -6557,28 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それなら丁度良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店、大変そうだから私も手伝うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Then it's perfect timing. The shop seems to be in a pinch,\nso I'll help out too."
                             ]
                         },
                         {
@@ -6602,14 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　それはありがたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忙しすぎて女中でも雇おうかと思ってたところなのじゃ。"
+                                "Oh! That would be much appreciated! It's been so busy I've\nbeen thinking of hiring some maids."
                             ]
                         },
                         {
@@ -6633,28 +6206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉さん、私にも衣装を貸してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Momiji-san, please lend me an outfit as well."
                             ]
                         },
                         {
@@ -6678,14 +6230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……本当に良いのですか、花梨ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに混んでますけど？"
+                                "...Are you sure about this, Karin-chan? It's quite crowded,\nyou know?"
                             ]
                         },
                         {
@@ -6709,28 +6254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫、大丈夫！　私だって団子屋で接客してますし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "配膳はお手の物ですから――　ね、夕霧ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No worries, no worries! I do customer service at the\ndumpling shop too, so serving is a breeze for me--right,\nYugiri-chan?"
                             ]
                         },
                         {
@@ -6754,28 +6278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なに？　私も茶屋の手伝いをやるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--What? Am I supposed to help out at the tea house too?"
                             ]
                         },
                         {
@@ -6799,28 +6302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧も手伝ってくれるのか？　助かるのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yugiri is going to help too? That's a relief!"
                             ]
                         },
                         {
@@ -6844,28 +6326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も……その……　手伝います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Uh... I will... also... help out."
                             ]
                         },
                         {
@@ -6889,28 +6350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではお二人ともお願いしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you very much. Then please, both of you, go ahead and\nhelp."
                             ]
                         },
                         {
@@ -6946,7 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨と夕霧は狐茶屋の手伝いを始めた。"
+                                "--Karin and Yugiri began helping out at the Fox Tea House."
                             ]
                         },
                         {
@@ -8045,14 +7485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手伝ってくれてありがとう、花梨ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妖の杜に行く時は私も同行します。"
+                                "Thank you for helping me, Karin-chan. I'll accompany you\nwhen we go to the forest of spirits."
                             ]
                         },
                         {
@@ -8247,14 +7680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい待たされたけど、やっとお店の中に入れたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけ混んでるのなら、予約制にして欲しいわよね。"
+                                "I had to wait forever, but I finally got inside the shop.\nWith it being this crowded, I wish they would take\nreservations."
                             ]
                         },
                         {
@@ -8331,21 +7757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさんだって甘いものは大好きなのさ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの甘味はマジで美味い。でなきゃ開店早々"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに並ばないよ。"
+                                "Even an old man like me loves sweets♪ The treats here are\nseriously delicious. Otherwise, there wouldn't be such a\nline so soon after opening."
                             ]
                         },
                         {
@@ -8422,21 +7834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お砂糖って昔は貴重品だったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は庶民でも食べられるようになったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い時代になったものね。"
+                                "Sugar used to be a luxury item in the past, but now that\nit's become accessible even to the common folk, we truly are\nliving in better times, aren't we?"
                             ]
                         },
                         {
@@ -8704,7 +8102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これとこれをくださいな♪"
+                                "Please give me this and this♪"
                             ]
                         },
                         {

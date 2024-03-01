@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "研磨屋",
+    "displayName": "Polishing Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2938,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -3245,7 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3613,14 +3613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お父ちゃんは江戸一番の研ぎ師だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日お客さんがひっきりなしなんだ。"
+                                "Dad is the best sharpener in Edo, so we have customers\ncoming in non-stop every day."
                             ]
                         },
                         {
@@ -4380,14 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刀のことなら俺に任せてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立派に研いでみせるぜ。"
+                                "Leave the sword to me. I'll sharpen it splendidly for you."
                             ]
                         },
                         {
@@ -4469,28 +4455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すみません。今、大丈夫ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Excuse me. Are you available right now?"
                             ]
                         },
                         {
@@ -4514,28 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、どうしたんだい。深刻そうな顔をして？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺に用件があるってことは刀のことかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, what's the matter? You look serious. Do you need\nsomething from me? Is it about a sword?"
                             ]
                         },
                         {
@@ -4559,28 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この宝剣、研いでもらえますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "刃が錆びついてて、とても武器としては使えないので……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Could you sharpen this treasured sword? The blade is rusted\nand it's really not usable as a weapon..."
                             ]
                         },
                         {
@@ -4616,28 +4539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4661,28 +4563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう。これまた随分と古いモノだな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５００年以上は前に作られた業物だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "錆びのうえに刃もボロボロだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow, this is quite an old piece... It must have been made\nover 500 years ago. The rust is bad and the blade is in\ntatters."
                             ]
                         },
                         {
@@ -4706,7 +4587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うーん、やっぱり修理するのは無理ですか？"
+                                "...Hmm, so it's impossible to repair it?"
                             ]
                         },
                         {
@@ -4730,28 +4611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ、お嬢さん。馬鹿言っちゃいけないぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は研ぎ仕事で３０年は食っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝飯前に研いで研いで研ぎまくってやるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この業物が光り輝いてた時までにな♪"
+                                "Heh heh, miss, don't say such foolish things. I've been\nmaking a living off sharpening for 30 years. I'll sharpen\nand sharpen and sharpen it until it shines like it did when\nit was first made♪"
                             ]
                         },
                         {
@@ -4775,7 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　ほ、本当ですか！　やったぁ♪"
+                                "--! R-really?! Yay♪"
                             ]
                         },
                         {
@@ -4806,7 +4666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただし金はそれなりにするぜ。１００００文頂くがいいかい？\\$"
+                                "However, it's going to cost a fair amount of money. Will\n10,000 mon be alright with you?\\$"
                             ]
                         },
                         {
@@ -4814,8 +4674,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "１００００文を支払う",
-                                    "断る"
+                                    "Pay 10,000 mon",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -4861,28 +4721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "承知しました。是非この剣を直してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Understood. Please fix this sword for me."
                             ]
                         },
                         {
@@ -4906,28 +4745,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よっしゃ！　でもしばらく時間がかかるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "剣が治ったらこっちから連絡するよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "楽しみに待ってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "All right! But it's going to take some time. I'll contact\nyou when the sword is fixed. Look forward to it."
                             ]
                         },
                         {
@@ -4982,7 +4800,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は\\c[17]【錆びた宝剣】\\c[0]を研ぎ師に預けた。"
+                                "--Karin entrusted the \\c[17]【Rusted Treasured Sword】\\c[0] to\nthe sharpener."
                             ]
                         },
                         {
@@ -5025,14 +4843,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（しまった！　お金が足りない……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　すぐに１００００文を集めよう）"
+                                "(Darn it! I don't have enough money... I need to gather\n10,000 mon quickly.)"
                             ]
                         },
                         {
@@ -5159,7 +4970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――研ぎ師は一生懸命に錆びた宝剣を研いでいる。"
+                                "--The swordsmith is diligently polishing the rusted\ntreasured sword."
                             ]
                         },
                         {
@@ -5246,21 +5057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝剣は役に立ったかい？　それなら幸いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれだけの名剣で研ぎ仕事ができて、こちらも誇り高いぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっはっは！"
+                                "Was the treasured sword useful? If so, I'm glad. Being able\nto sharpen such a famous blade is a matter of pride for me\ntoo. Hahaha!"
                             ]
                         },
                         {
@@ -5377,14 +5174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刀のことなら俺に任せてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立派に研いでみせるぜ。"
+                                "Leave the sword to me. I'll sharpen it splendidly for you."
                             ]
                         },
                         {
@@ -5606,14 +5396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注　武器を研ぐと装備から外れます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　刀を研いだ場合、必ず再装備してください】"
+                                "[Note: Sharpening a weapon will remove it from your\nequipment. If you sharpen a sword, be sure to re-equip it.]"
                             ]
                         },
                         {

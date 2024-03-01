@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "妖の杜　洞窟",
+    "displayName": "Bewitched Forest Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 90,
@@ -22215,7 +22215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -23622,7 +23622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【500 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -23868,7 +23868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -24294,7 +24294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【150 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -24540,7 +24540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -24787,7 +24787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Fortitude】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25034,7 +25034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -25889,7 +25889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　これは！？"
+                                "...? What is this!?"
                             ]
                         },
                         {
@@ -25913,14 +25913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この妖の杜の防犯用のたいまつです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一見ではわかりませんが、火を灯すとこのように――"
+                                "This is a security torch for the enchanted forest. At first\nglance, it's not apparent, but when you light it, it goes\nlike this--"
                             ]
                         },
                         {
@@ -25965,14 +25958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――紅葉がたいまつに火を灯すと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水の中から飛び石が出現した！"
+                                "--When Momiji lights the torch, stepping stones appear from\nwithin the water!"
                             ]
                         },
                         {
@@ -25996,7 +25982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい！　こんな仕掛けなんだ。"
+                                "Amazing! So it's a mechanism like this."
                             ]
                         },
                         {
@@ -26020,7 +26006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飛び石が水面からせり上がるのか？　これで先へ進めるな。"
+                                "Do the stepping stones rise from the water's surface? With\nthis, we can move forward."
                             ]
                         },
                         {
@@ -26044,14 +26030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、このまま奥へ進みましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たいまつがあったら灯せば前へ進めます。"
+                                "Now, let's continue deeper. If we find any torches, we can\nlight them to proceed."
                             ]
                         },
                         {
@@ -26519,7 +26498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -26527,8 +26506,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -26579,7 +26558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――水の中から飛び石が出現した！"
+                                "--Stepping stones have appeared from within the water!"
                             ]
                         },
                         {
@@ -27063,7 +27042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -27071,8 +27050,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27123,7 +27102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――水の中から飛び石が出現した！"
+                                "--Stepping stones have appeared from within the water!"
                             ]
                         },
                         {
@@ -27726,7 +27705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -27973,7 +27952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -28220,7 +28199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -37021,7 +37000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -37268,7 +37247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miracle Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -40551,7 +40530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -40797,7 +40776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -41163,7 +41142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1500 Mon】\\c[0]!"
                             ]
                         },
                         {

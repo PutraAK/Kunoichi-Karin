@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宝物庫",
+    "displayName": "Treasury",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3539,7 +3539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！　蔵が開いている？"
+                                "...! The storehouse is open?"
                             ]
                         },
                         {
@@ -3547,8 +3547,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "中を調べてみる\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Examine the inside\\c[27]【H Event】\\c[0]",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -3592,14 +3592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "誰もいない。これは大丈夫そうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お宝があったら頂いてこう\\I[15]"
+                                "Nobody's around. This looks safe. If there's treasure, I'll\nhelp myself to it\\I[15]"
                             ]
                         },
                         {
@@ -3631,28 +3624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は宝箱を開けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin opened the treasure chest."
                             ]
                         },
                         {
@@ -3828,28 +3800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すたあああぁっぷ！　曲者めっ！　お主、何者だッ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Startle! You scoundrel! Who are you!?"
                             ]
                         },
                         {
@@ -3882,28 +3833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわあぁ～～っ！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Whoaahh~!!?"
                             ]
                         },
                         {
@@ -3927,14 +3857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "当家の蔵に忍び入るとは、大胆不敵な賊であるな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "入り口は一つ！　逃げ道はないぞ？　神妙にいたせ！"
+                                "To sneak into our storehouse, you are a bold and audacious\nthief! There's only one entrance! There's no escape?\nSurrender quietly!"
                             ]
                         },
                         {
@@ -3958,28 +3881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ！？（しまった！　油断した……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~~!? (Damn it! I let my guard down...!)"
                             ]
                         },
                         {
@@ -4003,28 +3905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん？　その身なり、女か……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしや、ねずみ小町――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmm? By that attire, a woman...? Could it be, the infamous\nNezumi Komachi--?"
                             ]
                         },
                         {
@@ -4048,28 +3929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い、いえ違います！？　偶然！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夜の散歩をしていたら偶然門が開いていたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中に入ってしまいました！　ご、ごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No, that's not it! It was by chance! I was just taking a\nwalk at night and happened to enter because the gate was\nopen by chance! I'm sorry!"
                             ]
                         },
                         {
@@ -4093,28 +3953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅむ……　そう申すわりには宝箱が開いているな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お主が盗んだのであろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmm... For someone who claims such, the treasure chest is\nopen, isn't it? You're the one who stole from it, right?"
                             ]
                         },
                         {
@@ -4138,28 +3977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ……　ごめんなさい。私がやりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つい出来心で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Uhh... I'm sorry. It was me. It was just a moment of\ntemptation..."
                             ]
                         },
                         {
@@ -4183,28 +4001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか。やけに物分かりの良い娘だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初犯であるように見受けられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "盗った金を返すなら許してやってもいいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I see. You're quite understanding for a girl. You seem to be\na first-time offender. If you return the stolen money, I\nmight forgive you."
                             ]
                         },
                         {
@@ -4228,7 +4025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほ、本当ですか？"
+                                "Really?"
                             ]
                         },
                         {
@@ -4252,14 +4049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただし罰は受けてもらうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここで夜伽をしてもらおうか？　むふっ\\I[15]"
+                                "However, you must accept your punishment. Shall we have a\nnight together here? Mufufu\\I[15]"
                             ]
                         },
                         {
@@ -4283,7 +4073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ……？　よ、夜伽ですか……？"
+                                "Eh...? A night together...?"
                             ]
                         },
                         {
@@ -4307,21 +4097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうよ。少しばかりお主の体を楽しませてもらうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大人しく服を脱げ。でなければ奉行所に突き出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "二度は言わぬぞ？"
+                                "That's right. I shall enjoy your body for a bit. Strip down\nquietly. Otherwise, I'll hand you over to the magistrate. I\nwon't say it twice?"
                             ]
                         },
                         {
@@ -4345,14 +4121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい……　わかりました……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（しょうがない。ここは篭絡して逃げ切ろう）"
+                                "Yes... I understand... (I have no choice. I'll seduce him\nand make my escape.)"
                             ]
                         },
                         {
@@ -4376,21 +4145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -4453,14 +4208,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -4477,7 +4232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は服を脱いで夜回りの侍に体を委ねた。"
+                                "--Karin stripped and surrendered her body to the night\npatrol samurai."
                             ]
                         },
                         {
@@ -4501,21 +4256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -4631,7 +4372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Performance count +1, Creampie +1, Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -4663,28 +4404,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【夜回りの侍】"
+                                "【Night Patrol Samurai】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ……　いやはや、上等な体だったぞ、娘。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その、一夜限りでは惜しい。良かったら愛人にならぬか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "名前は何と申す？"
+                                "Phew... My, what a fine body you have, girl. It's a pity for\njust one night. Would you consider becoming my mistress?\nWhat is your name?"
                             ]
                         },
                         {
@@ -4701,21 +4428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -4732,7 +4445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――侍が語りかけるとすでに花梨の姿は消えていた。"
+                                "--As the samurai spoke, Karin had already vanished."
                             ]
                         },
                         {
@@ -4882,21 +4595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -4913,28 +4612,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【夜回りの侍】"
+                                "【Night Patrol Samurai】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんと、すでに蔵から逃げ出したのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "金庫は元に戻っているし、まぁ何事もなく幸いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "むしろタダで女を抱けて幸せであったな。ムフフフッ……\\I[15]"
+                                "What, she's already fled from the storehouse? The safe is\nback to normal, well, all's well that ends well. Rather, I'm\nfortunate to have had my way with a woman for free.\nMuhuhuhu...\\I[15]"
                             ]
                         },
                         {
@@ -4982,7 +4667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こうして一夜の情事は終わりを告げた……"
+                                "And so the night's affair came to an end..."
                             ]
                         },
                         {
@@ -5186,14 +4871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ……はぁ……　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逃げ場のない場所で見つかるなんてさすがに肝をつぶしたわ。"
+                                "Haa... haa... To be found in a place with no escape, that\ntruly scared me."
                             ]
                         },
                         {
@@ -5217,21 +4895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -5255,14 +4919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく、私もドジふんじゃったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今までの盗みが上手く行き過ぎてたのかなぁ……"
+                                "Really, I've been clumsy. Maybe my thieving has been going\ntoo well until now..."
                             ]
                         },
                         {
@@ -5286,7 +4943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――今晩の移動を諦めて、花梨は自宅に帰ることにした。"
+                                "--Giving up on tonight's activities, Karin decided to return\nhome."
                             ]
                         },
                         {
@@ -5339,14 +4996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……なにか嫌な予感がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　今日は盗みで来ているわけじゃないし、大人しく帰ろう）"
+                                "(...I have a bad feeling about this. I'm not here to steal\ntoday, so I should just quietly go home.)"
                             ]
                         },
                         {

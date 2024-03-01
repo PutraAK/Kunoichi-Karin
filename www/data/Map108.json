@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "無常島　流罪人地区",
+    "displayName": "Impermanence Island - Exile District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9678,7 +9678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Healing Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -11004,7 +11004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -16571,7 +16571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】ただいま外出中――　嬉三郎"
+                                "[Sign] Currently Out--Kisanosuke"
                             ]
                         },
                         {
@@ -17176,14 +17176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この魚はオレたちのもんだ！　一匹もやらねぇぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欲しけりゃ自力で捕んな。それがこの島の法だぜ。"
+                                "This fish belongs to us! We're not giving you even one. If\nyou want some, catch it yourself. That's the law of this\nisland."
                             ]
                         },
                         {
@@ -17260,28 +17253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前か？　島から抜けたんじゃなかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あん時、魚をやらなくて悪かったな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は流罪人頭の中抜きがなくなって魚は余ってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ、やるよ。うめぇぞ――"
+                                "Is that you? I thought you had left the island? Sorry for\nnot giving you any fish back then... Now that we don't have\nto give a cut to the head of the exiles, we've got extra\nfish. Here, take this. It's delicious--"
                             ]
                         },
                         {
@@ -17320,7 +17292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【マグロ】\\c[0]を１０匹貰った！"
+                                "--Karin received 10 \\c[17]Tuna\\c[0]!"
                             ]
                         },
                         {
@@ -17396,14 +17368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この島にもう用はねぇはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸に戻っても達者でな。俺たちの分まで幸せになれよ。"
+                                "You should have no more business on this island. Stay\nhealthy when you return to Edo. Live happily for our sake as\nwell."
                             ]
                         },
                         {
@@ -20966,7 +20931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -21213,7 +21178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21782,14 +21747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この島の唯一の牢屋だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに投獄されるときは命はないと思うがいい。"
+                                "This is the only prison on the island. When you're\nimprisoned here, it's best to think you have no life left."
                             ]
                         },
                         {
@@ -22283,21 +22241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流罪人頭とその手下が食料を中抜きしてたな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちは腹いっぱい食べられないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ……　腹減ったなぁ……"
+                                "The exiled leader and his cronies have been skimming off the\nfood... We can't get our fill. Ugh... I'm so hungry..."
                             ]
                         },
                         {
@@ -22365,21 +22309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの後、流罪人頭と手下は役人たちに折檻されてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公平に食べ物がいきわたるようになったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう。あんたの功績だ。"
+                                "After that, the head of the exiled criminals and his\nunderlings were punished by the officials. Food distribution\nbecame fair. Thank you. It's all thanks to your efforts."
                             ]
                         },
                         {
@@ -22516,14 +22446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新入りかい？　娘なのにまったくどんな罪を犯したんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは地獄だぜ……　覚悟するんだな。"
+                                "Are you the new girl? What on earth did you do to deserve\nthis? This place is hell... brace yourself."
                             ]
                         },
                         {
@@ -22591,28 +22514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前さんたちが脱出してから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちも疑われて大変だったぜ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罪は許されたんだろ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら俺たちの分までしっかりやりな。"
+                                "Ever since you guys escaped, we've been under suspicion\ntoo... Your crimes have been forgiven, right? Then make sure\nyou do your part for us as well."
                             ]
                         },
                         {
@@ -22689,14 +22591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの土地は貧しくてなぁ。食料はとても貴重だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魚を食ってしのぐか、飢え死にするかだ。"
+                                "This land is poor, you see. Food is very precious. It's\neither survive by eating fish or die of starvation."
                             ]
                         },
                         {
@@ -22764,28 +22659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よおッ！　島抜けした英雄さんのご帰還かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も脱出したかったなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、流罪人頭が没落したおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魚が食べ放題になって嬉しいぜ。あんがとよ。"
+                                "Hey there! Has our hero who escaped the island returned? I\nwanted to escape too... Well, I'm happy that the fish are\nall-you-can-eat now that the head of the exiles has fallen.\nThanks a lot."
                             ]
                         },
                         {
@@ -22862,21 +22736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は【登流峠】だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たち流罪人は立ち入り禁止の場所であるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入ってはならぬぞ。"
+                                "Beyond here lies the Tou-Ryu Pass. You exiles are forbidden\nto enter, so you must not proceed."
                             ]
                         },
                         {
@@ -23055,21 +22915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この墓場は流罪人たちのものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みな故郷に帰ろうと望みながら死んでいった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれ俺もここに眠るだろうな。"
+                                "This graveyard belongs to the exiled criminals. They all\ndied longing to return to their hometowns... Sooner or\nlater, I'll probably be sleeping here as well."
                             ]
                         },
                         {
@@ -23183,28 +23029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "舟に乗って島抜けしたって聞いて本当に驚いたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意志あるところに道が開けるんだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この墓に眠っている奴らも、アンタたちのこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと褒めていると思うぜ。"
+                                "I was really surprised to hear you guys managed to escape\nthe island by boat. It just goes to show, where there's a\nwill, there's a way. I bet all the folks buried in this\ngrave are praising you too."
                             ]
                         },
                         {
@@ -25523,7 +25348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】釣った魚は屋敷へ納めるように！　流罪人頭"
+                                "[Sign] Deliver all caught fish to the mansion! - The Exiled\nLeader"
                             ]
                         },
                         {
@@ -25651,28 +25476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この島が流罪地になって数百年……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱出した流罪人はお前たちが初めてだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "役人として悔しいが、その根性はまことにたくましい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生まれ変わった気持ちで本土で過ごすのだな。達者でな――"
+                                "This island has been a place of exile for hundreds of\nyears... You are the first convicts to ever escape. As an\nofficial, it's frustrating, but your spirit is truly\nformidable. Live on the mainland as if you've been reborn.\nTake care now--"
                             ]
                         },
                         {

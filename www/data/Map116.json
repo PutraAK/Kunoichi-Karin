@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "道具屋",
+    "displayName": "Tool Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2980,21 +2980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい。ここは道具屋だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罪人でもちゃんと金を払ってくれれば商品を売るし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "釣った魚も買い取るよ。"
+                                "Welcome. This is the tool shop. Even if you're a sinner, as\nlong as you pay properly, I'll sell you goods and buy the\nfish you've caught."
                             ]
                         },
                         {
@@ -3069,7 +3055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう。また来てね。"
+                                "Thank you. Come again."
                             ]
                         },
                         {
@@ -3185,7 +3171,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Number of times had sex +1, Creampie +1, Lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -3228,7 +3214,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとう。また来てね。"
+                                "Thank you. Come again."
                             ]
                         },
                         {
@@ -3355,21 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おやっ！？　アンタ島から脱走したって聞いたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また捕まったのかい？　……え、違う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいいや、何か入用なら売るよ。"
+                                "Oh! You're the one who escaped from the island, right? Got\ncaught again, huh? ...Huh, not the case? Well, whatever, if\nyou need something, I'll sell it to you."
                             ]
                         },
                         {
@@ -3444,7 +3416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう。また来てね。"
+                                "Thank you. Come again."
                             ]
                         },
                         {
@@ -3532,7 +3504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Number of performances +1, vaginal ejaculation +1, lewdness\n+3\\c[0]"
                             ]
                         },
                         {
@@ -3575,7 +3547,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとう。また来てね。"
+                                "Thank you. Come again."
                             ]
                         },
                         {

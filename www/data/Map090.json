@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "演舞場",
+    "displayName": "Dance Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2701,14 +2701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日の公演をご希望ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと少しお待ちくださいね。"
+                                "Would you like to see today's performance? Please wait just\na little longer."
                             ]
                         },
                         {
@@ -3205,21 +3198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "七十朗さんがこの劇場の花形役者さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸以外からも七十朗さん目当てに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "演舞場へ来る女性もいるくらい大人気だよ。"
+                                "Shichijuro-san is the star actor of this theater. He's so\npopular that there are women who come to the playhouse just\nto see him, even from outside of Edo."
                             ]
                         },
                         {
@@ -3287,14 +3266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "七十朗さん、無事にお子さんが産まれたそうで良かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本人もさらに踊りに磨きがかかったみたいだ。"
+                                "Shichijuro-san, I'm glad to hear that your child was born\nsafely. It seems you've even improved your dancing skills\nfurther."
                             ]
                         },
                         {
@@ -3971,14 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "七十朗さんの芝居が観れるのはここだけです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁさぁ、奥へお進みください～"
+                                "You can only see Shichirou-san's play here! Come on, come\non, please proceed to the back~"
                             ]
                         },
                         {
@@ -4260,21 +4225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "娘さん、ここは関係者入口だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舞台を観たいなら正面から入ってね。"
+                                "Miss, this is the staff entrance. If you want to watch the\nperformance, please enter from the front."
                             ]
                         },
                         {
@@ -4342,14 +4300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや！　もう無理だよ！　お客さん、待っているから！"
+                                "No! I can't take it anymore! The customers are waiting!"
                             ]
                         },
                         {
@@ -4417,21 +4375,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前は本当にありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちのおかげで公演を無事に続けられたよ。"
+                                "Thank you so much for last time. Thanks to all of you, we\nwere able to continue the performance without any issues."
                             ]
                         },
                         {
@@ -5625,7 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -6344,28 +6295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ざわざわ……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(The crowd murmurs...!)"
                             ]
                         },
                         {
@@ -6382,28 +6312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？　本気かい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうお客さんが入場して待ってるのに！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What?! Are you serious?! The audience has already entered\nand is waiting!"
                             ]
                         },
                         {
@@ -6427,28 +6343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "申し訳ありません、支配人……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、お清に何かあったら後悔するかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかしばらくの間、自宅に帰らせて欲しいのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm terribly sorry, Manager... However, if something were to\nhappen to Oei, I would regret it. Please, allow me to return\nhome for a while."
                             ]
                         },
                         {
@@ -6472,28 +6367,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうは言ってもねぇ……　もう入場を開始してしまったし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に公演を休止したらお客さんが怒りだすだろうし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この劇場の信頼が丸つぶれだよ？"
+                                "Even so... The entrance has already started, and if we\nsuddenly suspend the performance, the audience will get\nangry... It would ruin the theater's reputation, you know?"
                             ]
                         },
                         {
@@ -6517,14 +6398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ですが……　こちらも引き下がれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大事な家族の命がかかっておりますので……"
+                                "But... I cannot back down. My family's life is at stake..."
                             ]
                         },
                         {
@@ -6548,7 +6422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……？　何かあったのかな？）"
+                                "(...? What's going on?)"
                             ]
                         },
                         {
@@ -6556,8 +6430,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "去る"
+                                    "Strike up a conversation",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -6601,28 +6475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの……　どうかしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Excuse me... Is something the matter?"
                             ]
                         },
                         {
@@ -6717,28 +6570,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――うわわっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "娘さん、今の話、聞いていたのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Whoa! Young lady, did you hear our conversation?"
                             ]
                         },
                         {
@@ -6762,28 +6601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ、すみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "公演を休止するとかしないとか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes, I'm sorry. About suspending the performance or not..."
                             ]
                         },
                         {
@@ -6807,28 +6625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "聞かれてしまったらしょうがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実は今日、私の妻のお清が出産予定なのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ですが、難産になると産婆の方に言われて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心配になって自宅へ戻り妻のことを見守りたいと――"
+                                "I couldn't help but overhear. Actually, today is the\nexpected delivery date for my wife, Oei. But the midwife\nsaid it might be a difficult birth, and I'm worried, so I\nwant to go back home and watch over my wife--"
                             ]
                         },
                         {
@@ -6852,28 +6649,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "家族を想う気持ちはわかるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴方の芝居を大勢のお客さんが舞台の前で待っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうか公演をやって欲しい。頼むよ、七十朗さん！"
+                                "I understand the feeling of caring for your family, but a\nlot of customers are waiting in front of the stage for your\nplay. Please perform. I'm begging you, Kisanosuke-san!"
                             ]
                         },
                         {
@@ -6897,28 +6680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6942,28 +6704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど。そんな大事な理由だったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わかりました。ちょうど通りかかったこれも何かの縁――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もし良かったら私が舞台に立ちます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I see. It's such an important reason. Understood. It must be\nfate that I passed by-- if it's alright with you, I'll take\nthe stage!"
                             ]
                         },
                         {
@@ -7001,7 +6742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――！？"
+                                "----!?"
                             ]
                         },
                         {
@@ -7025,28 +6766,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ～～っ！？　な、何を言うんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "君みたいな平凡な娘さんに何ができるというんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここはお遊戯場じゃない。格式のある演舞場なんだよ！"
+                                "What?! What are you saying?! What can a plain girl like you\ndo? This isn't a playground. This is a prestigious theater!"
                             ]
                         },
                         {
@@ -7070,14 +6797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "むっ！　わたし平凡な娘じゃないですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の名は花梨。これくらいの動きはできます。"
+                                "Hmph! I'm not a plain girl, you know? My name is Karin. I\ncan do movements like this."
                             ]
                         },
                         {
@@ -7340,21 +7060,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わわっ、すごい跳躍だ！　もしかして君は軽業師か何かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とんでもない身体能力だ！"
+                                "Wow, what a leap! Are you an acrobat or something? That's an\nincredible physical ability!"
                             ]
                         },
                         {
@@ -7378,28 +7091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ。これなら舞台を任せられるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨さん、貴女に時間稼ぎを頼んで頂いてもよろしいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmm. With this, maybe we can entrust the stage to you.\nKarin-san, may we ask you to buy us some time?"
                             ]
                         },
                         {
@@ -7423,28 +7115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい！　友達も呼んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出産が無事に終わるまで公演の間を持たせてみせます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "七十朗さんは急いでご自宅に向かってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes! I'll call my friends and keep the performance going\nuntil the birth is safely over. Kisanosuke-san, please hurry\nto your home."
                             ]
                         },
                         {
@@ -7468,28 +7139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう花梨さん。では舞台をお任せして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は妻のいる自宅に戻らせてもらうよ。失礼する――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Thank you, Karin-san. Then I'll leave the stage in your\nhands and return to my wife at home. Excuse me--"
                             ]
                         },
                         {
@@ -7556,28 +7206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――七十朗は駆け足で演舞場を後にした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Kisanosuke hurriedly left the theater."
                             ]
                         },
                         {
@@ -7594,28 +7223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7764,28 +7372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7809,28 +7396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ということで二人を呼んだんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "舞台の時間稼ぎを頼めるかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...So that's why I called the two of you, but can I count on\nyou to help buy some time on stage?"
                             ]
                         },
                         {
@@ -7854,28 +7420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7899,28 +7444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく急な話だな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鬼を倒す武器を探しに行くんじゃなかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What a sudden request? Weren't we supposed to be searching\nfor a weapon to defeat demons?"
                             ]
                         },
                         {
@@ -7951,28 +7475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご、ごめんなさい！　でも困ってたからどうしても！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夕霧ちゃん、紅葉さん、私と一緒に舞台に立って。お願い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm sorry! But they were in trouble, so I had to ask!\nYugiri-chan, Momiji-san, please stand on stage with me.\nPlease!"
                             ]
                         },
                         {
@@ -7996,7 +7499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私は構いませんが、いったい何の演目をするのですか？"
+                                "I don't mind, but what kind of play are we going to perform?"
                             ]
                         },
                         {
@@ -8020,28 +7523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうね……　ここはやっぱり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手に汗握る戦闘活劇でどうかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たちの強みといったら戦うことだし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Well... How about a gripping battle drama? Our strength lies\nin fighting after all..."
                             ]
                         },
                         {
@@ -8065,21 +7547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "剣舞でもやるのか？　ここは伝統ある歌舞伎の演舞場だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "場末の芝居小屋でやるような下手で拙い演技をしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "客に怒鳴られるぞ？"
+                                "A sword dance? This is a traditional Kabuki theater. If we\nperform a clumsy and poor act like one from a cheap\nplayhouse, the audience will boo us?"
                             ]
                         },
                         {
@@ -8103,28 +7571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【快盗　対　隠密くノ一】でどうでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨ちゃんと夕霧さんが舞台の上で追いかけっこをして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最終的には決闘するような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "How about [Thief versus Kunoichi in Hiding]? Karin-chan and\nYugiri-san could chase each other around on stage and\nultimately have a duel..."
                             ]
                         },
                         {
@@ -8148,28 +7595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～！　紅葉殿、そんなこと言っては……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "～～! Momiji-dono, you shouldn't say such things...!"
                             ]
                         },
                         {
@@ -8193,28 +7619,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さすが紅葉さん！　それ、面白そうね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "是非やりましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "That's brilliant, Momiji-san! It sounds interesting! Let's\ndefinitely do it!"
                             ]
                         },
                         {
@@ -8238,7 +7643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（しょうがないな……　劇に付き合うしかないのか……）"
+                                "(I guess there's no choice but to go along with this\nplay...)"
                             ]
                         },
                         {
@@ -8262,21 +7667,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【支配人】"
+                                "【Manager】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "話し合いは終わったかい？　ならば三人とも、早く舞台へ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お客さん達を待たせ過ぎたら暴動がおきるかもしれないから！"
+                                "Is the discussion over? Then all three of you, quickly to\nthe stage! If we keep the audience waiting too long, there\nmight be a riot!"
                             ]
                         },
                         {
@@ -8300,28 +7698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "承知しました、支配人さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ急ぎ着替えて舞台の上に行きましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Understood, Manager-san. Let's hurry and change then head to\nthe stage!"
                             ]
                         },
                         {
@@ -8345,28 +7722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……花梨、私たち二人は幕府の公儀隠密だぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "日の当たる場所で目立つ行為をしたら常識的に考えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隠密の意味がないだろ？　本気で大勢の客の前に立つのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: ...Yugiri, we two are official government spies,\naren't we? If we do something conspicuous in a place where\nthe sun shines, it defeats the purpose of being covert\nagents, doesn't it? Are we really going to stand in front of\na large audience?"
                             ]
                         },
                         {
@@ -8390,28 +7746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "心配ないわ！　口元を隠しておけば正体はバレないし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No need to worry! If we cover our mouths, our identities\nwon't be revealed!"
                             ]
                         },
                         {
@@ -8435,28 +7770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "完璧ですね、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Perfect, Karin-san."
                             ]
                         },
                         {
@@ -8480,14 +7794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ……　わかった。もう時間がないのだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "清水の舞台から飛び降りる気持ちで劇をやり遂げよう……"
+                                "Sigh... Understood. There's no more time, right? Let's\ncomplete this play with the resolve of jumping off the stage\nat Kiyomizu..."
                             ]
                         },
                         {
@@ -8511,28 +7818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "二人が戦うとして、私は何をすれば？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "If the two of you are fighting, what should I do?"
                             ]
                         },
                         {
@@ -8556,28 +7842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "紅葉さんは黒子になって物語を適当にでっちあげて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫、なんとかなるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Momiji-san will become a stagehand and make up the story\nappropriately. Don't worry, it'll work out!"
                             ]
                         },
                         {
@@ -8601,28 +7866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……（本当に大丈夫かなぁ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...(I wonder if it'll really be okay...)"
                             ]
                         },
                         {
@@ -8646,7 +7890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――三人は着替えて舞台に向かった！"
+                                "--The three of them changed and headed to the stage!"
                             ]
                         },
                         {
@@ -8792,28 +8036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8830,28 +8053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ざわざわ……！　ざわざわ……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Murmur...! Murmur...!)"
                             ]
                         },
                         {
@@ -8868,28 +8070,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【観客の男】"
+                                "【Male Spectator】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おーい、いつまで待たせるつもりだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう演劇開始時間から半刻も経ってるぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hey, how long do you plan to keep us waiting?! It's already\nbeen half an hour since the play was supposed to start?"
                             ]
                         },
                         {
@@ -8906,28 +8094,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【観客の女】"
+                                "【Female Spectator】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "七十朗さまの登場はまだぁ？　早くお姿を見せて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Is Shichijuro-sama not appearing yet? Show us quickly!"
                             ]
                         },
                         {
@@ -8951,28 +8125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっと……　申し訳ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "七十朗さんは支度の準備に時間がかかっているため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たち三人で劇をします。ご容赦ください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Um... I apologize. Shichijuro-san is taking time to prepare,\nso the three of us will perform the play. Please forgive us."
                             ]
                         },
                         {
@@ -8996,28 +8149,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【観客の男】"
+                                "【Male Spectator】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだい？　新しい趣向か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What's this? A new twist?"
                             ]
                         },
                         {
@@ -9034,28 +8173,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【観客の女】"
+                                "【Female Spectator】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "前座ってことかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "七十朗さまの芝居を見に来たのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Is this like a prelude? We came to see Shichijuro-sama's\nplay..."
                             ]
                         },
                         {
@@ -9098,14 +8223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでは【快盗　対　隠密くノ一】始めます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ご静聴ください――"
+                                "Then, let's begin [Thief versus Kunoichi in Hiding]. Please\nlisten quietly--"
                             ]
                         },
                         {
@@ -9556,7 +8674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "演舞場へようこそ。入場料は１０００文になります。\\$"
+                                "Welcome to the dance hall. The entrance fee is 1000 mon.\\$"
                             ]
                         },
                         {
@@ -9564,8 +8682,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入場料を払う【１０００文】",
-                                    "去る"
+                                    "Pay the entrance fee [1000 mon]",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -9625,7 +8743,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい、ありがとうございます。ではご入場ください。"
+                                "Yes, thank you. Please come in."
                             ]
                         },
                         {
@@ -9661,7 +8779,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――お金が足りません"
+                                "--You don't have enough money"
                             ]
                         },
                         {
@@ -11079,14 +10197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "七十朗さまの演舞を観るため、早朝から並んだのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の舞台ははどのような趣向かしら？　本当楽しみねぇ♪"
+                                "I lined up early in the morning to see Shichijuro-sama's\ndance performance. I wonder what kind of theme today's stage\nwill have? I'm truly looking forward to it♪"
                             ]
                         },
                         {

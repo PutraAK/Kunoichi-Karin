@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "日比谷",
+    "displayName": "Hibiya",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -10228,21 +10228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにをしている娘？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは大名屋敷の通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町人が気軽に来る場所ではないぞ？"
+                                "What are you doing, girl? This is the street of the lord's\nmansion. It's not a place where townspeople can casually\ncome, is it?"
                             ]
                         },
                         {
@@ -10310,14 +10296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桐堂家は先日お家取り潰しになったそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったい何をやらかしたのやら……"
+                                "The Kiridou family was apparently disbanded the other day. I\nwonder what on earth they did..."
                             ]
                         },
                         {
@@ -10445,14 +10424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は丸の内――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "西は四谷だよ。迷わないようにね。"
+                                "From here on is Marunouchi--to the west is Yotsuya. Make\nsure not to get lost."
                             ]
                         },
                         {
@@ -10520,21 +10492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町がいなくなったと思ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新手の空き巣兄弟が出て大名家も被害に遭っているらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗人の種、尽きまじという感じだな……"
+                                "Just when I thought the Mouse Maid had disappeared, it seems\na new pair of burglar brothers have emerged, and even the\nfeudal lords' houses have been hit. It feels like the seeds\nof thieves will never run out..."
                             ]
                         },
                         {
@@ -10602,14 +10560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多くの幕臣が怪我を負い、運悪く命を落とした者もいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく、どうしてこんなことに……"
+                                "Many retainers were injured, and some unfortunately lost\ntheir lives. Really, how did it come to this..."
                             ]
                         },
                         {
@@ -11763,7 +11714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -13137,28 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣の桐堂家は大大名だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにひきかえ我が家は１万石の大名だから肩身が狭いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらまで長く伸びた木の枝が邪魔なんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切ってほしいというのもなかなか言えないし……"
+                                "The neighboring Kirido family is a great lord, you know. In\ncontrast, our house is a modest domain of 10,000 koku, so we\nfeel somewhat inferior. The long branches stretching over\nhere are a nuisance, but it's hard to ask them to cut them\ndown..."
                             ]
                         },
                         {
@@ -13226,14 +13156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お取り潰しされた桐堂家は討幕の動きをしていたそうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやはや怖いねぇ……"
+                                "The Kiridou family, which was abolished, seems to have been\ninvolved in movements to overthrow the shogunate. Oh my, how\nscary..."
                             ]
                         },
                         {
@@ -13615,7 +13538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13875,14 +13798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの娘！　ここは桐堂家の大名屋敷だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まかり通ることならぬ。さっさと去るがよい！"
+                                "Hey girl! This is the Kiridou family's lordly mansion. You\ncannot simply pass through. Leave at once!"
                             ]
                         },
                         {
@@ -13906,14 +13822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（フン、威張り散らして感じ悪いなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この派手な屋敷、いつか小判盗みに侵入しようかしら）"
+                                "(Hmph, strutting around like that, so unpleasant... This\nflashy mansion, maybe I should break in and steal some koban\nsomeday.)"
                             ]
                         },
                         {
@@ -14000,7 +13909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町が捕まったこと、江戸中に伝えよ！"
+                                "Spread the word throughout Edo that Nezumi Komachi has been\ncaught!"
                             ]
                         },
                         {
@@ -14077,14 +13986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幕府の命で所領も屋敷も没収されてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桐堂様は行方不明だし……　世知辛いよ。とほほ……"
+                                "By the shogunate's decree, our lands and mansion have been\nconfiscated. Lord Kiridou is missing as well... It's a cruel\nworld. Alas..."
                             ]
                         },
                         {
@@ -14152,21 +14054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お屋敷が無事で助かったよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桐堂家はお取り潰しになったとはいえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで何十年も暮らした思い出ある場所だからな。"
+                                "I'm relieved that the mansion is safe... Even though the\nKiridou family has been disbanded, this place holds decades\nof memories where we've lived."
                             ]
                         },
                         {
@@ -14243,21 +14131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この緑ある公園でぼーっとするのが趣味なのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参勤交代での江戸の暮らしは便利だが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が故郷が恋しくてたまらぬ。"
+                                "It's my hobby to space out in this green park. Life in Edo\nis convenient with the alternate attendance, but... I can't\nhelp but miss my hometown."
                             ]
                         },
                         {
@@ -14325,21 +14199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぐそこの剣術道場は江戸で一番有名な道場でな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても実戦的だから門下生になって稽古を続ければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵から避ける技を身につけられるはずだ。"
+                                "The swordsmanship dojo just over there is the most famous\none in Edo. It's very practical, so if you become a disciple\nand continue your training, you should be able to learn\ntechniques to evade enemies."
                             ]
                         },
                         {
@@ -15238,14 +15098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ……　ようやく江戸についたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一息つきたいが、このまま本丸へ向かおう。"
+                                "Phew... Finally, we've arrived in Edo. I'd like to take a\nbreather, but let's head straight to the main castle."
                             ]
                         },
                         {
@@ -17518,7 +17371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -17764,7 +17617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -19518,7 +19371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Bustling..."
                             ]
                         },
                         {
@@ -19646,7 +19499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -20896,7 +20749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】桐堂家、お取り潰しのため閉門中――"
+                                "[Sign] The Kiritou Residence is closed due to\ndismantlement--"
                             ]
                         },
                         {
@@ -21122,7 +20975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】剣士になりたい若い人　募集中――　剣術道場"
+                                "[Sign] Recruiting young individuals who wish to become\nswordsmen--Swordsmanship Dojo"
                             ]
                         },
                         {
@@ -21199,7 +21052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】奇貨を持っていたらこちらまで――　数寄大名"
+                                "[Sign] If you have rare goods, come this way--Suki Daimyo"
                             ]
                         },
                         {
@@ -21803,7 +21656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸の治安は我ら桐堂家が守る！"
+                                "The peace of Edo is protected by us, the Kirido family!"
                             ]
                         },
                         {
@@ -21993,7 +21846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "罪人ねずみ小町の哀れな姿、よぉく見るがよい！"
+                                "Behold the pitiful sight of the sinner, Nezumi Komachi!"
                             ]
                         },
                         {
@@ -22183,7 +22036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Bustling..."
                             ]
                         },
                         {
@@ -22311,7 +22164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -22439,7 +22292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -22567,7 +22420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -22695,7 +22548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -22823,7 +22676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -22951,7 +22804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -23079,7 +22932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Bustling..."
                             ]
                         },
                         {
@@ -23207,7 +23060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -23335,7 +23188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Bustling..."
                             ]
                         },
                         {
@@ -23463,7 +23316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわ……"
+                                "Murmur murmur..."
                             ]
                         },
                         {
@@ -23634,28 +23487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -23672,28 +23504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ざわ……ざわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Murmurs... Murmurs...)"
                             ]
                         },
                         {
@@ -23719,14 +23530,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【偽小町】"
+                                "【False Komachi】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………うぅ……！"
+                                "...Ugh...!"
                             ]
                         },
                         {
@@ -23743,28 +23554,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【町人A】"
+                                "【Townsperson A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あそこに吊るされているのがねずみ小町か！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is that the one hanging there, the infamous Nezumi Komachi?!"
                             ]
                         },
                         {
@@ -23781,28 +23578,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【町人B】"
+                                "【Townsperson B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可哀想に……　目隠しと猿ぐつわをされて衆目に晒されて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Poor thing... Blindfolded and gagged, exposed to the public\ngaze..."
                             ]
                         },
                         {
@@ -23819,28 +23602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【町人C】"
+                                "【Townsperson C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひどい折檻を受けたみたいだ。なんてことだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It seems she has received a terrible punishment. What a\ntragedy..."
                             ]
                         },
                         {
@@ -23873,14 +23642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やっぱり私の替え玉じゃない！　どうして偽物が……！？）"
+                                "～～～～！！(It's not my double after all! Why is there an\nimposter...!?）"
                             ]
                         },
                         {
@@ -23904,28 +23666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クックック！　こ奴が我が屋敷に侵入したねずみ小町だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大名家に押し込み強盗をしたことは大罪。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よって私的に晒している。悪党の無惨な姿、よく見るがいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kokuyou Tengu: Kukukuku! This wretch is the Nezumi Komachi\nwho intruded into my residence. Committing burglary in a\ndaimyo's house is a grave crime. Therefore, I am exposing\nher privately. Behold the miserable figure of a villain!"
                             ]
                         },
                         {
@@ -23958,14 +23699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【偽小町】"
+                                "【False Komachi】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………うぅっ！！"
+                                "...Ughh!!"
                             ]
                         },
                         {
@@ -23989,28 +23730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "晒すだけで盗みを許す気は毛頭ない。押しかけ強盗は大罪よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近々、ねずみ小町を我が屋敷で斬首するつもりよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We have no intention of forgiving theft by mere exposure.\nBreaking and entering is a serious crime. Soon, I plan to\nbehead Nezumi Komachi in my residence."
                             ]
                         },
                         {
@@ -24034,28 +23754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!!"
                             ]
                         },
                         {
@@ -24079,28 +23778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快盗や義賊などくだらぬ。悪事を働けばこうなることを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たち江戸の町人たちも、よくよく肝に銘じることだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッハッハ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thieves and so-called chivalrous robbers are worthless. Let\nthis be a lesson engraved in the minds of all you Edo\ntownspeople. If you commit evil deeds, this will be your\nfate. Gahahaha--!"
                             ]
                         },
                         {
@@ -24133,14 +23811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【偽小町】"
+                                "【False Komachi】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ううぅ！　んぅ～～～～っ！"
+                                "...Ugh! Mmm～～～～h!"
                             ]
                         },
                         {
@@ -24164,28 +23842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（このまま放っておいたら、あの女の人が殺されちゃう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私が本物だって世の中に示さないと……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "～～～～！！(If I leave her be, that woman will be killed! I have\nto show the world that I am the real one...!)"
                             ]
                         },
                         {
@@ -24317,28 +23974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -24517,7 +24153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【夜　桐堂家・大名屋敷】――――"
+                                "----[Kagomon Kiriya's Residence. Daimyo Mansion]----"
                             ]
                         },
                         {
@@ -24609,28 +24245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【桐堂家・奥の間】――――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----[Kiriya's Residence. Inner Chambers]----"
                             ]
                         },
                         {
@@ -24647,28 +24262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -24692,28 +24286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "殿！　門の中に矢文が投げ込まれてました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Vassal: My lord! An arrow with a letter attached has been\nthrown into the gate!"
                             ]
                         },
                         {
@@ -24737,28 +24310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、見せてみろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kagomon: Hmm, let me see it."
                             ]
                         },
                         {
@@ -24782,28 +24334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【予告状】"
+                                "【Advance Notice】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桐堂牙門へ　私が本物のねずみ小町よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方のやったことは許さない！　替え玉の女性を助け出し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "叩きのめしてあげる！　ねずみ小町より"
+                                "To Kagomon of the Kiriya, I am the real Nezumi Komachi! I\nwill not forgive what you have done! I will rescue the woman\nyou've used as a decoy and beat you down! From Nezumi\nKomachi"
                             ]
                         },
                         {
@@ -24827,28 +24365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クックック。上手いこと釣れたようだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瓦版屋に情報を伝えてから結構な速さで反応してきおった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案外ねずみは我が屋敷の近くに棲んでいるかもしれぬな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kokuyou Tengu: Kukukuku. It seems we've baited her\nsuccessfully! She responded quite quickly after we informed\nthe town crier. Perhaps this rat lives closer to our\nresidence than we thought."
                             ]
                         },
                         {
@@ -24872,28 +24389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ねずみ小町から予告状が来たこと、奉行所に伝えますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Vassal: ...Shall we report to the magistrate that we've\nreceived a challenge from Nezumi Komachi?"
                             ]
                         },
                         {
@@ -24917,28 +24413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無用だ。たとえ幕府の組織とはいえ奉行所など大名家の格下。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは我らが単独で捕まえ幕府閣僚に恩を売る絶好の機会よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kagomon: No need. Even if they are part of the shogunate's\norganization, the magistrate's office is beneath a daimyo's\nhouse. This is an excellent opportunity for us to capture\nher on our own and curry favor with the shogunate officials."
                             ]
                         },
                         {
@@ -24962,28 +24437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "承知しました。では手筈通りに――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Vassal: Understood. Shall we proceed as planned then--"
                             ]
                         },
                         {
@@ -25007,28 +24461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。屋敷内に手練れの侍を配置せよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鉄砲で武装しても構わぬ。必ず盗人ねずみを捕らえるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕縛した者には破格の褒美をとらす。よいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kagomon: Yes. Position skilled samurai throughout the\nresidence. They may also be armed with guns. We must capture\nthe thieving rat at all costs. A generous reward will be\ngiven to those who apprehend her. Understood?!"
                             ]
                         },
                         {
@@ -25071,7 +24504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハハッ――！！　牙門さま！！"
+                                "Vassal: Hahaha--!! Lord Kagomon!!"
                             ]
                         },
                         {
@@ -25289,7 +24722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――桐堂牙門の大名屋敷に侵入しますか？"
+                                "Will you infiltrate the Daimyo mansion of Kirido Kamen?"
                             ]
                         },
                         {
@@ -25297,8 +24730,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "侵入する",
-                                    "まだ侵入しない"
+                                    "Infiltrate",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -25344,7 +24777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（あの替え玉の女の人が心配だわ。急ぎ今晩に決行しよう）"
+                                "(I'm worried about that body double woman. Let's carry out\nthe plan tonight without delay.)"
                             ]
                         },
                         {
@@ -25525,7 +24958,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は夜になるまで自宅で待機した。"
+                                "Karin waited at home until nightfall."
                             ]
                         },
                         {
@@ -25832,14 +25265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（予告状を出したのに、外に一人も警備がいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかしたら罠なのかも……　でも、行かないと！）"
+                                "(Despite having sent a warning letter, there's not a single\nguard outside. Could it be a trap... But I have to go!)"
                             ]
                         },
                         {
@@ -25901,7 +25327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はねずみ小町の姿に変身した！"
+                                "Karin transformed into the guise of Nezumi Komachi!"
                             ]
                         },
                         {
@@ -25964,7 +25390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし！　このまま大名屋敷の中に侵入する――！"
+                                "Alright! Now to infiltrate the Daimyo's mansion--!"
                             ]
                         },
                         {
@@ -26158,7 +25584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は屋敷の門を飛び越えた！"
+                                "Karin leaped over the mansion's gate!"
                             ]
                         },
                         {
@@ -27119,21 +26545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼など何するものぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自慢の愛刀で面を食らわしてやったわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カッカッカッ――♪"
+                                "What can an ogre even do?! I've struck it with my beloved\nsword. Kah kah kah--♪"
                             ]
                         },
                         {
@@ -27286,14 +26698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼が襲ってこないように板を貼り付けたんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家の中に入れなくなってしまった……　どうしよう……"
+                                "I boarded up the place to keep the demons from attacking,\nbut now I can't get back inside my house... What should I\ndo..."
                             ]
                         },
                         {
@@ -27960,14 +27365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！？　お互い怪我無く無事で幸いでしたな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は弟子たち総出で傷んだ屋根を直している所です。"
+                                "Oh!? It's fortunate that we both escaped injury. Right now,\nall my disciples are out repairing the damaged roof."
                             ]
                         },
                         {
@@ -28511,21 +27909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城に向かったのに息災で何よりじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うら若き乙女の命、このような変事で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落としてはならぬぞ？"
+                                "It's a relief to hear you're safe after heading to the\ncastle. The life of a young maiden must not be lost to such\na bizarre incident, must it?"
                             ]
                         },
                         {
@@ -28609,21 +27993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "公園の竹藪に隠れていた故"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼たちの魔の手から無事生きながらえた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げるが勝ちとはよく言ったものだ。"
+                                "I managed to survive unscathed from the clutches of the\ndemons that were hiding in the bamboo grove of the park.\nIt's often said that he who fights and runs away may live to\nfight another day."
                             ]
                         },
                         {

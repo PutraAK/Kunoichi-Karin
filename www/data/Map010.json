@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "築地",
+    "displayName": "Tsukiji",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9560,14 +9560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】休業のお知らせ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　当店は部屋の修理清掃のため、現在休業中です――"
+                                "[Sign] Notice of Closure -- Our establishment is currently\nclosed for room repairs and cleaning --"
                             ]
                         },
                         {
@@ -9591,7 +9584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……宿の中、汚しすぎたかな？　うーん、反省しよう……"
+                                "...Did I make too much of a mess inside the inn? Hmm, I\nshould reflect on this..."
                             ]
                         },
                         {
@@ -10630,7 +10623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -11056,14 +11049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒッ♪　賭場は夜から開場だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昼間はやってねぇぜ。帰んな。"
+                                "Hehe♪ The casino opens at night. We're not open during the\nday. Go home."
                             ]
                         },
                         {
@@ -11617,7 +11603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13467,14 +13453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しいお魚が欲しいなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり築地が一番よ。"
+                                "If you want delicious fish, Tsukiji is definitely the best\nplace to go."
                             ]
                         },
                         {
@@ -13542,21 +13521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぐそこにある賭場、夜に開かれていてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出入りしているのは荒々しい博徒ばかりだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女みたいな娘さんは近づかないほうがいいよ。"
+                                "The gambling den just around the corner opens at night. It's\nfrequented by rough gamblers, so a young lady like you\nshould stay away."
                             ]
                         },
                         {
@@ -14299,14 +14264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、荷揚げの邪魔だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっちに行きな。"
+                                "Come on, come on, you're in the way of the unloading! Go\nover there."
                             ]
                         },
                         {
@@ -14412,7 +14370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "荷揚げの仕事も三分の一に激減さ。"
+                                "The cargo lifting jobs have also plummeted to a third."
                             ]
                         },
                         {
@@ -14914,21 +14872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの右上にある長屋は賭場だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタのような堅気な娘さんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訪れるような場所じゃないぜ。"
+                                "The tenement in the upper right corner is a gambling den.\nIt's not a place for an honest girl like you to visit."
                             ]
                         },
                         {
@@ -14996,28 +14940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜中に人さらいが出て以降"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "賭場にくる客も以前より少なくなったね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子分たちが警備で出歩いているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声をかけられないように気をつけな。"
+                                "Ever since the kidnapper appeared at night, the number of\ncustomers coming to the gambling den has decreased... Be\ncareful not to get approached since my underlings are\npatrolling for security."
                             ]
                         },
                         {
@@ -15085,14 +15008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸が炎上したことで船があまり来なくなってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "商品も値上がりで大変だよ。"
+                                "With Edo in flames, ships hardly come by anymore. The prices\nof goods have skyrocketed, it's quite a problem."
                             ]
                         },
                         {
@@ -15466,7 +15382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17541,7 +17457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃうううぅ！"
+                                "Meooowww!"
                             ]
                         },
                         {
@@ -21813,7 +21729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "船で土砂を運ぶから前よりは楽になったぜ。"
+                                "It's become easier since we started transporting the\nsediment by boat."
                             ]
                         },
                         {
@@ -22060,7 +21976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -22188,14 +22104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "埋め立てして土地を広げているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸はもっと発展するだろうぜ。"
+                                "We're reclaiming land to expand the territory. Edo is bound\nto develop even more."
                             ]
                         },
                         {
@@ -22623,14 +22532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁさぁ！　見て行っておくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り立ての活きのいい魚だよ！"
+                                "Come, come! Take a look! We've got some freshly caught\nlively fish here!"
                             ]
                         },
                         {
@@ -22698,21 +22600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふんどしが新しくなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さわやか度があがったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり新品の下着は気分がいいねぇ。"
+                                "The loincloth is new and it's increased my freshness level.\nThere's nothing like the feeling of brand-new underwear."
                             ]
                         },
                         {
@@ -22780,28 +22668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魚屋】"
+                                "【Fishmonger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ、困った困った……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh, what a predicament..."
                             ]
                         },
                         {
@@ -22825,28 +22699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　どうかしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? Is something the matter?"
                             ]
                         },
                         {
@@ -22863,28 +22716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魚屋】"
+                                "【Fishmonger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それがねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨夜、干していたふんどしを持ち逃げされたみたいで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "替えのふんどしがなくて困っているんだ。"
+                                "You see, last night, it seems someone made off with the\nloincloth I had hung out to dry... Now I'm in a bind without\na spare."
                             ]
                         },
                         {
@@ -22908,28 +22747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらま。おれはお気の毒ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh dear. That is quite unfortunate."
                             ]
                         },
                         {
@@ -22946,28 +22764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魚屋】"
+                                "【Fishmonger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら快盗ねずみ小町に盗まれたかもしれねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のふんどしだったら千両の価値があるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっはっは！"
+                                "Maybe that thieving Mouse Komachi stole it. My loincloth\nwould be worth a thousand ryō, haha!"
                             ]
                         },
                         {
@@ -22991,21 +22795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町が盗んだってことはないですよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に。"
+                                "No, no... I'm sure Mouse Komachi didn't steal it...\nDefinitely not."
                             ]
                         },
                         {
@@ -23022,28 +22812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魚屋】"
+                                "【Fishmonger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お？　手元にあるそれは反物かい？　良かったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "譲ってくれねぇかな。ふんどし盗まれたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふんどしを買いに行くってのもカッコつかなくてねぇ。"
+                                "Oh? Is that a bolt of cloth you have there? Would you mind\nparting with it? It's not exactly cool to go buy a loincloth\nafter having yours stolen, you know."
                             ]
                         },
                         {
@@ -23067,28 +22843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の持っている反物ですか？　いいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったら新しいふんどしの素材に使ってくださいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The bolt of cloth I have? Sure, you can have it. Please use\nit to make yourself a new loincloth."
                             ]
                         },
                         {
@@ -23105,28 +22860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魚屋】"
+                                "【Fishmonger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当かい！？　ありがたいねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし。親切な嬢ちゃんこれを差し上げよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浅草寺で売ってる富くじだ。"
+                                "Really!? Much obliged! Alright, kind miss, I'll give you\nthis in return. It's a lottery ticket sold at Senso-ji."
                             ]
                         },
                         {
@@ -23150,28 +22891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……富くじですか？　富くじってそれなりに高いですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安物の反物と交換して本当にいいんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...A lottery ticket? Aren't those quite expensive? Are you\nsure you want to trade it for a cheap bolt of cloth?"
                             ]
                         },
                         {
@@ -23188,28 +22908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【魚屋】"
+                                "【Fishmonger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっはっは！　構わねぇ。実はそれ、拾い物なのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして拾い物には福がある。もしかしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その富くじ、当たるかも知れねぇぜ。持っていきな！"
+                                "Hahaha! Don't worry about it. Actually, I found that ticket.\nAnd found items bring luck. Who knows, that lottery ticket\nmight just be a winner. Take it!"
                             ]
                         },
                         {
@@ -23233,7 +22939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬉しい！　ありがとうございます！"
+                                "I'm delighted! Thank you very much!"
                             ]
                         },
                         {
@@ -23319,14 +23025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は反物を交換して\\c[17]【富くじ】\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（次　→　上野）"
+                                "--Karin exchanged the bolt of cloth and obtained\n\\c[17]【Lottery Ticket】\\c[0]! (Next → Ueno)"
                             ]
                         },
                         {
@@ -24158,21 +23857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけすに魚を移してるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手間はかかるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新鮮な魚を届けるために必要だからね。"
+                                "I'm transferring the fish to the fish preserve. It's a bit\nof a hassle, but it's necessary to deliver fresh fish."
                             ]
                         },
                         {
@@ -24196,7 +23881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……お魚美味しそう。やっぱり新鮮な魚が一番よね♪）"
+                                "(...The fish look delicious. Fresh fish really is the best,\nisn't it?♪)"
                             ]
                         },
                         {
@@ -25231,14 +24916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近、海が荒れててなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か良くないことが起こる前触れかもしれん。"
+                                "Lately, the sea has been rough... It might be a sign that\nsomething bad is going to happen."
                             ]
                         },
                         {
@@ -26784,21 +26462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お江戸は火事が多いからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "材木の需要はとっても大きいのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呉服商に並ぶくらい、俺たち材木商は儲けてるぜ。"
+                                "Edo has a lot of fires, so the demand for lumber is really\nhigh. We lumber merchants are making a profit on par with\nthe kimono merchants."
                             ]
                         },
                         {
@@ -26904,14 +26568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火災のせいで木材がたくさん売れてるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売上は絶好調だが、やっぱり複雑な気持ちだねぇ。"
+                                "Due to the fire, we're selling a lot of lumber. Sales are\nbooming, but I still have mixed feelings about it."
                             ]
                         },
                         {
@@ -28659,7 +28316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【釣り竿】があったら、ここで魚が釣れそうね……"
+                                "If we had a 【Fishing Rod】, it looks like we could catch some\nfish here..."
                             ]
                         },
                         {
@@ -28783,14 +28440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よーし、釣るぞ～！　（釣り餌　残り×\\V[57]）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【注　音に合わせてenter】"
+                                "Alright, let's fish! (Remaining bait ×\\V[57])【Press enter in\nsync with the sound cue】"
                             ]
                         },
                         {
@@ -29039,7 +28689,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "やった！　釣れた！"
+                                "Yes! I caught one!"
                             ]
                         },
                         {
@@ -29131,7 +28781,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……だめね。ちょっと遅かったみたい。"
+                                "...No good. Seems like I was a bit too late."
                             ]
                         },
                         {
@@ -29249,7 +28899,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "逃げちゃった。早かったかな……"
+                                "It got away. Was I too early...?"
                             ]
                         },
                         {
@@ -29324,14 +28974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれ、釣り餌がないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確か道具屋で売ってたわね。買ってこないと……"
+                                "Huh, I'm out of bait. I'm pretty sure the tool shop was\nselling some. I'll have to buy more..."
                             ]
                         },
                         {
@@ -30856,7 +30499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "煙で顔が真っ黒になっちゃったわ……"
+                                "My face has become completely black with soot..."
                             ]
                         },
                         {
@@ -30933,7 +30576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ炊き出しはありがたいねぇ。美味い美味い♪"
+                                "Ah, I'm really grateful for this food distribution.\nDelicious, delicious♪"
                             ]
                         },
                         {
@@ -31021,7 +30664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――痴漢に話しかけますか？"
+                                "--Would you like to talk to the pervert?"
                             ]
                         },
                         {
@@ -31029,8 +30672,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "いいえ"
+                                    "Speak to him",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -31645,7 +31288,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（お尻を触られるだけだわ……　もう話しかけるのやめよう）"
+                                "(He's only touching my butt... I should stop talking to\nhim.)"
                             ]
                         },
                         {
@@ -34784,7 +34427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -35434,28 +35077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "築地には鬼は攻めて来ませんでしたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "火事で家を失った人も多くいますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お寺を仮の宿泊所にしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、こんな災禍が起こるとは……"
+                                "Demons did not attack Tsukiji, but many people lost their\nhomes to fire, so the temple is being used as a temporary\nlodging. However, who could have imagined such a calamity..."
                             ]
                         },
                         {
@@ -35532,14 +35154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炊き出しをやっています。お嬢さんもどうですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心も体も温まりますよ。"
+                                "We're serving food here. How about it, miss? It'll warm both\nyour heart and body."
                             ]
                         },
                         {
@@ -35676,14 +35291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく恐ろしい一日だったねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "８０まで生きてきたけど初めて鬼を見たよ。"
+                                "What a terrifying day it's been... I've lived to 80, but\nit's the first time I've ever seen a demon."
                             ]
                         },
                         {

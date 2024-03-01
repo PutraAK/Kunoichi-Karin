@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "タコ洞窟",
+    "displayName": "Octopus Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6342,7 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【超技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired the 【Super Technique Sake】!\\c[0]"
                             ]
                         },
                         {
@@ -6708,7 +6708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -6927,7 +6927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シュルルルルルッ――！"
+                                "Schllllrrrrr--!"
                             ]
                         },
                         {
@@ -6951,7 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっき倒した触手――！　再生したっていうの！？"
+                                "The tentacles we just defeated--! They've regenerated?!"
                             ]
                         },
                         {
@@ -6982,14 +6982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　にゅがががぁ――！！　＞"
+                                "<Nyuugagagaaa--!!>"
                             ]
                         },
                         {
@@ -7018,7 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――謎の触手が襲ってきた！"
+                                "--Mysterious tentacles are attacking!"
                             ]
                         },
                         {
@@ -7705,7 +7698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {

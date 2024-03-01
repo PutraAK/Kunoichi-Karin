@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "秘密の通路",
+    "displayName": "Secret Passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3482,7 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -6783,14 +6783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ヤギ】"
+                                "【Goat】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メェ～　メェ～～"
+                                "Meeeh~ Meeeh~~"
                             ]
                         },
                         {
@@ -6823,14 +6823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "や……ヤギだ！　かわいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "島を脱出したら上野まで連れて行こう！"
+                                "Oh... It's a goat! How cute! Once we escape the island,\nlet's take it all the way to Ueno!"
                             ]
                         },
                         {
@@ -6885,7 +6878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【ヤギ】\\c[0]を捕獲した！"
+                                "--\\c[17]【Goat】\\c[0] has been captured!"
                             ]
                         },
                         {

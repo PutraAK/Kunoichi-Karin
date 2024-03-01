@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浮世絵工房",
+    "displayName": "Ukiyo-e Workshop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2340,7 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Godspeed Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3759,28 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ……（おそるおそる）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello... (timidly)"
                             ]
                         },
                         {
@@ -3804,14 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん……　あーでもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こーでもない……（ぶつぶつ……）"
+                                "Hmm... not this, not that... (muttering...)"
                             ]
                         },
                         {
@@ -3835,28 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すみません、貝月堂さんですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Excuse me, are you Mr. Kaigetsudou?"
                             ]
                         },
                         {
@@ -3880,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだい君は。私に用かね？"
+                                "What do you want, kid? Do you need something from me?"
                             ]
                         },
                         {
@@ -3904,21 +3855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、はい。わたし花梨といいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上野の角倉屋さんが依頼した絵がまだ届かないというので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "催促して欲しいと頼まれて来ました。"
+                                "Yes, my name is Karin. I've been sent by the owner of\nSumikuraya in Ueno to inquire about a painting that hasn't\nbeen delivered yet."
                             ]
                         },
                         {
@@ -3942,28 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、納期を過ぎてしまった案件だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "描きたい気持ちはあるのだが、あいにく筆が乗らなくてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々絵師はダメな時は全然ダメといった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凪のような状態があるのだ。すまないが……"
+                                "Ah, the project that's past its deadline, right? I want to\npaint, but unfortunately, my brush just isn't moving. We\nartists have times when we're completely off, like a calm\nsea. I'm sorry, but..."
                             ]
                         },
                         {
@@ -3987,28 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうはいっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "請け負ったからには描いてもらわないと困ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとか気分が上向くようになりませんかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Even so, since you've taken on the job, you need to complete\nit. Can't you find a way to get in the mood?"
                             ]
                         },
                         {
@@ -4032,14 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうだな。お嬢さん、よく見ると別嬪だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "品がある顔持ちで、若くしてほのかな艶も感じられる。"
+                                "...Well now. Upon closer look, you're quite the beauty. You\nhave a dignified face and even at a young age, one can sense\na faint allure."
                             ]
                         },
                         {
@@ -4063,14 +3951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうですかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ……ありがとうございます。照れちゃいます。"
+                                "Is that so? Ah... thank you very much. You're making me\nblush."
                             ]
                         },
                         {
@@ -4094,14 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふぅむ、どうだね？　謝礼を払うから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の個人的な絵の参考になってくれないかね？"
+                                "...Hmm, what do you say? I'll pay you a reward if you could\nbe a reference for my personal painting?"
                             ]
                         },
                         {
@@ -4125,28 +3999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絵の参考？　わわ、私が…ですかっ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "A reference for a painting? Me... really!?"
                             ]
                         },
                         {
@@ -4170,21 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。金持ちのふすま絵は興が乗らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の絵で勝負したいのだ。どうかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２０００文、謝礼を出そう。引き受けてくれるかい？"
+                                "Yes. I'm not inspired by the folding screen paintings for\nthe wealthy. I want to compete with my own art. What do you\nsay? I'll give you 2000 mon as a reward. Will you accept?"
                             ]
                         },
                         {
@@ -4208,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう……）"
+                                "(What should I do...)"
                             ]
                         },
                         {
@@ -4216,8 +4055,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "引き受ける\\c[17]【イベントＣＧ】\\c[0]",
-                                    "断る"
+                                    "Accept \\c[17][Event CG]\\c[0]",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -4261,28 +4100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの……　せっかくですから、私にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "描いた絵を見せてもらえます？（わくわく）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Could I... see the painting you've done, if it's not too\nmuch trouble? (excited)"
                             ]
                         },
                         {
@@ -4306,28 +4124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すまないがそれは駄目だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ線のみで完成していないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりと出来上がったらお見せしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm sorry, but that's not possible. It's only outlined and\nnot finished yet. Once it's properly completed, I'll show it\nto you."
                             ]
                         },
                         {
@@ -4351,7 +4148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そうですか。残念です。"
+                                "Is that so? That's disappointing."
                             ]
                         },
                         {
@@ -4375,21 +4172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやはや、花梨殿のおかげですこぶるヤル気が出たぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふすま絵のほうは近日中に先方に届けよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは謝礼だ。受け取ってくれ。"
+                                "Well well, thanks to Miss Karin, I'm feeling quite motivated\nnow. I'll deliver the folding screen painting to the client\nin the next few days. Here's your reward. Please take it."
                             ]
                         },
                         {
@@ -4413,28 +4196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ではふすま絵の納品をよろしくお願いしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Thank you very much. Please make sure to deliver the folding\nscreen painting as promised."
                             ]
                         },
                         {
@@ -4470,7 +4232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は謝礼として\\c[17]２０００文\\c[0]手に入れた！"
+                                "--Karin received a reward of \\c[17]2000 mon\\c[0]!"
                             ]
                         },
                         {
@@ -4536,14 +4298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……すみません。急に言われても心の準備がなくて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また催促しに来ますね。"
+                                "...I'm sorry. This is all so sudden and I'm not prepared.\nI'll come back to follow up on this later."
                             ]
                         },
                         {
@@ -4628,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――貝月堂は一心不乱に絵を描いている。"
+                                "Kaigetsudou is fervently painting a picture."
                             ]
                         },
                         {
@@ -4703,28 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、花梨殿か。先日は助かったぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげでやる気が満ち満ちてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, Lady Karin. I am grateful for the other day. Thanks to\nyou, I am brimming with motivation."
                             ]
                         },
                         {
@@ -4748,28 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貝月堂さん、こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絵は出来上がったんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Kaigetsudou-san. Is the painting finished?"
                             ]
                         },
                         {
@@ -4793,28 +4506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。今度浮世絵で刷るのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試し刷りしたものを渡しておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これがそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. It will be printed as a ukiyo-e next. Let me give you\none of the test prints. This is it."
                             ]
                         },
                         {
@@ -4886,28 +4578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあ！　すごい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow! Amazing!"
                             ]
                         },
                         {
@@ -4931,28 +4602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "記念に一枚持っていくがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Take one as a memento. I am thankful to you."
                             ]
                         },
                         {
@@ -4998,28 +4648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は浮世絵を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Karin obtained a ukiyo-e print."
                             ]
                         },
                         {
@@ -5050,14 +4679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ふふ。私を参考にした絵なんて照れるなぁ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自宅に飾っておこう……）"
+                                "(Hehe. It's embarrassing to have a painting based on me...\nI'll hang it at home...)"
                             ]
                         },
                         {
@@ -5163,7 +4785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――貝月堂は一心不乱に絵を描いている。"
+                                "Kaigetsudou is fervently painting a picture."
                             ]
                         },
                         {
@@ -5231,7 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――貝月堂は一心不乱に絵を描いている。"
+                                "Kaigetsudou is fervently painting a picture."
                             ]
                         },
                         {

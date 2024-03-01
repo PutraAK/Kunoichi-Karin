@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大名屋敷",
+    "displayName": "Daimyo Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -16937,14 +16937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なんだとッ！？　人影が動いたと思ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町か！？　まだ生きていたのか！？"
+                                "--What the! I thought I saw a shadow move, and it's you, the\nlittle mouse! You're still alive?!"
                             ]
                         },
                         {
@@ -17024,7 +17017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わああっ――！？　しまった！"
+                                "Waaah--!? Darn it!"
                             ]
                         },
                         {
@@ -17380,14 +17373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なんだとッ！？　人影が動いたと思ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町か！？　まだ生きていたのか！？"
+                                "--What the! I thought I saw a shadow move, and it's just\nyou, little mouse! You're still alive?!"
                             ]
                         },
                         {
@@ -17467,7 +17453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わああっ――！？　しまった！"
+                                "Aaah--!? Darn it!"
                             ]
                         },
                         {
@@ -17703,14 +17689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なんだとッ！？　人影が動いたと思ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町か！？　まだ生きていたのか！？"
+                                "--What the! I thought I saw a shadow move, and it's just\nyou, little mouse! You're still alive?!"
                             ]
                         },
                         {
@@ -17790,7 +17769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わああっ――！？　しまった！"
+                                "Aaah--!? Darn it!"
                             ]
                         },
                         {
@@ -18064,14 +18043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -18913,14 +18885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -19702,14 +19667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -20460,14 +20418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -21338,14 +21289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -22096,14 +22040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -22854,14 +22791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -23612,14 +23542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -24370,14 +24293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -25452,14 +25368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -26233,14 +26142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -27002,7 +26904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -27429,7 +27331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -28216,7 +28118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -28523,7 +28425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -29839,28 +29741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐににっ……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Squish...!)"
                             ]
                         },
                         {
@@ -29992,28 +29873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？（足の裏にネバネバのとりもちが！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? (There's a sticky rice cake on the sole of my foot!? )"
                             ]
                         },
                         {
@@ -30180,28 +30040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そらっ！　捕まえたぞ、盗人ねずみ小町！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There! I've caught you, the thieving mouse maiden!"
                             ]
                         },
                         {
@@ -30268,28 +30107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――きゃあっ！？（しまった！　油断した！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Kyaa!? (Darn it! I let my guard down!)"
                             ]
                         },
                         {
@@ -30313,7 +30131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨はとりもちで身動きが取れなくなった！"
+                                "--Karin has been immobilized by the sticky rice cake!"
                             ]
                         },
                         {
@@ -30349,28 +30167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くくくっ！　鼠にとりもちはお似合いだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落とし穴から脱出したようだが、もう逃がさんぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Mwahaha! A mouse caught in sticky rice cake is quite\nfitting, isn't it? It seems you've escaped from the pitfall,\nbut you won't get away this time!"
                             ]
                         },
                         {
@@ -30403,7 +30200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！　隠れて罠を張るなんて卑怯よ！？"
+                                "...! Setting a hidden trap like this is cowardly!?"
                             ]
                         },
                         {
@@ -30465,28 +30262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう？　近くで見ると……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、かなりの美少女であるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "牙門様に引き渡す前に、少しお楽しみさせてもらおうか♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh? Upon closer inspection... I see, quite a beautiful girl\nindeed. Before I hand you over to Lord Gakumon, perhaps I\nshould have a little fun myself♪"
                             ]
                         },
                         {
@@ -30531,28 +30307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――侍は己のイチモツを花梨の口元に持って行った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--The samurai brought his own member to Karin's mouth."
                             ]
                         },
                         {
@@ -30576,28 +30331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うああぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、何をする気？　やだっ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Uwaaah...! W-What do you think you're doing? No--!"
                             ]
                         },
                         {
@@ -30621,28 +30355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪さをする鼠には罰を与えてやるということよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、拙者の肉棒を口で咥えるのだ！　ふははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "For a mischievous mouse, punishment must be given. Now, take\nmy manhood in your mouth! Mwahahaha!"
                             ]
                         },
                         {
@@ -30666,7 +30379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………ッ！"
+                                "...!"
                             ]
                         },
                         {
@@ -30674,8 +30387,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "相手の命令に服従する\\c[27]【Ｈイベント】\\c[0]",
-                                    "抵抗する"
+                                    "Submit to the other person's command \\c[27][H Event]\\c[0]",
+                                    "Resist"
                                 ],
                                 1,
                                 0,
@@ -30762,7 +30475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]尺八＋１　口内射精＋１\\c[0]"
+                                "\\c[27]Shakuhachi +1 Oral Ejaculation +1\\c[0]"
                             ]
                         },
                         {
@@ -30786,28 +30499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このまま牙門様の部屋に連れて行ってやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たっぷりと報酬が頂けそうだ。ぬふふっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'll take you to Lord Gakumon's room just like this. Looks\nlike I'll be getting a hefty reward. Nufufu...!"
                             ]
                         },
                         {
@@ -30831,28 +30523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――隙あり！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Now's my chance!"
                             ]
                         },
                         {
@@ -30890,28 +30561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ズガッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Thud--!>"
                             ]
                         },
                         {
@@ -30935,28 +30585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐあああぁ！？　刀の束で脛が！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Guaaah!? My shin has been hit by a bundle of swords!?"
                             ]
                         },
                         {
@@ -30980,14 +30609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "トリモチが濡れて弱まって動けるようになったわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よくも私のこと弄んでくれたわね？　許さない！"
+                                "The sticky rice cake has gotten wet and weakened, now I can\nmove! How dare you toy with me? I won't forgive you!"
                             ]
                         },
                         {
@@ -31011,28 +30633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、待て……！　ちょっと悪ふざけをしただけだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "か、勘弁してくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "W-Wait...! It was just a little prank! P-Please forgive me!"
                             ]
                         },
                         {
@@ -31068,28 +30669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "問答無用――！　やああっ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No questions asked--! Yaaa--!"
                             ]
                         },
                         {
@@ -31137,28 +30717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ボカッ！　バキっ！　ドカカッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Thump! Crack! Thud--!>"
                             ]
                         },
                         {
@@ -31201,28 +30760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐああああああぁ～～～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Guaaaaaahhhhhhhhh~!!"
                             ]
                         },
                         {
@@ -31304,28 +30842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は侍を刀の束でボコボコに打ちつけた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin beat the samurai to a pulp with a bundle of swords!"
                             ]
                         },
                         {
@@ -31342,28 +30859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -31399,21 +30895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ……　はぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（この奥に桐堂牙門はいるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　口の中が気持ち悪いけど、このまま先へ進もう……）"
+                                "(Haa... Haa...! (It seems Lord Gakumon is in the back. My\nmouth feels disgusting, but I must go on...))"
                             ]
                         },
                         {
@@ -31481,14 +30963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　がりりっ……！　＞"
+                                "<Clink...!>"
                             ]
                         },
                         {
@@ -31519,28 +30994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあああぁ～～～～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gyaaaaahhhhh~!"
                             ]
                         },
                         {
@@ -31576,14 +31030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ガリガリガリ――ッ！！　＞"
+                                "<Gnash Gnash Gnash--!!>"
                             ]
                         },
                         {
@@ -31614,7 +31061,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐあああああぁ～～～～～～ッ！！？"
+                                "Guaaaaaahhhhhhhhhhhhhh~!!?"
                             ]
                         },
                         {
@@ -31638,28 +31085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は相手の肉棒を前歯で力強く噛んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin powerfully bit down on the opponent's member with\nher front teeth!"
                             ]
                         },
                         {
@@ -31683,21 +31109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私はねずみ小町を名乗るだけあって、歯がとても丈夫なの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今まで虫歯にも一度もかかったことないし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の噛みつき甘く見ないでよね！？"
+                                "I'm called the mouse maiden for a reason; my teeth are very\nstrong! I've never had a cavity before, so don't\nunderestimate my bite!?"
                             ]
                         },
                         {
@@ -31721,28 +31133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐへえぇ～～～～っ！！（がくり）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gheeeehhhhh~!! (collapses)"
                             ]
                         },
                         {
@@ -31812,14 +31203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――大事なイチモツを噛まれた侍は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "白目を剥き泡を吹いて失神した！"
+                                "--The samurai who had his precious member bitten fainted\nwith his eyes rolled back and foaming at the mouth!"
                             ]
                         },
                         {
@@ -31836,28 +31220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -31893,14 +31256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（この奥に……　間違いなく桐堂牙門はいるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　絶対に痛い目に遭わせてあげるわ）"
+                                "(In the back... There's no doubt that Lord Gakumon is there.\nI'll make sure he gets what he deserves.)"
                             ]
                         },
                         {
@@ -32707,7 +32063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -33659,7 +33015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]【450 Mon】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -33906,7 +33262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -34152,7 +33508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 800 Mon!\\c[0]"
                             ]
                         },
                         {

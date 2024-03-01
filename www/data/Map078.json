@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "空き家",
+    "displayName": "Vacant House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2460,7 +2460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2707,7 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Godspeed Pear】\\c[0] acquired!"
                             ]
                         },
                         {

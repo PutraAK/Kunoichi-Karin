@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "酒場",
+    "displayName": "Tavern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,14 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、花梨ちゃんかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一杯飲んでいきな。"
+                                "Oh, is that you, Karin-chan? Have a drink before you go."
                             ]
                         },
                         {
@@ -2365,14 +2358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　酒を飲んでる時が一番幸せだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃんもそう思うだろう？　へへ……♪"
+                                "Phew... The happiest time is when I'm drinking sake. You\nthink so too, don't you, miss? Hehe...♪"
                             ]
                         },
                         {
@@ -2449,14 +2435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事をさぼってるわけじゃないぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "景気づけだ。ひっく……"
+                                "I'm not slacking off, it's just a little pick-me-up.\n*hic*..."
                             ]
                         },
                         {
@@ -2533,7 +2512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ～！"
+                                "Welcome~!"
                             ]
                         },
                         {
@@ -3272,21 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの酒場は穏やかに飲めるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "深川の酒場は客層が悪いから気をつけな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手の付けられない酔っ払いのたまり場だぜ。"
+                                "You can drink peacefully at this tavern, but be careful at\nthe Fukagawa tavern; it has a bad crowd. It's a gathering\nplace for uncontrollable drunks."
                             ]
                         },
                         {
@@ -3363,14 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上野で動物を集めているらしいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな狭い場所に動物園でも作る気なのかね？"
+                                "I hear they're gathering animals in Ueno. Are they planning\nto build a zoo in such a cramped place?"
                             ]
                         },
                         {
@@ -3447,14 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町の金で美味い酒が飲めるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金のない庶民からすると本当にありがたいねぇ♪"
+                                "We can drink delicious sake with the money from Nezumi\nKomachi. It's truly a blessing for the common folk who have\nno money.♪"
                             ]
                         },
                         {
@@ -3650,7 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3778,14 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日本橋の路地裏で秘かに闇商人が店を開いているそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いた話じゃ高くて貴重な装飾品を扱っているとか……"
+                                "I've heard that a black market merchant secretly opened a\nshop in the back alleys of Nihonbashi. Rumor has it they\ndeal in expensive and valuable jewelry..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭廃屋",
+    "displayName": "Brothel Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -10985,7 +10985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 mon!\\c[0]"
                             ]
                         },
                         {
@@ -15500,28 +15500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……グガガガガ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Gagagagaga!!"
                             ]
                         },
                         {
@@ -15545,28 +15524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！？　なにこのデカいドクロは！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Whoa! What's with this huge skull!?"
                             ]
                         },
                         {
@@ -15590,28 +15548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おそらくアオマルによって作られた妖かしの類でしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちに凄まじい敵意を向けています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's likely a specter created by Aomaru. It's directing\ntremendous hostility towards us."
                             ]
                         },
                         {
@@ -15635,28 +15572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この気持ち悪いガイコツを倒さないと前へ進めない様ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょうがない。紅葉さん、戦おう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We can't move forward without defeating this creepy\nskeleton. Can't be helped. Momiji-san, let's fight!"
                             ]
                         },
                         {
@@ -15680,28 +15596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。気をつけてください花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. Please be careful, Karin-san."
                             ]
                         },
                         {
@@ -15732,28 +15627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガガガガッ！　侵入者、死スベシ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gagagaga! Intruders, you shall die!!"
                             ]
                         },
                         {
@@ -15782,7 +15656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――巨大ガイコツが襲ってきた！"
+                                "--A giant skeleton attacked!"
                             ]
                         },
                         {
@@ -24234,7 +24108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【400 Mon】\\c[0]!"
                             ]
                         },
                         {

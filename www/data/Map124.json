@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "登流峠　最端",
+    "displayName": "Touryuu Pass - Farthest End",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9857,7 +9857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -10692,7 +10692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -14131,7 +14131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -15038,7 +15038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20091,7 +20091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -20338,7 +20338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -22758,14 +22758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Aaahhh~~! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -23659,14 +23652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――ギャアッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１３０）\\c[0]"
+                                "--Gyaaah!\\c[17](EXP +130)\\c[0]"
                             ]
                         },
                         {
@@ -24468,14 +24454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バサッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１４０）\\c[0]"
+                                "Swish--!\\c[17](EXP +140)\\c[0]"
                             ]
                         },
                         {
@@ -25292,14 +25271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バサッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１４０）\\c[0]"
+                                "Swish--! \\c[17](EXP +140)\\c[0]"
                             ]
                         },
                         {
@@ -26116,14 +26088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バサッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１４０）\\c[0]"
+                                "Swish--! \\c[17](EXP +140)\\c[0]"
                             ]
                         },
                         {
@@ -26940,14 +26905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Aaahhh~~! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -27772,14 +27730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Gyaaaahhh! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -28480,7 +28431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが……　登流峠の北端にある隠し港ね。"
+                                "This must be... the hidden port at the northern end of Tohru\nPass."
                             ]
                         },
                         {
@@ -28504,28 +28455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女のおかげでここまで無事に来れました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you, Karin-san. Thanks to you, we were able to get\nhere safely."
                             ]
                         },
                         {
@@ -28549,28 +28479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に強いな。ねずみ小町って名前で江戸で暴れてたの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘偽りねぇってこと、実感したぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You really are strong. The tales of Nezumi Komachi causing a\nruckus in Edo weren't lies at all, I've realized that now."
                             ]
                         },
                         {
@@ -28594,28 +28503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは……　ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahaha... Thank you."
                             ]
                         },
                         {
@@ -28639,28 +28527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵はかかっておらん。このまま中に入ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流罪人頭の話では船があるはずじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There's no lock. Let's go inside as it is. According to the\nhead of the exiled criminals, there should be a ship here."
                             ]
                         },
                         {
@@ -28684,7 +28551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん……　中に入りましょう。"
+                                "Yes... Let's go inside."
                             ]
                         },
                         {
@@ -29163,14 +29030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Aaahhh~~! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -30001,14 +29861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――ギャアッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１３０）\\c[0]"
+                                "--Gyaaah!\\c[17](EXP +130)\\c[0]"
                             ]
                         },
                         {
@@ -30857,7 +30710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -31103,7 +30956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 mon!\\c[0]"
                             ]
                         },
                         {
@@ -31401,28 +31254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待てい！　ここに再び来ると思っていたぞ、罪人花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wait! I knew you would come back here, criminal Karin!"
                             ]
                         },
                         {
@@ -31446,28 +31278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううっ！？　しまった！　待ち伏せされてたの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh!? Damn it! Were we ambushed!?"
                             ]
                         },
                         {
@@ -31498,28 +31309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちをこの場で捕縛してくれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抵抗するな！尋常にせい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We will capture you right here and now! Do not resist! Fight\nfairly!"
                             ]
                         },
                         {
@@ -31548,7 +31338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――無常島役人たちが襲ってきた！"
+                                "--The officials of Mujou Island attacked!"
                             ]
                         },
                         {
@@ -31623,7 +31413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐはっ――！？　つ、強い……！"
+                                "Guh--!? S-So strong...!"
                             ]
                         },
                         {
@@ -31647,14 +31437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――どいて、邪魔よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここまで来て、また捕まるわけにはいかないわ！"
+                                "--Move it, you're in the way! We've come this far, we can't\nget caught again!"
                             ]
                         },
                         {
@@ -31678,7 +31461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨さんの言う通りよ！　アンタらはしばらく眠ってな！"
+                                "Just as Karin-san says! You guys can take a long nap!"
                             ]
                         },
                         {
@@ -31704,28 +31487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　バキッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<バキ--！>"
                             ]
                         },
                         {
@@ -31749,7 +31511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわああぁっ…………！！"
+                                "Gwaaaah...!!"
                             ]
                         },
                         {
@@ -31804,28 +31566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――役人たちは失神した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--The officials fainted!"
                             ]
                         },
                         {
@@ -31849,28 +31590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんなさい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たちはどうしても江戸へ帰りたいんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうか許してください……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm sorry... We just really need to get back to Edo. Please\nforgive us..."
                             ]
                         },
                         {
@@ -31894,28 +31614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "華蝶！　謝っている暇はないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早く洞窟の中へ入れ！　増援の役人が来るぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kachou! There's no time for apologies! Hurry into the cave!\nMore officials are coming!"
                             ]
                         },
                         {
@@ -31960,14 +31659,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【役人たち】"
+                                "【Officials】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "待てぇ！　逃がすか――！！"
+                                "Wait! You won't escape--!!"
                             ]
                         },
                         {
@@ -32055,7 +31754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨たちは洞窟内に逃げた！"
+                                "--Karin and the others escaped into the cave!"
                             ]
                         },
                         {
@@ -33488,28 +33187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -33526,28 +33204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ざわざわ……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Murmurs...!)"
                             ]
                         },
                         {
@@ -33571,28 +33228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　あれは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! What's that...!"
                             ]
                         },
                         {
@@ -33616,14 +33252,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【島民A】"
+                                "【Islander A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ろ！　北の登流峠の岬から帆船が現れたぞ！？"
+                                "Look! A sailboat has appeared from the cape of the northern\nTohru Pass!?"
                             ]
                         },
                         {
@@ -33640,28 +33276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【島民B】"
+                                "【Islander B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、あの船は――！　連絡船じゃないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったい誰の船なんだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What is that ship--! It's not a messenger boat? Whose ship\nis it anyway!?"
                             ]
                         },
                         {
@@ -33678,28 +33300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【役人】"
+                                "【Official】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか……！　流罪人による島抜けか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追っかけようにもこちらには船がない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の連絡船で江戸に報告せねば――！"
+                                "Could it be...! A breakout by the exiled criminals!? We\ncan't pursue them since we have no ship here! We must report\nthis to Edo with the next messenger boat--!"
                             ]
                         },
                         {
@@ -33716,28 +33324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ざわざわ！　ざわざわ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Buzzing! Buzzing!)"
                             ]
                         },
                         {
@@ -33754,28 +33341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -33799,28 +33365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……上手くいったのじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ご先祖様が作った船が海を進む雄姿。観れて嬉しいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうか無事に江戸まで向かうんじゃぞ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(...It worked out. I'm glad to see the ship built by our\nancestors sailing the sea. Please make it safely to Edo...)"
                             ]
                         },
                         {
@@ -33844,21 +33389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -33983,7 +33514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――やったぁ！　無常島からついに脱出できたわ！"
+                                "--Yay! We've finally escaped from Mujou Island!"
                             ]
                         },
                         {
@@ -34007,28 +33538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっほーい！　ワシらは自由じゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hoh-hoi! We are free now!"
                             ]
                         },
                         {
@@ -34052,28 +33562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "信じられない……　本当に島抜けができたなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで夢みたいだわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I can't believe it... That we actually managed to escape the\nisland... It feels like a dream..."
                             ]
                         },
                         {
@@ -34097,28 +33586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉし！　このまま外洋に出て北上するぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "南風だからそれなりに速度は出るはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Alright! Let's head out to the open sea and go north! The\nsouth wind should give us a decent speed."
                             ]
                         },
                         {
@@ -34188,28 +33656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ザザザ……！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rustling...!>"
                             ]
                         },
                         {
@@ -34233,28 +33680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　あれは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? What's that...!"
                             ]
                         },
                         {
@@ -34278,28 +33704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "げげっ！　もしかしてサメの群れか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "南国だからか、さすがに数が多いのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Geez! Could that be a school of sharks!? It's the tropics,\nso there sure are a lot of them."
                             ]
                         },
                         {
@@ -34323,28 +33728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "島から抜け出ても江戸へ戻らなきゃ意味がねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "速度を出すからしっかり船につかまってな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We've got to get back to Edo or escaping the island means\nnothing! I'm going to speed up, so hold on tight to the\nship!"
                             ]
                         },
                         {
@@ -34380,14 +33764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしサメたちが襲ってきたら私が倒すわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉三郎さんは船の操縦、お願いね！"
+                                "If the sharks come attacking, I'll take them down!\nKisanosuke-san, please handle the steering of the ship!"
                             ]
                         },
                         {

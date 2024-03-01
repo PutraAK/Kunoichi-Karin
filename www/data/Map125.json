@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "隠し港",
+    "displayName": "Hidden Harbor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2298,7 +2298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -2911,7 +2911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【600 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -3217,7 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -4678,28 +4678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！　花梨さん！　確かに人形が……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! Karin-san! The doll is definitely...!"
                             ]
                         },
                         {
@@ -4723,28 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初にここへ来た時、全然気づかなかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この人形が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "When we first came here, I didn't notice at all. This\ndoll..."
                             ]
                         },
                         {
@@ -4768,7 +4726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長の言っていたものに間違いないな。後ろに突起がある。"
+                                "It must be what the village chief was talking about. There's\na protrusion on the back."
                             ]
                         },
                         {
@@ -4792,28 +4750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごくり…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*gulp*..."
                             ]
                         },
                         {
@@ -4837,28 +4774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、押してみるぞ！　ぽちっとな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Alright, let's try pushing it! Click!"
                             ]
                         },
                         {
@@ -4894,28 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ガガガガ…………！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Gagagaga...!>"
                             ]
                         },
                         {
@@ -5038,28 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なんと！　奥への抜け道が現れたぞ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Incredible! A secret passage to the back has appeared!?"
                             ]
                         },
                         {
@@ -5083,14 +4957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい仕掛けですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これくらい用心していたってことは……"
+                                "What an amazing mechanism. If they took this much\nprecaution..."
                             ]
                         },
                         {
@@ -5114,28 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中にある船はそれなりのもんだと期待したいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm hoping the ship inside is something substantial."
                             ]
                         },
                         {
@@ -5211,7 +5057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……奥へ行ってみましょう。"
+                                "...Let's go check out the back."
                             ]
                         },
                         {
@@ -5511,28 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！　これが船……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! Is this the boat...?"
                             ]
                         },
                         {
@@ -5556,28 +5381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだこりゃあ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船は船でも、たらい舟じゃねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What the heck!? This isn't a boat, it's more like a tub!"
                             ]
                         },
                         {
@@ -5601,28 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……これに４人乗れるのかしら？　とても無理ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Can four people really ride in this? It's obviously\nimpossible."
                             ]
                         },
                         {
@@ -5646,28 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...!"
                             ]
                         },
                         {
@@ -5691,28 +5453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話が違うじゃない、黒曜天狗！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体どういうことなのさ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're kidding me, Kokuyou Tengu!? What's the meaning of\nthis!?"
                             ]
                         },
                         {
@@ -5736,28 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、落ち着け花梨――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシに当たるな！　流罪人頭が言ってたのじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いなく船があると……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Whoa, calm down, Karin--! Don't take it out on me! It was\nthe exile leader who said there would definitely be a\nboat...!"
                             ]
                         },
                         {
@@ -5788,21 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……船には違いねぇが、帆もないこんな小さな船じゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外洋の荒波を航行するのは不可能だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっという間に高波に飲まれて沈められちまう。"
+                                "...It's a boat alright, but without sails, this tiny thing\ncan't navigate the rough open sea. It'd be swallowed by the\nwaves and sunk in no time."
                             ]
                         },
                         {
@@ -5826,28 +5532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうしよう。今さら引き返すしかないの？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! (What should we do? Is there no choice but to turn back\nnow?)"
                             ]
                         },
                         {
@@ -5958,28 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ダダダダダダダッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<DADADADADADA--!!>"
                             ]
                         },
                         {
@@ -6003,28 +5667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！？　あ、アンタは！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!? You, what are you doing here!?"
                             ]
                         },
                         {
@@ -6048,28 +5691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやおやぁ！　こんなところに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船で島を抜けようとする罪人がいるぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh my, my! What do we have here? Criminals trying to escape\nthe island by boat?"
                             ]
                         },
                         {
@@ -6093,28 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大変だ！　お役人を呼ばねぇとなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is serious! We need to call the officials!"
                             ]
                         },
                         {
@@ -6138,28 +5739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御用だ、御用だ！　事情を説明してもらおうか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're under arrest, you're under arrest! Let's hear your\nexplanation!"
                             ]
                         },
                         {
@@ -6183,28 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～！！　流罪人頭たち！？　それに役人も！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~!! The exile leaders!? And officials too!?"
                             ]
                         },
                         {
@@ -6228,7 +5787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！　もしかして、私たちは罠に……？"
+                                "...! Could it be that we've been trapped...?"
                             ]
                         },
                         {
@@ -6252,28 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この島は食料が少ねぇ……　船の情報を伝え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに乗っかった愚か者の罪人は島抜けの罪で極刑――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヘヘヘ、口減らしのために合理的な仕組みだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This island is short on food... By spreading information\nabout a boat and catching the foolish criminals who bite,\nthey're sentenced to death for attempting to escape the\nisland--Hehehe, it's a rational system for reducing mouths\nto feed, right?"
                             ]
                         },
                         {
@@ -6297,28 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お役人の皆さん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかこいつらを捕まえてくだせぇ！　ケケッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Officers, please! Catch these people!"
                             ]
                         },
                         {
@@ -6342,28 +5859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たち４人全員、島抜けの罪で拘束する！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大人しくしろっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "All four of you are under arrest for attempting to escape\nthe island! Don't resist!"
                             ]
                         },
                         {
@@ -6387,7 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～！（どうしよう……！）"
+                                "~~~~! (What should we do...!)"
                             ]
                         },
                         {
@@ -6395,8 +5891,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "たらい舟で脱出する",
-                                    "大人しく役人に捕縛される"
+                                    "Escape on the washbowl boat",
+                                    "Get captured by the officials without resistance"
                                 ],
                                 1,
                                 0,
@@ -6433,28 +5929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このまま捕まるくらいなら、この船に乗って、海へ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "If we're going to be caught anyway, we might as well board\nthis boat and head to sea--!"
                             ]
                         },
                         {
@@ -6478,28 +5953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダメだ、花梨さん！　こんな小さな船じゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出航してもすぐに海の藻屑だ！　冷静になれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No good, Miss Karin! With such a small boat, if we set sail\nwe'll just become seaweed fodder immediately! Stay calm!"
                             ]
                         },
                         {
@@ -6523,7 +5977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "で、でも……！？"
+                                "But...!?"
                             ]
                         },
                         {
@@ -6577,28 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（入り口に役人がたくさんいる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私だけなら一人で突破して逃げられるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　皆を置いて行くなんて……できない……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(There are so many officials at the entrance... I could\nbreak through and escape on my own, but I can't just leave\neveryone behind...)"
                             ]
                         },
                         {
@@ -6622,28 +6055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっ……　偽情報に踊らされた結果がコレか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったくどうしようもなく下手こいたぜ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Pfft... To think we were danced around by false\ninformation... We've really screwed up big time..."
                             ]
                         },
                         {
@@ -6686,28 +6098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ダダダダッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<DADADADAD--!>"
                             ]
                         },
                         {
@@ -6743,28 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逃げるな！　大人しくしろ！　この極悪人どもがッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Don't run! Stop resisting, you vile criminals!"
                             ]
                         },
                         {
@@ -6788,28 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うああぁ……！　いやぁ！　は、離してぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahhhh...! Nooo! Let go of me!"
                             ]
                         },
                         {
@@ -6840,28 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！　華蝶さん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~! Kachou-san!?"
                             ]
                         },
                         {
@@ -6885,28 +6213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駄目だ……　華蝶さんを置いて逃げられねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悔しいが大人しく投降しよう、花梨さん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No use... Can't leave Kachou-san behind and escape... As\nmuch as it pains me, we should surrender quietly, Miss\nKarin..."
                             ]
                         },
                         {
@@ -6930,28 +6237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ううっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Ughh!"
                             ]
                         },
                         {
@@ -6975,28 +6261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うははっ！　イイ面だぜ、花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレたちをコケにした罰だ！　もっと悔しがりな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hahaha! That's a good look for you, Karin! This is what you\nget for making fools out of us! Show me more of that\nfrustration!"
                             ]
                         },
                         {
@@ -7020,28 +6285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴様っ！　役人とグルとは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくもこのワシを罠にはめて騙してくれたの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You bastard! To think you were in cahoots with the\nofficials...! How dare you trap and deceive me like this!"
                             ]
                         },
                         {
@@ -7065,28 +6309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ。老い先短い爺さんに引導を渡してやっただけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言うこと聞かない花梨まで巻き添えにしてくれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちとしては感謝してるぜ、白髪坊主さんよ♪　カッカ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heheh. Just sending an old man with not much time left on\nhis way. And I'm grateful that you even took care of the\ndisobedient Karin for us, baldy♪ Haha!"
                             ]
                         },
                         {
@@ -7110,28 +6333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "~~~~~~~~!!"
                             ]
                         },
                         {
@@ -7155,28 +6357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全員しょっぴく！　無駄な抵抗はするなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Capture all of them! Don't make any futile resistance!"
                             ]
                         },
                         {
@@ -7200,7 +6381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うああぁ……っ！？"
+                                "Ahhh...!"
                             ]
                         },
                         {
@@ -7243,7 +6424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨たち４人は無常島の役人に捕縛された……"
+                                "--Karin and the other three were captured by the officials\nof Mujou Island..."
                             ]
                         },
                         {

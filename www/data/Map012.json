@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "天守閣　入り口",
+    "displayName": "Castle Tower Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9003,7 +9003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【毒薬】\\c[0]を１０個手に入れた！"
+                                "--\\c[17]【Poison】\\c[0]Gained 10 pieces!"
                             ]
                         },
                         {
@@ -9632,7 +9632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【花神のかんざし】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained the 【Hairpin of the Flower Deity】!\\c[0]"
                             ]
                         },
                         {
@@ -10813,7 +10813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――体力と技力が\\c[24]全回復\\c[0]した！"
+                                "--Stamina and skill power have been \\c[24]fully\nrestored\\c[0]!"
                             ]
                         },
                         {
@@ -12625,7 +12625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬の香炉】\\c[0]手に入れた！"
+                                "--\\c[17]【Elixir Incense Burner】\\c[0] obtained!"
                             ]
                         },
                         {

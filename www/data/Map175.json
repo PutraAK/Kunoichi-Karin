@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭　通路",
+    "displayName": "Pleasure Quarter Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -4048,21 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！　なんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、こちらの子と愉しんでいるのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話しかけられるなんて、もてる男はつらいねぇ\\I[15]"
+                                "Whoa! What's up? Being approached while I'm enjoying myself\nwith this girl... it's tough being a popular guy, huh\\I[15]"
                             ]
                         },
                         {
@@ -4797,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -5525,7 +5511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふふ。もっと甘えてくださいね……\\I[15]"
+                                "Hehehe. Please be more affectionate...\\I[15]"
                             ]
                         },
                         {
@@ -5842,14 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいら、君と一緒にいるだけで幸せだぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明け方まで膝枕たのむよぉ♪"
+                                "I'm just happy being with you... I'm asking for a lap pillow\nuntil dawn♪"
                             ]
                         },
                         {
@@ -6286,21 +6265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うな重を一緒に食べるかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにせ体が資本の仕事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "栄養はたっぷりつけなさい。"
+                                "Shall we eat unaju together? After all, our bodies are our\nassets in this line of work. Make sure to get plenty of\nnutrition."
                             ]
                         },
                         {
@@ -6377,14 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっきの火事は小火ですんで良かったねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも庄右衛門さんが顔面蒼白だったが、何かあったのかい？"
+                                "It's good that the fire earlier was just a small one, huh?\nBut Shouemon-san was pale as a ghost; did something happen?"
                             ]
                         },
                         {
@@ -6452,21 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉さん、この遊郭に来てから２０年以上経っているのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然変らないんだが……　もしかしたら座敷童とか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな類なのかもね。いやはや冗談さ。はっはっは。"
+                                "Momiji-san, it's been over 20 years since you came to this\nbrothel, and yet you haven't changed at all... Perhaps\nyou're something like a zashiki-warashi. Just kidding, haha."
                             ]
                         },
                         {
@@ -6672,14 +6616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと！　アナタ、私と同じ遊女なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事中に割り込まないでよ。ぷんぷん！"
+                                "Hey! Are you a courtesan like me? Don't butt in while I'm\nworking. Hmph!"
                             ]
                         },
                         {
@@ -7314,21 +7251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "借金がある亭主が夜逃げしちゃってね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方なくここで稼いでるのさ。体力と気力を使うけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなりにたくさん稼げるからね。アンタも頑張りなよ。"
+                                "My husband ran off in the night because of his debts... I've\ngot no choice but to make a living here. It takes a lot of\nphysical and mental strength, but you can earn a decent\namount. You should work hard too."
                             ]
                         },
                         {
@@ -7405,21 +7328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉さんは遊郭の用心棒もやってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この前なんか乱暴な旗本やっこを一撃でのしたのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄いよねぇ。"
+                                "Momiji-san also works as a bodyguard for the pleasure\ndistrict. Just the other day, she took down a violent\nsamurai with a single blow. Amazing, isn't it?"
                             ]
                         },
                         {
@@ -7496,14 +7405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この遊郭には開かずの扉があるそうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その先には焼け落ちた旧遊郭があるって話よ。"
+                                "They say there's a door in this pleasure district that never\nopens. Beyond it lies the burnt remains of the old red-light\ndistrict, or so the story goes."
                             ]
                         },
                         {
@@ -8300,21 +8202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥は「開かずの間」で立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の遊女達にも伝えてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に入っちゃだめだよ？"
+                                "The inner chamber is a \"Forbidden Room,\" and entry is\nprohibited. I've informed the other courtesans as well. You\nmust absolutely not enter, okay?"
                             ]
                         },
                         {
@@ -8382,21 +8270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この門の先は、実は昔の遊郭へ行く通路でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幽霊も出たりするから立ち入り禁止になったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行くのなら気をつけてね……"
+                                "The gate ahead actually leads to a passage to the old red-\nlight district. It's been off-limits because ghosts have\nbeen known to appear. If you're going, be careful..."
                             ]
                         },
                         {
@@ -8480,28 +8354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭に出入りするお客の顔を覚えるようにはしているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失踪した時の客の顔と、なかなか一致しなくてね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしたら犯人は変装しているのかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊女たちを守るため、どうか早く犯人を見つけて欲しい。"
+                                "I try to remember the faces of the clients who come and go\nin the red-light district, but it's hard to match them with\nthe one who disappeared... Perhaps the culprit is in\ndisguise. For the sake of protecting the courtesans, please\nfind the perpetrator quickly."
                             ]
                         },
                         {
@@ -8583,21 +8436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ、この遊郭に鬼が客として来てたなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他のお客さんに知られたら一大事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼退治は内密に頼むよ？"
+                                "Good grief, to think that an oni had come to this brothel as\na customer... If the other clients find out, it'll be a\nmajor issue. Could you take care of the oni discreetly?"
                             ]
                         },
                         {
@@ -8679,14 +8518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨さんと紅葉さんのおかげで遊郭も平和になったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にありがとう。"
+                                "Thanks to Karin-san and Momiji-san, the red-light district\nhas become peaceful. Thank you so much."
                             ]
                         },
                         {
@@ -8768,14 +8600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉さんの姿が見えないんだが、居場所を知らないかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体何処に行ったんだろう……？"
+                                "I can't see Momiji-san anywhere, do you know where she might\nbe? Where on earth could she have gone...?"
                             ]
                         },
                         {
@@ -10192,7 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -10320,14 +10145,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】"
+                                "【Signboard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先、旧遊郭跡地　立ち入りを禁ず――"
+                                "Beyond this point, entry to the old red-light district is\nforbidden--"
                             ]
                         },
                         {
@@ -11854,28 +11679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行方不明になった遊女たちは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処に連れ去られたんだろうね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人で寝たら怖いから仲の良い子と一緒に寝てるのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く犯人が捕まるといいんだけど……"
+                                "I wonder where the missing courtesans were taken... It's\nscary to sleep alone, so I'm sleeping with a close friend. I\nhope the culprit gets caught soon..."
                             ]
                         },
                         {
@@ -11952,21 +11756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５０年前は風呂屋での売春が一般的だったんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもお上が禁止して遊郭のみに限定したそうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも夜鷹みたいに隠れて売りをしてる女性もいるけどね。"
+                                "They say that prostitution in bathhouses was common 50 years\nago. But the authorities banned it, limiting it to only the\nred-light districts. Even so, there are women who sell\nthemselves in secret, like the night hawks."
                             ]
                         },
                         {
@@ -12341,7 +12131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -12469,28 +12259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　お金を頂いてるとはいえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうちょっと奇麗に部屋を使って欲しいですねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきいたお客さん、畳まで汚しちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掃除しても臭いがとれない……"
+                                "Phew... Even though they're paying, I wish they'd use the\nroom a bit more cleanly. The customer from earlier even\ndirtied the tatami mats, and the smell won't go away even\nafter cleaning..."
                             ]
                         },
                         {
@@ -12867,7 +12636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨さん、アオマルの棲家である古の遊郭に行きますか？"
+                                "Karin-san, shall we go to the ancient brothel, the dwelling\nof Aomaru?"
                             ]
                         },
                         {
@@ -12875,8 +12644,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ええ。準備万端",
-                                    "まだ行かない"
+                                    "Yes. I'm fully prepared.",
+                                    "Not going yet."
                                 ],
                                 1,
                                 0,
@@ -12936,21 +12705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行きましょう、紅葉さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アイツを放っておくと、また遊女が危険な目に遭うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "絶対に倒しておかないと。"
+                                "Let's go, Momiji-san. If we leave that guy alone, the\ncourtesans will be in danger again. We must defeat him no\nmatter what."
                             ]
                         },
                         {
@@ -12981,7 +12736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はねずみ小町の姿に変身した！"
+                                "--Karin transformed into the guise of Nezumi Komachi!"
                             ]
                         },
                         {
@@ -13048,7 +12803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかりました。では行きましょう。"
+                                "Understood. Then let's go."
                             ]
                         },
                         {
@@ -13345,7 +13100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨と紅葉は遊郭廃屋に向かった！"
+                                "--Karin and Momiji headed towards the abandoned brothel!"
                             ]
                         },
                         {

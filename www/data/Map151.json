@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "空き家",
+    "displayName": "Abandoned House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2459,7 +2459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -2705,7 +2705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -3433,14 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先日の嵐の時、沖でデカいタコを見たんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タコの頭の上に人が乗ってたんだ。本当だぜ？"
+                                "During the storm the other day, I saw a huge octopus off the\ncoast... There was a person riding on top of the octopus's\nhead. It's true, you know?"
                             ]
                         },
                         {
@@ -3555,14 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハハッ！　タコの上に人が？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても信じられねぇ。何かの見間違いだろうよ。"
+                                "Ha ha ha! A person on top of an octopus? I can hardly\nbelieve it. Must be some kind of mistake."
                             ]
                         },
                         {

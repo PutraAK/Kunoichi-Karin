@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭",
+    "displayName": "Pleasure Quarter",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10191,7 +10191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -10878,21 +10878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくしょう、まだ遊郭やってないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く営業してくれねぇかなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちとらビンビンだってのによぉ……"
+                                "Dammit, is the brothel still not open? Can't they start\ndoing business soon? I'm hard as a rock over here..."
                             ]
                         },
                         {
@@ -11179,14 +11165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この時間、まだ遊郭はやっていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠らない街は夜が本番だからな。"
+                                "At this hour, the pleasure quarters are not yet open. The\ncity that never sleeps comes alive at night."
                             ]
                         },
                         {
@@ -12870,28 +12849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身内のいない遊女は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んだら無縁仏として寺に運ばれ火葬される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "墓のある遊女はまだ恵まれてるほうなんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切ないねぇ……"
+                                "A courtesan without any relatives is carried to a temple and\ncremated as an unclaimed Buddha when she dies. Those with\ngraves are still considered fortunate. It's so sad..."
                             ]
                         },
                         {
@@ -19476,7 +19434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は固く締まっている――"
+                                "The door is firmly shut--"
                             ]
                         },
                         {
@@ -19844,14 +19802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉さん、自宅にいないんだが何処に行ったのかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨さんは知らないかい？"
+                                "Momiji-san isn't at home, I wonder where she went. Karin-\nsan, do you have any idea?"
                             ]
                         },
                         {
@@ -20850,14 +20801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】"
+                                "【Signboard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭での乱暴狼藉　これ厳罰に処す――"
+                                "Acts of violence and misconduct in the pleasure district\nwill be severely punished--"
                             ]
                         },
                         {
@@ -21903,14 +21854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！　アンタも遊女かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃまたベッピンさんだねぇ♪　何処のお店の子かい？"
+                                "Oh! Are you also a courtesan? What a beauty you are!♪ Which\nestablishment do you belong to?"
                             ]
                         },
                         {
@@ -21934,21 +21878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　いえ、ただ散歩で来ただけです！　それじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（遊女と間違えられちゃった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも……ベッピンさんって言われて、悪い気はしないわね）"
+                                "No! I'm just here for a walk! Goodbye! (I was mistaken for a\ncourtesan... but... being called a beauty doesn't feel too\nbad, does it?)"
                             ]
                         },
                         {
@@ -22023,14 +21953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭が開くまで何処かで飯でも食ってくるかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精力が付くものがいいな。へへっ♪"
+                                "I guess I'll grab some food somewhere until the pleasure\nquarter opens. Something that'll give me energy would be\ngood. Hehe♪"
                             ]
                         },
                         {
@@ -22107,7 +22030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】迷い狐　探し中　見つけたらこちらまで――"
+                                "[Sign] Searching for a lost fox. If found, please contact\nus--"
                             ]
                         },
                         {
@@ -22175,7 +22098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】迷い狐　見つかりました　ありがとうございました"
+                                "[Sign] Lost fox found. Thank you very much."
                             ]
                         },
                         {
@@ -24943,14 +24866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭は昼過ぎから始まって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然夜に一番お客さんが来るわ。"
+                                "The pleasure quarters start bustling from the afternoon, and\nnaturally, it's at night when the most customers come."
                             ]
                         },
                         {
@@ -25027,21 +24943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨晩の汚れた布団とかを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗濯しないといけないから大変だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰だって奇麗な布団で寝たいだろうし。"
+                                "I have to wash the dirty futons from last night, it's quite\na hassle. After all, everyone wants to sleep in a clean\nfuton."
                             ]
                         },
                         {

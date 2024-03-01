@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭廃屋",
+    "displayName": "Brothel Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -15930,7 +15930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16357,7 +16357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -18650,7 +18650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -23157,7 +23157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -26153,7 +26153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -26399,7 +26399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 mon!\\c[0]"
                             ]
                         },
                         {
@@ -26645,7 +26645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -34433,21 +34433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -34471,7 +34457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！　お墓がたくさんあるわ。ここは……墓地……？"
+                                "...! There are so many graves here. Is this... a\ncemetery...?"
                             ]
                         },
                         {
@@ -34495,14 +34481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭で働いていた遊女たちのお墓です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が運んで……ここに埋めた……"
+                                "These are the graves of the courtesans who worked in the\npleasure district. I carried them here... and buried them..."
                             ]
                         },
                         {
@@ -34526,28 +34505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんですね。亡くなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お墓さえ入れない遊女が多いって聞いてたけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとした墓所があったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is that so? I heard that many courtesans end up without even\na grave when they pass away... It's good to know there's a\nproper burial place."
                             ]
                         },
                         {
@@ -34571,28 +34529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が遊郭に住む以前は、亡くなった遊女をむしろで包み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま投込み寺に送られるだけでしたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私なりに供養するため、ここにお墓を作ったんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Before I lived in the pleasure district, the deceased\ncourtesans were just wrapped in straw mats and sent to the\ntemple. I made these graves here as a way to offer prayers\nfor them."
                             ]
                         },
                         {
@@ -34616,28 +34553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可哀想……　煌びやかな遊郭の裏に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな寂れた墓所があるなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "How sad... To think that behind the glittering pleasure\ndistrict lies such a desolate graveyard..."
                             ]
                         },
                         {
@@ -34661,21 +34577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -34699,28 +34601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -34744,14 +34625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんだか……紅葉さん、表情がとても暗くなったわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このお墓について訊かないほうが良かったかも……）"
+                                "(Somehow... Momiji-san's expression has become very dark...\nMaybe I shouldn't have asked about the graves...)"
                             ]
                         },
                         {
@@ -34775,14 +34649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先に廃墟になった古の遊郭の建物があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこがアオマルの棲家のはず。急ぎましょう、花梨ちゃん。"
+                                "From here on lies the ruins of an old pleasure district\nbuilding. That should be Aomaru's dwelling. Let's hurry,\nKarin-chan."
                             ]
                         },
                         {
@@ -34806,7 +34673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ……　行きましょう、紅葉さん。"
+                                "Yes... Let's go, Momiji-san."
                             ]
                         },
                         {
@@ -34830,7 +34697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨と紅葉は墓に合掌して先へ進んだ。"
+                                "--Karin and Momiji offered a prayer to the graves and moved\non."
                             ]
                         },
                         {

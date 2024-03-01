@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "銭湯",
+    "displayName": "Public Bathhouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2308,14 +2308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（お金を払わないと怒られそうね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "番台の人に話しかけよう）"
+                                "(I'll probably get scolded if I don't pay... I should talk\nto the person at the counter.)"
                             ]
                         },
                         {
@@ -2527,14 +2520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（お金を払わないと怒られそうね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "番台の人に話しかけよう）"
+                                "(I'll probably get scolded if I don't pay... I should talk\nto the person at the reception desk.)"
                             ]
                         },
                         {
@@ -2774,14 +2760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの銭湯は初めてかい？　\\c[17]銭湯入浴券\\c[0]を買うかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１０００文で何回でも湯船に入れるからお薦めだよ。\\$"
+                                "Is this your first time at this bathhouse?\\c[17] Would you\nlike to buy a \\c[0]Bathhouse Admission Ticket? It's 1000 mon\nand you can use the bath as many times as you want, so I\nrecommend it.\\$"
                             ]
                         },
                         {
@@ -2789,8 +2768,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "銭湯入浴券を買う【１０００文】",
-                                    "買わない"
+                                    "Buy a Public Bath Entry Ticket【1000 mon】",
+                                    "Don't buy"
                                 ],
                                 1,
                                 0,
@@ -2857,28 +2836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この浅草の銭湯は江戸で一番評判がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "きっと気に入ってくれるはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "Thank you. This Asakusa bathhouse is the most popular in\nEdo. I'm sure you'll like it.\\$"
                             ]
                         },
                         {
@@ -2917,7 +2875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――\\c[17]銭湯入浴券\\c[0]を手に入れた！"
+                                "--\\c[17]You've obtained a \\c[0]Bathhouse Admission Ticket!"
                             ]
                         },
                         {
@@ -2958,7 +2916,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -2998,14 +2956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうかね。それは残念だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "風呂に入りたくなったらまた声をかけてくれ。"
+                                "Is that so? That's too bad. If you ever want to take a bath,\ncome and talk to me again."
                             ]
                         },
                         {
@@ -3097,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい。入浴券を持っているのなら中にどうぞ。"
+                                "Welcome. If you have a bath ticket, please come inside."
                             ]
                         },
                         {
@@ -3181,7 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風呂上がりの一杯は最高だねぇ。"
+                                "A drink after a bath is the best, isn't it?"
                             ]
                         },
                         {
@@ -3258,14 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風呂から上がった後に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休憩処の畳でごろ寝するのが好きなんだ。"
+                                "I love to take a nap on the tatami mats in the lounge after\ngetting out of the bath."
                             ]
                         },
                         {
@@ -3342,14 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お風呂の中で女性の体ばかり見るおっさんがいるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやらしい目つきでバレバレなのに……"
+                                "There's this old man in the bath who just stares at women's\nbodies. It's so obvious with that lecherous look in his\neyes..."
                             ]
                         },
                         {
@@ -3966,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（へへへ……　この娘、良い体してるなぁ……\\I[15]）"
+                                "(Hehehe... This girl has a nice body...\\I[15])"
                             ]
                         },
                         {
@@ -4690,7 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {

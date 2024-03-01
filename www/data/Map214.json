@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔谷　洞窟",
+    "displayName": "Fuma Valley Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -17935,7 +17935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20015,7 +20015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20321,7 +20321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【400 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -20628,7 +20628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -24547,7 +24547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -24854,7 +24854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬の香炉】\\c[0]手に入れた！"
+                                "--\\c[17]【Elixir Incense Burner】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -25161,7 +25161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Skill Power Sake】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -27028,7 +27028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -31372,7 +31372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【全員復活の太鼓】\\c[0]を手に入れた！"
+                                "--\\c[17]【Drum of Full Revival】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -31618,7 +31618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1500 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -37358,28 +37358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ぐおおおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Grrraaahhh!"
                             ]
                         },
                         {
@@ -37403,28 +37382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひあぁっ！？　岩が落ちてきた！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahh! Rocks are falling!?"
                             ]
                         },
                         {
@@ -37455,28 +37413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあぁッ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Waaahh--!?"
                             ]
                         },
                         {
@@ -37540,7 +37477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]――落石により全員３００のダメージを受けた！\\c[0]"
+                                "\\c[2]--The falling rocks dealt 300 damage to everyone!\\c[0]"
                             ]
                         },
                         {
@@ -37564,28 +37501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ゴバババッ。ココよりは通さヌ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らには惨めな死をくれてヤル。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Gobababat. You shall not pass here. I will grant you a\nmiserable death."
                             ]
                         },
                         {
@@ -37609,14 +37525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく、罠が多いのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風魔の人間はひどく用心深いのじゃな？"
+                                "Good grief, there are so many traps. The people of Fuma are\nterribly cautious, aren't they?"
                             ]
                         },
                         {
@@ -37640,14 +37549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忍びであれば当然の心得です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、ここまでとは……"
+                                "If you're a shinobi, caution is a given. But to this\nextent..."
                             ]
                         },
                         {
@@ -37671,28 +37573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突破しよう！　私たちの邪魔をするなら痛い目に遭うよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Let's break through! If you get in our way, you're in for a\nworld of pain!"
                             ]
                         },
                         {
@@ -37735,28 +37616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴババッ！　ココで死ネェ！　身の程知らずな人間ドモ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gobabat! Die right here! You overconfident humans!"
                             ]
                         },
                         {
@@ -37785,7 +37645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――精鋭屍食鬼たちが襲ってきた！"
+                                "--Elite corpse-eating ghouls have attacked!"
                             ]
                         },
                         {

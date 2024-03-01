@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "南の浜",
+    "displayName": "Southern Beach",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -7526,14 +7526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱい魚がいるなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かから【釣り竿】をもらえば、ここで魚が釣れるのに……"
+                                "There are so many fish... If only I could get a 【Fishing\nRod】 from someone, I could fish here..."
                             ]
                         },
                         {
@@ -7657,14 +7650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よーし、釣るぞ～！　（釣り餌　残り×\\V[57]）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【注　音に合わせてenter】"
+                                "Alright, let's fish! (Remaining bait ×\\V[57])【Press enter in\nsync with the sound cue】"
                             ]
                         },
                         {
@@ -7913,7 +7899,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "やった！　釣れた！"
+                                "Yes! I caught one!"
                             ]
                         },
                         {
@@ -8005,7 +7991,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……だめね。ちょっと遅かったみたい。"
+                                "...No good. Looks like I was a bit too late."
                             ]
                         },
                         {
@@ -8123,7 +8109,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "逃げちゃった。早かったかな……"
+                                "It got away. Was I too early...?"
                             ]
                         },
                         {
@@ -8198,14 +8184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれ、釣り餌がないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確か道具屋で売ってたわね。買ってこないと……"
+                                "Huh, I'm out of bait. I'm pretty sure the tool shop was\nselling some. I need to go buy some..."
                             ]
                         },
                         {
@@ -9044,7 +9023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 400 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -9291,7 +9270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【釣り餌】\\c[0]を１０個手に入れた！"
+                                "--\\c[17]【Fishing Bait】\\c[0]Gained 10 pieces!"
                             ]
                         },
                         {
@@ -9911,14 +9890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……！　女を抱きてぇなぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁッ――\\I[15]（シコシコ）"
+                                "Ugh...! I wanna hold a woman...! Hah, hah--\\I[15](jerking\noff)"
                             ]
                         },
                         {
@@ -9954,21 +9926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あの人、物陰でおちんちん、一人でしごいてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……見なかったことにしよう）"
+                                "----!! (That person is jerking off his dick behind\ncover!?... Let's pretend I didn't see that.)"
                             ]
                         },
                         {
@@ -10060,7 +10018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は見なかったことにして、そっと離れた……"
+                                "--Karin decided to pretend she hadn't seen anything and\nquietly walked away..."
                             ]
                         },
                         {
@@ -10151,14 +10109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ……！　淫乱な女、この島に来ないかなぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ、はぁッ――\\I[15]（シコシコ）"
+                                "Ugh...! Won't some lewd woman come to this island...? Hah,\nhah--\\I[15](jerking off)"
                             ]
                         },
                         {
@@ -10182,7 +10133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……あの人、まだ一人でしごいてる）"
+                                "(...That person is still masturbating alone.)"
                             ]
                         },
                         {
@@ -10218,21 +10169,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【流罪人】"
+                                "【Exile】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ハァ、ハァ……　この島に流されて３０年……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オラ、このまま女も抱けずに死んじまうのかなぁ……"
+                                "Hah, hah... I've been cast away on this island for 30\nyears... Am I going to die without ever holding a woman\nagain...?"
                             ]
                         },
                         {
@@ -10256,21 +10200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……あの…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "流罪にされてから、ずっとここで一人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自慰をしてたんですか？"
+                                "...Excuse me... Have you been masturbating alone here ever\nsince you were exiled?"
                             ]
                         },
                         {
@@ -10356,21 +10286,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【流罪人】"
+                                "【Exile】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ～～！　なんだ、お前！？　み、見せものじゃねぇだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オラのマスかき見て楽しいか！？　見んな！　あっち行け！"
+                                "Ugh~~! Who are you?! I-I'm not some spectacle! Do you enjoy\nwatching me jerk off?! Don't look! Go away!"
                             ]
                         },
                         {
@@ -10394,7 +10317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………（この人のおちんちん、凄く逞しい……\\I[15]）"
+                                "...(This person's dick is incredibly robust...\\I[15])"
                             ]
                         },
                         {
@@ -10402,8 +10325,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "男を誘惑する\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Seduce the man \\c[27][H Event]\\c[0]",
+                                    "Walk away"
                                 ],
                                 1,
                                 0,
@@ -10508,7 +10431,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]本番回数＋２　膣内射精＋２　淫乱度＋５\\c[0]"
+                                "\\c[27]Main event count +2, vaginal ejaculation +2, lewdness\n+5\\c[0]"
                             ]
                         },
                         {
@@ -10555,7 +10478,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――夕霧はどんびいている！"
+                                "--Yugiri is flabbergasted!"
                             ]
                         },
                         {
@@ -10598,7 +10521,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――紅葉は目をそらしている！"
+                                "--Momiji is looking away!"
                             ]
                         },
                         {
@@ -10641,7 +10564,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――真沙妃は目を輝かせている！"
+                                "--Masaki's eyes are sparkling!"
                             ]
                         },
                         {
@@ -10695,14 +10618,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ご、ごめんなさい！　その、悪気はなくて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お取込みの所、失礼しました……"
+                                "I'm sorry! I didn't mean any harm...! Excuse me for\ninterrupting..."
                             ]
                         },
                         {
@@ -10844,7 +10760,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は男に謝ってその場を離れた。"
+                                "--Karin apologized to the man and left the scene."
                             ]
                         },
                         {
@@ -10893,14 +10809,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ……！　淫乱な女、この島に来ないかなぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ、はぁッ――\\I[15]（シコシコ）"
+                                "Ugh...! Won't some lewd woman come to this island...? Hah,\nhah--\\I[15](jerking off)"
                             ]
                         },
                         {
@@ -10936,21 +10845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あの人、まだ一人でしごいてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……見なかったことにしよう）"
+                                "----!! (That person is still masturbating alone!?... I'll\npretend I didn't see anything.)"
                             ]
                         },
                         {
@@ -11070,7 +10965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は見なかったことにして、そっと離れた……"
+                                "--Karin decided to pretend she didn't see anything and\nquietly walked away..."
                             ]
                         },
                         {
@@ -11157,28 +11052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……アンタ、島から脱走した娘だったんだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オラ、ずっと一人ここでマスをかいてたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで知らなかっただよ。ははっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抱かせてくれてありがとな。"
+                                "...So you're the girl who escaped from the island? I've been\nhere fishing alone all this time, so I had no idea. Haha♪\nThanks for letting me hold you."
                             ]
                         },
                         {
@@ -12391,7 +12265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――夕霧はどんびいている！"
+                                "--Yugiri is flustered!"
                             ]
                         },
                         {
@@ -12434,7 +12308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――紅葉は目をそらしている！"
+                                "--Momiji is looking away!"
                             ]
                         },
                         {
@@ -12477,7 +12351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――真沙妃は目を輝かせている！"
+                                "--Masaki's eyes are sparkling!"
                             ]
                         },
                         {

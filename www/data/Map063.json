@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "海岸洞窟　地下",
+    "displayName": "Coastal Cave Basement",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -15198,7 +15198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15565,7 +15565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15872,7 +15872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -16331,7 +16331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -16578,7 +16578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -16825,7 +16825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【奇貨】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired \\c[0]Rare Item!"
                             ]
                         },
                         {
@@ -17072,7 +17072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17943,7 +17943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18550,7 +18550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18856,7 +18856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【400 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -21743,7 +21743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【全員復活の太鼓】\\c[0]を手に入れた！"
+                                "--\\c[17]【Drum of Full Revival】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -22709,7 +22709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -22955,7 +22955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 mon!\\c[0]"
                             ]
                         },
                         {
@@ -23201,7 +23201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -23784,7 +23784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -24030,7 +24030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -24276,7 +24276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -24522,7 +24522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -31731,28 +31731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルルルッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Grrrrr!"
                             ]
                         },
                         {
@@ -31776,28 +31755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　水面から怪物が！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? A monster emerges from the water!?"
                             ]
                         },
                         {
@@ -31821,7 +31779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは……！　水竜です！　水を操る強敵です！"
+                                "That is...! A water dragon! A formidable enemy that controls\nwater!"
                             ]
                         },
                         {
@@ -31845,14 +31803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ！　我らの船を通してくれぬようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進むにはこいつらを倒すしかないみたいだな。"
+                                "Tch! It seems they won't let our ship pass. We have no\nchoice but to defeat them to move forward."
                             ]
                         },
                         {
@@ -31902,28 +31853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガオオオオォン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "GROOOOAR!!"
                             ]
                         },
                         {
@@ -31940,7 +31870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――水竜たちが襲ってきた！"
+                                "--The water dragons are attacking!"
                             ]
                         },
                         {
@@ -33160,14 +33090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注】船をクリックすると船に乗れます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また陸地をクリックすると船から降ります。"
+                                "Note: Click on the boat to board it. Click on land to\ndisembark from the boat."
                             ]
                         },
                         {
@@ -33251,28 +33174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　これは……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! What is this...?"
                             ]
                         },
                         {
@@ -33296,28 +33198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "驚いた。洞窟の中に小舟があるな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm surprised. Is that a small boat inside the cave?"
                             ]
                         },
                         {
@@ -33341,28 +33222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "渡りに船ね！　さっそく乗りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで先に進めるわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "A godsend indeed! Let's get on it right away. This will let\nus move forward♪"
                             ]
                         },
                         {
@@ -33386,28 +33246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや、ちょっとまて花梨！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにもおあつらえ過ぎる。敵の罠かもしれないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乗る前に船を調べさせてもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hold on a second, Karin! It's a little too convenient. It\nmight be an enemy trap? Let me check the boat before we\nboard."
                             ]
                         },
                         {
@@ -33431,28 +33270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ガサガサガサ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rustle Rustle Rustle...>"
                             ]
                         },
                         {
@@ -33476,14 +33294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――？　何かしら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらに近づいてくる足音が……？"
+                                "--? What's that...? Footsteps approaching us...?"
                             ]
                         },
                         {
@@ -33542,28 +33353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カニカニカニ～～～～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Crab Crab Crab~~~!"
                             ]
                         },
                         {
@@ -33641,28 +33431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわああぁ！？　大量の地獄ガニが沸いてきた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Whoaahh!? A swarm of hell crabs has emerged!"
                             ]
                         },
                         {
@@ -33686,14 +33455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそっ！　あのような大量の敵、相手したら骨が折れる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いで小船に乗り込むぞ！　紅葉殿！　こちらに急いで！"
+                                "Damn it! With so many enemies, it'll be tough to handle\nthem! Hurry, let's get on the boat! Momiji-dono! Come\nquickly!"
                             ]
                         },
                         {
@@ -33717,28 +33479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいっ、夕霧さん――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, Yugiri-san--!"
                             ]
                         },
                         {
@@ -33819,14 +33560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨たちは慌てながら小舟に乗り込んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（岸にクリックで乗降）"
+                                "--Karin and the others hurriedly boarded the small boat!\n(Click on the shore to embark/disembark)"
                             ]
                         },
                         {

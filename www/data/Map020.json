@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "山賊砦",
+    "displayName": "Bandit Fortress",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -17742,7 +17742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -17989,7 +17989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18236,7 +18236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -18483,7 +18483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -18729,7 +18729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【350 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -18976,7 +18976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19223,7 +19223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Swiftness】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -19770,7 +19770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Fortitude】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -26308,7 +26308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -26555,7 +26555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] has been\nobtained!"
                             ]
                         },
                         {
@@ -30195,7 +30195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 mon!\\c[0]"
                             ]
                         },
                         {
@@ -30452,7 +30452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【雷切】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained 【Raikiri】!\\c[0]"
                             ]
                         },
                         {
@@ -30951,7 +30951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -31198,7 +31198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【奇貨】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired the 【Rare Item】!\\c[0]"
                             ]
                         },
                         {
@@ -31444,7 +31444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -31690,7 +31690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 mon!\\c[0]"
                             ]
                         },
                         {
@@ -32365,14 +32365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん？　この鎧人形、怪しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして何か仕掛けが……"
+                                "Hmm? This armored figure looks suspicious. Could there be\nsome sort of mechanism..."
                             ]
                         },
                         {
@@ -32425,7 +32418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨が仕掛けを動かすと山賊砦の全ての扉が開いた！"
+                                "--When Karin activated the mechanism, all the doors in the\nbandit fortress opened!"
                             ]
                         },
                         {

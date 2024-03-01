@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "タコ洞窟",
+    "displayName": "Octopus Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -10361,7 +10361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -10496,7 +10496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！　この先に何か気配が感じられるわ……"
+                                "...! I can sense something up ahead..."
                             ]
                         },
                         {
@@ -10520,21 +10520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -10570,14 +10556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　にょろっ――　にょろろ……　＞"
+                                "<Slithering--slither...>"
                             ]
                         },
                         {
@@ -10608,7 +10587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふえっ！？　ななっ……！"
+                                "Eek!? Wha-...!"
                             ]
                         },
                         {
@@ -10632,21 +10611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -10670,14 +10635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人……じゃなかったよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん、怖いけど、この洞窟の中を調べてみるか……"
+                                "It wasn't a person, was it? Hmm, it's scary, but should I\ncheck inside this cave..."
                             ]
                         },
                         {

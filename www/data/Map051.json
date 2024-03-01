@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "幽霊屋敷",
+    "displayName": "Haunted Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8669,7 +8669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained \\c[0]600 mon!"
                             ]
                         },
                         {
@@ -10355,7 +10355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 mon!\\c[0]"
                             ]
                         },
                         {
@@ -11989,7 +11989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -16736,7 +16736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16983,7 +16983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17302,7 +17302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17549,7 +17549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -17857,7 +17857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【首切り小太刀】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained the 【Beheading Kodachi】!\\c[0]"
                             ]
                         },
                         {
@@ -18104,7 +18104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Resurrection Bell】\\c[0] acquired!"
                             ]
                         },
                         {

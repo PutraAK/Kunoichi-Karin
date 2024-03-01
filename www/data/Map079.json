@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "秘薬屋",
+    "displayName": "Secret Potion Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2837,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 400 mon!\\c[0]"
                             ]
                         },
                         {
@@ -3094,14 +3094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぇっふぇっふぇっ……　ようこそ秘薬屋へ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "娘さんが欲しい品物はどちらですかね？"
+                                "Hehehe... Welcome to the secret potion shop\\I[15] What item\nwould you like, young lady?"
                             ]
                         },
                         {
@@ -3149,14 +3142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます。またのご来店を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふぇっふぇっふぇっ\\I[15]"
+                                "Thank you very much. We look forward to your next visit.\nHehehe\\I[15]"
                             ]
                         },
                         {
@@ -3183,21 +3169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お嬢さん、ここは大人用の店です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴方はまだ未通女でしょう？　男を知ってから来なさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その時は歓迎しますよ。ふぇっふぇっふぇっ\\I[15]"
+                                "Miss, this is a shop for adults. You're still a maiden,\naren't you? Come back after you've known a man. Then, you'll\nbe welcome. Hehehe\\I[15]"
                             ]
                         },
                         {
@@ -3275,14 +3247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぇっふぇっふぇっ……　ようこそ秘薬屋へ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘さんが欲しい品物はどちらですかね？"
+                                "Hehehe... Welcome to the secret potion shop\\I[15] What is it\nthat you desire, young lady?"
                             ]
                         },
                         {
@@ -3330,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます。またのご来店を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぇっふぇっふぇっ\\I[15]"
+                                "Thank you very much. We look forward to your next visit.\nHehehe\\I[15]"
                             ]
                         },
                         {

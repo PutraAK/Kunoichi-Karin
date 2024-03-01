@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "タコ洞窟　敵将の間",
+    "displayName": "Octopus Cave - Enemy General's Chamber",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5628,14 +5628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴ――！！　＞"
+                                "---Rumble Rumble Rumble--!!"
                             ]
                         },
                         {
@@ -5659,14 +5652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ――！？　なに、このタコ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でかすぎるッ……！？"
+                                "Whoa--!? What's with this octopus!? It's huge...!?"
                             ]
                         },
                         {
@@ -5690,7 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――ぎゅるるるっ！！"
+                                "----Gyurururu!!"
                             ]
                         },
                         {
@@ -5714,28 +5700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう……！　こんな大きなタコ初めて見たわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　動物園に連れて行ったら、めちゃくちゃ高く売れるかも♪）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(What should I do...! I've never seen such a big octopus\nbefore. If I took it to a zoo, it might sell for a lot♪)"
                             ]
                         },
                         {
@@ -5771,14 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　びゆっ――！　ドカカッ――！！＞"
+                                "---Squish--! Thud Thud--!!"
                             ]
                         },
                         {
@@ -5809,28 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃああぁ！　い、痛い！　触手が攻撃してきた！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Aaahh! Ouch! The tentacles are attacking me!?"
                             ]
                         },
                         {
@@ -5854,7 +5791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふしゅる……！　ギュルルッ！"
+                                "Fushuru...! Gyururu!"
                             ]
                         },
                         {
@@ -5878,21 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しょうがない。ここは倒すしかないみたいね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻撃してくるっていうのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "切り刻んで酢ダコにしてあげるわ！"
+                                "Can't be helped. Looks like I have to defeat it! If it's\ncoming at me, I'll chop it up and turn it into vinegar\noctopus!"
                             ]
                         },
                         {
@@ -5942,28 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニュルルルルッ――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nyururururu--!!"
                             ]
                         },
                         {
@@ -5992,7 +5894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――お化けダコと触手が襲ってきた！"
+                                "--The ghost octopus and its tentacles are attacking!"
                             ]
                         },
                         {
@@ -6079,28 +5981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これでトドメよ！　やああぁっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "This is the end for you! Take this!!"
                             ]
                         },
                         {
@@ -6133,28 +6014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ザンッ！　ザザンッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "---Slash! Slash Slash--!!"
                             ]
                         },
                         {
@@ -6194,28 +6054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――ぴゅぎらああぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Pyugiraaa!"
                             ]
                         },
                         {
@@ -6239,28 +6078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やった！　触手を切り刻んだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お父ちゃんから習った私の剣技、伊達じゃないわよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I did it! I chopped up the tentacles! The sword skills I\nlearned from my father aren't just for show!"
                             ]
                         },
                         {
@@ -6351,28 +6169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "にゅるるるるるるッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nyururururururu--!"
                             ]
                         },
                         {
@@ -6403,28 +6200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！？　うそ！？　触手が再生した！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--!? No way!? The tentacles regenerated!?"
                             ]
                         },
                         {
@@ -6457,28 +6233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ダダダダッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "---Dadadada--!"
                             ]
                         },
                         {
@@ -6502,28 +6257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オイオイオイ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "地響きが洞窟のほうからしたから来てみれば……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hey hey hey...! I heard a rumbling from the cave, so I came\nto check it out...!?"
                             ]
                         },
                         {
@@ -6547,28 +6281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんじゃい！　花梨、お前何と戦っておるんじゃ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このデカい化け物、もしかしてタコか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What the heck!? Karin, what are you fighting? This huge\nmonster, could it be an octopus!?"
                             ]
                         },
                         {
@@ -6592,28 +6305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――えっ！？　タコなんですか？　この大きいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Eh!? An octopus, this big one?"
                             ]
                         },
                         {
@@ -6658,28 +6350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゅるるっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gyururu!!"
                             ]
                         },
                         {
@@ -6762,28 +6433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "みんな！　来ちゃダメ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このタコ、脚が再生するから倒せないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Everyone, don't come any closer! This octopus can regenerate\nits legs, we can't defeat it!"
                             ]
                         },
                         {
@@ -6807,28 +6457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだって！　花梨さんでも倒せないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ逃げるしかねぇじゃねぇか！　早くこっちへ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What did you say!? Even Karin-san can't defeat it? Then we\nhave no choice but to run! Hurry over here!"
                             ]
                         },
                         {
@@ -6852,28 +6481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　しゅるしゅるしゅる……！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "---Shurushurushuru...!"
                             ]
                         },
                         {
@@ -7051,14 +6659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やあっ！？　触手が全身に絡まって……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "に……逃げられない……！"
+                                "No! The tentacles are wrapping around my whole body...! I...\ncan't escape...!"
                             ]
                         },
                         {
@@ -7082,28 +6683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨さん……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin-san...!?"
                             ]
                         },
                         {
@@ -7127,28 +6707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐっ、ググググッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Guh, Gggggg--!"
                             ]
                         },
                         {
@@ -7179,7 +6738,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ！？　うあぁ……あぁッ！！　は、放してぇ！"
+                                "~~~~~!? Aaah... Ahhh!! Let me go!"
                             ]
                         },
                         {
@@ -7217,28 +6776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いけねぇ！　タコの奴、海面に潜る気だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このままじゃ海の中に花梨さんが連れ込まれちまう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Damn it! That octopus bastard is trying to dive underwater!\nIf this continues, Karin-san will be dragged into the sea!"
                             ]
                         },
                         {
@@ -7262,28 +6800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～っ！（凄い力……！　抜け出せない……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~~~! (Such incredible strength...! I can't break free...!)"
                             ]
                         },
                         {
@@ -7307,21 +6824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -7420,21 +6923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -7458,28 +6947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クックック……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kukukuku..."
                             ]
                         },
                         {
@@ -7503,28 +6971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　黒曜天狗さん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! Kokuyou Tengu-san?"
                             ]
                         },
                         {
@@ -7548,28 +6995,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "愉快愉快……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨よ。お主の快進撃もここまでみたいじゃの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Joyous joyous... Karin. It seems your triumphant march ends\nhere, doesn't it?"
                             ]
                         },
                         {
@@ -7593,28 +7019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うっ……　何よ、笑って……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなた、私のせいで流罪になったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり心の中では私のこと恨んでいたのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmph... What are you laughing at...? You blame me for being\nexiled, don't you? You must still hold a grudge against me\nin your heart."
                             ]
                         },
                         {
@@ -7638,28 +7043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうじゃな……　再会した時は確かにそうであった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃが……　島での暮らしと、この逃避行で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我らは不思議な縁で繋がった気がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あのまま教団にいたら知ることが無かったものじゃ――"
+                                "That's not it... When we first met again, that was certainly\nthe case. However... Living on that island and this escape\nhave made me feel a strange connection with you all. If I\nhad stayed with the cult, I would never have known such\nthings--"
                             ]
                         },
                         {
@@ -7683,28 +7067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　格好つけてないで早く逃げなさいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が囮になっている間に、船に乗ってこの島から逃げて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! Stop showing off and run away already! While I'm acting\nas a decoy, get on the ship and escape from this island!"
                             ]
                         },
                         {
@@ -7740,28 +7103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "逃げるのは容易いが――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……別にこのタコを操っても構わないじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Escaping would be easy but--... It wouldn't be a problem to\ncontrol this octopus, would it?"
                             ]
                         },
                         {
@@ -7785,28 +7127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ――！？　ま、まさか……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Eh--!? No, no way...!?"
                             ]
                         },
                         {
@@ -7842,28 +7163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お主と約束したのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「二度と人間に術をかけないこと――」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タコは軟体動物！　人でないなら問題はないよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "The promise I made with you was 'never to cast spells on\nhumans again'-- but an octopus is a mollusk! If it's not\nhuman, there's no problem, right?"
                             ]
                         },
                         {
@@ -7887,7 +7187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――！！　まさか、このタコに……！"
+                                "----!! You can't mean... this octopus...!"
                             ]
                         },
                         {
@@ -7925,28 +7225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グガガガッ――！　ぎゅるるるるるる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gugagaga--! Gyurururururu!!"
                             ]
                         },
                         {
@@ -7977,28 +7256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いけない！　天狗さんに触手が――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No good! The tentacles are reaching for Kokuyou Tengu-san--!"
                             ]
                         },
                         {
@@ -8022,28 +7280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "逃げろ！　花梨さんと共に海へ連れ去られるぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Run! You'll be taken away to the sea along with Karin-san!"
                             ]
                         },
                         {
@@ -8086,28 +7323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お化けダコよ――　我が人生を賭けて身に着けた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "渾身の術をくらえいッ！　むううぅ～～～～ンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "You ghostly octopus-- take this, the culmination of the\ntechniques I've honed betting my life! Muuuuunnn!!"
                             ]
                         },
                         {
@@ -8143,28 +7359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～～～～～～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~~~~~~~~~~~~~~!!"
                             ]
                         },
                         {
@@ -8218,28 +7413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――黒曜天狗はお化けダコに催眠術を仕掛けた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Kokuyou Tengu has cast a hypnotic spell on the ghostly\noctopus!"
                             ]
                         },
                         {
@@ -8263,21 +7437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -8327,28 +7487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8391,7 +7530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -8422,7 +7561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "狂暴だった……タコが……！？"
+                                "The once ferocious... octopus...!?"
                             ]
                         },
                         {
@@ -8446,7 +7585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "急におとなしくなったぞ……？　こりゃ一体？"
+                                "It suddenly became docile...? What's going on?"
                             ]
                         },
                         {
@@ -8477,7 +7616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………………………………"
+                                "..."
                             ]
                         },
                         {
@@ -8501,28 +7640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――えっ？　触手が私の身体をまさぐって……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そ、そこは……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Eh? The tentacles are caressing my body...! That place\nis...!?"
                             ]
                         },
                         {
@@ -8570,28 +7688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　こちょこちょ……！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Tickle tickle...!>"
                             ]
                         },
                         {
@@ -8622,28 +7719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――やあぁッ！　アハハハっ！　足の裏をくすぐらないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひぃ！　く、くすぐったい！　ひいいぃっ～～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Yaaah! Ahahaha! Don't tickle the soles of my feet! Eee!\nIt's ticklish! Eeeeek~~~!!"
                             ]
                         },
                         {
@@ -8667,28 +7743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "にょほほ！　ワシの教団を潰した仕返しじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少しの間、くすぐりの刑を堪能するといいわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nyohoho! This is payback for destroying my cult. Enjoy a\nlittle tickle torture for a while♪"
                             ]
                         },
                         {
@@ -8724,14 +7779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　こちょこちょ！　　こちょこちょ……！　＞"
+                                "<Tickle tickle! Tickle tickle...!>"
                             ]
                         },
                         {
@@ -8755,7 +7803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あひゃひゃ！　や、やめてぇ！　いひひっ♪　あははっ！"
+                                "Ahyahya! Stop it! Ehehe♪ Ahaha!"
                             ]
                         },
                         {
@@ -8800,28 +7848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　マジかよ、すげぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "黒曜天狗の旦那、お化けダコを操っちまった……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり只物じゃなかったんだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! Seriously, that's amazing! Lord Kokuyou Tengu, you've\nmanaged to control the ghostly octopus...! You really are no\nordinary being, huh?"
                             ]
                         },
                         {
@@ -8845,21 +7872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "良かった。とにかく助かりましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっかく苦労して島から脱出できたのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タコに食べられちゃたら、成仏もできないところでした。"
+                                "That's great. Anyway, we're saved. It would have been a\nshame to be eaten by an octopus after all the trouble of\nescaping from the island."
                             ]
                         },
                         {
@@ -8902,28 +7915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　こちょこちょ――　こちょこちょ！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Tickle tickle--tickle tickle!>"
                             ]
                         },
                         {
@@ -8947,28 +7939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アハハハ！　ひぃ！　もう許してぇ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahahaha! Eee! Please forgive me...!"
                             ]
                         },
                         {
@@ -9006,21 +7977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、花梨への仕返しはこんなもんじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "加減してやったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さてこのタコ助、どうしたものか――"
+                                "Well, that's enough revenge on Karin for now. I went easy on\nher. Now, what to do with this helpful octopus--"
                             ]
                         },
                         {
@@ -9044,21 +8001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "壊れた船の代わりにできないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これだけデカけりゃ背中に乗って海を渡れるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "非常食にもなるし。"
+                                "Can't it replace the broken ship? If it's this big, we can\nride on its back across the sea. It can also serve as\nemergency food."
                             ]
                         },
                         {
@@ -9082,28 +8025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ。良い案じゃの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "傷んで座礁した船を使うより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このタコに乗って行くのも一興じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hmm. That's a good idea. It would be more interesting to\nride this octopus than to use a damaged and stranded ship."
                             ]
                         },
                         {
@@ -9127,7 +8049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……もう、どうにでもしてぇ…………（グテッ）"
+                                "...Just do whatever you want with me... (Collapses)"
                             ]
                         },
                         {
@@ -9168,14 +8090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――こうして、味方にしたお化けダコを船代わりにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨たちは江戸へ向かって北上した。"
+                                "--And so, with the ghostly octopus turned ally serving as\ntheir ship, Karin and her companions headed north towards\nEdo."
                             ]
                         },
                         {
@@ -9344,21 +8259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -9375,7 +8276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――三日後――――"
+                                "----Three days later----"
                             ]
                         },
                         {
@@ -9392,21 +8293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -9513,28 +8400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ザバアアァン！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Splashhhhh!>"
                             ]
                         },
                         {
@@ -9558,28 +8424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ！　はぁ……！　また暴風雨に巻き込まれちゃった……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Phew! Haah...! We got caught in another storm...!"
                             ]
                         },
                         {
@@ -9603,28 +8448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "体が……寒い……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm so cold..."
                             ]
                         },
                         {
@@ -9648,28 +8472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もう少しの辛抱だ、二人とも！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遠くに陸が見えた！　灯りも見える！　無人島じゃないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Just a little longer, both of you! I can see land in the\ndistance! There are lights too! It's not an uninhabited\nisland!"
                             ]
                         },
                         {
@@ -9693,28 +8496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "にゅにゅにゅっ……！　ぎゅるる……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Nyunyunyu...! Gyururu...!"
                             ]
                         },
                         {
@@ -9738,21 +8520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええい！　根性を見せろ、タコ助！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あとちょっとで本土に到着できるのじゃ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少しだけ踏ん張れ！　"
+                                "Come on! Show some spirit, Octopus Helper! We're almost at\nthe mainland... Just a little more perseverance!"
                             ]
                         },
                         {
@@ -9891,28 +8659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶくぶくぶく……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Bubble bubble bubble..."
                             ]
                         },
                         {
@@ -9943,28 +8690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うああぁ！？　お化けダコが沈んでいく……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Uwaaah!? The ghostly octopus is sinking...!?"
                             ]
                         },
                         {
@@ -9988,28 +8714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お化けダコさんも限界が来たみたいですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たち、どうしたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "It seems even the ghostly octopus has reached its limit...\nWhat should we do now..."
                             ]
                         },
                         {
@@ -10033,28 +8738,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こりゃマジでやばいな！　みんな泳ぎは心得があるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タコが沈んだら、自力で陸まで泳ぎ切るぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "This is seriously bad! Does everyone know how to swim? If\nthe octopus sinks, we'll have to swim to shore on our own\nstrength!"
                             ]
                         },
                         {
@@ -10078,28 +8762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……っ！　江戸の目の前まで来たのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死ぬわけにはいかないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "覚悟を決めて泳ぎ切りましょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...! I refuse to die when we're this close to Edo! Let's\nresolve ourselves and swim the rest of the way!"
                             ]
                         },
                         {
@@ -10123,28 +8786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "皆、死ぬなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ええい！　南無三――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Everyone, don't die on me! Ei! Namu san--!"
                             ]
                         },
                         {
@@ -10221,28 +8863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ドボン……！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Splash...!!>"
                             ]
                         },
                         {
@@ -10259,28 +8880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10297,28 +8897,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がぼっ……！　がぼ、がぼっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Gah...! Gah, gah...!"
                             ]
                         },
                         {
@@ -10335,28 +8921,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【華蝶】"
+                                "【Kachou】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　花梨さん……！　泳げなかったの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! Karin-san...! You can't swim!?"
                             ]
                         },
                         {
@@ -10385,28 +8957,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ごめんなさい…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたし……もう……　体力が…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...I'm sorry... I... just don't have... the strength\nanymore..."
                             ]
                         },
                         {
@@ -10423,28 +8981,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【黒曜天狗】"
+                                "【Kokuyou Tengu】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しっかりせい、花梨――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あと少しで江戸じゃ！　ここで死んだら死にきれぬぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Pull yourself together, Karin--! We're almost at Edo! It\nwould be a shame to die here!"
                             ]
                         },
                         {
@@ -10461,28 +9005,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【嬉三郎】"
+                                "【Kisanosuke】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "俺につかまれ！　さぁ、早く！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hold on to me! Come on, quickly!"
                             ]
                         },
                         {
@@ -10518,28 +9048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ゴボッ！　ごぼぼぼ……っ！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Gurgle! Gurgle gurgle...!"
                             ]
                         },
                         {
@@ -10563,28 +9072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（深い……水の中に沈んでいく……　この感覚……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　遠い昔……　どこかで…………）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...(Deep... sinking into the water... this sensation... a\ndistant memory... from somewhere before...)"
                             ]
                         },
                         {
@@ -10619,28 +9107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10748,28 +9215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -10786,14 +9232,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【呼凛】"
+                                "【Korin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "死んではなりません！　三人で生き残りましょう――！"
+                                "You must not die! Let's survive this together, all three of\nus--!"
                             ]
                         },
                         {
@@ -10810,14 +9256,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【中太郎】"
+                                "【Nakatarou】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――呼凛！　無茶をするなッ！"
+                                "--Korin! Don't do anything reckless!"
                             ]
                         },
                         {
@@ -10834,28 +9280,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわああぁ～～ん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Uwaaaahhh~~n!!"
                             ]
                         },
                         {
@@ -10872,7 +9304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "凍えるような冷たい水の中で――――"
+                                "In the freezing cold water----"
                             ]
                         },
                         {
@@ -10889,21 +9321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -11835,7 +10253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――体力と技力が\\c[24]全回復\\c[0]した！"
+                                "--Stamina and skill power have been \\c[24]fully\nrestored\\c[0]!"
                             ]
                         },
                         {
@@ -12277,7 +10695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 mon!\\c[0]"
                             ]
                         },
                         {

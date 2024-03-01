@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "木賃宿",
+    "displayName": "Wooden Lodging Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2417,7 +2417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 150 mon!\\c[0]"
                             ]
                         },
                         {
@@ -2972,28 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんだか、辛気臭い宿だなぁ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Somehow, this inn feels so gloomy...)"
                             ]
                         },
                         {
@@ -3017,7 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや？　見慣れない娘さんですね。もしや……"
+                                "...Oh? Are you a girl I haven't seen around here before?\nCould it be..."
                             ]
                         },
                         {
@@ -3041,14 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと、旅人です。お伊勢参りに行く途中で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらは宿屋ですか？"
+                                "Um, I'm a traveler. I'm on my way to visit Ise Shrine... Is\nthis an inn?"
                             ]
                         },
                         {
@@ -3072,21 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、旅のお方ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようこそ、巣裸無村の木賃宿へ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たった１０文で泊まれますが、ご宿泊されますか？"
+                                "Oh, a traveler, are you? Welcome to the wooden lodging of\nSuranamu Village! It's only 10 mon to stay, will you be\nlodging with us?"
                             ]
                         },
                         {
@@ -3110,28 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？　１０文！？　そんなに安いんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh? 10 mon!? Is it really that cheap?"
                             ]
                         },
                         {
@@ -3155,21 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁい。治安の悪いこの村で野宿などしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とってもとっても危ないですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにせ山賊がすぐ近くに拠点を構えてますし……"
+                                "Yes. It's very dangerous to camp outside in this village\nwith such poor public order. After all, bandits have their\nbase nearby..."
                             ]
                         },
                         {
@@ -3193,7 +3116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに……そうですね……"
+                                "Indeed... That's true..."
                             ]
                         },
                         {
@@ -3217,21 +3140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人さらいも多いですし関東一治安の悪い場所です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女性が野宿なんてとんでもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この宿に泊まることをお勧めしますよ。フヒヒヒ……"
+                                "There are many kidnappers, and it's the most dangerous place\nin Kanto. It's unthinkable for a woman to sleep outside. I\nrecommend you stay at this inn. Fufufu..."
                             ]
                         },
                         {
@@ -3255,7 +3164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう……　この宿に泊まろうかしら……）"
+                                "(What should I do... Should I stay at this inn...)"
                             ]
                         },
                         {
@@ -3263,8 +3172,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "木賃宿に泊まる\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Stay at the wooden lodging \\c[27][H Event]\\c[0]",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -3301,28 +3210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうですね。じゃあこちらに一晩お世話になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "That's right. Then, I'll take care of myself here for one\nnight."
                             ]
                         },
                         {
@@ -3346,28 +3234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほほぅ！　ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ではこちらへどうぞ～　お夜食のお茶漬けもご用意します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ho-ho! Thank you very much! Then please come this way~ We'll\nalso prepare some ochazuke for a late-night snack."
                             ]
                         },
                         {
@@ -3391,28 +3258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夕飯出るんですね？　良かった\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私、お茶漬け好きなんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "You serve dinner too? That's great\\I[15]I love ochazuke!"
                             ]
                         },
                         {
@@ -3436,28 +3282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ささ……　こちらにどうぞ～　フヒヒ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Come, come... this way~ Fufufu..."
                             ]
                         },
                         {
@@ -3481,7 +3306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――宿の主人は花梨を宿の中に案内した。"
+                                "--The innkeeper led Karin inside the inn."
                             ]
                         },
                         {
@@ -3550,7 +3375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１　淫乱度＋１\\c[0]"
+                                "\\c[27]Main performance count +1, vaginal ejaculation +1, lewdness\n+1\\c[0]"
                             ]
                         },
                         {
@@ -3681,7 +3506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ごめんなさい。今回は遠慮させて頂きます。"
+                                "...I'm sorry. I'll have to decline this time."
                             ]
                         },
                         {
@@ -3784,14 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　また泊まりに来られたんですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大歓迎しますよ！"
+                                "Oh! Are you staying with us again!? You're more than\nwelcome!"
                             ]
                         },
                         {
@@ -3815,14 +3633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、帰ります…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この宿は危ない。まだ野宿したほうがましだわ……）"
+                                "No, I'm heading back... (This inn is dangerous. It's still\nbetter to camp outside...)"
                             ]
                         },
                         {

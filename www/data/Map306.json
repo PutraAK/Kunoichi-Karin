@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "謎の施設",
+    "displayName": "Mysterious Facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7212,7 +7212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -7901,7 +7901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[255]\\I[252]\\I[253]\\I[254]……？"
+                                "\\I[255]\\I[252]\\I[253]\\I[254]...?"
                             ]
                         },
                         {
@@ -8123,7 +8123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\I[250]\\I[249]\\I[248]――！？　\\I[252]\\I[251]\\I[254]\\I[255]\\I[253]？"
+                                "\\I[250]\\I[249]\\I[248]--！?\\I[252]\\I[251]\\I[254]\\I[255]\\I[253]?"
                             ]
                         },
                         {
@@ -12003,28 +12003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どうしたことだ？　なぜこの星の住民がここにいるのだ？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? (What's going on? Why is a native of this planet here?)"
                             ]
                         },
                         {
@@ -12048,28 +12027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（わからない。まさか宇宙船の格納庫まで来るとは！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(I don't know. To think they'd come all the way to the\nspaceship's hangar!)"
                             ]
                         },
                         {
@@ -12093,14 +12051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうする？　コミュニケーションを試すか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかし母星の許可を得てないぞ？）"
+                                "(What should we do? Should we try to communicate? But we\ndon't have permission from our home planet!)"
                             ]
                         },
                         {
@@ -12143,28 +12094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その姿……　アンタたち、河童ね！？　ねぇ、河童でしょ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗んだキュウリ、置いていきなさいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ、河童でしょ、アンタたち！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You... You're kappa, aren't you!? Hey, you're kappa, right!?\nLeave the cucumbers you stole and go away! Hey, you're\nkappa, aren't you guys!?"
                             ]
                         },
                         {
@@ -12188,28 +12118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……カッパ？　違う。我々は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カーツパール星から来た探索隊だ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(...Kappa? No, we are an exploration team from the planet\nKatsupar.)"
                             ]
                         },
                         {
@@ -12233,14 +12142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この太陽系第三惑星に逃げた危険生物を探している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この星の霊長類の娘よ。キミは見たことはないかね？）"
+                                "(We are searching for a dangerous creature that escaped to\nthe third planet of this solar system. Young primate girl of\nthis planet, have you seen it?)"
                             ]
                         },
                         {
@@ -12289,14 +12191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "..."
                             ]
                         },
                         {
@@ -12320,28 +12215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この生物は危険度Sに設定されている害獣でね――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死した後、食べられた生物の胃で細胞を活性化させ生き返り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その生物の身体に宿り続けて生存するといったとんでもない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再生力を持つ恐ろしい有機体なのだ。見たことはないかね？"
+                                "This creature is classified as a danger level S pest--after\ndying, it activates its cells in the stomach of the creature\nthat ate it, reviving and continuing to live within the body\nof that creature. It has an incredible regenerative ability.\nHave you seen it?)"
                             ]
                         },
                         {
@@ -12372,14 +12246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、何を言ってるのか、さっぱりわからないわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしよう……　とりあえず暗いから松明をつけよう。"
+                                "Um, I have no idea what you're talking about... What should\nI do... For now, it's dark, so I'll light a torch."
                             ]
                         },
                         {
@@ -12415,28 +12282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は松明をつけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Karin lit a torch."
                             ]
                         },
                         {
@@ -12460,14 +12306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あっ！？　やめたまえ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　基地内で火をつかってはならん！）"
+                                "(Ah!? Stop that--! You must not use fire inside the base!)"
                             ]
                         },
                         {
@@ -12491,7 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ――？"
+                                "Eh--?"
                             ]
                         },
                         {
@@ -12527,28 +12366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【機械音声】"
+                                "【Mechanical Voice】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジリリリリ！　高熱検知！　安全のため水を放射シマス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Zzzzzzt! High heat detected! Releasing water for safety!"
                             ]
                         },
                         {
@@ -12600,28 +12425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ジャジャジャ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Splash Splash Splash--!>"
                             ]
                         },
                         {
@@ -12664,28 +12468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃああぁっ！　水が天井から噴き出してきた！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaahh! Water is spraying from the ceiling!?"
                             ]
                         },
                         {
@@ -12709,28 +12492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（それはスプリンクラーというものだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　安心して欲しい。我ら探索隊は原住民を攻撃する気はない）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(That's called a sprinkler! Rest assured, we explorers have\nno intention of attacking the natives.)"
                             ]
                         },
                         {
@@ -12761,28 +12523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ！　水で攻撃してくるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりアンタたち、間違いなく河童ね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪い河童は懲らしめてやるんだから……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ugh! Attacking with water, you really are kappa, aren't\nyou!? Bad kappa need to be punished...!"
                             ]
                         },
                         {
@@ -12806,28 +12547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ダメだ！　話が通じない！　鋭利な武器を持ってるぞ！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(No good! She doesn't understand us! She's got a sharp\nweapon too!? )"
                             ]
                         },
                         {
@@ -12879,28 +12599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュウリを返しなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Return the cucumbers!"
                             ]
                         },
                         {
@@ -12917,7 +12616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は変身して刀を構えた！"
+                                "--Karin transformed and readied her sword!"
                             ]
                         },
                         {
@@ -13034,28 +12733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ぐわわぁ！？　強い……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Gwahh!? She's strong...!)"
                             ]
                         },
                         {
@@ -13079,28 +12757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（なんという戦闘力に長けた原住民だ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　とても素手で取り押さえる相手ではない！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(What an incredibly battle-capable native! She's not someone\nwe can subdue with bare hands!)"
                             ]
                         },
                         {
@@ -13131,28 +12788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "河童風情に負ける私ではないわ！　さぁ大人しくしなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I won't lose to kappa-like creatures! Now, behave yourself!"
                             ]
                         },
                         {
@@ -13176,28 +12812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（致し方ない！　レーザ銃で攻撃させてもらう！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Can't be helped! We'll attack with the laser gun!)"
                             ]
                         },
                         {
@@ -13233,28 +12848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ビビビビビビ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Bzzzzzzt!!>"
                             ]
                         },
                         {
@@ -13290,28 +12884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――っ！　危ない！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Ah! Dangerous!?"
                             ]
                         },
                         {
@@ -13335,28 +12908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（～～～～！？　か、かわしただと？　光線銃を！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(~~~~!? She, she dodged it? The laser gun!? )"
                             ]
                         },
                         {
@@ -13380,28 +12932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "銃を発射する構えが見えたなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "飛んでくる場所の予測ぐらいできる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう頭に来た！　えいやあぁ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "If I can see where you're aiming, I can predict where it'll\ncome from! I'm so mad now! Take this--!"
                             ]
                         },
                         {
@@ -13449,28 +12980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　バキッ！　ドカッ――！＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Crack! Thud--!>"
                             ]
                         },
                         {
@@ -13527,7 +13037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グワアアアアアッ！！"
+                                "Gwaaaahhh!!"
                             ]
                         },
                         {
@@ -13563,28 +13073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は河童（？）たちを全員倒した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin defeated all the kappa (?)!"
                             ]
                         },
                         {
@@ -13676,28 +13165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -13721,28 +13189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ……はぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Phew... Haah...!"
                             ]
                         },
                         {
@@ -13766,28 +13213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（もう、許してくれ……　こちら戦う気はない！　降伏だ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Please, no more... We don't want to fight anymore! We\nsurrender!)"
                             ]
                         },
                         {
@@ -13811,28 +13237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その表情、少しは反省したようね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいわ。許してあげる。そのかわりここから早く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出ていきなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "That look on your face, you seem a bit remorseful, huh?\nFine. I'll forgive you. But leave this place quickly."
                             ]
                         },
                         {
@@ -13868,28 +13273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ガガガガ――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Clang Clang Clang-->"
                             ]
                         },
                         {
@@ -13913,28 +13297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……むぅ？　メインコンピューターが反応しない？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...Hmm? The main computer isn't responding?)"
                             ]
                         },
                         {
@@ -13958,14 +13321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（もしかしたら……　さっきのスプリンクラーの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　水のせいで故障したのか？　噴射の量が多すぎたせいで）"
+                                "(Could it be... Did it malfunction because of the water from\nthe sprinkler earlier? There was too much of it.)"
                             ]
                         },
                         {
@@ -13989,14 +13345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（どうする！？　とんでもないアクシデントだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このままだと我ら全員、母星に帰還できないぞ！？）"
+                                "(What do we do!? This is a terrible accident! At this rate,\nnone of us will be able to return to our home planet!?)"
                             ]
                         },
                         {
@@ -14020,28 +13369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ザワザワ……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Murmur Murmur...!)"
                             ]
                         },
                         {
@@ -14065,21 +13393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……なんだか河童たち、悲しそうな泣き声をしているわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして、この大きな鉄のからくりが壊れたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのせいで河童の故郷に帰れないの？"
+                                "Karin: \"The kappa seem to be crying in sorrow. Could it be\nthat this large iron contraption has broken? And because of\nthat, they can't return to their homeland?\""
                             ]
                         },
                         {
@@ -14103,28 +13417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ああ。電気が足りない。危機的状態だ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Ah, there's not enough electricity. This is a critical\nsituation...)"
                             ]
                         },
                         {
@@ -14148,28 +13441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（うぅ……　通信もできない。もう我らは終わりだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このような異星の地で任務も果たせぬまま死ぬ定めなのか）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Ugh... We can't even communicate. Are we doomed to die on\nthis alien planet without completing our mission?)"
                             ]
                         },
                         {
@@ -14200,28 +13472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……しょうがない。これって雷と関係あるわよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だったら私の持っている【雷切】で――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: \"...Can't be helped. This has something to do with\nlightning, right? If that's the case, I'll use my [Lightning\nCutter]--\""
                             ]
                         },
                         {
@@ -14257,28 +13508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は雷切をからくりに向けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin aimed the Lightning Cutter at the contraption."
                             ]
                         },
                         {
@@ -14302,28 +13532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～！？　な、何を――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~!? Wh-What are you--!?"
                             ]
                         },
                         {
@@ -14347,28 +13556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雷切、全力放出――！　いっけぇ――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: \"Lightning Cutter, full power release--! Here\ngoes--!!\""
                             ]
                         },
                         {
@@ -14404,28 +13592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　バリバリバリバリ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Clang Clang Clang Clang--!!>"
                             ]
                         },
                         {
@@ -14461,28 +13628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（おおおぉ！？　これは……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Ohhh!? What is this...!? )"
                             ]
                         },
                         {
@@ -14605,28 +13751,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【機械音声】"
+                                "【Mechanical Voice】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メインコンピューター　再起動シマシタ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\"Main computer rebooting.\""
                             ]
                         },
                         {
@@ -14650,28 +13782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（やった！　奇跡的に治ったぞ！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(We did it! It miraculously got fixed!? )"
                             ]
                         },
                         {
@@ -14695,28 +13806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（これで我らは母星に帰れる！　た、助かった！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Now we can return to our mother star! We're saved!)"
                             ]
                         },
                         {
@@ -14747,21 +13837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ……　どうやら直ったみたいね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁこの河童の乗り物に乗って、違う場所で暮らしなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう人里に降りて来ちゃダメだよ？　わかった？"
+                                "Karin: \"Phew... It seems to have been fixed♪ Now, ride this\nkappa vehicle and live somewhere else. You mustn't come down\nto the human settlements anymore, okay? Understand?\""
                             ]
                         },
                         {
@@ -14785,28 +13861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（うむ。いきなり襲われたと思ったら助けてもらったりで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　複雑な気持ちだが感謝するぞ、原住民の娘よ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Indeed. It's a complex feeling being attacked out of\nnowhere and then saved, but we are grateful, native\ndaughter.)"
                             ]
                         },
                         {
@@ -14830,28 +13885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……しかし、我らのことを正式な手続き以外で見た者は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　こうするしかないのだ。すまない）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...However, we have no choice but to do this to those who\nhave seen us without proper procedure. Sorry.)"
                             ]
                         },
                         {
@@ -14875,28 +13909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: \"Eh--?\""
                             ]
                         },
                         {
@@ -14932,28 +13945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ビビビビビビ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Buzz Buzz Buzz Buzz--!!>"
                             ]
                         },
                         {
@@ -14996,28 +13988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "～～～～！？　きゃああああぁ～～！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "~~~!? Kyaaahhh~~~!?"
                             ]
                         },
                         {
@@ -15053,28 +14024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――光線銃を受けて花梨は悲鳴をあげて倒れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin screamed and fell after being hit by a ray gun!"
                             ]
                         },
                         {
@@ -15098,28 +14048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぅ……！　うぅっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（痺れて……動け……ない……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: \"Ahh...! Ugh...! (I'm paralyzed... can't move...)\""
                             ]
                         },
                         {
@@ -15143,14 +14072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（一応、キミのサンプルデータを取らせてもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この星の中では特筆するほどの戦闘力があるようだからな）"
+                                "(For now, we'll take your sample data. You seem to have\nnotable combat abilities for someone from this planet.)"
                             ]
                         },
                         {
@@ -15174,28 +14096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（うぅ……　油断した……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　このまま、河童に食べられちゃうの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　わたし……キュウリじゃないのに…………）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: \"(Ugh... I was careless... Am I going to be eaten by\nthe kappa now? I'm not even a cucumber...)\""
                             ]
                         },
                         {
@@ -15219,14 +14120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（安心しなさい。身体データを取るだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　その後は記憶も消すから、何も覚えてないだろうが――）"
+                                "(Rest assured. We're only taking your physical data. After\nthat, we'll erase your memory, so you probably won't\nremember anything--)"
                             ]
                         },
                         {
@@ -15250,28 +14144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うぅ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: \"...Ugh...\""
                             ]
                         },
                         {
@@ -15320,7 +14193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は深い眠りに落ちた…………"
+                                "--Karin fell into a deep sleep..."
                             ]
                         },
                         {
@@ -15452,28 +14325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ビビビビビビ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Buzz Buzz Buzz Buzz--!!>"
                             ]
                         },
                         {
@@ -15516,14 +14368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きゃああぁ……！　つ、強い……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんなのあの光線は……！（がくり）"
+                                "Karin: \"Kyaaahh...! So strong...! What is that ray...!\n(collapses)\""
                             ]
                         },
                         {
@@ -15559,28 +14404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は悲鳴を上げて地面に倒れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin screamed and fell to the ground!"
                             ]
                         },
                         {
@@ -15604,28 +14428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……ふぅ、肝を冷やしたが、決着がついたようだな）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...Phew, that was nerve-wracking, but it seems things have\nbeen settled.)"
                             ]
                         },
                         {
@@ -15649,14 +14452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（見た目の外見と違い手練れだった。身の動きも素早く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　武器の扱いに非常に精通している……恐ろしい敵だった）"
+                                "(Despite her appearance, she was skilled. Her movements were\nquick and she was extremely proficient with her weapon... A\nfearsome enemy.)"
                             ]
                         },
                         {
@@ -15680,28 +14476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……どうする？　我らの正体を見られたからには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　計画を見直し、一度母星に帰還するか？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...What do we do? Now that she has seen our true form,\nshould we revise our plans and return to our mother star\nonce?)"
                             ]
                         },
                         {
@@ -15732,7 +14507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………ぐぎゅう…………"
+                                "Karin: \"...Gyuuu...\""
                             ]
                         },
                         {
@@ -15756,28 +14531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（電気もなく未熟な文明の星と思っていたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　原住民は想像以上に戦闘的だ。探索用の武器では危うい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　戦うにも多くの兵器が必要だ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(We thought this was a primitive civilization without\nelectricity, but the natives are more combative than\nexpected. Our exploration weapons are insufficient. We need\nmore armaments for battle.)"
                             ]
                         },
                         {
@@ -15801,28 +14555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（もっと友好的に住民たちと接触したかったがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この原住民の娘はどうする？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(We wanted to make friendly contact with the inhabitants.\nWhat shall we do with this native daughter?)"
                             ]
                         },
                         {
@@ -15853,7 +14586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………………………"
+                                "..."
                             ]
                         },
                         {
@@ -15877,21 +14610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……この若い娘は何か感じるものがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　サンプルとしてデータを取っておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　母星に帰る時の手土産になるはずだ）"
+                                "(...There's something about this young girl. Let's take her\nas a sample. She should make a fine souvenir when we return\nto our mother star.)"
                             ]
                         },
                         {
@@ -15968,28 +14687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は水の容器に入れられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin was placed inside a water container."
                             ]
                         },
                         {
@@ -16072,28 +14770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（…………数時間後…………）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(...Several hours later...)"
                             ]
                         },
                         {
@@ -16155,28 +14832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -16200,28 +14856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（よし、生物データは収集できたぞ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Good, we've collected the biological data.)"
                             ]
                         },
                         {
@@ -16245,21 +14880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（記憶も改ざんしたが完全に変更はできない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ひょんなことから我らと接触した記憶が戻る可能性が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　５％ほどある）"
+                                "(We've altered her memories, but we can't completely change\nthem. There's about a 5% chance that she might recall her\nencounter with us due to some unforeseen event.)"
                             ]
                         },
                         {
@@ -16283,21 +14904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（思い出した場合、再びこの基地に来ることも考えられるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　不本意だがこの秘密基地を全て破棄し、宇宙船ごと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　別の場所へ移動しよう）"
+                                "(If she does remember, she might come back to this base.\nReluctantly, we must destroy this secret base and move the\nspaceship to another location.)"
                             ]
                         },
                         {
@@ -16321,21 +14928,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【異星人たち】"
+                                "【Aliens】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（異議なし。もし次にこの惑星の原住民と接触する時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もっと平和的にコンタクトできれば良いな――）"
+                                "(No objections. If we make contact with the natives of this\nplanet again, I hope we can do so more peacefully--)"
                             ]
                         },
                         {
@@ -16359,28 +14959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うぅん…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Mmm..."
                             ]
                         },
                         {
@@ -16429,28 +15008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -16505,28 +15063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴゴ――――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Gogogogogo----!!>"
                             ]
                         },
                         {
@@ -16772,28 +15309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -16835,28 +15351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………うぅ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Ugh..."
                             ]
                         },
                         {
@@ -16880,28 +15375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -16946,28 +15420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……あれ？　なんで私、こんな所で行き倒れて……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Huh? Why am I passed out in a place like this...?"
                             ]
                         },
                         {
@@ -17160,21 +15613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（うーん……　何か未知な生物に遭遇したような気が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも……不思議と何も覚えていないわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　真昼間なのに変な夢でも見てたのかしら……？）"
+                                "(Hmm... I feel like I encountered some unknown creature...\nbut... strangely, I can't remember anything... Was I just\nhaving a weird dream in broad daylight...?)"
                             ]
                         },
                         {

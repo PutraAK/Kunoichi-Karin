@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "酒場",
+    "displayName": "Tavern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2228,28 +2228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ん～　この居酒屋、怖そうな人たちがたくさんいるなぁ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Hmm, this tavern seems to be filled with a lot of scary-\nlooking people...)"
                             ]
                         },
                         {
@@ -2273,14 +2252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっへっへ。旅人かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだね。酒でも飲んでいかないかい？"
+                                "Heh heh heh. Are you a traveler? How about it? Care to have\na drink before you go?"
                             ]
                         },
                         {
@@ -2304,28 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私、人を探しているんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このあたりでさらわれた女性の話、聞いたことありませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I'm looking for someone. Have you heard any stories about\na woman being kidnapped around here?"
                             ]
                         },
                         {
@@ -2349,14 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、そうだなぁ。酒を飲んでくれたら教えてもいいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居酒屋に来て何も飲まないのは失礼じゃないかい、嬢ちゃん？"
+                                "Uh-huh, let's see. I might tell you if you have a drink with\nme. Isn't it rude to come to a tavern and not drink\nanything, young lady?"
                             ]
                         },
                         {
@@ -2380,7 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……（どうしよう…………）"
+                                "...(What should I do...)"
                             ]
                         },
                         {
@@ -2388,8 +2332,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一杯だけ酒を飲む\\c[27]【Ｈイベント】\\c[0]",
-                                    "立ち去る"
+                                    "Have just one drink \\c[27][H Event]\\c[0]",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -2531,14 +2475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１０　膣内射精＋５　体外射精＋５"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "尺八＋５　口内射精＋５　淫乱度＋５\\c[0]"
+                                "\\c[27]Main performance count +10, vaginal ejaculation +5, external\nejaculation +5, fellatio +5, oral ejaculation +5, lewdness\nlevel +5\\c[0]"
                             ]
                         },
                         {
@@ -2591,7 +2528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[10]体力が最小限にまで減少――！\\c[0]"
+                                "\\c[10]Stamina has decreased to the bare minimum--!\\c[0]"
                             ]
                         },
                         {
@@ -2624,7 +2561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ふらふらする……　体力を回復させないと……）"
+                                "(I'm feeling dizzy... I need to recover my strength...)"
                             ]
                         },
                         {
@@ -2668,14 +2605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……すみません。お邪魔しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（この酒場、やっぱり危険な匂いがする。やめておこう）"
+                                "...Excuse me, I was intruding. (This tavern has a dangerous\nsmell to it after all. I better leave.)"
                             ]
                         },
                         {
@@ -2771,14 +2701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは村で一番いざこざが絶えない場所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと立ち去りな。また怖い目に遭いたくねぇだろ？"
+                                "This is the most troublesome spot in the village. Hurry up\nand leave. You don't want to have another scary experience,\ndo you?"
                             ]
                         },
                         {
@@ -2846,21 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村の極悪な住人も山賊と間違われて役人に捕まったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで酒場の売上が落ちちまったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ村のためには良かったのかもな。"
+                                "The wicked residents of this village were mistaken for\nbandits and got caught by the officials. Because of that,\nthe tavern's sales have dropped, but well, it might have\nbeen for the best for the village."
                             ]
                         },
                         {
@@ -2997,21 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "５年前に富士山が大噴火してなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "比較的無事だったこの村に近隣の食えぬ者が集まってきてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結果、いまや関東で一番治安の悪い村になっちまったよ。"
+                                "Five years ago, Mount Fuji had a massive eruption. This\nvillage was relatively unscathed, so people from nearby who\ncouldn't find food started flocking here. As a result, it's\nnow become the most dangerous village in the Kanto region."
                             ]
                         },
                         {
@@ -3079,21 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊の連中を倒すなんてすごいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直やつら鼻つまみ者だったから清々するよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、酒が美味いねぇ！"
+                                "Defeating those bandits is quite impressive. Honestly, they\nwere a thorn in our side, so it feels refreshing. Ah, the\nsake tastes great!"
                             ]
                         },
                         {
@@ -3761,28 +3642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【酔っ払い】"
+                                "【Drunkard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ……　昼間から飲む酒はうめぇぜ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃん、美人だなぁ……　酌してくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついでに尺八もなぁ♪　けけけ！"
+                                "Hehe... booze tastes great when you drink it in the\nafternoon... Miss, you're quite the beauty... Pour me\nanother one. And how about a little blowjob too, eh?♪\nKekeke!"
                             ]
                         },
                         {
@@ -3850,14 +3717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【酔っ払い】"
+                                "【Drunkard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊が捕まった祝いに酌してくれよ……♪　ひっく……"
+                                "Let's have a drink to celebrate the bandits being caught...♪\n*hic*..."
                             ]
                         },
                         {
@@ -3934,21 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊どものお頭を一度見たことがあるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありゃ人間じゃねぇぜ……　馬鹿でかい太刀を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "軽々と扱ってやがった。ありえねぇよ……"
+                                "I've seen the head of those bandits once, and that ain't no\nhuman... Wielding a ridiculously huge sword with ease.\nThat's just impossible..."
                             ]
                         },
                         {
@@ -4016,14 +3869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱海のほうでも鬼みたいな連中が出現したって噂だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼怨党とか名乗っているらしい。まったく物騒だね。"
+                                "I've heard rumors that a group resembling demons has\nappeared in Atami as well. They seem to be calling\nthemselves the Oni Ontou. It's quite dangerous indeed."
                             ]
                         },
                         {
@@ -4100,7 +3946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひっく……　ひっく……"
+                                "*sob*... *sob*..."
                             ]
                         },
                         {
@@ -4228,14 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あっちにいる男たちに話しかけないほうが身のためだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒癖がわるい粗暴な奴らだ。坊主鉢巻きは山賊仲間と心得な。"
+                                "...It's better for your own good not to talk to those men\nover there. They're rough types with bad drinking habits.\nJust know that the bald guy with the headband is part of a\nbandit gang."
                             ]
                         },
                         {
@@ -4303,14 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "捕らわれてた娘たちも開放されて良かったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで少しは村の治安も回復したぜ。"
+                                "It's good that the captured girls have been freed. This\nshould help restore some peace to the village."
                             ]
                         },
                         {
@@ -4387,14 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騙されたくなきゃこの酒場から早々に立ち去りな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でないとひどい目に遭うぜ？　ケケケ！"
+                                "If you don't want to be deceived, you'd better leave this\ntavern quickly. Otherwise, you'll have a terrible time,\nhehehe!"
                             ]
                         },
                         {
@@ -4582,14 +4407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この店は俺らならず者の憩いの場所なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小娘とはいえ騒いだら承知しねぇぞ？　ひっく……"
+                                "This place is a haven for us ruffians. Even if you're a\nyoung girl, I won't let it slide if you make a fuss, got it?\n*hic*..."
                             ]
                         },
                         {
@@ -4657,14 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の体、すげぇ良かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいる男たちはみんな穴兄弟だぜ。カッカッカ！"
+                                "Your body was damn good. All the men here are now brothers\nby the same hole. Kah kah kah!"
                             ]
                         },
                         {
@@ -4688,7 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（悔しい……　でも……腹立つ……）"
+                                "(It's so frustrating... but... it makes me angry...)"
                             ]
                         },
                         {
@@ -5114,21 +4925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……街の中を歩いて気づいただろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村はまともな人間のほうが少ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "温泉に入ってケツを掘られることもある恐ろしい村だぜ。"
+                                "...You've walked around town, you've noticed, haven't you?\nThis village has fewer decent humans. It's a terrifying\nplace where you might even get your ass drilled while\nsoaking in the hot springs."
                             ]
                         },
                         {
@@ -5196,14 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレたちゃただの酔っ払いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊じゃねぇからな……ひっく……"
+                                "We're just drunkards, not bandits... *hic*..."
                             ]
                         },
                         {
@@ -5451,21 +5241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊にならないか誘われたが丸坊主になるのがいやでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ昼間から酒のほうが俺にはお似合いさ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大将、もう一杯！"
+                                "I was invited to become a bandit, but I didn't fancy going\nbald. Well, drinking from noon suits me better... Boss,\nanother round!"
                             ]
                         },
                         {
@@ -5542,7 +5318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愉快愉快！　山賊全滅に乾杯！　ぐびぐびッ――！"
+                                "Cheers to the delightful annihilation of the bandits! Gulp\ngulp--!"
                             ]
                         },
                         {
@@ -5797,7 +5573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【400 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -6147,14 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カッカッカ！　この巣裸無村は俺ら山賊の縄張りよぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手が役人であろうとも容赦しねぇぜ！"
+                                "Kah kah kah! This Sunuramu Village is our bandit territory!\nWe won't show mercy, even if you're an official!"
                             ]
                         },
                         {

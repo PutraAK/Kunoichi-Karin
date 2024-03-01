@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "牢屋",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2172,7 +2172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2539,7 +2539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Godspeed Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2667,21 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町は盗みを家業としている者の英雄さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金持ちしか狙わないってのが粋だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度会ってみたいぜ。"
+                                "Nezumi Komachi is a hero to those who make thievery their\nfamily business. Only targeting the rich is pretty stylish.\nI'd like to meet them just once."
                             ]
                         },
                         {
@@ -2880,21 +2866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スリをして捕まったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗んだ財布にゃ１０文しかなかったのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ、とんだ下手をうってしまったよ。"
+                                "I got caught pickpocketing. And to think the wallet I stole\nonly had 10 mon in it... Geez, I really botched that one."
                             ]
                         },
                         {
@@ -3033,14 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　早く牢屋から出たい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな不衛生な場所にいると、寿命が減っちまう……"
+                                "Ugh... I want to get out of this cell quickly... Staying in\nsuch an unsanitary place is going to shorten my lifespan..."
                             ]
                         },
                         {
@@ -3581,14 +3546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううん？　以前、無常島へ島流しにされた娘では……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、気のせいか……"
+                                "Hmm? Is that the girl who was exiled to Mujou Island\nbefore...? No, perhaps it's just my imagination..."
                             ]
                         },
                         {
@@ -3665,21 +3623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【牢屋番】"
+                                "【Jailkeeper】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひえぇッ！　申し訳ありません救馬さま！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後は牢屋を奇麗にしておきますからお許しを！"
+                                "Eek! My apologies, Kiyoma-sama! I will keep the cell clean\nfrom now on, so please forgive me!"
                             ]
                         },
                         {
@@ -3996,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――牢名主は飯を食べている……"
+                                "--The jailer is eating his meal..."
                             ]
                         },
                         {
@@ -4078,14 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……よぉ。周りの受刑者に挨拶したか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さん、どうした理由で捕まったんだ？"
+                                "...Hey there. Have you greeted the other prisoners? What did\nyou do to get caught?"
                             ]
                         },
                         {
@@ -4109,28 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----！！"
                             ]
                         },
                         {
@@ -4154,14 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずいぶんとまぁ美人じゃないか？　男との痴情関係か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも遊女で、借金残して遊郭から逃げ出したとかか？"
+                                "You're quite the beauty, aren't you? Was it a scandalous\naffair with a man? Or perhaps you're a courtesan who ran\naway from the brothel leaving debts behind?"
                             ]
                         },
                         {
@@ -4185,28 +4101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あなたは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Who are you?"
                             ]
                         },
                         {
@@ -4230,21 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この牢の【牢名主】よ。一度中に踏み入れたら最後、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殿様はオレであり、命令は絶対だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちにまで聞こえてたぜ？　遠島流罪だってな？"
+                                "I'm the warden of this prison. Once you step in here, I'm\nthe lord, and my orders are absolute. I've heard about it,\nyou know? Banished to a distant island, right?"
                             ]
                         },
                         {
@@ -4268,21 +4149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【罪人】"
+                                "【Sinner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっへっへ！　牢に似つかぬ可愛い娘だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっかい出してもいいですかい、牢名主の旦那ぁ？"
+                                "Heh heh heh! Such a cute girl in a place like this! Mind if\nI mess with her a bit, Mr. Warden?"
                             ]
                         },
                         {
@@ -4306,14 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待て。この娘の返答次第だ。さぁ、答えな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反抗的な態度をとったら痛い目に遭うぜ？"
+                                "Wait. It depends on this girl's answer. Now, answer me. If\nyou show a defiant attitude, you'll suffer."
                             ]
                         },
                         {
@@ -4337,28 +4204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4382,21 +4228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "島流しなんてのは大罪じゃないと沙汰が出ないものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘の身ながら娑婆で余程のことをしでかした様だな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな罪を犯したんだ。正直に教えてくれよ？"
+                                "Being banished to an island is a punishment reserved for\nserious crimes. You must have done something quite severe in\nthe secular world, huh? What crime did you commit? Tell me\nhonestly."
                             ]
                         },
                         {
@@ -4420,7 +4252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そ、それは…………"
+                                "...That is..."
                             ]
                         },
                         {
@@ -4428,8 +4260,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "無視する\\c[27]【Ｈイベント】\\c[0]",
-                                    "正直に言う"
+                                    "Ignore it \\c[27][H Event]\\c[0]",
+                                    "Speak honestly"
                                 ],
                                 -1,
                                 0,
@@ -4544,14 +4376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１０　膣内射精＋５　体外射精＋５"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "尺八＋５　口内射精＋５　淫乱度＋５\\c[0]"
+                                "\\c[27]Main performance count +10, vaginal ejaculation +5, external\nejaculation +5, fellatio +5, oral ejaculation +5, lewdness\nlevel +5\\c[0]"
                             ]
                         },
                         {
@@ -4604,28 +4429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……実は、わたし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねずみ小町という盗賊で…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Actually, I am... a thief known as Nezumi Komachi..."
                             ]
                         },
                         {
@@ -4649,14 +4453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なにッ！　お前さんがあの名高い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねずみ小町だってのか！？"
+                                "What! You're that infamous Nezumi Komachi!?"
                             ]
                         },
                         {
@@ -4680,7 +4477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――マジか！　すげぇ！　本当に本人！？"
+                                "--Seriously! That's amazing! Are you really the person\nherself!?"
                             ]
                         },
                         {
@@ -4711,28 +4508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、はい。本人です。先日捕まってしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この牢屋に連れてこられた次第で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Yes, I am. I was caught recently and brought to this\nprison..."
                             ]
                         },
                         {
@@ -4756,21 +4532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へぇ。いや、驚いたぜ。牢屋にも届いてるぜ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "快盗ねずみ小町の話はな。豪商から盗んだ金を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "庶民に配るなんて立派な義賊だ。尊敬するぜ。"
+                                "Heh, well, I'm surprised. Even in prison, we've heard tales\nof the noble thief Nezumi Komachi. Stealing from the rich\nand giving to the poor, that's quite honorable. I respect\nthat."
                             ]
                         },
                         {
@@ -4794,7 +4556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よろしければ小町の姐さんって呼んでいいですかい？"
+                                "Would it be alright if I call you \"Sister Komachi\"?"
                             ]
                         },
                         {
@@ -4825,28 +4587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "姐さん！？　私が！？　そ、そんな大げさな……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Sister!? Me!? That's... a bit much...!"
                             ]
                         },
                         {
@@ -4870,21 +4611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いえ、本当に尊敬してるんですよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あっしみたいなコソ泥と違って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何千両も盗んだのは敬服もんですよ、マジで！"
+                                "No, I really do respect you! Unlike a petty thief like me,\nstealing thousands of ryō is truly admirable, seriously!"
                             ]
                         },
                         {
@@ -4908,28 +4635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そうですか？　どうも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Is that so? Thank you..."
                             ]
                         },
                         {
@@ -4953,21 +4659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "５年前に活躍してたアンタの父親の【ねずみ小僧】も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "立派な人でなぁ。俺みたいなちゃちなコソ泥からすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雲の上の人のようで……　"
+                                "Your father, who was active five years ago, \"Nezumi Kozō,\"\nwas also an admirable person. To someone like me, a petty\nthief, he seemed like someone from another world..."
                             ]
                         },
                         {
@@ -4991,7 +4683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　父に会ったことがあるんですか？"
+                                "--! You've met my father?"
                             ]
                         },
                         {
@@ -5015,21 +4707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いや、会ったことはないが江戸中を沸かした大盗賊だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たいした御仁だと他の盗賊も尊敬してたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねずみ小僧の娘なのに、親父さんの所在は知らねぇのかい？"
+                                "No, I haven't met him, but he was a great thief who stirred\nup all of Edo. Other thieves respected him greatly. You're\nthe daughter of Nezumi Kozō and you don't know where your\nfather is?"
                             ]
                         },
                         {
@@ -5053,21 +4731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……そうなんです。急に家からいなくなってしまって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も父の行方は知らないんです……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今どこで、何をしているのか……"
+                                "...Yes, that's right. He suddenly disappeared from home... I\ndon't know where my father is either... where he is now or\nwhat he's doing..."
                             ]
                         },
                         {
@@ -5091,14 +4755,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうかい。まぁ生きてたら会えるかもしれねぇから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "例え遠島流罪でも希望を捨てずに頑張んな。"
+                                "Is that so. Well, if he's alive, maybe you'll meet him again\nsomeday. Even if you're banished to an island, don't give up\nhope and keep trying."
                             ]
                         },
                         {
@@ -5122,7 +4779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………はい。"
+                                "...Yes."
                             ]
                         },
                         {
@@ -5146,14 +4803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前ら、小町の姐さんを冷たい地面に寝かせられねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりした寝床を用意するんだ。"
+                                "You guys can't let Sister Komachi sleep on the cold ground.\nPrepare a proper bed for her."
                             ]
                         },
                         {
@@ -5177,21 +4827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へい、牢名主さま！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねずみ小町さん、この牢屋で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一番良い布団を用意させて頂きますぜ！　さぁこちらへ！"
+                                "Yes sir, Mr. Warden! Nezumi Komachi-san, we will prepare the\nbest futon in this prison for you! This way please!"
                             ]
                         },
                         {
@@ -5215,28 +4851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あはははは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（何かみんなから尊敬の眼差しを送られているみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　嬉しいような、困るような……複雑な気持ちだな……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahahaha... (It seems like everyone is looking at me with\nrespect. It's nice but also a bit troubling... such complex\nfeelings...)"
                             ]
                         },
                         {
@@ -5260,14 +4875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は受刑者たちから歓迎されながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "島流しにされる日まで牢内で過ごした。"
+                                "--Karin was welcomed by the other prisoners and spent her\ndays in prison until the day she was banished to the island."
                             ]
                         },
                         {
@@ -6633,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おしっこ、したいけど……　ここじゃ丸見えだ……）"
+                                "(I need to pee, but... everyone can see me here...)"
                             ]
                         },
                         {
@@ -6688,21 +6296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【受刑者たち】"
+                                "【Prisoners】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっへ。厠はそこだけだ。遠慮なくしなよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我慢したら体に悪いぜ？　それとも漏らすかい？"
+                                "Heh heh. That's the only toilet there is. Don't hold back,\ndo it♪ Holding it in is bad for your health, right? Or would\nyou rather wet yourself?"
                             ]
                         },
                         {
@@ -6726,7 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……仕方ない。このままだと漏れちゃうし……）"
+                                "(...Can't help it. I'm going to leak if I keep holding it\nin...)"
                             ]
                         },
                         {
@@ -6790,7 +6391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は覚悟を決めて着物の裾を上げ便所にまたがった。"
+                                "--Karin steeled her resolve, lifted the hem of her kimono,\nand straddled the toilet."
                             ]
                         },
                         {
@@ -6853,21 +6454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ちょろちょろ……　ちょろちょろろ……　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "<Trickle trickle... trickle trickle..."
                             ]
                         },
                         {
@@ -6884,28 +6471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6922,14 +6488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【受刑者A】"
+                                "【Prisoner A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へっへっへ！　若い娘が放尿する姿、興奮するなぁ……\\I[15]"
+                                "Heh heh heh! The sight of a young girl peeing is so\nexciting...\\I[15]"
                             ]
                         },
                         {
@@ -6946,14 +6512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【受刑者A】"
+                                "【Prisoner A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと股を拡げてこっちに見せてくれよ！　なぁ\\I[15]"
+                                "Spread your legs wider and show us more! Right?\\I[15]"
                             ]
                         },
                         {
@@ -6977,14 +6543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（…………恥ずかしい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この牢獄にいつまでいなきゃいけないんだろう……）"
+                                "(...So embarrassing... How long do I have to stay in this\nprison...)"
                             ]
                         },
                         {
@@ -7044,14 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "羞恥心で顔を真っ赤する花梨――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受刑者たちにニヤニヤ見られながらも用を足した。"
+                                "With her face blushing from shame, Karin--watched by the\nsmirking prisoners--finished her business."
                             ]
                         },
                         {
@@ -7349,7 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -7537,28 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結婚詐欺で下手をうってな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伝馬町の牢屋敷といえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸で捕まった犯罪者が集まる場所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタはなんの罪を犯したんだい？"
+                                "You botched a marriage scam, huh... Denma-cho prison is\nwhere all the criminals caught in Edo end up. What crime did\nyou commit?"
                             ]
                         },
                         {
@@ -7697,14 +7228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレは元盗賊さ。幕府の役人に捕まってこのザマさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いことはできねぇな……"
+                                "I used to be a thief. Got caught by the shogunate's\nofficials, and now I'm in this mess. Can't do anything bad\nanymore..."
                             ]
                         },
                         {
@@ -7843,21 +7367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の新入りか？　へっへ、めんこいなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中央の畳上にいる牢名主に逆らわないほうがいいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "賭博場で２０人相手に素手で勝った喧嘩自慢の男さ。"
+                                "A new girl, huh? Heh, pretty cute! You better not cross the\nboss sitting on the tatami in the center. He's a man who\nboasts about winning a brawl against 20 men barehanded at\nthe gambling den."
                             ]
                         },
                         {
@@ -7996,14 +7506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ、ここは男部屋だぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナニされても文句は言うなよ、嬢ちゃん\\I[15]"
+                                "Heh, this is a man's room, you know? Don't complain no\nmatter what happens, missy\\I[15]"
                             ]
                         },
                         {
@@ -8260,21 +7763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい、新入り。周りの受刑者の先輩方に挨拶しな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後に牢名主（ろうなぬし）様に挨拶するんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかったな？"
+                                "Hey, newbie. Make sure to greet the senior prisoners around\nyou. And lastly, greet the cell boss-sama. Got it?"
                             ]
                         },
                         {
@@ -8764,7 +8253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【５日後】――――"
+                                "----[Five Days Later]----"
                             ]
                         },
                         {
@@ -8884,21 +8373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -8922,28 +8397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "起きろ。船の準備ができた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所は無常島（むじょうじま）だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wake up. The ship is ready. We're heading to Mujou Island."
                             ]
                         },
                         {
@@ -8967,28 +8421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無常島……？　いったい何処にある島なんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Mujou Island...? Where exactly is that island?"
                             ]
                         },
                         {
@@ -9012,28 +8445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "伊豆よりずっと先にある南の島だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度と逃げ出せぬ孤島よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁついてこい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's a southern island far beyond Izu. A solitary island\nfrom which you can never escape. Now, follow me."
                             ]
                         },
                         {
@@ -9057,28 +8469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9114,28 +8505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は牢屋から連れ出された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Karin was taken out of the cell."
                             ]
                         },
                         {
@@ -9207,28 +8577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9252,28 +8601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ船に乗れ。暴れても無駄だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Come on, get on the ship. It's useless to struggle."
                             ]
                         },
                         {
@@ -9340,7 +8668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………（これで江戸も見納めか……）"
+                                "...(So this is the last I'll see of Edo...)"
                             ]
                         },
                         {
@@ -9555,7 +8883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は縄で縛られたまま、船に乗せられた。"
+                                "--Karin was bound with rope and put on the ship."
                             ]
                         },
                         {
@@ -9921,28 +9249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――【無常島】――――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----[Mujou Island]----"
                             ]
                         },
                         {
@@ -10969,28 +10276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こりゃひでぇな……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうなってるんだ、牢屋の衛生管理は！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This is terrible...! What's going on with the jail's\nsanitation management?!"
                             ]
                         },
                         {
@@ -11014,28 +10300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【牢屋番】"
+                                "【Jailkeeper】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すみません救馬さま！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、相手は凶状持ちの狼藉者ばかりですし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで牢の中を気にしないでも……"
+                                "I-I'm sorry, Kyuuma-sama! But, considering they're all\nheinous criminals, I thought we didn't need to worry too\nmuch about the cleanliness inside the cells..."
                             ]
                         },
                         {
@@ -11059,28 +10331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たとえ罪を犯した者でも悪臭極まる不衛生な牢じゃ駄目だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疫病が牢から発生して、江戸中に蔓延したらどうするんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと清掃を行き届かせて衛生管理を徹底させるように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかったな、牢屋番？"
+                                "Even if they have committed crimes, it's unacceptable to\nhave them in a filthy jail reeking of foul odors. What if an\nepidemic were to break out from the jail and spread\nthroughout Edo? Make sure to improve the cleaning and\nthoroughly enforce sanitation management. Understood,\njailkeeper?"
                             ]
                         },
                         {
@@ -11104,28 +10355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【牢屋番】"
+                                "【Jailkeeper】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！　ハハッ――！　ただちに改めまする！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes! Ha ha--! I will rectify it immediately!"
                             ]
                         },
                         {
@@ -11149,28 +10386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -11194,28 +10410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、花梨か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分からまた牢屋に入りに来たのか？　殊勝だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's this, Karin? Have you come to enter the jail again on\nyour own accord? How commendable."
                             ]
                         },
                         {
@@ -11239,14 +10434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ち、違いますっ！　あれから牢屋がどうなっているか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気になったので、たまたま寄っただけです！"
+                                "No, that's not it! I was just curious about the state of the\njail after that incident, so I happened to stop by!"
                             ]
                         },
                         {
@@ -11270,28 +10458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハッ、冗談だ。この牢屋敷の役人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事をさぼっていたのでな。きつく絞っているところだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ha ha, just kidding. The officials of this jailhouse have\nbeen slacking off. I'm giving them a strict talking-to right\nnow."
                             ]
                         },
                         {
@@ -11315,14 +10482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【牢屋番】"
+                                "【Jailkeeper】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "も、申し訳ありません……！"
+                                "I'm terribly sorry...!"
                             ]
                         },
                         {
@@ -11346,28 +10513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "工事とはいえ、男と女を一緒の牢に入れるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありえぬことだ。お前さんもそう思うだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Despite the construction, it's unthinkable to put men and\nwomen together in the same cell. You agree, don't you?"
                             ]
                         },
                         {
@@ -11391,28 +10537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私もそう思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この牢に入獄されてビックリしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I agree. I was shocked when I was imprisoned in this jail."
                             ]
                         },
                         {
@@ -11476,28 +10601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【牢屋番】"
+                                "【Jailkeeper】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ええっ！？　お主、以前この牢に入れられてた娘？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か無常島へ流罪にされたはずでは？　……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Eh?! You're the girl who was previously locked up here?\nWeren't you supposed to be exiled to Mujou Island?...!?"
                             ]
                         },
                         {
@@ -11521,28 +10632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この娘は恩赦により無罪放免の身になったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨よ。盗賊から幕府の隠密になって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな感じだ？　充実した日を過ごしているか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This girl has been pardoned and is now free of all charges.\nKarin, how does it feel to go from a thief to a secret agent\nof the shogunate? Are you living fulfilling days?"
                             ]
                         },
                         {
@@ -11566,28 +10656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ……　罪を許される代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き受けてしまったんで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはそれなりに頑張ろうかと――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well... I accepted the job in exchange for my pardon... so I\nguess I'll do my best from here on out--"
                             ]
                         },
                         {
@@ -11611,28 +10680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。その心意気、まことに天晴れだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くノ一として公儀の務めを果たして欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸を守るため頼んだぞ、ねずみ小町。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやさ、くノ一花梨。"
+                                "Hmm. That spirit is truly admirable. As a kunoichi, I want\nyou to fulfill your duties for the public office. I'm\ncounting on you to protect Edo, Nezumi Komachi. No, I mean\nKunoichi Karin."
                             ]
                         },
                         {
@@ -11754,14 +10802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにはもう用がないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の任務に励んでくれ。気をつけてな。"
+                                "You probably have no more business here, right? Please\ndevote yourself to your mission. Take care."
                             ]
                         },
                         {

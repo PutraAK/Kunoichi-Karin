@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "診療所",
+    "displayName": "Clinic",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3481,21 +3481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは江戸唯一の診療所です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかお体が悪いのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "診察は順番なので、しばらくお待ちくださいね。"
+                                "This is the only clinic in Edo. Are you feeling unwell\nsomewhere? Consultations are in order, so please wait for a\nwhile."
                             ]
                         },
                         {
@@ -3572,7 +3558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　頭が痛い……"
+                                "Ugh... my head hurts..."
                             ]
                         },
                         {
@@ -3649,14 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "診療所の待ち時間は長いなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予約してきたのにまだ呼ばれないよ。"
+                                "The wait time at the clinic is so long... Even though I made\nan appointment, they still haven't called me."
                             ]
                         },
                         {
@@ -3733,14 +3712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたた……　昨晩、ぎっくり腰をやってね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとかここまで歩いて来たのさ。"
+                                "Ouch... Last night, I threw out my back... Somehow I managed\nto walk all the way here."
                             ]
                         },
                         {
@@ -3817,7 +3789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨晩からお腹が痛くて……　あいたたた！"
+                                "My stomach has been hurting since last night... Ouch, that\nhurts!"
                             ]
                         },
                         {
@@ -3894,14 +3866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅむ。食あたりの様じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い薬を用意するからまっておれ。"
+                                "Hmm, it seems like food poisoning. I'll prepare some good\nmedicine, so wait here."
                             ]
                         },
                         {
@@ -3978,7 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと。漢方薬はどこにやったっけ……"
+                                "Let's see. Where did I put the herbal medicine..."
                             ]
                         },
                         {
@@ -4101,21 +4066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイテテテ！　大工仕事で転落してしまってな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったくドジをふんじまったよ。"
+                                "Ouch, ouch, ouch! I fell while doing carpentry work... I\nreally messed up this time."
                             ]
                         },
                         {
@@ -4183,21 +4141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "屋敷の工事中に迂闊にも二階から落ちてなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を骨折して、一ヵ月ここに入院してるんだ。"
+                                "I was careless during the mansion's renovation and fell from\nthe second floor. I broke my leg and have been hospitalized\nhere for a month."
                             ]
                         },
                         {
@@ -4221,28 +4172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ……　それはお気の毒に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと歩けないと大変ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh... that's unfortunate. It must be tough not being able to\nwalk all this time."
                             ]
                         },
                         {
@@ -4266,21 +4196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだよ。性欲も溜まっててさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだい、お姉ちゃん。俺のこと慰めてくれないかい？"
+                                "Yeah. And my sexual frustration has been building up too.\nHey, big sis, won't you comfort me?"
                             ]
                         },
                         {
@@ -4304,28 +4227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？　慰めて……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh? Comfort you...?"
                             ]
                         },
                         {
@@ -4349,28 +4251,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐふふっ♪　手コキしてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胸舐めもしてくれるとありがたいかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gufufu♪ Give me a handjob. I'd be grateful if you could lick\nmy chest too."
                             ]
                         },
                         {
@@ -4394,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……どうしよう…………）"
+                                "(...What should I do...)"
                             ]
                         },
                         {
@@ -4402,8 +4290,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "胸舐め手コキをする\\c[27]【Ｈイベント】\\c[0]",
-                                    "断る"
+                                    "Lick her breasts and give a handjob \\c[27][H Event]\\c[0]",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -4440,28 +4328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……\\I[15]　良いですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体で奉仕するの嫌いじゃないですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...\\I[15]Sure. I don't mind serving with my body."
                             ]
                         },
                         {
@@ -4478,28 +4345,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ――！？　いいのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（冗談で言ったのに……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Eh--!? Really? (I was just joking...!?)"
                             ]
                         },
                         {
@@ -4523,28 +4376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゃあ失礼します♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Then, if you'll excuse me♪"
                             ]
                         },
                         {
@@ -4622,7 +4454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は患者の男の横に寄り添った。"
+                                "--Karin snuggled up next to the male patient."
                             ]
                         },
                         {
@@ -4680,7 +4512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]尺八＋１　口内射精＋１\\c[0]"
+                                "\\c[27]Fellatio +1, Oral Ejaculation +1\\c[0]"
                             ]
                         },
                         {
@@ -4795,21 +4627,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃそうだよな……　ははっ、冗談だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "声をかけてくれて嬉しかったぜ。"
+                                "That's right... Haha, it was just a joke. I'm glad you\ntalked to me."
                             ]
                         },
                         {
@@ -4896,21 +4721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【患者の男】"
+                                "【Male Patient】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタのおかげで怪我も早く治りそうだよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にありがとうな。まるで天女様みたいだ。"
+                                "Thanks to you, it looks like my injuries will heal quickly♪.\nI really appreciate it. You're like an angel."
                             ]
                         },
                         {
@@ -4987,14 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火鉢を倒して火傷をしてしまってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ、本当ついてないよ……"
+                                "I knocked over the hibachi and burned myself. Geez, I really\nhave no luck..."
                             ]
                         },
                         {
@@ -5071,7 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぅ……ぐぅ……"
+                                "*snore*...*snore*..."
                             ]
                         },
                         {
@@ -5148,7 +4959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "包帯を新しくしますね。"
+                                "I'll change the bandages for you now."
                             ]
                         },
                         {
@@ -5537,14 +5348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで薬草を育てているのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水やりは欠かせませんよ。"
+                                "I'm growing medicinal herbs here. Watering them is\nessential."
                             ]
                         },
                         {
@@ -5621,21 +5425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体力を取り戻すには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり食べ物が肝要ですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "患者の皆さんが元気になる食事を作ってます。"
+                                "To regain strength, food is indeed essential. I'm preparing\nmeals that will help all the patients recover their energy."
                             ]
                         },
                         {
@@ -5818,14 +5608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬だけ欲しいのになぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも混んでて参っちゃうよ。"
+                                "I just want some medicine... but it's always so crowded,\nit's overwhelming."
                             ]
                         },
                         {
@@ -5902,21 +5685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火事と喧嘩は江戸の華っていうけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に火事や喧嘩が起きたりすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪我人が診療所にたくさん来て大変なのよ。"
+                                "They say fires and brawls are the flowers of Edo, but when\nthey actually happen, it's a disaster with so many injured\npeople coming to the clinic."
                             ]
                         },
                         {
@@ -5993,21 +5762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝たら体力が回復したよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "病気じゃなくて二日酔いだってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はは、面目ないねぇ。"
+                                "Once I slept, my energy was restored. Turns out it wasn't an\nillness, just a hangover. Haha, how embarrassing."
                             ]
                         },
                         {
@@ -6264,21 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "父ちゃんの代わりに薬をもらいに来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この診療所はお上が作っただけあって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いお医者さんがそろってるよ。"
+                                "I came to pick up medicine in place of my father. This\nclinic, having been established by the authorities, has a\ngood collection of doctors."
                             ]
                         },
                         {
@@ -6355,7 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "起きてください。お食事の時間ですよ？"
+                                "Please wake up. It's time for your meal, okay?"
                             ]
                         },
                         {
@@ -6731,7 +6472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Healing Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -7817,7 +7558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 150 mon!\\c[0]"
                             ]
                         },
                         {
@@ -9565,28 +9306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今までお金がなくて薬が買えなくて困ってたの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、この前ねずみ小町が小判をくれてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげさまで薬も買えて病気も良くなってきたのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当ねずみ小町様々だよ♪"
+                                "I've been struggling because I didn't have money to buy\nmedicine... But then, Nezumi Komachi gave me some koban\ncoins. Thanks to that, I was able to buy medicine and my\nillness has been getting better. Truly, Nezumi Komachi is\namazing♪"
                             ]
                         },
                         {
@@ -9610,14 +9330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですか。それは良かったですね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（私が配ったお金が世の役にたってるみたいで安心したわ）"
+                                "Is that so? That's great to hear♪ (I'm relieved to see that\nthe money I distributed is helping people.)"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "数寄大名宅",
+    "displayName": "Connoisseur Daimyo's Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2726,7 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあぁ！　すごい宝物の数……！"
+                                "Wow! Such an incredible number of treasures...!"
                             ]
                         },
                         {
@@ -2750,14 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。そこな娘。我が収集物に眼を輝かすとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そなたなかなかの数寄者じゃな？"
+                                "Hmm, that girl over there. You seem quite fascinated by my\ncollection. Are you an enthusiast of sorts?"
                             ]
                         },
                         {
@@ -2781,14 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す……すごいお宝の数ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わず見とれてしまいました。"
+                                "Such... such an amazing number of treasures. I couldn't help\nbut be mesmerized."
                             ]
                         },
                         {
@@ -2819,14 +2805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっはっは！　わしは数寄大名として有名じゃからの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は特にあるものを集めている。"
+                                "Ha ha ha! I am well-known as a connoisseur daimyo.\nCurrently, I am particularly collecting a certain item."
                             ]
                         },
                         {
@@ -2850,7 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あるもの……ですか？"
+                                "A certain item...?"
                             ]
                         },
                         {
@@ -2874,21 +2853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。奇妙な貨幣――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俗にいう【奇貨】というやつじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古銭の類で日本中から集めておるのじゃ。"
+                                "Yes, strange coins—commonly known as \"Kika.\" I am gathering\nold coins from all over Japan."
                             ]
                         },
                         {
@@ -2912,7 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇貨（きか）……ですか？　なるほど。"
+                                "Kika...? I see."
                             ]
                         },
                         {
@@ -2936,14 +2901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇貨を見つけたら我が屋敷へ持って来るがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ相応の貴重品と交換しよう。頼むぞ。"
+                                "If you find any Kika, bring them to my mansion. I shall\nexchange them for something of equal value. I'm counting on\nyou."
                             ]
                         },
                         {
@@ -3046,14 +3004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇貨を持ってきたか？　交換するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（奇貨　×　\\V[34]）"
+                                "Have you brought the rare goods? Let's make a trade. (Rare\nGoods ×\\V[34])"
                             ]
                         },
                         {
@@ -3080,11 +3031,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "元気の指輪【装飾品】　体力＋２００",
-                                    "達人の指輪【装飾品】　技力＋１００",
-                                    "憤怒の指輪【装飾品】　攻撃力＋８",
-                                    "堅守の指輪【装飾品】　守備力＋１５",
-                                    "交換しない"
+                                    "Ring of Vitality [Accessory] HP +200",
+                                    "Ring of Mastery [Accessory] Skill +100",
+                                    "Ring of Wrath [Accessory] Attack +8",
+                                    "Ring of Defense [Accessory] Defense +15",
+                                    "Do not exchange"
                                 ],
                                 4,
                                 0,
@@ -3141,14 +3092,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ。確かに奇貨じゃな。持っていくがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[17]――花梨は【元気の指輪】を手に入れた！\\c[0]"
+                                "Indeed, these are rare goods. Take this with\nyou.\\c[17]--Karin has obtained the 【Ring of Vigor】!\\c[0]"
                             ]
                         },
                         {
@@ -3221,14 +3165,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……おや、手持ちの奇貨がないようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見つけたら持ってくるがよい。"
+                                "...Oh, it seems you don't have any rare goods on hand. Bring\nthem when you find them."
                             ]
                         },
                         {
@@ -3302,14 +3239,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ。確かに奇貨じゃな。持っていくがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[17]――花梨は【達人の指輪】を手に入れた！\\c[0]"
+                                "Indeed, these are rare goods. Take this with\nyou.\\c[17]--Karin has obtained the 【Ring of Mastery】!\\c[0]"
                             ]
                         },
                         {
@@ -3382,14 +3312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……おや、手持ちの奇貨がないようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見つけたら持ってくるがよい。"
+                                "...Oh, it seems you don't have any rare goods on hand. Bring\nthem when you find them."
                             ]
                         },
                         {
@@ -3463,14 +3386,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ。確かに奇貨じゃな。持っていくがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[17]――花梨は【憤怒の指輪】を手に入れた！\\c[0]"
+                                "Indeed, these are rare goods. Take this with\nyou.\\c[17]--Karin has obtained the 【Ring of Wrath】!\\c[0]"
                             ]
                         },
                         {
@@ -3543,14 +3459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……おや、手持ちの奇貨がないようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見つけたら持ってくるがよい。"
+                                "...Oh, it seems you don't have any rare goods on hand. Bring\nthem when you find them."
                             ]
                         },
                         {
@@ -3624,14 +3533,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うむ。確かに奇貨じゃな。持っていくがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[17]――花梨は【元気の指輪】を手に入れた！\\c[0]"
+                                "Indeed, these are rare goods. Take this with\nyou.\\c[17]--Karin has obtained the 【Ring of Vigor】!\\c[0]"
                             ]
                         },
                         {
@@ -3704,14 +3606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……おや、手持ちの奇貨がないようじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見つけたら持ってくるがよい。"
+                                "...Oh, it seems you don't have any rare goods on hand. Bring\nthem when you find them."
                             ]
                         },
                         {
@@ -3765,14 +3660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "奇貨を見つけたら持って来るがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それ相応の貴重品と交換しよう。頼むぞ。"
+                                "If you find rare goods, bring them to me. We shall trade\nthem for something of equal value. I'm counting on you."
                             ]
                         },
                         {
@@ -3864,14 +3752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッハッハ！　おかげでたくさん奇貨が集まった♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨よ、感謝するぞ！"
+                                "Ha ha ha! Thanks to you, I've gathered a lot of exotic\ngoods. Karin, I am grateful!"
                             ]
                         },
                         {
@@ -3895,14 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは良かったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらも集めた甲斐があるというものです。"
+                                "That's good to hear. It makes all the effort of collecting\nthem worth it."
                             ]
                         },
                         {
@@ -3926,21 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他に欲しい褒美はあるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシが持っているもので欲しいモノがあるのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別の褒美を与えても良いぞ？"
+                                "Is there any other reward you desire? If there's something\nelse you want that I possess, I'm willing to give it as an\nadditional reward."
                             ]
                         },
                         {
@@ -3964,7 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですねぇ……　ではそこにいる虎を頂けます？"
+                                "Well then... may I have that tiger over there?"
                             ]
                         },
                         {
@@ -3988,7 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なに？　虎を……！？　虎が欲しいと申すか？"
+                                "--What? The tiger...!? You wish to have the tiger?"
                             ]
                         },
                         {
@@ -4012,21 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。こんな狭い牢屋に閉じ込めてては可哀想です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上野に動物園があるので、そちらで伸び伸びとさせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あげたいのです。"
+                                "Yes. It's pitiful to keep it locked up in such a small cage.\nThere's a zoo in Ueno, and I'd like to let it roam freely\nthere."
                             ]
                         },
                         {
@@ -4050,14 +3896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【虎】"
+                                "【Tiger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルルルルッ――！"
+                                "Grrrrrrr--!"
                             ]
                         },
                         {
@@ -4081,21 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うぅむ。しかしだねぇ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この虎は四苦八苦して海外からようやく手に入れた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの大事な収集物なのだから……"
+                                "...Hmm. However, this tiger is a precious part of my\ncollection that I've gone through great trouble to obtain\nfrom overseas..."
                             ]
                         },
                         {
@@ -4119,21 +3951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴重な収集物なのは承知しています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこそ、たくさんの人に見てもらったほうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数寄大名としての名も高まる……　違いますか？"
+                                "I understand it's a valuable collection. That's exactly why\nshowing it to many people would enhance your reputation as a\nconnoisseur daimyo... wouldn't it?"
                             ]
                         },
                         {
@@ -4157,7 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅむ。一理あるな……　承知した。お主に譲ろう。"
+                                "Hmm. You make a fair point... Agreed. I shall grant it to\nyou."
                             ]
                         },
                         {
@@ -4181,7 +3999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――本当ですか！？　ありがとうございます！"
+                                "--Really!? Thank you so much!"
                             ]
                         },
                         {
@@ -4205,14 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただし条件として虎の展示前に看板を置くこと――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの名前を大きくそえてな。"
+                                "However, there's one condition: place a sign before the\ntiger's exhibit--and make sure my name is prominently\nincluded."
                             ]
                         },
                         {
@@ -4236,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい！　承知しました！　では虎を連れていきますね！"
+                                "Yes! Understood! Then I'll take the tiger with me!"
                             ]
                         },
                         {
@@ -4331,14 +4142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【虎】"
+                                "【Tiger】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がるるる～～\\I[15]"
+                                "Grrrrrrr~~\\I[15]"
                             ]
                         },
                         {
@@ -4362,21 +4173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よしよし。こんな狭い牢で辛かったでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も牢屋の中の辛さ、よくわかるからね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "広い空の下へ行きましょう――"
+                                "There, there. It must have been hard being in such a cramped\ncage, right? I understand the pain of being inside a cell\nall too well... Let's go under the wide open sky--"
                             ]
                         },
                         {
@@ -4439,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【虎】\\c[0]を手に入れた！"
+                                "--Karin has obtained the \\c[17]【Tiger】\\c[0]!"
                             ]
                         },
                         {
@@ -4534,14 +4331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "危うく収集物が全部燃えるところだったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "幕府もガタガタだし、できれば自分の領地へ戻りたいよ……"
+                                "We almost had all the collected items go up in flames. With\nthe shogunate in such disarray, I'd prefer to return to my\nown domain if possible..."
                             ]
                         },
                         {
@@ -4582,21 +4372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ワシが与えた虎のことを頼んだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにしても多くの奇貨を集めた手際、見事であった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "感謝するぞ。"
+                                "I entrusted you with the tiger I gave you. The skill with\nwhich you've amassed such a collection of rare goods was\nsplendid. I am grateful."
                             ]
                         },
                         {
@@ -4690,7 +4466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がるるるる！（虎は威嚇している）"
+                                "Grrrrrr! (The tiger is growling threateningly)"
                             ]
                         },
                         {

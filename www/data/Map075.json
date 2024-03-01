@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "定食屋",
+    "displayName": "Set Meal Restaurant",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,7 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちら定食屋だよ。お昼まだなら食べて行きな。"
+                                "This is a set meal restaurant. If you haven't had lunch yet,\nfeel free to eat here."
                             ]
                         },
                         {
@@ -2245,7 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう……　ご飯まだだし食べてこうかな）\\$"
+                                "(What should I do... I haven't eaten yet, maybe I should\nhave something here.)\\$"
                             ]
                         },
                         {
@@ -2253,8 +2253,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "食べる【８００文】",
-                                    "断る"
+                                    "Eat (800 mon)",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -2316,7 +2316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい、鮭定食お待ちどうさま。"
+                                "Yes, your salmon set meal is ready. Thank you for waiting."
                             ]
                         },
                         {
@@ -2340,7 +2340,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わぁ、美味しそう！　頂きます♪"
+                                "Wow, it looks delicious! I'll dig in♪"
                             ]
                         },
                         {
@@ -2381,7 +2381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]――花梨の技力の最大値が１０上昇\\c[0]"
+                                "\\c[17]--Karin's skill power maximum has increased by 10\\c[0]"
                             ]
                         },
                         {
@@ -2431,7 +2431,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――お金が足りません"
+                                "--You don't have enough money"
                             ]
                         },
                         {
@@ -2572,14 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店が繁盛するのは嬉しいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忙しいのも困ったものだよ。"
+                                "It's great that the shop is thriving, but being busy can be\nquite troublesome too."
                             ]
                         },
                         {
@@ -2929,7 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "麦茶だこれ！"
+                                "This is barley tea!"
                             ]
                         },
                         {
@@ -3006,14 +2999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "食べないと元気でないからねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お昼はいつも大盛定食よ♪"
+                                "If you don't eat, you won't have energy. I always have a\nlarge serving for lunch♪"
                             ]
                         },
                         {
@@ -3090,14 +3076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっはっは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昼間から酒を飲むことが最高の贅沢だね♪"
+                                "Wahahaha! Drinking sake from the afternoon is the ultimate\nluxury, isn't it?♪"
                             ]
                         },
                         {
@@ -3174,14 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もぐもぐ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの定食屋は一番のお気に入りさ。"
+                                "Munch munch... This diner is my absolute favorite."
                             ]
                         },
                         {
@@ -3258,7 +3230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっはっは！　乾杯！"
+                                "Wa-hahaha! Cheers!"
                             ]
                         },
                         {
@@ -3335,14 +3307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　食った食った……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腹いっぱいで動けねぇぜ……"
+                                "Phew... I ate so much... I'm so full I can't move..."
                             ]
                         },
                         {
@@ -3419,14 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くぅ～！　美味い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大将、マグロを十貫追加で！"
+                                "Mmm~! Delicious! Boss, ten more pieces of tuna, please!"
                             ]
                         },
                         {
@@ -3563,14 +3521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寿司は江戸の名物さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "築地の魚は最高だぜ。"
+                                "Sushi is a specialty of Edo. The fish from Tsukiji are the\nbest."
                             ]
                         },
                         {
@@ -3827,14 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ、満席みたいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予約してくればよかった……"
+                                "Phew, looks like it's fully booked. I should have made a\nreservation..."
                             ]
                         },
                         {
@@ -3971,14 +3915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昼飯を食ったら仕事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本音ではこのまま家に帰りたい……"
+                                "Once I've had lunch, it's back to work. Honestly, I just\nwant to go home..."
                             ]
                         },
                         {
@@ -4055,21 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は平和だが、このところの天変地異で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地方では山賊やら野盗が増えているらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく物騒な世の中になったもんじゃ。"
+                                "Edo is peaceful, but it seems that bandits and brigands are\non the rise in the provinces due to recent natural\ndisasters. Truly, it has become a dangerous world."
                             ]
                         },
                         {
@@ -4146,21 +4069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快盗ねずみ小町の正体って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこの誰なんだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案外すぐ近くにいたりしてなぁ。"
+                                "I wonder who the true identity of the Phantom Thief Nezumi\nKomachi is, and from where. Maybe they're unexpectedly close\nby, huh."
                             ]
                         },
                         {
@@ -4355,7 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -4483,14 +4392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁい！　いらっしゃいませ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何名様ですか？　少々お待ちくださいね～"
+                                "Welcome! How many in your party? Please wait a moment~"
                             ]
                         },
                         {
@@ -4648,7 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕方ない。席が空くまで待つとするか。"
+                                "Can't be helped. Guess I'll wait until a seat opens up."
                             ]
                         },
                         {
@@ -4725,21 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お母ちゃん、大食家なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ全部食べるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごいでしょ。"
+                                "Mom, I'm a big eater. I'm going to eat all of this. Amazing,\nisn't it?"
                             ]
                         },
                         {
@@ -4816,7 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おーい、お勘定お願い――"
+                                "Hey, can I get the check please--"
                             ]
                         },
                         {
@@ -4953,14 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのさんま定食が好きでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "築地から取り寄せてるから旨いよ。"
+                                "I love the saury set meal here. It's delicious because they\nsource it from Tsukiji."
                             ]
                         },
                         {

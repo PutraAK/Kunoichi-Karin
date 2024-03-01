@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "新宿",
+    "displayName": "Shinjuku",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -12457,9 +12457,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "承知する【提示金額　\\V[47]文】\\c[27]【Ｈイベント】\\c[0]",
-                                    "交渉する",
-                                    "断る"
+                                    "Understood. \"The offered amount of \\V[47] mon.\" \\c[27]\"【H Event】\"\\c[0]",
+                                    "Negotiate",
+                                    "Decline"
                                 ],
                                 2,
                                 0,
@@ -12496,21 +12496,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【売春客】"
+                                "【Prostitute Client】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ、嬉しいねぇ！　ここじゃ目立つから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこの物陰へ行こうぜ\\I[15]"
+                                "Hehe, I'm so happy! This place is too conspicuous, let's go\nover there behind the cover\\I[15]"
                             ]
                         },
                         {
@@ -12553,7 +12546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――売春相手は花梨の手を引いて物陰に連れ込んだ。"
+                                "--The client pulled Karin by the hand into the shadows."
                             ]
                         },
                         {
@@ -12769,7 +12762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いいぜ。値段を上乗せする代わり楽しませてくれよ。"
+                                "Sure. Just make it worth my while with a little extra on\ntop."
                             ]
                         },
                         {
@@ -12786,7 +12779,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon\\c[0]!"
                             ]
                         },
                         {
@@ -12842,7 +12835,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "構わねぇ。アンタ、色っぽいもんなぁ。多めに払うぜ。"
+                                "I don't mind. You're quite the seductive one, aren't you?\nI'll pay more."
                             ]
                         },
                         {
@@ -12859,7 +12852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon\\c[0]!"
                             ]
                         },
                         {
@@ -12893,14 +12886,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……うーん。これ以上、金は出せねぇよ。じゃあな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（男は首を振り去っていった――）"
+                                "...Hmm. I can't pay any more than this. See ya. (The man\nshook his head and walked away--)"
                             ]
                         },
                         {
@@ -15065,9 +15051,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "承知する【提示金額　\\V[47]文】\\c[27]【Ｈイベント】\\c[0]",
-                                    "交渉する",
-                                    "断る"
+                                    "Acknowledge (Offered amount \\V[47] mon)\\c[27][H Event]\\c[0]",
+                                    "Negotiate",
+                                    "Decline"
                                 ],
                                 2,
                                 0,
@@ -15104,21 +15090,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【売春客】"
+                                "【Prostitute Client】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ、嬉しいねぇ！　ここじゃ目立つから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこの物陰へ行こうぜ\\I[15]"
+                                "Hehe, I'm so happy! This place is too conspicuous, let's go\nover there in the shadows\\I[15]"
                             ]
                         },
                         {
@@ -15161,7 +15140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――売春相手は花梨の手を引いて物陰に連れ込んだ。"
+                                "--The client led Karin by the hand into the shadows."
                             ]
                         },
                         {
@@ -15377,7 +15356,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いいぜ。値段を上乗せする代わり楽しませてくれよ。"
+                                "Sure thing. Just make it worth the extra price."
                             ]
                         },
                         {
@@ -15394,7 +15373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon\\c[0]!"
                             ]
                         },
                         {
@@ -15450,7 +15429,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "構わねぇ。アンタ、色っぽいもんなぁ。多めに払うぜ。"
+                                "No problem. You're quite the seductive one, aren't you? I'll\npay more."
                             ]
                         },
                         {
@@ -15467,7 +15446,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon\\c[0]!"
                             ]
                         },
                         {
@@ -15501,14 +15480,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……うーん。これ以上、金は出せねぇよ。じゃあな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（男は首を振り去っていった――）"
+                                "...Hmm. I can't offer any more than this. See ya. (The man\nshook his head and walked away--)"
                             ]
                         },
                         {
@@ -15753,9 +15725,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "承知する【提示金額　\\V[47]文】\\c[27]【Ｈイベント】\\c[0]",
-                                    "交渉する",
-                                    "断る"
+                                    "I understand. [Offered amount \\V[47] mon]\\c[27][H Event]\\c[0]",
+                                    "Negotiate",
+                                    "Decline"
                                 ],
                                 2,
                                 0,
@@ -15792,21 +15764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【売春客】"
+                                "【Prostitute Client】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ、嬉しいねぇ！　ここじゃ目立つから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこの物陰へ行こうぜ\\I[15]"
+                                "Hehe, I'm so happy! This place is too conspicuous, let's go\nover there in the shadows\\I[15]"
                             ]
                         },
                         {
@@ -15849,7 +15814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――売春相手は花梨の手を引いて物陰に連れ込んだ。"
+                                "--The client pulled Karin by the hand into the shadows."
                             ]
                         },
                         {
@@ -16065,7 +16030,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いいぜ。値段を上乗せする代わり楽しませてくれよ。"
+                                "Sure. Just make it worth my while with a little extra on top\nof the price."
                             ]
                         },
                         {
@@ -16082,7 +16047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon \\c[0]!"
                             ]
                         },
                         {
@@ -16138,7 +16103,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "構わねぇ。アンタ、色っぽいもんなぁ。多めに払うぜ。"
+                                "No problem. You're quite the seductress, after all. I'll pay\nextra."
                             ]
                         },
                         {
@@ -16155,7 +16120,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon \\c[0]!"
                             ]
                         },
                         {
@@ -16189,14 +16154,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……うーん。これ以上、金は出せねぇよ。じゃあな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（男は首を振り去っていった――）"
+                                "...Hmm. I can't offer any more than this. See ya. (The man\nshook his head and walked away--)"
                             ]
                         },
                         {
@@ -18204,14 +18162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【赤猪】"
+                                "【Red Boar】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルルルッ――！"
+                                "Brrrrr--!"
                             ]
                         },
                         {
@@ -18284,14 +18242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――赤い猪！　これは珍しいわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上野まで連れて行こう！"
+                                "--A red boar! This is rare. Let's take it to Ueno!"
                             ]
                         },
                         {
@@ -18346,7 +18297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【赤猪】\\c[0]を捕獲した！"
+                                "--\\c[17]【Red Boar】\\c[0] captured!"
                             ]
                         },
                         {
@@ -20667,28 +20618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ア～ン～タ～た～ち～～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You guys~~!!"
                             ]
                         },
                         {
@@ -20743,28 +20673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――げっ！　お、お前は……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Gah! Y-you are...!?"
                             ]
                         },
                         {
@@ -20819,28 +20728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前に日比谷の公園で出会った娘――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The girl we met before in Hibiya Park--!?"
                             ]
                         },
                         {
@@ -20864,21 +20752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前はよくもやってくれたわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また盗みをしているようだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜は絶対に逃がさないわよ――！"
+                                "Last time you really did a number on us, huh? Looks like\nyou're stealing again, so I won't let you escape tonight--!"
                             ]
                         },
                         {
@@ -20902,28 +20776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、デカい声を出すなッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝ている住人に気づかれる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Don't shout so loud! You'll wake the sleeping residents...!"
                             ]
                         },
                         {
@@ -20947,28 +20800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また俺たちの邪魔をする気か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度ヒドイ目にあわせてやるぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トリモチ玉をくらえッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're going to get in our way again? I'll make you regret\nit once more! Take this sticky bomb--!"
                             ]
                         },
                         {
@@ -21004,28 +20836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "舐めないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度も通用するもんですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やあああっ――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Don't underestimate me! You think the same trick will work\ntwice?! Yaaahhh----!!"
                             ]
                         },
                         {
@@ -21070,28 +20881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ドカッ――！　バキッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Thud--! Crack--!!>"
                             ]
                         },
                         {
@@ -21115,28 +20905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎにゃああぁ～～！！　い、痛いッ！！（がくり）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gyaaahh~~!! I-it hurts!! (collapses)"
                             ]
                         },
                         {
@@ -21169,28 +20938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、参ったッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命だけは勘弁してくれぇ～～！（ばたり）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I give up! Just spare my life, please~~! (falls over)"
                             ]
                         },
                         {
@@ -21226,7 +20974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――空き巣兄弟は花梨の攻撃を受けて気絶した！"
+                                "--The burglar brothers were knocked out by Karin's attack!"
                             ]
                         },
                         {
@@ -21358,7 +21106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……！"
+                                "*pant*... *pant*...!"
                             ]
                         },
                         {
@@ -21382,28 +21130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ？　通報があって来てみたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨か……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's this? I came because there was a report... Karin, is\nthat you...?"
                             ]
                         },
                         {
@@ -21458,28 +21185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧ちゃん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつら、空き巣よ。はやく縄を――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yugiri-chan!? These guys are burglars. Hurry, get some\nrope--!"
                             ]
                         },
                         {
@@ -21503,28 +21209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふふ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Hehe..."
                             ]
                         },
                         {
@@ -21548,28 +21233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　なんで笑ってるのよ、夕霧ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? Why are you laughing, Yugiri-chan?"
                             ]
                         },
                         {
@@ -21593,28 +21257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや……　元盗賊のお前が空き巣を捕まえている姿を見て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白くてな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No... It's just funny seeing you, a former thief, catching\nburglars..."
                             ]
                         },
                         {
@@ -21638,14 +21281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……！　そんな皮肉言うなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この空き巣たち逃がしちゃうよ？"
+                                "Ugh...! If you're going to be sarcastic, I might just let\nthese burglars go?"
                             ]
                         },
                         {
@@ -21669,28 +21305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。良く捕まえてくれた花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつらを奉行所に連れていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たち、連行しろ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sorry. Good job catching them, Karin. We'll take these guys\nto the magistrate's office. Everyone, take them away--"
                             ]
                         },
                         {
@@ -21714,28 +21329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes--!"
                             ]
                         },
                         {
@@ -21766,28 +21360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ぐにゅう…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...gnuu..."
                             ]
                         },
                         {
@@ -21843,28 +21416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空き巣兄弟は夕霧たちに連行された――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The burglar brothers were taken away by Yugiri and her\ngroup--"
                             ]
                         },
                         {
@@ -21881,28 +21433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -21926,14 +21457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　この前の仇は取れて満足だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか疲れちゃったな……"
+                                "Phew... I got revenge for last time and I'm satisfied, but\nsomehow I'm tired..."
                             ]
                         },
                         {
@@ -21957,28 +21481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -22042,21 +21545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まぁ、捕縛した報酬として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "空き巣が盗んだお金、少しだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手にもらっておいたけどね♪"
+                                "...Well, as a reward for capturing them, I helped myself to\na little of the money the burglars stole♪"
                             ]
                         },
                         {
@@ -22094,14 +21583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３０００文】\\c[0]手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\$"
+                                "--\\c[17]Gained 3000 mon!\\c[0]\\$"
                             ]
                         },
                         {
@@ -22125,14 +21607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、夜も明けてきたし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はもう自宅に戻ろう。"
+                                "Now that dawn is breaking... I should head back home."
                             ]
                         },
                         {
@@ -22168,7 +21643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は自宅に向かった。"
+                                "--Karin headed towards her home."
                             ]
                         },
                         {
@@ -22636,7 +22111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】子供たちへ――　井戸周辺で遊ぶべからず！"
+                                "[Sign] To the children--Do not play around the well!"
                             ]
                         },
                         {
@@ -23355,21 +22830,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【夜鷹】"
+                                "【Night Hawk】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旦那、もうちょっと弾んでおくれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新宿まで出張してきたんだからさぁ。"
+                                "Master, could you be a bit more generous? I've come all the\nway to Shinjuku for this."
                             ]
                         },
                         {
@@ -23606,7 +23074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……！　この値段でどうだい？"
+                                "*pant*... *pant*...! How about this price?"
                             ]
                         },
                         {

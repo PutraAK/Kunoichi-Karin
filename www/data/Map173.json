@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "妖の杜",
+    "displayName": "Forest of Mystique",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -15879,7 +15879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16126,7 +16126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -16372,7 +16372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -19678,7 +19678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -19924,7 +19924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -25150,7 +25150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【150 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -25876,7 +25876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 800 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -29883,7 +29883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]Obtained 【Medicine】!\\c[0]"
                             ]
                         },
                         {
@@ -30130,7 +30130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -30414,21 +30414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -30452,14 +30438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここが妖の杜――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自然に満ちた長閑な場所ね。"
+                                "This is the enchanted forest--a tranquil place filled with\nnature."
                             ]
                         },
                         {
@@ -30483,28 +30462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずいぶんと広大な森だな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "樹海といってもいいくらいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Such a vast forest... It's almost like a sea of trees."
                             ]
                         },
                         {
@@ -30528,14 +30486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに来るのは久しぶりですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの頃から何も変わっていない。"
+                                "It's been a while since we've been here. Nothing seems to\nhave changed since then."
                             ]
                         },
                         {
@@ -30559,7 +30510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉さんはこの杜に来たことがあるの？"
+                                "Momiji-san, have you been to this forest before?"
                             ]
                         },
                         {
@@ -30583,28 +30534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。まだ私が鬼の力に支配されていた時"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでお師匠様に会ったんです。その出会いがなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっくに人間らしさを失っていたかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨ちゃんと夕霧さんに出会えなかったかも……"
+                                "Yes. I met my master here when I was still under the control\nof the demon's power. If not for that encounter, I might\nhave lost my humanity long ago. I might never have met you,\nKarin-chan and Yugiri-san..."
                             ]
                         },
                         {
@@ -30628,14 +30558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所は空気を吸っているだけでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体を浄化してくれるような、そんな神聖さに溢れている。"
+                                "This place feels so sacred, as if just breathing in the air\npurifies your body."
                             ]
                         },
                         {
@@ -30659,21 +30582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お師匠様もそう言ってました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この杜の浄化作用によって妖や動物も穏やかなので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の森と比べて危険や害はないと。"
+                                "My master said the same. Thanks to the purifying effect of\nthis forest, the spirits and animals are calm, making it\nless dangerous and harmful than other forests."
                             ]
                         },
                         {
@@ -30716,28 +30625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グフフッ――！　果たしてそうかナ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Guheheh--! Is that really so?"
                             ]
                         },
                         {
@@ -30782,28 +30670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!?"
                             ]
                         },
                         {
@@ -30910,14 +30777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ウオオオオォン！！　＞\\|\\|"
+                                "<Roarrrrr!!>"
                             ]
                         },
                         {
@@ -30948,28 +30808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！？　アンタは……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Huh!? You are...?"
                             ]
                         },
                         {
@@ -30993,7 +30832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "海岸度窟で見た、【センビ】という名の戦鬼だな？"
+                                "The battle demon named Senbi that we saw at the coastal\ncave, right?"
                             ]
                         },
                         {
@@ -31029,28 +30868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガルルッ――　名前を覚えてもらっていて光栄ダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギョウオンが、お前たちがココに来るとヤマを張っていたガ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうやら当たったみたいダナ？　目的は鬼討の神器という"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣で間違いあるマイ？"
+                                "Grrr--I'm honored you remember my name. Gyoun predicted that\nyou would come here, and it seems he was right. Your goal is\nthe sword known as the demon-slaying divine weapon, isn't\nit?"
                             ]
                         },
                         {
@@ -31074,14 +30892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神通三明剣のこと、知っているのね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちが手に入れるのを邪魔しに来たの？"
+                                "You know about the Divine Threefold Sword? Did you come here\nto prevent us from obtaining it?"
                             ]
                         },
                         {
@@ -31105,21 +30916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン、伝説の剣など誘い水でしかナイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワレの宿敵である真沙妃はここに来てないみたいダナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拍子抜けしたゾ。"
+                                "Hmph, such a legendary sword is merely bait. It seems my\narchenemy Masaki has not come here. What a letdown."
                             ]
                         },
                         {
@@ -31155,14 +30952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　シャキン――ッ！！　＞"
+                                "<Swoosh--!!>"
                             ]
                         },
                         {
@@ -31186,7 +30976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――っ！？"
+                                "----!?"
                             ]
                         },
                         {
@@ -31210,28 +31000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の身体、再び切り裂いテ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハラワタを食い尽くしてくレル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワレの爪に貫かれて惨めに死ぬがヨイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I will slash your body again and feast on your innards! It\nwould be fitting for you to die miserably, pierced by my\nclaws!"
                             ]
                         },
                         {
@@ -31267,28 +31036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ガキン――ッ！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Clang--!!>"
                             ]
                         },
                         {
@@ -31319,28 +31067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃああぁ～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaahhh~!!"
                             ]
                         },
                         {
@@ -31364,28 +31091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（速い！　目で追うのがやっとだった……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今まで戦った相手で一番の素早さだ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? (So fast! I could barely follow with my eyes...! He's\nthe quickest opponent we've faced so far!)"
                             ]
                         },
                         {
@@ -31409,28 +31115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しっかりして、花梨ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hold on, Karin-chan!"
                             ]
                         },
                         {
@@ -31454,7 +31139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ……大丈夫、紅葉さん……　かすり傷だから……"
+                                "I'm... okay, Momiji-san... it's just a scratch..."
                             ]
                         },
                         {
@@ -31485,21 +31170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン！　遅イ、ノロイ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コチラが手を下すまでも無い相手ダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待しすぎタカ？"
+                                "Hmph! Slow, sluggish--you're not even worth my effort. Did\nyou expect too much?"
                             ]
                         },
                         {
@@ -31523,7 +31194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！"
+                                "...!"
                             ]
                         },
                         {
@@ -31547,14 +31218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅葉ヨ、我ら八怨戦鬼をよくも裏切ったナ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コタローが嘆いておったゾ。親不孝な娘だとナ……"
+                                "Momiji, how dare you betray us, the Eight Grudge Battle\nDemons? Kotaro- was lamenting. What a disgraceful\ndaughter..."
                             ]
                         },
                         {
@@ -31578,28 +31242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私の生き方は私が決めます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち親子にとって部外者のあなたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気軽に言うことじゃありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...I decide how I live my life. You're an outsider to our\nparent-child relationship; it's not your place to comment so\ncasually."
                             ]
                         },
                         {
@@ -31623,28 +31266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン――　すっかり鬼の気を抜かれて人間らしくなったモノダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オマエの師匠である真沙妃のせいカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アヤツ、半年前にあれだけ切り刻んだノニ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死なずに生きてイテ、こちらも驚いたゾ。"
+                                "Hmph--you've completely lost your demonic edge and become so\nhuman-like. Is it because of your master Masaki? I was\nsurprised that after being slashed up so badly half a year\nago, she didn't die and is still alive."
                             ]
                         },
                         {
@@ -31668,28 +31290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……っ！　もしかしてこのセンビが――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! Could it be that Senbi is--?"
                             ]
                         },
                         {
@@ -31713,28 +31314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。半年前にお師匠様を襲撃して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの狐の姿にまで追い込んだ張本人です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１００年以上前にお師匠様に敗北したことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼の道に堕ちた物の怪です。"
+                                "Yes. He's the one who attacked our master half a year ago\nand reduced her to just a fox form. He's a monstrous being\nwho fell into the path of demons after being defeated by our\nmaster over a hundred years ago."
                             ]
                         },
                         {
@@ -31765,28 +31345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "狐如きが狼より偉いのが気に食わヌ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真沙妃を殺し、妖の王になるのがワレの宿願――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前たち、脆弱な人間ドモに興味はナイ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワレの部下である凶暴な獣達が、貴様らの相手をシヨウ。"
+                                "I can't stand that a mere fox thinks it's superior to a\nwolf. Killing Masaki and becoming the king of spirits is my\nlifelong ambition--I have no interest in weak humans like\nyou. My subordinates, ferocious beasts, will take care of\nyou."
                             ]
                         },
                         {
@@ -31822,28 +31381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待ちなさいよ、センビ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いを仕掛けておいて、尻尾を巻いて逃げる気！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wait right there, Senbi! Are you planning to tuck your tail\nand run after starting a fight!?"
                             ]
                         },
                         {
@@ -31867,28 +31405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グハハハハハッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワレの爪撃を二度も受けても吠えるトハ、威勢の良い娘ダ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妖の杜の最奥の神殿――　そこでワレは待つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死にたけレバ、いつでも来るがヨイ！"
+                                "Gwahahahahaha! For someone who has taken my claw strikes\ntwice and still barks, you're quite spirited! I'll be\nwaiting at the innermost shrine of the enchanted forest. If\nyou wish to die, come anytime!"
                             ]
                         },
                         {
@@ -31938,28 +31455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ダダンッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Thud--!!>"
                             ]
                         },
                         {
@@ -31976,28 +31472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――センビは大跳躍し、森の奥に消えた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Senbi leapt away with a great jump and disappeared into\nthe depths of the forest!"
                             ]
                         },
                         {
@@ -32039,21 +31514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -32077,14 +31538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、どうしよう……　啖呵を切ってみたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの狼の鬼、とても素早くて強い相手よね……"
+                                "Hmm, what to do... I talked big, but that wolf demon is\nincredibly fast and strong..."
                             ]
                         },
                         {
@@ -32108,14 +31562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一旦、江戸に戻るか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真沙妃殿の助力を仰ぐのも策だと思うが。"
+                                "Shall we return to Edo for now? It might be wise to seek\nassistance from Lady Masaki."
                             ]
                         },
                         {
@@ -32139,28 +31586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、戦鬼とはいえ私たちだけで十分に戦える相手です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま森の奥へ進んで行きましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うかつに時を過ごすと、センビは伝説の剣を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処かに隠してしまうかもしれませんし……"
+                                "No, we can handle a battle demon like him on our own. Let's\ncontinue deeper into the forest. If we're careless with\ntime, Senbi might hide the legendary sword somewhere..."
                             ]
                         },
                         {
@@ -32184,28 +31610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね。紅葉さんの言う通りだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神通三明剣を探しに私たちだけで妖の杜へ来たんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいる三人でセンビに決闘を挑みましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes, you're right, Momiji-san. Since we came to the\nenchanted forest by ourselves to search for the Jintsumei\nSword, let's challenge Senbi to a duel with just the three\nof us here."
                             ]
                         },
                         {
@@ -32229,14 +31634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。承知した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用心しながら奥へ進もう――"
+                                "Indeed. Understood. Let's proceed carefully to the inner\nareas--"
                             ]
                         },
                         {

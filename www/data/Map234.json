@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "小田原　地下",
+    "displayName": "Odawara Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -16626,7 +16626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16873,7 +16873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17120,7 +17120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -17366,7 +17366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 mon!\\c[0]"
                             ]
                         },
                         {
@@ -17612,7 +17612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -17858,7 +17858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 2000 mon!\\c[0]"
                             ]
                         },
                         {
@@ -18105,7 +18105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -18351,7 +18351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -18498,28 +18498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイ……キュイ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeak... Squeak..."
                             ]
                         },
                         {
@@ -18543,28 +18522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――うわっ！？　なに？　気味の悪い……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Whoa!? What? This is creepy...!"
                             ]
                         },
                         {
@@ -18588,28 +18546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイイィ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeeeaaak!"
                             ]
                         },
                         {
@@ -18633,28 +18570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触手の物の怪かしら？　道を塞がれて通れないわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方ない。どいてくれないなら攻撃するよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is this a tentacle monster? It's blocking the way and I\ncan't get through... No choice. If it won't move, I'll have\nto attack!"
                             ]
                         },
                         {
@@ -18678,28 +18594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キュイ～～～～ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squeaaaaaaak!!"
                             ]
                         },
                         {
@@ -18728,7 +18623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――蠢く触手が襲ってきた！"
+                                "--The writhing tentacles are attacking!"
                             ]
                         },
                         {
@@ -23183,7 +23078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {

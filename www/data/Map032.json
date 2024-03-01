@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "武具屋",
+    "displayName": "Weapon Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2906,14 +2906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは一つしかない貴重な武器と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "防具を売っている。欲しいモノはどれかね？"
+                                "We sell a unique and valuable weapon and armor here. Which\none would you like?"
                             ]
                         },
                         {
@@ -2979,7 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう。良き旅路を。"
+                                "Thank you. Have a good journey."
                             ]
                         },
                         {
@@ -4074,7 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "小田原　地下",
+    "displayName": "Odawara Underground",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -23250,7 +23250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -23497,7 +23497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【超技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired the 【Super Technique Sake】!\\c[0]"
                             ]
                         },
                         {
@@ -23744,7 +23744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【全員復活の太鼓】\\c[0]を手に入れた！"
+                                "--\\c[17]【Drum of Full Revival】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -23991,7 +23991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -24238,7 +24238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -24544,7 +24544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【500 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -24791,7 +24791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -24986,28 +24986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――真沙妃ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Masaki-chan!"
                             ]
                         },
                         {
@@ -25031,28 +25010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　三人とも派手に穴へ落ちて行ったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全員息災であったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh! All three of you fell into the hole quite spectacularly,\nbut is everyone unharmed?"
                             ]
                         },
                         {
@@ -25076,7 +25034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お師匠様！　地下まで探しに来てくれたのですね？"
+                                "Master! You came to search for us underground?"
                             ]
                         },
                         {
@@ -25100,21 +25058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで４人全員揃ったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落とし穴のせいでバラバラになった時は慌てたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に合流できて良かった。"
+                                "Now all four of us are together. I was worried when we got\nseparated because of the pitfall, but I'm glad we could\nsafely regroup."
                             ]
                         },
                         {
@@ -25138,28 +25082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……時にここへ来るまでに変な敵と遭遇せんかったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うねうねした触手のバケモノに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...By the way, did you encounter any strange enemies on your\nway here? Like a monster with wriggling tentacles?"
                             ]
                         },
                         {
@@ -25201,7 +25124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うっ！　べ、別に何もなかったよ……"
+                                "...Ugh! N-no, nothing happened..."
                             ]
                         },
                         {
@@ -25242,21 +25165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ、あの気色悪い触手ね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここへくる途中に道を塞いでたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一刀両断したよ！（フンス！）"
+                                "Ah, those disgusting tentacles? They were blocking the path\non the way here, so I slashed them in two! (Hmph!)"
                             ]
                         },
                         {
@@ -25322,28 +25231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……その、不覚にも少しだけ拘束されましたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その後、八つ裂きにしておきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...I was caught off guard and restrained for a bit, but\nafterwards, I tore them to pieces."
                             ]
                         },
                         {
@@ -25384,14 +25272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "拘束しようとしてくる煩わしい敵だったので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "二度と人を襲えぬよう切り刻んでおきました。"
+                                "They were annoying enemies trying to restrain us, so I\nchopped them up so they'll never attack anyone again."
                             ]
                         },
                         {
@@ -25457,14 +25338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……油断して体を拘束されてしまって、大変でした……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう二度と戦いたくない敵です……"
+                                "...I let my guard down and got restrained, it was tough... I\nnever want to fight that enemy again..."
                             ]
                         },
                         {
@@ -25505,28 +25379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの触手、確かに鬱陶しかったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも何もされずに無事倒しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Those tentacles were indeed bothersome. But I managed to\ndefeat them without being harmed."
                             ]
                         },
                         {
@@ -25599,21 +25452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……うむ、なかなかしんどい敵であったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それぞれ色々あったにせよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無事合流できたので良しとしよう。"
+                                "...Hmm, it was quite a challenging enemy. Despite various\nthings happening, it's good that we were able to regroup\nsafely."
                             ]
                         },
                         {
@@ -25654,28 +25493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか。いや、いらぬ質問であったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁよいわ。先を急ぐとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I see. No, it was an unnecessary question. Well, let's not\ndawdle. Let's hurry on ahead."
                             ]
                         },
                         {
@@ -25749,28 +25567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴゴ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rumbling intensifies--!!>"
                             ]
                         },
                         {
@@ -25801,28 +25598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！？　また地震だわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Ah!? Another earthquake!"
                             ]
                         },
                         {
@@ -25846,28 +25622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "揺れがどんどん大きくなっている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The shaking is getting stronger and stronger!"
                             ]
                         },
                         {
@@ -25898,14 +25653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギョウオンの儀式を止めに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く富士へ向かいましょう！"
+                                "We must hurry to Mount Fuji to stop the Gyōon ritual!"
                             ]
                         },
                         {
@@ -25929,28 +25677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃな。こんな所で油を売っている暇はないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出口はこの先じゃ。急ぐぞ花梨――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Indeed. We don't have time to waste in a place like this.\nThe exit is just ahead. Let's hurry, Karin--!"
                             ]
                         },
                         {
@@ -25993,7 +25720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ！　みんな地上へ向かいましょう！"
+                                "Yes! Let's all head to the surface!"
                             ]
                         },
                         {
@@ -26282,7 +26009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨たちは出口へ向かった！"
+                                "--Karin and the others headed for the exit!"
                             ]
                         },
                         {
@@ -29027,7 +28754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆はどうしたんだろう……　ここで待って居よう……"
+                                "I wonder where everyone is... I should wait here..."
                             ]
                         },
                         {
@@ -29133,28 +28860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つっ……！　あのような落とし穴に引っかかるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忍びとして不覚――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Tsk...! To be caught in such a pitfall, as a shinobi, this\nis a blunder--!"
                             ]
                         },
                         {
@@ -29195,21 +28901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]――夕霧の体力が３００減少！\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\c[2]――Yugiri'S Hp Has Decreased By 300!\\c[0]"
                             ]
                         },
                         {
@@ -29252,28 +28944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私一人ということは、他の皆は違う場所に落ちたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵地で一人は危うい。急ぎ花梨たちと合流しないとな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Being alone means the others must have fallen somewhere\nelse? It's dangerous to be alone in enemy territory. I need\nto hurry and regroup with Karin and the others."
                             ]
                         },
                         {
@@ -33073,7 +32744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ地上か？"
+                                "Are we near the surface yet?"
                             ]
                         },
                         {
@@ -33106,28 +32777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　夕霧ちゃん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Yugiri-chan!?"
                             ]
                         },
                         {
@@ -33151,28 +32801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨！？　良かった。無事だったようだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin!? Good, it seems you're safe."
                             ]
                         },
                         {
@@ -33196,28 +32825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん。まったく厄介なところに落とされちゃったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅葉さんと真沙妃ちゃん、大丈夫かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yeah. We really got dropped into a troublesome spot, huh? I\nwonder if Momiji-san and Masaki-chan are okay?"
                             ]
                         },
                         {
@@ -33241,21 +32849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わからん。先に我々だけで進んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "合流できなくなったら大変だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくここで二人のことを待っていよう。"
+                                "I'm not sure. It would be bad if we moved on ahead and\ncouldn't regroup with them. Let's wait here for a while for\nthe two of them."
                             ]
                         },
                         {
@@ -33279,7 +32873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだね。二人とも無事だといいね。"
+                                "Right. I hope they're both safe."
                             ]
                         },
                         {
@@ -33376,28 +32970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……痛い…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく気絶していたみたい……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ouch... It hurts... Looks like I was knocked out for a\nwhile..."
                             ]
                         },
                         {
@@ -33438,21 +33011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[2]――紅葉の体力が３００減少！\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\c[2]――Momiji'S Hp Has Decreased By 300!\\c[0]"
                             ]
                         },
                         {
@@ -33495,21 +33054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この穴、よじ登れる高さじゃないみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと何処かに出口があるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く花梨ちゃん達と合流しないと――"
+                                "This hole doesn't look climbable. There must be an exit\nsomewhere. I need to regroup with Karin-chan and the others\nquickly--"
                             ]
                         },
                         {
@@ -33753,7 +33298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨ちゃん！　夕霧さん！"
+                                "Karin-chan! Yugiri-san!"
                             ]
                         },
                         {
@@ -33786,28 +33331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かった！　紅葉さんも無事だったんだね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank goodness! Momiji-san is safe too!"
                             ]
                         },
                         {
@@ -33831,28 +33355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真沙妃殿はどちらに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅葉殿と一緒ではなかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Where is Masaki-dono? Wasn't she with you, Momiji-dono?"
                             ]
                         },
                         {
@@ -33876,28 +33379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お師匠様は穴に落ちてないかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私たちのこと、きっと探しに来るはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Perhaps... our master might not have fallen into the hole.\nBut surely, she will come looking for us."
                             ]
                         },
                         {
@@ -33921,28 +33403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "４人揃うまで変に動かないほうがいいかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真沙妃殿が来るまでここで待つぞ、花梨。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでいいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We shouldn't move around strangely until all four of us are\ntogether. We'll wait here for Masaki-dono, Karin. Is that\nalright?"
                             ]
                         },
                         {
@@ -33966,14 +33427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真沙妃ちゃんのことを待ちましょう。"
+                                "Understood. Let's wait for Masaki-chan."
                             ]
                         },
                         {
@@ -34079,7 +33533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぅ……　三人とも、まだここまで上がってこれぬか？"
+                                "Hmm... Have the three of you still not managed to climb up\nhere?"
                             ]
                         },
                         {
@@ -34103,21 +33557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -34172,7 +33612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "致し方ない。妾が迎えに行くか。"
+                                "It can't be helped. Shall I go to meet them?"
                             ]
                         },
                         {

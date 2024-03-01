@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "花梨の小劇場",
+    "displayName": "Karin's Little Theater",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2440,21 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ、アンタがここの新しい持ち主かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若いのに劇場を手に入れるなんてすごいねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できるだけ毎日通うようにするよ。"
+                                "Oh, so you're the new owner of this place? It's impressive\nfor someone so young to acquire a theater. I'll try to come\nby every day if I can."
                             ]
                         },
                         {
@@ -2522,21 +2508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一番最初から観てるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お梨ちゃん、踊るごとに色っぽくなっていくねぇ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公演応援してるよ。"
+                                "I've been watching from the very beginning, but Karin-chan,\nyou're becoming more and more sensual with every\ndance\\I[15]I'm rooting for your performance."
                             ]
                         },
                         {
@@ -2613,21 +2585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この日本橋は江戸で一番賑やかな場所だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い公演をすれば歌舞伎と同じくらい繁盛するかもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張りなよ。"
+                                "This Nihonbashi is the liveliest place in Edo, so if you put\non a good performance, you might prosper as much as Kabuki\ndoes. Do your best."
                             ]
                         },
                         {
@@ -2764,7 +2722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前の見世物小屋と比べると奇麗になったなぁ。"
+                                "It's become so much cleaner compared to the old freak show."
                             ]
                         },
                         {
@@ -2832,14 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初に比べると本当に客が増えたなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男ばかりだけど……"
+                                "Compared to the beginning, we really have more customers\nnow. It's all men though..."
                             ]
                         },
                         {
@@ -2916,14 +2867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はなんの公演をするのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見世物が好きだから楽しみだ。"
+                                "What performance will be held today? I love spectacles, so\nI'm looking forward to it."
                             ]
                         },
                         {
@@ -2991,14 +2935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清楚そうにみえて実はいやらしい巫女さん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アリだと思います。うぅ、とっても興奮してきた……"
+                                "She looks so pure, but I think there's something lewd about\nthis shrine maiden. Ugh, I'm getting really excited..."
                             ]
                         },
                         {
@@ -3216,14 +3153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨の踊り　総売上　\\c[17]\\V[59]\\c[0]文"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "踊り演出をスキップしますか？　【現在　スキップ ON】"
+                                "Karin's dance total sales \\c[17]\\V[59]\\c[0] mon. Would you\nlike to skip the dance performance? [Currently SKIP ON]"
                             ]
                         },
                         {
@@ -3231,8 +3161,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 -1,
                                 0,
@@ -3325,14 +3255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨の踊り　総売上　\\c[17]\\V[59]\\c[0]文"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "踊り演出をスキップしますか？　【現在　スキップ OFF】"
+                                "Karin's dance total sales \\c[17]\\V[59]\\c[0] mon. Would you\nlike to skip the dance performance? [Currently SKIP OFF]"
                             ]
                         },
                         {
@@ -3340,8 +3263,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Do not skip"
                                 ],
                                 -1,
                                 0,
@@ -4622,14 +4545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁさぁ！　次は輪くぐりだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手くいったらご喝采――！"
+                                "Come on, come on! Next up is the hoop diving! If it goes\nwell, let's hear your applause--!"
                             ]
                         },
                         {
@@ -4706,7 +4622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キキッ！（オレ様の舞台、刮目して見てくれよな！）"
+                                "Heh! (Feast your eyes on my stage, and watch closely!)"
                             ]
                         },
                         {
@@ -5047,7 +4963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁさぁ、次のお題に行きますよぉ！"
+                                "Alright, let's move on to the next topic!"
                             ]
                         },
                         {
@@ -5133,7 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと！　ひどいですよっ！？"
+                                "Hey! That's terrible!?"
                             ]
                         },
                         {
@@ -5219,7 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座布団、全部持っていきなさい！"
+                                "Take all the cushions with you!"
                             ]
                         },
                         {
@@ -5356,7 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はやく座布団持ってっちゃって～"
+                                "Hurry up and bring over the cushion~"
                             ]
                         },
                         {
@@ -5574,7 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――公演の売上　\\V[38]文を手に入れた！\\c[0]"
+                                "\\c[17]――Gained \\V[38] Mon From The Performance Sales!\\c[0]"
                             ]
                         },
                         {
@@ -5699,14 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――公演の売上　\\V[38]文を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\$"
+                                "Gained \\V[38] mon from the performance sales!"
                             ]
                         },
                         {
@@ -5822,14 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……さて、せっかく見世物小屋を手に入れたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の公演をしようかな。（花梨の踊った回数　×\\V[80]）"
+                                "...Well, now that I've got my hands on a sideshow tent, I\nwonder what kind of performance I should put on. (The number\nof times Karin has danced × \\V[80])"
                             ]
                         },
                         {
@@ -5849,10 +5751,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "猿回し【一日あたり３００文の収益】",
-                                    "漫談【一日あたり３００文の収益】",
-                                    "花梨が自ら踊る【盛り上がり方で収益変化】",
-                                    "何もしない"
+                                    "Monkey Show [300 mon per day in revenue]",
+                                    "Comic Storytelling [300 mon per day in revenue]",
+                                    "Karin dances herself [Revenue changes depending on the excitement]",
+                                    "Do nothing"
                                 ],
                                 3,
                                 2,
@@ -5889,7 +5791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし。猿回しの人に公演を頼もう！"
+                                "Alright. I'll ask the monkey trainer to put on a show!"
                             ]
                         },
                         {
@@ -5913,14 +5815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――見世物小屋で猿回しの興行が始まった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【一日あたり３００文の収益】"
+                                "--The monkey show has started at the sideshow tent. [Earning\n300 mon per day]"
                             ]
                         },
                         {
@@ -6070,14 +5965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わたし、お笑い好きだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "漫談師に公演を頼もう！"
+                                "I like comedy, so I'll ask a comic storyteller to perform!"
                             ]
                         },
                         {
@@ -6101,14 +5989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――見世物小屋で漫談の公演が始まった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【一日あたり３００文の収益】"
+                                "--A comic storytelling performance has started at the\nsideshow tent. [Earning 300 mon per day]"
                             ]
                         },
                         {
@@ -6265,7 +6146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだ。私が踊りをするのも面白いかも！"
+                                "That's it. It might be interesting if I dance myself!"
                             ]
                         },
                         {
@@ -6273,9 +6154,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "巫女装束で踊る",
-                                    "うさぎ服で踊る",
-                                    "やっぱりやめる"
+                                    "Dance in a shrine maiden outfit",
+                                    "Dance in a bunny costume",
+                                    "On second thought, never mind"
                                 ],
                                 2,
                                 0,
@@ -6404,28 +6285,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（ざわざわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "(The crowd murmurs...)"
                             ]
                         },
                         {
@@ -6485,28 +6345,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふふっ！　踊り子の「お梨」です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "私の踊り、ご覧ください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Hehe! I'm the dancer 'Ori'! Please watch my dance!"
                             ]
                         },
                         {
@@ -6523,14 +6369,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わあぁ！　可愛いなぁ！"
+                                "Wow! How cute!"
                             ]
                         },
                         {
@@ -6547,14 +6393,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ひゅうひゅう！　素敵な巫女さん姿だぜ！"
+                                "Whistle whistle! What a lovely shrine maiden outfit!"
                             ]
                         },
                         {
@@ -6585,7 +6431,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（お客さん、入ってくれた！　頑張って踊るぞ！）"
+                                "(The audience is coming in! I'll dance my best!)"
                             ]
                         },
                         {
@@ -6593,8 +6439,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "活発に踊る",
-                                    "煽情的に踊る"
+                                    "Dance energetically",
+                                    "Dance seductively"
                                 ],
                                 -1,
                                 1,
@@ -6631,28 +6477,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――花梨は素早く体を動かして活発に踊り始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "--Karin began to dance energetically, moving her body\nquickly."
                             ]
                         },
                         {
@@ -6688,28 +6513,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ひゅーひゅー！　いいぞ、いいぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "Whistle-whistle! That's good, that's good!"
                             ]
                         },
                         {
@@ -6726,28 +6537,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おおぉ！　なんて身軽な跳躍！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "まるで忍者みたいだなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "Ohh! What a nimble jump! She's like a ninja!"
                             ]
                         },
                         {
@@ -6798,28 +6595,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ、はぁ！　ありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "*pant* *pant* Thank you very much!"
                             ]
                         },
                         {
@@ -6836,28 +6619,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "わあぁ！　とっても良かったぞ！（パチパチパチ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "Wow! That was really good! (Clap Clap Clap!)"
                             ]
                         },
                         {
@@ -6913,14 +6682,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１３００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received tips amounting to\n\\c[17]1300 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -6998,14 +6760,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（よぉし。もっとお客さんが興奮してくれるように踊ろう！）"
+                                "(Alright. I'll dance in a way that excites the audience even\nmore!)"
                             ]
                         },
                         {
@@ -7022,7 +6784,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――花梨は胸元を強調し、煽情的に踊り始めた！"
+                                "--Karin began to dance more seductively, emphasizing her\ncleavage!"
                             ]
                         },
                         {
@@ -7083,14 +6845,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ……はぁ……！\\I[15]"
+                                "*pant*...*pant*...!\\I[15]"
                             ]
                         },
                         {
@@ -7119,14 +6881,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うおおぉ！？　な、なんて煽情的な踊りだ\\I[15]"
+                                "Whoa! What a provocative dance!\\I[15]"
                             ]
                         },
                         {
@@ -7143,14 +6905,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あうう！　息子がビンビンになって……！"
+                                "Aww! My little guy is getting all stiff...!"
                             ]
                         },
                         {
@@ -7167,14 +6929,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いいぞいいぞ！　お梨ちゃん、最高――！！\\I[15]"
+                                "That's it, that's it! Ori-chan, you're the best--!!\\I[15]"
                             ]
                         },
                         {
@@ -7220,21 +6982,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "（はぁ、はぁ……　うふふっ、みんな私のこと凝視してる\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "　もっともっと、期待に応えなきゃ――）"
+                                "(*pant*, *pant*...hehe, everyone's staring at me\\I[15] I\nhave to live up to their expectations even more--)"
                             ]
                         },
                         {
@@ -7337,14 +7092,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "――花梨は両胸を露出させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "より性的に踊り始めた！"
+                                "--Karin began to dance even more sexually, exposing both\nbreasts!"
                             ]
                         },
                         {
@@ -7403,14 +7151,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ふぅ……はぁっ……\\I[15]"
+                                "*sigh*...*pant*...!\\I[15]"
                             ]
                         },
                         {
@@ -7427,21 +7175,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ウオオォ！！　すげぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "おっぱいが丸見えだぜ！"
+                                "WOAH!! Amazing! Her boobs are completely visible!"
                             ]
                         },
                         {
@@ -7458,21 +7199,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "は……鼻血が……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "だめだ、スケベすぎる\\I[15]"
+                                "Ha... I'm bleeding from the nose...! This is too lewd\\I[15]"
                             ]
                         },
                         {
@@ -7489,21 +7223,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "奇麗なおっぱいだぁ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "いいぞ、お梨ちゃん！！\\I[15]"
+                                "Such beautiful breasts\\I[15] You're doing great, Ori-\nchan!!\\I[15]"
                             ]
                         },
                         {
@@ -7532,28 +7259,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "　＜　わああああぁ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
+                                "<Wowwwww!!>"
                             ]
                         },
                         {
@@ -7570,28 +7276,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "大歓声の中、花梨は公演を踊り終えた――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
+                                "In the midst of roaring cheers, Karin finished her\nperformance--"
                             ]
                         },
                         {
@@ -7641,21 +7326,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "はぁ、はぁ！　最後まで踊りを観てくれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "ありがとうね～！　みんな、愛してるよ～！\\I[15]"
+                                "*pant*, *pant*! Thank you for watching my dance until the\nend~! I love you all~!\\I[15]"
                             ]
                         },
                         {
@@ -7672,28 +7350,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ひゅーひゅー！！　最高だったぜ、お梨ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
+                                "Whistle-whistle!! That was the best, Ori-chan!"
                             ]
                         },
                         {
@@ -7780,14 +7444,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]２０００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received tips amounting to\n\\c[17]2000 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -7879,14 +7536,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１７００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received tips amounting to\n\\c[17]1700 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -7956,14 +7606,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "残念、踊り用の服がないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "【日本橋の呉服屋】に買いに行こう。"
+                                "Unfortunately, I don't have any clothes for dancing. Let's\ngo buy some at the draper's shop in Nihonbashi."
                             ]
                         },
                         {
@@ -8109,28 +7752,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（ざわざわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "(The crowd murmurs...)"
                             ]
                         },
                         {
@@ -8190,28 +7812,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふふっ！　踊り子の「お梨」です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "私の踊り、ご覧ください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Hehe! I'm the dancer 'Ori'! Please watch my dance!"
                             ]
                         },
                         {
@@ -8228,21 +7836,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おおぉッ！　あんなに肌を露出させて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "異国の服か！？"
+                                "Ohh! To expose so much skin...! Is that foreign clothing?"
                             ]
                         },
                         {
@@ -8259,14 +7860,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "兎を模した服か？　なんちゅうスケベな服なんだ……！\\I[15]"
+                                "Is that a rabbit-themed outfit? What a lewd\ncostume...!\\I[15]"
                             ]
                         },
                         {
@@ -8297,7 +7898,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（お客さん、入ってくれた！　頑張って踊るぞ！）"
+                                "(The audience is coming in! I'll dance my best!)"
                             ]
                         },
                         {
@@ -8305,8 +7906,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "活発に踊る",
-                                    "煽情的に踊る"
+                                    "Dance energetically",
+                                    "Dance seductively"
                                 ],
                                 -1,
                                 1,
@@ -8343,28 +7944,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――花梨は素早く体を動かして活発に踊り始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "--Karin began to dance energetically, moving her body\nquickly."
                             ]
                         },
                         {
@@ -8407,28 +7987,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ひゅーひゅー！　いいぞ、いいぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "Whistle-whistle!! That's it, that's it!"
                             ]
                         },
                         {
@@ -8445,28 +8011,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "おおぉ！　なんて身軽な跳躍！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "まるで忍者みたいだなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "Ohh! What nimble leaps! She's like a ninja!"
                             ]
                         },
                         {
@@ -8517,28 +8069,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ、はぁ！　ありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "*pant*, *pant*! Thank you very much!"
                             ]
                         },
                         {
@@ -8555,28 +8093,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "わあぁ！　とっても良かったぞ！（パチパチパチ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
+                                "Wow! That was really good! (Clap clap clap!)"
                             ]
                         },
                         {
@@ -8632,14 +8156,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１３００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received tips amounting to\n\\c[17]1300 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -8717,14 +8234,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "（よぉし。もっとお客さんが興奮してくれるように踊ろう！）"
+                                "(Alright. Let's dance in a way that excites the audience\neven more!)"
                             ]
                         },
                         {
@@ -8741,7 +8258,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――花梨は胸元を強調し、煽情的に踊り始めた！"
+                                "--Karin emphasized her cleavage and began to dance\nprovocatively!"
                             ]
                         },
                         {
@@ -8802,14 +8319,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "はぁ……はぁ……！\\I[15]"
+                                "*pant*...*pant*...!\\I[15]"
                             ]
                         },
                         {
@@ -8838,14 +8355,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "うおおぉ！？　な、なんて煽情的な踊りだ\\I[15]"
+                                "Uooooh! What a provocative dance\\I[15]"
                             ]
                         },
                         {
@@ -8862,14 +8379,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あうう！　息子がビンビンになって……！"
+                                "Auuu! My son is rock hard...!"
                             ]
                         },
                         {
@@ -8886,14 +8403,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "いいぞいいぞ！　お梨ちゃん、最高――！！\\I[15]"
+                                "That's it, that's it! Ori-chan, you're the best--!!\\I[15]"
                             ]
                         },
                         {
@@ -8939,21 +8456,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "（はぁ、はぁ……　うふふっ、みんな私のこと凝視してる\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "　もっともっと、期待に応えなきゃ――）"
+                                "(*pant*, *pant*...ufufu, everyone's staring at me\\I[15] I\nhave to meet their expectations even more--)"
                             ]
                         },
                         {
@@ -9056,14 +8566,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "――花梨は両胸を露出させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "より性的に踊り始めた！"
+                                "--Karin exposed both breasts and began to dance even more\nsexually!"
                             ]
                         },
                         {
@@ -9122,14 +8625,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ふぅ……はぁっ……\\I[15]"
+                                "Fuu...*pant*...\\I[15]"
                             ]
                         },
                         {
@@ -9146,21 +8649,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ウオオォ！！　すげぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "おっぱいが丸見えだぜ！"
+                                "UOOOO!! Amazing! Her tits are completely visible!"
                             ]
                         },
                         {
@@ -9177,21 +8673,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "は……鼻血が……！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "この踊り子、スケベすぎる\\I[15]"
+                                "Ha...nosebleed...! This dancer is too lewd\\I[15]"
                             ]
                         },
                         {
@@ -9208,21 +8697,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "奇麗なおっぱいだぁ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "いいぞ、お梨ちゃん！！\\I[15]"
+                                "Such beautiful tits\\I[15] That's it, Ori-chan!!\\I[15]"
                             ]
                         },
                         {
@@ -9251,28 +8733,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "　＜　わああああぁ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
+                                "<Wowwwww--!!>"
                             ]
                         },
                         {
@@ -9289,28 +8750,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "大歓声の中、花梨は公演を踊り終えた――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
+                                "In the midst of roaring cheers, Karin finished her\nperformance--"
                             ]
                         },
                         {
@@ -9360,21 +8800,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "はぁ、はぁ！　最後まで踊りを観てくれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "ありがとうね～！　みんな、愛してるよ～！\\I[15]"
+                                "*pant*, *pant*! Thank you for watching my dance until the\nend~! I love you all~!\\I[15]"
                             ]
                         },
                         {
@@ -9391,28 +8824,14 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "ひゅーひゅー！！　最高だったぜ、お梨ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                ""
+                                "Whistle-whistle!! That was the best, Ori-chan!"
                             ]
                         },
                         {
@@ -9499,14 +8918,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]２０００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received tips amounting to\n\\c[17]2000 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -9598,14 +9010,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１７００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received tips amounting to\n\\c[17]1700 mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -9675,14 +9080,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "残念、踊り用の服がないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "【日本橋の呉服屋】に買いに行こう。"
+                                "Unfortunately, I don't have any clothes for dancing. Let's\ngo buy some at the draper's shop in Nihonbashi."
                             ]
                         },
                         {
@@ -9956,21 +9354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "稽古を抜け出して観に来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタが踊り子のお梨かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噂には聞いてたけどベッピンだなぁ……\\I[15]"
+                                "I snuck out of practice to come see you. Are you the dancer\nKarin? I've heard rumors, but you're quite the\nbeauty...\\I[15]"
                             ]
                         },
                         {
@@ -10038,14 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公演、まだかな……　まだかなぁ……"
+                                "*pant*... *pant*... Is the performance starting yet...? Is\nit starting yet...?"
                             ]
                         },
                         {
@@ -10131,14 +9508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわッ！　踊り子のお梨ちゃんじゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "握手してください！　あわわ……！"
+                                "Wow! Isn't that the dancer, O-Rin-chan? Please, shake my\nhand! Awawa...!"
                             ]
                         },
                         {
@@ -10215,14 +9585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この小劇場の踊り子がカワイイって聞いてきたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開演はまだかなぁ……"
+                                "I heard the dancers at this small theater are cute. I wonder\nif the show has started yet..."
                             ]
                         },
                         {
@@ -10290,14 +9653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すっかり踊りの虜になっちゃったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の子が一生懸命に踊る姿は最高だ。"
+                                "I've become completely captivated by the dance. The sight of\na girl dancing her hardest is the best."
                             ]
                         },
                         {
@@ -10374,7 +9730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（観客は踊りが始まるのを今か今かと待っている）"
+                                "The audience is eagerly waiting for the dance to start."
                             ]
                         },
                         {
@@ -10451,14 +9807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この劇場、評判が良いと聞いてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事の合間に観に来たんだ。"
+                                "I heard this theater has a good reputation, so I came to\nwatch a show in between work."
                             ]
                         },
                         {
@@ -10535,14 +9884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "みんな、お梨ちゃんの踊る姿を待っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんとうにいやらしくて……　ううぅ、鼻血が――！"
+                                "Everyone is waiting for Karin-chan's dance. It's truly\nlewd... Ugh, I'm getting a nosebleed--!"
                             ]
                         },
                         {
@@ -10619,14 +9961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お梨って踊り子、アンタかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噂通りに可愛い娘だ。期待してるぜ\\I[15]"
+                                "So you're the dancer Karin, huh? You're as cute as the\nrumors say. I'm looking forward to this\\I[15]"
                             ]
                         },
                         {
@@ -10703,14 +10038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新劇場が出来たと聞いていたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなりに観客がいるねぇ。たいしたもんだ。"
+                                "I heard a new theater was built, but it seems to have a\ndecent number of spectators. Impressive indeed."
                             ]
                         },
                         {
@@ -10787,7 +10115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（観客は踊りが始まるのを今か今かと待っている）"
+                                "The audience is eagerly waiting for the dance to start any\nmoment now."
                             ]
                         },
                         {
@@ -11053,14 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ！　お梨ちゃん、待ってたぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今晩も愉しませてくれよなぁ♪"
+                                "Hehehe! Karin-chan, I've been waiting for you! Let's have\nsome fun tonight too, yeah?♪"
                             ]
                         },
                         {
@@ -11137,14 +10458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踊りの開演はまだかなぁ……"
+                                "*pant*... *pant*... I wonder if the dance performance is\nstarting soon..."
                             ]
                         },
                         {
@@ -11221,14 +10535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南蛮にはうさぎ服なんてあるんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんないやらしい服を作ったヤツは偉大な男だぜ。"
+                                "So the barbarians have something like bunny outfits, huh?\nThe guy who created such lewd clothing is a great man\nindeed."
                             ]
                         },
                         {
@@ -11305,21 +10612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなにたくさんの男を集めるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お梨ちゃんは当世の出雲の阿国のような踊り子だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今晩の公演、期待してるよ。"
+                                "Gathering so many men like this, you're like a modern-day\nIzumo no Okuni, Karin-chan. I'm looking forward to tonight's\nperformance."
                             ]
                         },
                         {
@@ -11396,14 +10689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この小劇場の評判につられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近は客席も混んできたよ。"
+                                "The reputation of this small theater has been attracting\nmore people lately, and the seats are getting crowded."
                             ]
                         },
                         {
@@ -11746,14 +11032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……新しい衣装が欲しくなったかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと呉服屋を覗いてみようかな……"
+                                "...I might want a new outfit. Maybe I'll take a peek at the\nkimono shop..."
                             ]
                         },
                         {
@@ -11842,7 +11121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しい衣装で踊ってみよう！　お客さんも喜んでくれるはず♪"
+                                "Let's try dancing in a new costume! The audience should love\nit too♪"
                             ]
                         },
                         {
@@ -11850,9 +11129,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "バサラ衣装で踊る",
-                                    "踊り子衣装で踊る",
-                                    "やっぱりやめる"
+                                    "Dance in the Basara outfit",
+                                    "Dance in the dancer outfit",
+                                    "Actually, never mind"
                                 ],
                                 2,
                                 0,
@@ -11981,28 +11260,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（ざわざわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "(Murmurs...)"
                             ]
                         },
                         {
@@ -12062,21 +11320,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "劇場にようこそ！　踊り子の「お梨」です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の踊り、ご覧ください！"
+                                "Welcome to the theater! I'm the dancer \"Ori\"! Please watch\nmy dance!"
                             ]
                         },
                         {
@@ -12093,14 +11344,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わあぁ！　可愛いなぁ！"
+                                "Wow! So cute!"
                             ]
                         },
                         {
@@ -12117,14 +11368,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ひゅうひゅう！　素敵なバサラ衣装だぜ！"
+                                "Whew whew! What a fabulous Basara costume!"
                             ]
                         },
                         {
@@ -12155,7 +11406,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（お客さん、入ってくれた！　頑張って踊るぞ！）"
+                                "(The audience has come in! I'll dance my best!)"
                             ]
                         },
                         {
@@ -12163,8 +11414,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "活発に踊る",
-                                    "煽情的に踊る"
+                                    "Dance energetically",
+                                    "Dance seductively"
                                 ],
                                 -1,
                                 1,
@@ -12201,28 +11452,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――花梨は素早く体を動かして活発に踊り始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "--Karin began to dance energetically, moving her body\nquickly."
                             ]
                         },
                         {
@@ -12258,28 +11488,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ひゅーひゅー！　いいぞ、いいぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Whew-whew! That's it, that's it!"
                             ]
                         },
                         {
@@ -12296,28 +11512,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おおぉ！　なんて身軽な跳躍！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "まるで忍者みたいだなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Ohh! What a light jump!? She's like a ninja!"
                             ]
                         },
                         {
@@ -12368,28 +11570,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はぁ、はぁ！　ありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "*pant* *pant*! Thank you very much!"
                             ]
                         },
                         {
@@ -12406,28 +11594,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わあぁ！　とっても良かったぞ！（パチパチパチ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Wow! That was really good! (Clap Clap Clap!)"
                             ]
                         },
                         {
@@ -12483,14 +11657,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１３００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received 1300 mon in\ntips.\\c[17]\\c[0]"
                             ]
                         },
                         {
@@ -12568,14 +11735,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（よぉし。もっとお客さんが興奮してくれるように踊ろう！）"
+                                "(Alright. I'll dance even more excitingly to get the\naudience thrilled!)"
                             ]
                         },
                         {
@@ -12592,7 +11759,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――花梨は胸元を強調し、煽情的に踊り始めた！"
+                                "--Karin began to dance more provocatively, emphasizing her\ncleavage!"
                             ]
                         },
                         {
@@ -12653,14 +11820,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はぁ……はぁ……！\\I[15]"
+                                "*pant*... *pant*...!\\I[15]"
                             ]
                         },
                         {
@@ -12689,14 +11856,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うおおぉ！？　な、なんて煽情的な踊りだ\\I[15]"
+                                "Whoa!!? What a provocative dance!\\I[15]"
                             ]
                         },
                         {
@@ -12713,14 +11880,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あうう！　息子がビンビンになって……！"
+                                "Oh my! My son is getting rock hard...!"
                             ]
                         },
                         {
@@ -12737,14 +11904,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いいぞいいぞ！　お梨ちゃん、最高――！！\\I[15]"
+                                "That's it, that's it! Ori-chan, you're the best--!!\\I[15]"
                             ]
                         },
                         {
@@ -12790,21 +11957,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "（はぁ、はぁ……　うふふっ、みんな私のこと凝視してる\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "　もっともっと、期待に応えなきゃ――）"
+                                "(*pant*, *pant*... hehe, everyone's staring at me\\I[15] I\nhave to meet their expectations even more--)"
                             ]
                         },
                         {
@@ -12907,14 +12067,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "――花梨は両胸を露出させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "より性的に踊り始めた！"
+                                "--Karin began to dance even more sexually, exposing both\nbreasts!"
                             ]
                         },
                         {
@@ -12973,14 +12126,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ふぅ……はぁっ……\\I[15]"
+                                "*sigh*... *pant*...\\I[15]"
                             ]
                         },
                         {
@@ -12997,21 +12150,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ウオオォ！！　すげぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "おっぱいが丸見えだぜ！"
+                                "WHOA!! Amazing! Her boobs are completely visible!"
                             ]
                         },
                         {
@@ -13028,21 +12174,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "は……鼻血が……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "だめだ、スケベすぎる\\I[15]"
+                                "I... I'm getting a nosebleed...! This is too lewd\\I[15]"
                             ]
                         },
                         {
@@ -13059,21 +12198,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "奇麗なおっぱいだぁ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "いいぞ、お梨ちゃん！！\\I[15]"
+                                "Such beautiful boobs\\I[15] You're doing great, Ori-\nchan!!\\I[15]"
                             ]
                         },
                         {
@@ -13102,28 +12234,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "　＜　わああああぁ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
+                                "＜Wowwwww!!＞"
                             ]
                         },
                         {
@@ -13140,28 +12251,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "大歓声の中、花梨は公演を踊り終えた――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
+                                "In the midst of roaring cheers, Karin finished her\nperformance--"
                             ]
                         },
                         {
@@ -13211,21 +12301,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "はぁ、はぁ！　最後まで踊りを観てくれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ありがとうね～！　みんな、愛してるよ～！\\I[15]"
+                                "*pant*, *pant*! Thank you for watching my dance until the\nend~! I love you all~!\\I[15]"
                             ]
                         },
                         {
@@ -13242,28 +12325,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ひゅーひゅー！！　最高だったぜ、お梨ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
+                                "Whew-whew!! That was the best, Ori-chan!"
                             ]
                         },
                         {
@@ -13350,14 +12419,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]２０００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received 2000 mon in\ntips.\\c[17]\\c[0]"
                             ]
                         },
                         {
@@ -13449,14 +12511,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１７００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she received 1700 mon in\ntips.\\c[17]\\c[0]"
                             ]
                         },
                         {
@@ -13526,14 +12581,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "新しい衣装、欲しいな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【日本橋の呉服屋】に行ってみよう。"
+                                "I want a new costume... Let's go check out [Nihonbashi's\nKimono Shop]."
                             ]
                         },
                         {
@@ -13679,28 +12727,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（ざわざわ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "(Murmurs...)"
                             ]
                         },
                         {
@@ -13760,28 +12787,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふふっ！　踊り子の「お梨」です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の踊り、ご覧ください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "Hehe! I'm the dancer 'Ori'! Please watch my dance!"
                             ]
                         },
                         {
@@ -13798,21 +12811,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おおぉッ！　あんなに肌を露出させて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "異国の服か！？"
+                                "Ohhh! Exposing so much skin...! Is that a foreign outfit?"
                             ]
                         },
                         {
@@ -13829,14 +12835,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今まで見たことのない衣装だ。こりゃ楽しみだぜ！\\I[15]"
+                                "I've never seen a costume like that before. This is going to\nbe fun!\\I[15]"
                             ]
                         },
                         {
@@ -13867,7 +12873,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（お客さん、入ってくれた！　頑張って踊るぞ！）"
+                                "(The audience has come in! I'll dance my best!)"
                             ]
                         },
                         {
@@ -13875,8 +12881,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "活発に踊る",
-                                    "煽情的に踊る"
+                                    "Dance energetically",
+                                    "Dance seductively"
                                 ],
                                 -1,
                                 1,
@@ -13913,28 +12919,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――花梨は素早く体を動かして活発に踊り始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "--Karin began to dance energetically, moving her body\nquickly."
                             ]
                         },
                         {
@@ -13977,28 +12962,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ひゅーひゅー！　いいぞ、いいぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Whew-whew! That's it, that's it!"
                             ]
                         },
                         {
@@ -14015,28 +12986,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おおぉ！　なんて身軽な跳躍！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "まるで忍者みたいだなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Ohh! What a light jump!? She's like a ninja!"
                             ]
                         },
                         {
@@ -14087,28 +13044,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はぁ、はぁ！　ありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "*pant*, *pant*! Thank you very much!"
                             ]
                         },
                         {
@@ -14125,28 +13068,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わあぁ！　とっても良かったぞ！（パチパチパチ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "Wow! That was really good! (Clap clap clap!)"
                             ]
                         },
                         {
@@ -14202,14 +13131,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１３００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she earned 1300 mon in tips.\\$"
                             ]
                         },
                         {
@@ -14287,14 +13209,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（よぉし。もっとお客さんが興奮してくれるように踊ろう！）"
+                                "(Alright. Let's dance in a way that excites the audience\neven more!)"
                             ]
                         },
                         {
@@ -14311,7 +13233,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――花梨は胸元を強調し、煽情的に踊り始めた！"
+                                "--Karin began to dance provocatively, emphasizing her\ncleavage!"
                             ]
                         },
                         {
@@ -14372,14 +13294,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はぁ……はぁ……！\\I[15]"
+                                "Haah...haah...!\\I[15]"
                             ]
                         },
                         {
@@ -14408,14 +13330,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うおおぉ！？　な、なんて煽情的な踊りだ\\I[15]"
+                                "Woah!? What a seductive dance!\\I[15]"
                             ]
                         },
                         {
@@ -14432,14 +13354,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あうう！　息子がビンビンになって……！"
+                                "Auuu! My son is rock hard...!"
                             ]
                         },
                         {
@@ -14456,14 +13378,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いいぞいいぞ！　お梨ちゃん、最高――！！\\I[15]"
+                                "That's it, that's it! You're the best, O-Ri-chan!\\I[15]"
                             ]
                         },
                         {
@@ -14509,21 +13431,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "（はぁ、はぁ……　うふふっ、みんな私のこと凝視してる\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "　もっともっと、期待に応えなきゃ――）"
+                                "(Haah, haah...ufufu, everyone's staring at me\\I[15] I have\nto meet their expectations even more--)"
                             ]
                         },
                         {
@@ -14626,14 +13541,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "――花梨は両胸を露出させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "より性的に踊り始めた！"
+                                "--Karin began to dance more sexually, exposing both breasts!"
                             ]
                         },
                         {
@@ -14692,14 +13600,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ふぅ……はぁっ……\\I[15]"
+                                "Phew...haah...\\I[15]"
                             ]
                         },
                         {
@@ -14716,21 +13624,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客A】"
+                                "【Audience A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ウオオォ！！　すげぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "おっぱいが丸見えだぜ！"
+                                "WOAH!! Amazing! Her tits are completely visible!"
                             ]
                         },
                         {
@@ -14747,21 +13648,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客B】"
+                                "【Audience Member B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "は……鼻血が……！　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "この踊り子、スケベすぎる\\I[15]"
+                                "Ha...nosebleed...! This dancer is too lewd\\I[15]"
                             ]
                         },
                         {
@@ -14778,21 +13672,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客C】"
+                                "【Audience Member C】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "奇麗なおっぱいだぁ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "いいぞ、お梨ちゃん！！\\I[15]"
+                                "What beautiful tits\\I[15] You're doing great, O-Ri-\nchan!!\\I[15]"
                             ]
                         },
                         {
@@ -14821,28 +13708,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "　＜　わああああぁ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
+                                "<Wowwwww--!!>"
                             ]
                         },
                         {
@@ -14859,28 +13725,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "大歓声の中、花梨は公演を踊り終えた――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
+                                "In the midst of a roaring cheer, Karin finished her\nperformance--"
                             ]
                         },
                         {
@@ -14930,21 +13775,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "はぁ、はぁ！　最後まで踊りを観てくれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ありがとうね～！　みんな、愛してるよ～！\\I[15]"
+                                "Haah, haah! Thank you for watching my dance to the end~! I\nlove you all~!\\I[15]"
                             ]
                         },
                         {
@@ -14961,28 +13799,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "【観客たち】"
+                                "【The Audience】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ひゅーひゅー！！　最高だったぜ、お梨ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                ""
+                                "Whoo-whoo!! You were the best, O-Ri-chan!"
                             ]
                         },
                         {
@@ -15069,14 +13893,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]２０００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she earned 2000 mon in tips.\\$"
                             ]
                         },
                         {
@@ -15168,14 +13985,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "――踊った結果、おひねりで\\c[17]１７００文\\c[0]手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\$"
+                                "--As a result of the dance, she earned 1700 mon in tips.\\$"
                             ]
                         },
                         {
@@ -15245,14 +14055,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "新しい衣装、欲しいな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "【日本橋の呉服屋】に行ってみよう。"
+                                "I want a new costume... Let's go check out [Nihonbashi's\nKimono Shop]."
                             ]
                         },
                         {

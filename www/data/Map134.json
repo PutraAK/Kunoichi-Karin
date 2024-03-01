@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "盗賊団の根城",
+    "displayName": "Thieves' Stronghold",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -11058,7 +11058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Healing Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -11664,7 +11664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -16363,14 +16363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１００）\\c[0]"
+                                "Gyaaah--!\\c[17](EXP +100)\\c[0]"
                             ]
                         },
                         {
@@ -17327,7 +17320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -17693,7 +17686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 mon!\\c[0]"
                             ]
                         },
                         {
@@ -17940,7 +17933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18186,7 +18179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -23920,7 +23913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -24827,7 +24820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Impenetrable Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -28193,7 +28186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -28632,14 +28625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５０）\\c[0]"
+                                "Gyaaah--!\\c[17](EXP +50)\\c[0]"
                             ]
                         },
                         {
@@ -29451,14 +29437,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋７０）\\c[0]"
+                                "Guueehh~~! \\c[17](EXP +70)\\c[0]"
                             ]
                         },
                         {
@@ -30260,14 +30239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋７０）\\c[0]"
+                                "Gueeehh! \\c[17](EXP +70)\\c[0]"
                             ]
                         },
                         {
@@ -31069,14 +31041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Guueehh~~! \\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -31879,14 +31844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Gueeehh! \\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -32711,14 +32669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５０）\\c[0]"
+                                "Gyaaah--! \\c[17](EXP +50)\\c[0]"
                             ]
                         },
                         {
@@ -33553,14 +33504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５０）\\c[0]"
+                                "Gyaaah--!\\c[17](EXP +50)\\c[0]"
                             ]
                         },
                         {
@@ -34467,14 +34411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋４５）\\c[0]"
+                                "Gueeehh! \\c[17](EXP +45)\\c[0]"
                             ]
                         },
                         {
@@ -35245,14 +35182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐええ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋４５）\\c[0]"
+                                "Gueeehh! \\c[17](EXP +45)\\c[0]"
                             ]
                         },
                         {
@@ -36323,14 +36253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１００）\\c[0]"
+                                "Gyaaah--! \\c[17](EXP +100)\\c[0]"
                             ]
                         },
                         {
@@ -37060,14 +36983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャウッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１００）\\c[0]"
+                                "Gyaaah--!\\c[17](EXP +100)\\c[0]"
                             ]
                         },
                         {

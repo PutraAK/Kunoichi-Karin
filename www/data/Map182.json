@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "妖の杜　最奥",
+    "displayName": "Forest of Bewitchment - Innermost Depths",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9858,7 +9858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【超技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Super Technique Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13860,7 +13860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -14107,7 +14107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -14354,7 +14354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -14600,7 +14600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained \\c[0]500 mon!"
                             ]
                         },
                         {
@@ -14846,7 +14846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -15092,7 +15092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【800 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -15338,7 +15338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 mon!\\c[0]"
                             ]
                         },
                         {
@@ -22025,28 +22025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ドクン――　ドクン――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thump--Thump--"
                             ]
                         },
                         {
@@ -22101,14 +22080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鼓動が激しくなってる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いなくこの先にセンビがいるわ。"
+                                "My heartbeat is getting intense... There's no doubt that\nSenbi is ahead."
                             ]
                         },
                         {
@@ -22132,14 +22104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨が持っている、鬼を探知する勘か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということは決戦が近いな。"
+                                "Is it the demon-sensing intuition that Karin possesses? It\nmeans the final battle is near."
                             ]
                         },
                         {
@@ -22198,28 +22163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グオオオォ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Grrraaahh...!"
                             ]
                         },
                         {
@@ -22266,14 +22210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　前方に鬼たちが見えますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全員を倒さないと門が開かないようです。"
+                                "--! I can see demons up ahead. It seems we must defeat them\nall to open the gate."
                             ]
                         },
                         {
@@ -22297,28 +22234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痛そうなトゲトゲの金棒を持っているわね……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼怨党たちと違ってガタイも大きい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさに私たち人間が思い起こす……鬼そのものだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "They're carrying painfully spiky clubs, aren't they...?\nUnlike the Oni Youtou, they're much larger. They're exactly\nwhat we humans envision... as true demons."
                             ]
                         },
                         {
@@ -22342,28 +22258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぅ、あやつらめ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の家を我が物顔で占拠しおってからに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この真沙妃、容赦せん！　妾が得意の雷撃を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部外者どもの脳天にぶちかましてやるわ――！"
+                                "Nuu, those fiends! To brazenly occupy someone's home as if\nit's their own! I, Masaki, will show no mercy! I'll smash my\nsignature lightning strike right onto the heads of these\noutsiders--!"
                             ]
                         },
                         {

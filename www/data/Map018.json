@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "山賊砦",
+    "displayName": "Bandit Fortress",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -16088,7 +16088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16335,7 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -16583,7 +16583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【玉鋼の籠手】\\c[0]を手に入れた！"
+                                "--\\c[17]【Tamahagane Gauntlets】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -16829,7 +16829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 250 mon!\\c[0]"
                             ]
                         },
                         {
@@ -17075,7 +17075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -17442,7 +17442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21311,7 +21311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【村雨の小太刀】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained the 【Muramasa Kodachi】!\\c[0]"
                             ]
                         },
                         {
@@ -21630,7 +21630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -27394,7 +27394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにぃ！？　本当に戻って来やがった！？"
+                                "What?! You really came back?!"
                             ]
                         },
                         {
@@ -27418,7 +27418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この砦を潰さないと任務が終わらないからね。"
+                                "We can't finish our mission without taking down this fort."
                             ]
                         },
                         {
@@ -27442,28 +27442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先にお前たち山賊の頭がいるのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛い目に遭いたくなければ大人しく通せ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You bandit leaders must be ahead. If you don't want to get\nhurt, let us through quietly."
                             ]
                         },
                         {
@@ -27494,28 +27473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヘッ！　マガラ様を倒そうってのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "笑わせるな！　オレ達が返り討ちにしてやるぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heh! You think you can defeat Lord Magara? Don't make me\nlaugh! We'll crush you in return!"
                             ]
                         },
                         {
@@ -27539,28 +27497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおぉ！　ぶっ潰してやるッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Grrraaah! I'll smash you to bits!"
                             ]
                         },
                         {
@@ -27589,7 +27526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――巨漢山賊たちが襲ってきた！"
+                                "--The burly bandits have attacked!"
                             ]
                         },
                         {

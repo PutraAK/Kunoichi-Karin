@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "長屋",
+    "displayName": "Tenement House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3313,21 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣に新婚夫婦が住み始めてのぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜な夜な嬌声が聞こえてのぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老いても興奮するわい。"
+                                "A newlywed couple started living next door... Night after\nnight, I can hear their sweet moans... Even in old age, it\nexcites me."
                             ]
                         },
                         {
@@ -3413,7 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだい。仕事に行く前に……\\I[15]"
+                                "How about it? Before you go to work...\\I[15]"
                             ]
                         },
                         {
@@ -3499,14 +3485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、お前さんダメですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ日が高いのに……　あっ……\\I[15]"
+                                "Oh dear, you shouldn't be doing this. The sun is still high\nin the sky... Ah...\\I[15]"
                             ]
                         },
                         {
@@ -3530,7 +3509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（熱々のところお邪魔しちゃ悪いわ……　家から出よう……）"
+                                "(I feel bad for interrupting while it's getting hot... I\nshould leave the house...)"
                             ]
                         },
                         {
@@ -3853,7 +3832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {

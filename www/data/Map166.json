@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭廃屋",
+    "displayName": "Brothel Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -13698,7 +13698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19225,7 +19225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【奇貨】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired \\c[0]Rare Item!"
                             ]
                         },
                         {
@@ -19472,7 +19472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19719,7 +19719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19966,7 +19966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Healing Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -20213,7 +20213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20459,7 +20459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -22566,7 +22566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -36631,7 +36631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【400 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -42877,7 +42877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊女は息絶えている……"
+                                "The courtesan is breathless..."
                             ]
                         },
                         {
@@ -43012,28 +43012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -43057,14 +43036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……私たちが貴女たちの仇、必ず討つから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今はこのままでごめんなさい……）"
+                                "(...We will definitely avenge you... I'm sorry it has to be\nthis way for now...)"
                             ]
                         },
                         {
@@ -43199,7 +43171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊女は息絶えている……"
+                                "The courtesan has breathed her last..."
                             ]
                         },
                         {
@@ -43327,7 +43299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊女は息絶えている……"
+                                "The courtesan has breathed her last..."
                             ]
                         },
                         {
@@ -44651,28 +44623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -44696,7 +44647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！？　遊女の死体がこんなに沢山！？"
+                                "--! Courtesans' corpses... so many of them!?"
                             ]
                         },
                         {
@@ -44720,14 +44671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "弄んだように食べられた跡がありますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣の歯型とは違う。アオマルの仕業に間違いありません。"
+                                "It looks like they were toyed with and eaten. These aren't\nmarks from an animal's teeth. There's no doubt, this is the\nwork of Aomaru."
                             ]
                         },
                         {
@@ -44751,28 +44695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -44796,28 +44719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひどい――！　こんな凄惨な死体、見たことないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アオマルの奴、絶対に許さない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "How awful--! I've never seen such gruesome corpses before!\nI'll never forgive that Aomaru!"
                             ]
                         },
                         {
@@ -44841,28 +44743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アオマルは何処に潜んでいるのかわかりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廃墟とはいえ大きな店だらけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち二人だけで探すのは難しそうですし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We don't know where Aomaru is hiding. It's difficult for\njust the two of us to search since it's nothing but large\nbuildings, even if they are ruins..."
                             ]
                         },
                         {
@@ -44940,28 +44821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ドクン――　ドクン――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Heartbeat--Heartbeat-->"
                             ]
                         },
                         {
@@ -45037,28 +44897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！（この感覚……！　鬼の……！？）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! (This sensation...! The demon's...!? )"
                             ]
                         },
                         {
@@ -45082,28 +44921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたんですか、花梨ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心臓を手で押さえて……　胸が苦しいのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What's wrong, Karin-chan? You're clutching your chest... Are\nyou in pain?"
                             ]
                         },
                         {
@@ -45127,21 +44945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから左奥……　すぐ正面の……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番大きな遊郭の中にアオマルはいる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いないです。"
+                                "From here, to the back left... right in front... inside the\nlargest brothel. Aomaru is there... I'm certain of it."
                             ]
                         },
                         {
@@ -45165,28 +44969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？　どうしてわかるのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...? How do you know that?"
                             ]
                         },
                         {
@@ -45210,14 +44993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故かはわかりません。でも私、感じるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドクンドクンって……　心臓の鼓動が速くなって――"
+                                "I don't know why. But I can feel it. My heart is pounding\nfast--"
                             ]
                         },
                         {
@@ -45241,28 +45017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思い出した。貴女の母親である呼凛さんもそうでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の人にはない超越した鋭い勘を持っていて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I remember now. Your mother, Korin-san, was the same. She\nhad an extraordinary intuition that ordinary people didn't\npossess..."
                             ]
                         },
                         {
@@ -45286,28 +45041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！　そうなんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! Is that so?"
                             ]
                         },
                         {
@@ -45331,28 +45065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。呼凛さんは元々巫女の家系だったため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "霊感のような不思議な力があったのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がお気に入りの草履を無くした時も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに見つけてくれました。"
+                                "Yes. Since Korin-san originally came from a family of shrine\nmaidens, she had a mysterious power akin to a sixth sense.\nShe even found my favorite pair of sandals when I lost them."
                             ]
                         },
                         {
@@ -45376,28 +45089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ……　お母ちゃんにそんな不思議な能力が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow... Mom had such a mysterious ability..."
                             ]
                         },
                         {
@@ -45421,28 +45113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨ちゃんにも受け継がれているのなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほど心強いことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵がいる場所がわかるなら隠れることも不可能なはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままアオマルを追い詰めましょう。"
+                                "If you've inherited that ability from Karin-chan, there's\nnothing more reassuring. If we know where the enemy is, they\ncan't hide. Let's corner Aomaru."
                             ]
                         },
                         {
@@ -45478,14 +45149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。遊女たちの仇討ちをしないと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正面にある遊郭の中へ進みましょう！"
+                                "Yes. We must avenge the courtesans... Let's head into the\nbrothel straight ahead!"
                             ]
                         },
                         {

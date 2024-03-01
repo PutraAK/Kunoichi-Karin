@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "深川",
+    "displayName": "Fukagawa",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9809,7 +9809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -10357,7 +10357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どすこい！　どすこい！"
+                                "Heave-ho! Heave-ho!"
                             ]
                         },
                         {
@@ -13193,14 +13193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この橋は、最近できた永代橋だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船が下を通れるように高めに設計されてるのさ。"
+                                "This bridge is the recently constructed Eitai Bridge. It's\ndesigned to be high enough for ships to pass underneath."
                             ]
                         },
                         {
@@ -15685,14 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相撲に興味があるのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しいねぇ。存分に稽古を見て行ってくれ。"
+                                "Are you interested in sumo? I'm glad to hear that. Feel free\nto watch the practice as much as you like."
                             ]
                         },
                         {
@@ -17297,14 +17283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁさぁ、朝一で採れた新鮮な野菜だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手に取って確かめてくれ！"
+                                "Come, come, these are fresh vegetables picked first thing in\nthe morning! Take them in your hands and check for yourself!"
                             ]
                         },
                         {
@@ -17717,7 +17696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -18445,14 +18424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここには江戸中のゴミが集まってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "埋め立てしてもっと土地を広げていくつもりさ。"
+                                "All the trash from Edo ends up here. The plan is to reclaim\nthe land and expand it further."
                             ]
                         },
                         {
@@ -18627,14 +18599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "百年前は江戸城から東は全部海だったらしいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸はずっと埋め立てしてきた歴史があるんだな。"
+                                "A hundred years ago, it seems that everything east of Edo\nCastle was all sea. Edo has a history of continuous land\nreclamation, huh."
                             ]
                         },
                         {
@@ -18749,7 +18714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佃島の煮物は絶品だぜ。"
+                                "The simmered dishes from Tsukudajima are exquisite."
                             ]
                         },
                         {
@@ -19284,7 +19249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は休憩中さ。おにぎり食べるかい？"
+                                "We're taking a break now. Want to eat some rice balls?"
                             ]
                         },
                         {
@@ -20034,7 +19999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -20162,21 +20127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どんなに屈強な力士でも怪我すると全力が出せない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を捻挫して部屋から去った才能ある若い力士もいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相撲は本当、身体が資本な世界だよ。"
+                                "No matter how strong a sumo wrestler is, they can't give\ntheir all when injured. There was even a talented young\nwrestler who left the stable after spraining his ankle. Sumo\ntruly is a world where the body is the capital."
                             ]
                         },
                         {
@@ -20411,7 +20362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっけよい――　のこった！"
+                                "Ready... and fight!"
                             ]
                         },
                         {
@@ -20839,7 +20790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フンッ――！　フン――！"
+                                "Hngh--! Hngh--!"
                             ]
                         },
                         {
@@ -21117,7 +21068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおぉ！！"
+                                "Uoooohh!!"
                             ]
                         },
                         {
@@ -21208,7 +21159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおぉ！！"
+                                "Uoooohh!!"
                             ]
                         },
                         {
@@ -21308,7 +21259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どすこい！　どすこい！"
+                                "Heave-ho! Heave-ho!"
                             ]
                         },
                         {
@@ -21701,14 +21652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "力士たちは勧進相撲の稽古中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興行した時に見に来てくれよな。"
+                                "The sumo wrestlers are in the middle of practice for the\ncharity tournament. Make sure to come see it when we have a\nperformance."
                             ]
                         },
                         {
@@ -22598,7 +22542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【張り紙】お店は夜から　秘薬屋――"
+                                "[Notice] The shop turns into a secret potion store at\nnight--"
                             ]
                         },
                         {
@@ -22795,21 +22739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この永代橋の船着き場から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流罪の者は遠島へ流される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戻ってくる者はいない過酷な刑だ。"
+                                "From the boat landing of this Eitai Bridge, those convicted\nof exile crimes are sent to distant islands. It's a harsh\npunishment from which no one returns."
                             ]
                         },
                         {
@@ -25640,7 +25570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -26391,14 +26321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタから交換してもらった蜜柑、美味かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうな。"
+                                "The mandarin I got from you in exchange was delicious.\nThanks a lot."
                             ]
                         },
                         {
@@ -26466,28 +26389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【漁師】"
+                                "【Fisherman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おや！　その蜜柑は！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Oh! Is that a mandarin orange!?"
                             ]
                         },
                         {
@@ -26511,28 +26420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "蜜柑屋さんからもらったものですけど、何か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I got it from the mandarin shop, why do you ask?"
                             ]
                         },
                         {
@@ -26549,28 +26437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【漁師】"
+                                "【Fisherman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紀州産のものだねぇ。懐かしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレも紀州の生まれでね。最近食べてなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしよかったらその蜜柑、くれないかい？"
+                                "It's from Kishu, isn't it? Brings back memories. I was born\nin Kishu myself. I haven't had one in a while, so if you\ndon't mind, could you give me that mandarin orange?"
                             ]
                         },
                         {
@@ -26594,28 +26468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいですよ。どうぞどうぞ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sure, here you go--"
                             ]
                         },
                         {
@@ -26632,28 +26485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【漁師】"
+                                "【Fisherman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ。アンタ、優しい人だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タダで貰うのもわるい。この反物をあげるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hehe. You're a kind person, aren't you? It doesn't feel\nright to just take it for free. Here, I'll give you this\nfabric in return."
                             ]
                         },
                         {
@@ -26677,28 +26516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ？　反物をくれるんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Really? You're giving me fabric?"
                             ]
                         },
                         {
@@ -26715,28 +26533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【漁師】"
+                                "【Fisherman】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。アンタの優しさがとても嬉しかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反物といっても絹じゃなくて安価な木綿さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから遠慮なく持って行っておくんな。"
+                                "Yeah. I was really happy with your kindness. It's not silk\nbut a cheaper cotton fabric. So don't hesitate and take it\nwith you."
                             ]
                         },
                         {
@@ -26760,28 +26564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では反物もらっていきますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you very much! Then I'll take the fabric with me."
                             ]
                         },
                         {
@@ -26810,7 +26593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は蜜柑を交換して\\c[17]反物\\c[0]を手に入れた！"
+                                "--Karin exchanged the mandarin orange and obtained\n\\c[17]fabric\\c[0]!"
                             ]
                         },
                         {
@@ -27023,14 +26806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんこ鍋をたくさん食べて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと体を大きくしろと親方に言われてるんだ。"
+                                "The stablemaster told me to eat lots of chanko nabe to get\nbigger."
                             ]
                         },
                         {
@@ -27806,7 +27582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】新弟子募集中！　健康で肉体が屈強な男児　大歓迎"
+                                "[Sign] Now Recruiting New Disciples! Healthy boys with\nstrong physiques are highly welcome!"
                             ]
                         },
                         {

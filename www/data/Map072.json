@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "書店",
+    "displayName": "Bookstore",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2777,7 +2777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううぅ……　この本、春画だ……"
+                                "Uuu... This book, it's an erotic print..."
                             ]
                         },
                         {
@@ -2801,7 +2801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あの少年、春画を読んでる……）"
+                                "(That boy, he's reading an erotic print...)"
                             ]
                         },
                         {
@@ -3414,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -3602,14 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この書店は全国各地の本を網羅しておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平安時代の古書もあるぞ。すごいじゃろ？"
+                                "This bookstore covers books from all over the country. They\neven have ancient texts from the Heian period. Impressive,\nisn't it?"
                             ]
                         },
                         {
@@ -3686,21 +3679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい。おじいちゃんが無類の本好きでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きが転じてそのまま書店を商いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "するようになったのさ。"
+                                "Welcome. My grandfather was an unparalleled book lover. His\npassion turned into business, and that's how he started this\nbookstore."
                             ]
                         },
                         {
@@ -3883,14 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ、本好きにはたまりませんなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一日中この店にいたい気持ちですよ。"
+                                "Ah, a book lover's paradise indeed. I feel like I could\nspend the whole day in this store."
                             ]
                         },
                         {
@@ -4061,28 +4033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[27]【経験情報の開発度について】\\c[0]それぞれ２０回以上でMAX"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口……尺八＋痴漢（巣裸無村）の合計数"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "胸……パイずり＋痴漢（日本橋）の合計数"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣……本番回数　尻……尻穴＋痴漢（築地）の合計数"
+                                "\\c[27][About Experience Development]: \\c[0]Each category reaches MAX after 20 instances.\nMouth...Total number of blowjobs + molestation (Sura Mura\nVillage) Breasts...Total number of titjobs + molestation\n(Nihonbashi) Vagina...Number of times having sex Ass...Total\nnumber of anal + molestation (Tsukiji)"
                             ]
                         },
                         {
@@ -4111,28 +4062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]【戦闘ステータスについて】\\c[0]"
+                                "\\c[17][About Combat Status]\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "速さ……早いほど先に攻撃できます　運……会心率上昇"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神通力……仲間による回復系戦技の最大値が上昇します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "退魔力……敵が繰り出す法術系の戦技ダメージを弱めます"
+                                "Speed...The faster you are, the earlier you can attack.\nLuck...Increases critical hit rate. Mystic Power...Increases\nthe maximum value of healing battle skills by allies.\nExorcism Power...Weakens the damage from magical battle\nskills used by enemies."
                             ]
                         },
                         {
@@ -6369,14 +6306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前、盗賊の男が売りに来た書があるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったら買わないかい？　１５００文でいいよ。\\$"
+                                "The other day, a thief came by to sell a book. Would you\nlike to buy it? It's only 1500 mon.\\$"
                             ]
                         },
                         {
@@ -6384,8 +6314,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "隠し部屋の書（上巻）を買う【１５００文】",
-                                    "買わない"
+                                    "Buy the Upper Volume of the Hidden Room Scroll [1500 Mon]",
+                                    "Do not buy"
                                 ],
                                 1,
                                 0,
@@ -6445,21 +6375,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお、本当かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがたいねぇ。本当かどうか知らないが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "隠し部屋に宝物が隠してあるそうだ。行ってみるといいよ。"
+                                "Oh, really? That's very kind of you. I don't know if it's\ntrue, but it's said that there's a hidden room with treasure\nin it. You should check it out."
                             ]
                         },
                         {
@@ -6498,7 +6414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――\\c[17]【隠し部屋の書（上巻）】\\c[0]を手に入れた！"
+                                "--\\c[17]You've obtained the 【Hidden Room Scroll (Volume\n1)】\\c[0]!"
                             ]
                         },
                         {
@@ -6525,7 +6441,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -6565,14 +6481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうかい、残念だ。書はとっておくから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "買いたくなったらまた来るといいよ。"
+                                "Is that so, what a shame. I'll keep the book here, so if you\ndecide you want to buy it, come back anytime."
                             ]
                         },
                         {
@@ -6650,14 +6559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "春画はとてもよく売れてるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな好きなんだねぇ♪"
+                                "Erotic prints are selling really well. Everyone must love\nthem♪"
                             ]
                         },
                         {

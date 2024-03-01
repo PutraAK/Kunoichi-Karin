@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "嬉三郎の小屋",
+    "displayName": "Kisanosuke's Hut",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2410,7 +2410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まったく、遠島流罪はつらいぜ……　ぐぅ……"
+                                "...Seriously, being exiled to a distant island is\ntough...ugh..."
                             ]
                         },
                         {
@@ -2616,14 +2616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空き巣だけでこんな僻地に流されるなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふて寝するしかないぜ……　ぐぅ……ぐぅ……"
+                                "To be banished to such a remote place just for burglary...\nI've got no choice but to sleep in frustration... zzz...\nzzz..."
                             ]
                         },
                         {
@@ -2647,7 +2640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もしや空き巣兄弟？　流刑でここまで流されたのね……）"
+                                "(Could it be the Burglary Brothers? Banished all the way out\nhere as punishment...)"
                             ]
                         },
                         {
@@ -2858,28 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あん？　なんだいアンタ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ない顔だが、新入り罪人かね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Huh? Who are you? I don't recognize your face. Are you a new\nconvict?"
                             ]
                         },
                         {
@@ -2903,28 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。私、花梨と言います。嬉三郎さんですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. My name is Karin. You're Kisanosuke-san, right?"
                             ]
                         },
                         {
@@ -2948,28 +2899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、アンタが花梨さんかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いたぜ。罪人頭たちを早速コテンパンにしたんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすが流罪される身だけあって問題児だ。威勢がいいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh! So you're Karin, huh? I've heard about you. You've\nalready given those convict leaders a thrashing, haven't\nyou? As expected of someone who's been exiled, a real\ntroublemaker. You've got spirit!"
                             ]
                         },
                         {
@@ -2993,14 +2923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははっ……　どうも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉三郎さんも島流しにされた流罪人なんですか？"
+                                "Ahaha... Thank you... Kisanosuke-san, are you also an exile?"
                             ]
                         },
                         {
@@ -3024,28 +2947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺は浦賀の漁師だったんだが、博打にはまっちまってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸でイカサマ壺振り相手に喧嘩をやりすぎちまってなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も役人に捕まって、ついにはこんな僻地に流されちまって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当参ったよ。反省するには後の祭りってやつだ。"
+                                "I was a fisherman in Uraga, but I got hooked on gambling. I\nfought too much with cheaters in Edo, got caught by the\nofficials over and over, and finally got dumped in this\ngodforsaken place. It's too late for regrets now."
                             ]
                         },
                         {
@@ -3069,28 +2971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……その、嬉三郎さんにお願いがありまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Um, I have a favor to ask of you, Kisanosuke-san."
                             ]
                         },
                         {
@@ -3114,28 +2995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。お願いっていうと釣り竿かい？　いいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah. If it's a favor you're asking for, is it a fishing rod?\nSure thing."
                             ]
                         },
                         {
@@ -3159,28 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当ですか！？　ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Really?! Thank you so much!"
                             ]
                         },
                         {
@@ -3204,28 +3043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ただし条件がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタが持っている金、全部寄こしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...But there's a condition. Hand over all the money you've\ngot."
                             ]
                         },
                         {
@@ -3249,28 +3067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――えっ！？　私の手持ちのお金を……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Eh?! All the money I have...!?"
                             ]
                         },
                         {
@@ -3294,28 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああそうだ。この島で食ってくのには釣り竿は必須だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飢え死にしたくなきゃ全財産置いて行きな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちとら慈善事業で釣り具を作っているんじゃねぇんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヘッヘッヘ……"
+                                "That's right. A fishing rod is essential for surviving on\nthis island. If you don't want to starve to death, leave all\nyour wealth behind. I'm not running a charity here making\nfishing gear, you know. Heh heh heh..."
                             ]
                         },
                         {
@@ -3339,28 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！（うぅ……　どうしよう……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! (Ugh... What should I do...)"
                             ]
                         },
                         {
@@ -3393,28 +3148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬉三郎さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨さんにそんな意地悪なこと言わないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke-san, please don't be so mean to Karin-san."
                             ]
                         },
                         {
@@ -3447,28 +3181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲッ！？　かかか……！　華蝶さんっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gah! Ka-ka-ka...! Kachou-san!?"
                             ]
                         },
                         {
@@ -3523,28 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　華蝶さん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Kachou-san..."
                             ]
                         },
                         {
@@ -3568,28 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私からもお願いです。花梨さんに釣り具を渡してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は流罪人頭から私をかばってくれました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても優しい人ですから……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm also asking you. Please give the fishing gear to Karin-\nsan. She protected me from the convict leaders. She's a very\nkind person..."
                             ]
                         },
                         {
@@ -3613,28 +3284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、わかりました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "華蝶さんたってのお願いなら断れません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ新品の釣り竿を作りますんで、ちょいとお待ちください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Okay, okay! If it's a request from you, Kachou-san, I can't\nrefuse! I'll make a brand-new fishing rod right away, so\njust wait a moment!"
                             ]
                         },
                         {
@@ -3658,28 +3308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かった。感謝します、嬉三郎さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's great. Thank you, Kisanosuke-san."
                             ]
                         },
                         {
@@ -3703,28 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この嬉三郎って人、華蝶さんのこと好きなのね……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...(This Kisanosuke person, he likes Kachou-san, doesn't\nhe...)"
                             ]
                         },
                         {
@@ -3777,28 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3870,28 +3457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほい、待たせたな花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新品の釣り具だ。たとえサメでも釣れる丈夫な逸品だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大事に使ってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Here you go, didn't mean to keep you waiting, Karin-san.\nBrand new fishing gear. It's sturdy enough to catch even\nsharks. Take good care of it."
                             ]
                         },
                         {
@@ -3915,7 +3481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -3948,7 +3514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！　ありがとうございます、嬉三郎さん！"
+                                "Wow! Thank you so much, Kisanosuke-san!"
                             ]
                         },
                         {
@@ -3979,28 +3545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かったですね、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は釣り餌を忘れないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なければ道具屋に売ってますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You're in luck, Karin-san. Just don't forget the bait for\nfishing. If you don't have any, they sell it at the tool\nshop."
                             ]
                         },
                         {
@@ -4024,14 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "華蝶さんもありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "南の浜で魚釣り、頑張ってみますね！"
+                                "Thank you as well, Kachou-san! I'll do my best fishing on\nthe southern beach!"
                             ]
                         },
                         {
@@ -4077,7 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【釣り竿】\\c[0]を手に入れた！"
+                                "--Karin has obtained the \\c[17]【Fishing Rod】\\c[0]!"
                             ]
                         },
                         {
@@ -4202,28 +3740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "釣った魚は道具屋でも売れるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "釣りすぎたなら魚を売って金策するのも手だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし【マグロ】が釣れたら俺のとこへ持ってきな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味いモン食わせてやるぜ♪"
+                                "You can sell the fish you catch at the tool shop. If you've\ncaught too many, selling them is a good way to make some\nmoney. And if you happen to catch a 【Tuna】, bring it to me.\nI'll treat you to something delicious♪"
                             ]
                         },
                         {
@@ -4385,21 +3902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -4423,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　そのデカい魚、マグロだな？　よく釣れたなぁ！"
+                                "Oh!? That's a huge fish, a tuna, isn't it? You did a great\njob catching it!"
                             ]
                         },
                         {
@@ -4447,28 +3950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい！　南の浜で一本釣りしました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes! I caught it by line fishing at the southern beach!"
                             ]
                         },
                         {
@@ -4492,21 +3974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだい花梨さん。一匹くれねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちは江戸で板前もやってたから、このマグロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手いことさばいてやるぜ。"
+                                "How about it, Karin-san. Could you spare one? I used to be a\nchef in Edo, so I can skillfully fillet this tuna."
                             ]
                         },
                         {
@@ -4530,14 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ、本当ですか！　嬉しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、料理全然だめなので、どうかお願いします！"
+                                "Wow, really? I'm so happy! I'm terrible at cooking, so\nplease, I'm counting on you!"
                             ]
                         },
                         {
@@ -4561,7 +4022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どーーーーん）"
+                                "(Thud----)"
                             ]
                         },
                         {
@@ -4585,28 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら……　こんなに大きい魚、釣ったんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごいですね、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh my... You caught such a big fish? That's amazing, Karin-\nsan."
                             ]
                         },
                         {
@@ -4630,28 +4070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "華蝶さん、丁度よいところに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから嬉三郎さんが料理してくれるそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kachou-san, you're just in time. Kisanosuke-san is about to\ncook it for us."
                             ]
                         },
                         {
@@ -4675,28 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにせでかい魚だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなで一緒に食べようじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It's a big fish after all. Let's all eat together!"
                             ]
                         },
                         {
@@ -4745,28 +4143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もぐもぐ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Munch munch...)"
                             ]
                         },
                         {
@@ -4790,7 +4167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい……！　ふわふわして……舌がとろけそう……！"
+                                "Incredible...! It's so fluffy... It feels like my tongue is\nmelting...!"
                             ]
                         },
                         {
@@ -4814,14 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しい……！　こんなに美味しい魚を食べたの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたし……初めて！"
+                                "Delicious...! This is the first time I've ever eaten such a\ndelicious fish!"
                             ]
                         },
                         {
@@ -4845,21 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸じゃ脂っこいから、猫も食べない猫またぎなんて言われて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不人気であんまり食べられていないが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マグロのトロっぽい脂身が美味でなぁ。俺の大好物なんだ。"
+                                "In Edo, because it's fatty, it's unpopular and not eaten\nmuch, called 'cat's stepover' since even cats won't eat it.\nBut the fatty part like tuna belly is delicious, you know.\nIt's my favorite."
                             ]
                         },
                         {
@@ -4890,28 +4246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うんうん！　トロってこんな絶品だったなんて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に美味しい♪　濃口の醤油にとてもあってて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yeah, yeah! I had no idea toro was such a delicacy...! It\nreally is delicious♪ It goes so well with dark soy sauce!"
                             ]
                         },
                         {
@@ -4935,28 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウフフ。島流しされなければ知らなかったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ufufu. If I hadn't been exiled to this island, I would have\nnever known."
                             ]
                         },
                         {
@@ -4980,28 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違いないねぇ！　ハッハッハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No doubt about it! Hahahaha!"
                             ]
                         },
                         {
@@ -5025,7 +4318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（むしゃむしゃ……　もぐもぐ……♪）"
+                                "(Chomp chomp... munch munch...♪)"
                             ]
                         },
                         {
@@ -5049,28 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば花梨さん、白髪坊主のお爺さんに会いましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "By the way, Karin-san, have you met the old man with white\nhair?"
                             ]
                         },
                         {
@@ -5094,28 +4366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "白髪坊主の……？　いえ、この島に来てからまだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The white-haired...? No, I haven't since I arrived on this\nisland..."
                             ]
                         },
                         {
@@ -5139,28 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の家の北側の小屋に住んでいるご老人です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨さんが来る一便前の船で無常島に流されて来た人で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬をわけてあげたりして……　知り合って話すようになったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々物知りな方なんですよ。"
+                                "He's an elderly man living in a hut north of my house. He\nwas sent to Mujou Island on the ship before the one that\nbrought you here. I've given him some medicine and... once\nwe got to talking, I found out he's quite knowledgeable\nabout many things."
                             ]
                         },
                         {
@@ -5184,28 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、白髪坊主さんか。八卦占いとかで天気当てたりして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんつうか、不思議な感じだよなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に堅気じゃないっていうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, the white-haired monk, right. He does divinations and\npredicts the weather and stuff... kind of mysterious, you\nknow... definitely not an ordinary person..."
                             ]
                         },
                         {
@@ -5229,28 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーん、面白そうな人がいるんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度会ってみます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm, sounds like an interesting person. I'll meet him next\ntime."
                             ]
                         },
                         {
@@ -5274,28 +4462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "満腹になったぜ。これはマグロのお返しだ。釣り餌をあげるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またいっぱい釣ってきておくんな、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm full now. This is in return for the tuna. I'll give you\nsome fishing bait. Catch a lot more and bring them back,\nKarin-san."
                             ]
                         },
                         {
@@ -5319,28 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます、嬉三郎さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらもご馳走様でした♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you very much, Kisanosuke-san. The meal was wonderful♪"
                             ]
                         },
                         {
@@ -5379,7 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【釣り餌】\\c[0]を２０個手に入れた！"
+                                "--Karin obtained 20 pieces of \\c[17]【Fishing Bait】\\c[0]!"
                             ]
                         },
                         {
@@ -5508,21 +4654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし江戸に戻れたら、トロ専門店でもやりたいねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸っ子たちにマグロの脂身の旨さを知らしめたいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ夢の話だけどね。ハッハッハ！"
+                                "If I could return to Edo, I'd like to open a shop\nspecializing in fatty tuna. I want to show the folks in Edo\nhow delicious the fat of tuna can be. Well, it's just a\ndream though. Hahaha!"
                             ]
                         },
                         {

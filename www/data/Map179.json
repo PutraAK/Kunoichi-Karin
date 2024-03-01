@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "妖の杜　洞窟",
+    "displayName": "Bewitched Forest Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -16279,7 +16279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -16287,8 +16287,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16339,7 +16339,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――水の中から飛び石が出現した！"
+                                "--Stepping stones have appeared from within the water!"
                             ]
                         },
                         {
@@ -16550,7 +16550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -16558,8 +16558,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16610,7 +16610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――水の中から飛び石が出現した！"
+                                "--Stepping stones have appeared from within the water!"
                             ]
                         },
                         {
@@ -17060,7 +17060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -17248,7 +17248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -17256,8 +17256,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17308,7 +17308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――水の中から飛び石が出現した！"
+                                "--Stepping stones have appeared from within the water!"
                             ]
                         },
                         {
@@ -18575,7 +18575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -19242,7 +19242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon Repelling Power Fruit】\\c[0] has been\nobtained!"
                             ]
                         },
                         {
@@ -19728,7 +19728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]【200 Mon】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -21385,7 +21385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25584,7 +25584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25831,7 +25831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -26078,7 +26078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Luck】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -26385,7 +26385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Speed】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -31374,7 +31374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 800 Mon!\\c[0]"
                             ]
                         },
                         {

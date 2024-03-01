@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "丸の内",
+    "displayName": "Marunouchi",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9319,7 +9319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は本丸。夜間に近づくことは誰もまかりならぬ。"
+                                "This area beyond here is the inner citadel. No one is\nallowed to approach during the night."
                             ]
                         },
                         {
@@ -9387,7 +9387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう夜も遅い。早く家に帰りなさい。"
+                                "It's already late at night. Hurry home now."
                             ]
                         },
                         {
@@ -10242,21 +10242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだ、犯人の足取りは掴めたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らはいつでも駆けつけられるようにしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜鷹の囮捜査、頼んだぞ。"
+                                "How goes it, have you caught any trace of the culprit? We\nare ready to rush over at any moment. I'm counting on you\nfor the night hawk decoy investigation."
                             ]
                         },
                         {
@@ -10621,14 +10607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傷が痛んで、まだ刀が上手く振れないんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に戦えずにすまないな。遊郭の事件のこと任せたぞ。"
+                                "My wound still hurts, and I can't swing my sword well yet...\nI'm sorry I can't fight alongside you. I'm leaving the\nmatter of the pleasure district to you."
                             ]
                         },
                         {
@@ -10773,21 +10752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、花梨か？　こんな夜中に何をしてるって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然修行だ。寝るのも惜しいからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから最終決戦になる。二人とも生き残ろうな。"
+                                "Yeah, is that you, Karin? What are you doing up at this\nhour? Of course, I'm training. It's too precious to waste on\nsleep. From here on out, it's the final battle. Let's both\nmake sure we survive, okay?"
                             ]
                         },
                         {
@@ -11919,14 +11884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このような夜更けになにをしてる？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この所、奇怪な事件が多い。早く自宅に帰りなさい。"
+                                "What are you doing out so late at night? There have been\nmany strange incidents around here lately. You should hurry\nhome."
                             ]
                         },
                         {
@@ -11994,14 +11952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな状況でも夜中に夜鷹を買う男が出歩いていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちも困っているよ……"
+                                "Even in this situation, there are men wandering around at\nnight looking to buy a nightingale, and it's causing us\ntrouble too..."
                             ]
                         },
                         {
@@ -13293,7 +13244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む？　こんな深夜に奉行所に用か……？"
+                                "Hmm? Do you have business at the magistrate's office at this\nlate hour...?"
                             ]
                         },
                         {
@@ -13399,14 +13350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奉行所も忙しくて、深夜まで仕事をしているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく江戸の治安を安定させなければな。"
+                                "The magistrate's office is also busy, working until late at\nnight. Anyway, we must stabilize the public order in Edo."
                             ]
                         },
                         {
@@ -13540,14 +13484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ななっ！！　その姿で夜中に走り回ってるとは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再びねずみ小町に戻って強盗を働くつもりではあるまいな！？"
+                                "--What?! Running around in the middle of the night like\nthat! You're not planning to return to your thieving ways as\nthe Mouse Girl, are you?!"
                             ]
                         },
                         {
@@ -13571,14 +13508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご、誤解ですっ！　公儀の任務中ですから――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当ですってば――！"
+                                "No, you've got it all wrong! I'm on an official mission--! I\nswear it's true--!"
                             ]
                         },
                         {
@@ -13782,9 +13712,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "承知する【提示金額　\\V[47]文】\\c[27]【Ｈイベント】\\c[0]",
-                                    "交渉する",
-                                    "断る"
+                                    "Understood. \\c[27]【H Event】\\c[0] (The offered amount is \\V[47] mon.)",
+                                    "Negotiate",
+                                    "Decline"
                                 ],
                                 2,
                                 0,
@@ -13821,21 +13751,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【売春客】"
+                                "【Prostitute Client】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ、嬉しいねぇ！　ここじゃ目立つから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこの物陰へ行こうぜ\\I[15]"
+                                "Hehe, I'm so happy! This place is too conspicuous, let's go\nover there in the shadows\\I[15]"
                             ]
                         },
                         {
@@ -13878,7 +13801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――売春相手は花梨の手を引いて物陰に連れ込んだ。"
+                                "--The prostitution client pulled Karin by the hand into the\nshadows."
                             ]
                         },
                         {
@@ -14094,7 +14017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いいぜ。値段を上乗せする代わり楽しませてくれよ。"
+                                "Prostitute Client: Sure thing. I'll pay extra, so make sure\nyou entertain me well."
                             ]
                         },
                         {
@@ -14111,7 +14034,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon\\c[0]!"
                             ]
                         },
                         {
@@ -14167,7 +14090,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "構わねぇ。アンタ、色っぽいもんなぁ。多めに払うぜ。"
+                                "Prostitute Client: I don't mind. You're quite sexy after\nall. I'll pay more."
                             ]
                         },
                         {
@@ -14184,7 +14107,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "――交渉した結果、値段が\\c[17]\\V[47]文\\c[0]になった！"
+                                "--As a result of the negotiation, the price became\n\\c[17]\\V[47] mon\\c[0]!"
                             ]
                         },
                         {
@@ -14218,14 +14141,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……うーん。これ以上、金は出せねぇよ。じゃあな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（男は首を振り去っていった――）"
+                                "...Hmm. I can't pay any more than this. See ya. (The man\nshook his head and walked away--)"
                             ]
                         },
                         {
@@ -19594,14 +19510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしもの時は我らがすぐに駆けつけます故"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心して囮捜査をしてください。決して無理はせずに。"
+                                "If anything happens, rest assured that we will rush to your\naid immediately. Please carry out the decoy investigation\nwithout overexerting yourself."
                             ]
                         },
                         {
@@ -19785,14 +19694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕霧殿、夜中に訓練などよろしくないですぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理はせずに、傷が癒えるまではどうか安静に。"
+                                "Yugiri-dono, it's not good to train in the middle of the\nnight, is it? Please don't overdo it and rest until your\nwounds have healed."
                             ]
                         },
                         {
@@ -19927,7 +19829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼は夜になると活発になる。一体なんでであろうな……"
+                                "Demons become more active at night. I wonder why that is..."
                             ]
                         },
                         {
@@ -20106,21 +20008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸の東側は浅草の虎政親分のシマでな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子分たちに邪魔されるのであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日中に浅草へ行き、親分と話をつけるといい。"
+                                "The eastern side of Edo is the territory of Asakusa's boss,\nToramasa... If you're being bothered by his underlings, it\nwould be best to go to Asakusa during the day and have a\ntalk with the boss."
                             ]
                         },
                         {

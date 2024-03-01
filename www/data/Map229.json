@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "山賊砦 地下",
+    "displayName": "Bandit Fortress Basement",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -18150,7 +18150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Scroll】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -18396,7 +18396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 800 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -18524,7 +18524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けて……"
+                                "Help me..."
                             ]
                         },
                         {
@@ -18601,7 +18601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けて……"
+                                "Help me..."
                             ]
                         },
                         {
@@ -20161,7 +20161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 800 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -22148,7 +22148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【排卵剤】\\c[0]を手に入れた！"
+                                "--\\c[17]【Ovulation Drug】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -24215,7 +24215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抜け穴がある……！　ここから出られるかも……！"
+                                "There's an escape hole...! We might be able to get out from\nhere...!"
                             ]
                         },
                         {
@@ -24223,8 +24223,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "穴から外に出る",
-                                    "とどまる"
+                                    "Exit through the hole",
+                                    "Stay put"
                                 ],
                                 1,
                                 0,
@@ -25250,28 +25250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ッ！　まさか牢屋から逃げ出したのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Did you escape from the cell!?"
                             ]
                         },
                         {
@@ -25295,28 +25281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあぁ～～ッ！（しまった！　見つかった……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~! (Darn it! I've been found...!)"
                             ]
                         },
                         {
@@ -25463,14 +25428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだぁ！？　どうしてここにいるんだ！？"
+                                "What the!? Why are you here!?"
                             ]
                         },
                         {
@@ -25494,28 +25459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあぁ～～ッ！（しまった！　見つかった……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~! (Darn it! I've been found...!)"
                             ]
                         },
                         {
@@ -25662,14 +25606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待てコラッ！　そう簡単に逃げられると思ったのか！？"
+                                "Hey, stop right there! Did you think you could escape that\neasily!?"
                             ]
                         },
                         {
@@ -25693,28 +25637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあぁ～～ッ！（しまった！　見つかった……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~! (Darn it! I've been spotted...!)"
                             ]
                         },
                         {
@@ -25861,14 +25784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！！　どうやって牢から出た！？　こっちへ来い！"
+                                "--!! How did you escape from the cell!? Come here!"
                             ]
                         },
                         {
@@ -25892,28 +25815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあぁ～～ッ！（しまった！　見つかった……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~! (Darn it! I've been spotted...!)"
                             ]
                         },
                         {
@@ -26060,14 +25962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ななッ！　どうやって牢屋を突破したんだ！？　逃がすか！"
+                                "Wha-! How did you break out of the cell!? There's no escape!"
                             ]
                         },
                         {
@@ -26091,28 +25993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあぁ～～ッ！（しまった！　見つかった……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~! (Darn it! I've been spotted...!)"
                             ]
                         },
                         {
@@ -26231,7 +26112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぅ……グゥ……（居眠り中）"
+                                "Hmm... Hmmm... (Asleep)"
                             ]
                         },
                         {
@@ -26255,7 +26136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今のうちに脱出しよう。まずは装備品を取り戻さないと）"
+                                "(Now's my chance to escape. First, I need to retrieve my\nequipment.)"
                             ]
                         },
                         {
@@ -26348,14 +26229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅん……　まだ寝かせてくれぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅番であんまり寝てねぇんだぁ……"
+                                "Mmm... let me sleep a little longer... I didn't get much\nsleep because of the late shift..."
                             ]
                         },
                         {
@@ -26492,14 +26366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅん……　まだ寝かせてくれぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅番であんまり寝てねぇんだぁ……"
+                                "Mmm... let me sleep a bit more... I didn't get much sleep\nbecause of the late shift..."
                             ]
                         },
                         {
@@ -26576,14 +26443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅん……　まだ寝かせてくれぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅番であんまり寝てねぇんだぁ……"
+                                "Mmm... let me sleep a little longer... I barely got any\nsleep because of the late shift..."
                             ]
                         },
                         {
@@ -26708,14 +26568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅん……　まだ寝かせてくれぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遅番であんまり寝てねぇんだぁ……"
+                                "Mmm... let me sleep a little longer... I didn't get much\nsleep because of the late shift..."
                             ]
                         },
                         {
@@ -26997,7 +26850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――全ての装備を取り戻した！\\c[0]"
+                                "\\c[17]--I've retrieved all my equipment!\\c[0]"
                             ]
                         },
                         {
@@ -27037,14 +26890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やった！　宝箱の中に持ち物が全部ある！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早速着替えよう……！"
+                                "Yes! Everything is in the chest! Time to change clothes...!"
                             ]
                         },
                         {
@@ -27126,28 +26972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は着物を急いで身に着けた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Karin hurriedly dressed in her kimono!"
                             ]
                         },
                         {
@@ -27171,28 +26996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -27308,28 +27112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ダダダダッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Thud Thud Thud--!>"
                             ]
                         },
                         {
@@ -27353,28 +27136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！　山賊たち！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--Bandits!?"
                             ]
                         },
                         {
@@ -27410,28 +27172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この小娘がぁ！　牢屋から脱獄とは舐めやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This little wench! To think she'd escape from the cell, the\nnerve!"
                             ]
                         },
                         {
@@ -27455,28 +27196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二度と脱獄できねぇよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "縄でふんじめて壁に吊るしてやらぁッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We'll tie you up so you can never escape again and hang you\non the wall!"
                             ]
                         },
                         {
@@ -27500,28 +27220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ。脅し文句を言われてもなんとも思わないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって貴方たち、もう詰んでるから――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heh, your threats don't faze me. After all, you guys are\nalready checkmated--"
                             ]
                         },
                         {
@@ -27545,28 +27244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だと！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What did you say!?"
                             ]
                         },
                         {
@@ -27590,7 +27268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（スッ…………）"
+                                "(Swoosh...)"
                             ]
                         },
                         {
@@ -27626,28 +27304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ザクッ――！　ズバアァッ！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Slash--! Stab!!>"
                             ]
                         },
                         {
@@ -27678,14 +27335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゃあああぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いつの間に背後へ……！？"
+                                "Aaargh~~~! How did she get behind us...!?"
                             ]
                         },
                         {
@@ -27721,28 +27371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――山賊たちは血を噴いて倒れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--The bandits collapsed, spewing blood."
                             ]
                         },
                         {
@@ -27785,28 +27414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よくやったぞ花梨――　完璧な囮になってくれたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well done, Karin--you made a perfect decoy."
                             ]
                         },
                         {
@@ -27830,28 +27438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "援護に来てくれてありがとう、夕霧ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで助かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thanks for the backup, Yugiri-chan. I owe you one."
                             ]
                         },
                         {
@@ -27875,28 +27462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が脱獄して山賊どもを引き付けてくれたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に牢屋から村娘たちを助け出せたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Because you escaped and drew the bandits to you, we were\nable to rescue the village girls from the cell without\nissue."
                             ]
                         },
                         {
@@ -27920,14 +27486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けに来てくださり、ありがとうございます……"
+                                "Haah... haah...! Thank you for coming to save us..."
                             ]
                         },
                         {
@@ -27958,14 +27517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴女たち、無事で良かったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ一刻も早く、この山賊砦から脱出しましょう――"
+                                "You're all safe, that's what matters. Now let's escape from\nthis bandit fortress as quickly as possible--"
                             ]
                         },
                         {
@@ -27989,21 +27541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -28069,28 +27607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴゴゴゴゴゴ……！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Rumbling...!!>"
                             ]
                         },
                         {
@@ -28140,14 +27657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクン――　ドクン――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（――！！　この威圧感……！　まさか……？）"
+                                "Thump--thump--(!! This oppressive aura...! Could it be...?)"
                             ]
                         },
                         {
@@ -28183,28 +27693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……お主たちか？　我が城に乗り込んできた侵入者は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Are you the ones? The intruders who stormed my castle?"
                             ]
                         },
                         {
@@ -28235,28 +27724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　以前、四谷の幽霊屋敷で見た鬼――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! The demon from the haunted mansion in Yotsuya--!?"
                             ]
                         },
                         {
@@ -28280,28 +27748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この外道め！　罪のない村娘をさらって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女たちを返してもらうぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You fiend! Kidnapping innocent village girls! We're taking\nthem back!"
                             ]
                         },
                         {
@@ -28325,28 +27772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう、お前たちは四谷で会ったな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慰み者の娘たちをたった二人で奪い返しにきたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女子ながらたいした胆力だ。敬意を表すぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, you're the ones from Yotsuya? You came to take back the\ngirls used for entertainment, just the two of you? Quite\nbrave for women. I respect that."
                             ]
                         },
                         {
@@ -28370,28 +27796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マガラさま！　た、助けてくださいッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつら強すぎて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Magara-sama! P-please help us! These guys are too strong...!"
                             ]
                         },
                         {
@@ -28415,28 +27820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン……　貴様らは遊び過ぎだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "砦の警備もせずに女を抱いていた者が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けなど笑止――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmph... You fools have been playing too much. Not even\nguarding the fortress properly because you were busy with\nwomen—asking for help is laughable--"
                             ]
                         },
                         {
@@ -28498,28 +27882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　グシャッ――！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Crush--!!>"
                             ]
                         },
                         {
@@ -28543,28 +27906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "----!!"
                             ]
                         },
                         {
@@ -28588,28 +27930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃああああぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~~!"
                             ]
                         },
                         {
@@ -28645,7 +27966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -28669,7 +27990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～ッ！（胴を真っ二つに……！　とんでもない剣撃だ！）"
+                                "~~~! (He's been split in half...! What a terrifying sword\nstrike!)"
                             ]
                         },
                         {
@@ -28693,21 +28014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多勢に無勢の中、たいした肝っ玉よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主たちのその勇気に免じ、この場から見逃がしてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そちらも村娘を守りながら戦うのは面倒であろう。違うか？"
+                                "In the face of overwhelming odds, you've shown great\ncourage. In light of your bravery, I'll let you go this\ntime. It must be troublesome to fight while protecting the\nvillage girls, isn't it?"
                             ]
                         },
                         {
@@ -28731,7 +28038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――！"
+                                "----!"
                             ]
                         },
                         {
@@ -28755,28 +28062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私たちのこと、逃がしてくれるというの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...You're letting us go?"
                             ]
                         },
                         {
@@ -28812,21 +28098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左様――　もし拙者と戦いたければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "再びこの山賊砦まで来るがいい。砦の一番奥で待っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時に決着をつけよう。それで構わぬか？"
+                                "Indeed—if you wish to fight me, come back to this bandit\nfortress. I'll be waiting in the deepest part. We can settle\nthings then. Is that acceptable?"
                             ]
                         },
                         {
@@ -28850,28 +28122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……わかった。じゃあ一度失礼するわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Understood. Then we shall take our leave for now."
                             ]
                         },
                         {
@@ -28895,28 +28146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちが外の通路に繋がってる！　皆、急げ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This way leads to an outside passage! Everyone, hurry!"
                             ]
                         },
                         {
@@ -28940,7 +28170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい――！"
+                                "Yes--!"
                             ]
                         },
                         {
@@ -28976,28 +28206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ダダダダダッ――　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Thud-thud-thud-thud-->"
                             ]
                         },
                         {
@@ -29014,7 +28223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨と夕霧は村娘たちを連れて外へ逃走した！"
+                                "--Karin and Yugiri have escaped outside with the village\ngirls!"
                             ]
                         },
                         {
@@ -29031,28 +28240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -29083,28 +28271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -29128,28 +28295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……良いのですか、マガラ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "侵入者どもを逃がして？　あのまま逃走してしまうのでは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Is it alright, Lord Magara, to let those intruders\nescape? Won't they just run away?"
                             ]
                         },
                         {
@@ -29173,28 +28319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人とも必ずまた山賊砦に来る。そのような目をしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次に会う時は我が愛刀の錆びにしてくれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久しぶりに全力で戦える猛者に出会えて、拙者は至福ぞ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Both of them will surely come back to the bandit fortress.\nThey had that look in their eyes. Next time we meet, they\nshall become the rust on my beloved sword. It's been a while\nsince I've met a worthy opponent I can fight with all my\nmight, I'm truly blissful--"
                             ]
                         },
                         {
@@ -29218,14 +28343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "..."
                             ]
                         },
                         {
@@ -29249,28 +28367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（しかし、あの黒髪の娘……　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遠い昔……　何処かで見たような……　気のせいか……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(However, that girl with the black hair... from a distant\npast... it feels like I've seen her somewhere before... or\nis it just my imagination...)"
                             ]
                         },
                         {
@@ -29294,28 +28391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -29391,28 +28467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -29436,28 +28491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……はぁっ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Phew... Haah...!"
                             ]
                         },
                         {
@@ -29481,28 +28515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでくれば安泰だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追っ手にも遭遇せずに逃げきれて良かったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We should be safe now that we've come this far. It's good\nthat we managed to escape without encountering any pursuers."
                             ]
                         },
                         {
@@ -29526,28 +28539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当にありがとうございます、お二人とも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命を賭けて山賊砦の中まで助けに来て下さるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうお礼を言ったらいいのか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you so much, both of you. I don't know how to express\nour gratitude for risking your lives to come save us inside\nthe bandit fortress..."
                             ]
                         },
                         {
@@ -29571,28 +28563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お礼なんていいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この巣裸無村もあまり安全じゃないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま急いで自分たちの村へ戻って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No need for thanks. This village of Suranamu isn't very safe\neither, so hurry back to your own villages without delay."
                             ]
                         },
                         {
@@ -29616,21 +28587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……救出が遅くなってすまなかったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この砦のことは忘れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぞれの村で穏やかに暮らして欲しい。"
+                                "...I'm sorry for the late rescue. Forget about this fortress\nand live peacefully in your respective villages."
                             ]
                         },
                         {
@@ -29661,28 +28618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は……はい！　では失礼します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けて頂き本当にありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes... Yes! We'll take our leave then. Thank you very much\nfor saving us."
                             ]
                         },
                         {
@@ -29727,28 +28663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――村娘たちは花梨と夕霧に深々と頭を下げた後"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急ぎ足で巣裸無村を後にした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--The village girls bowed deeply to Karin and Yugiri before\nhurrying away from the village of Suranamu."
                             ]
                         },
                         {
@@ -29765,28 +28680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -29810,28 +28704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで一番最初の任務は終了ね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "So this completes our very first mission, doesn't it?"
                             ]
                         },
                         {
@@ -29855,28 +28728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。娘たちが人質にされたりしたら難儀だったからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たとえ山賊たちが大人数でも、これで正面切って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私と花梨で砦の連中を殲滅していける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yeah. It would have been troublesome if the girls had been\ntaken hostage. Even if the bandits are numerous, now we can\nconfront them head-on and eradicate them together, Karin."
                             ]
                         },
                         {
@@ -29900,28 +28752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのマガラって甲冑男……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼で間違いないみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That armored man called Magara... he's definitely a demon,\nisn't he?"
                             ]
                         },
                         {
@@ -29945,28 +28776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。山賊砦の奥にいると言っていたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ花梨。あのバケモノを倒せそうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm. He said he was in the depths of the bandit fortress.\nWhat do you think, Karin? Can we defeat that monster?"
                             ]
                         },
                         {
@@ -29990,28 +28800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やってみないと分からないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもアイツを倒さないとこの巣裸無村にも平穏は訪れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人で全力を出して戦いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "We won't know until we try. But unless we defeat him, peace\nwon't return to this village of Suranamu. Let's fight with\nall our might together."
                             ]
                         },
                         {
@@ -30035,14 +28824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな。私はこの場で少し休憩する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊砦に攻める際は砦前にある【入口の門】で合流しよう。"
+                                "Right. I'll take a little rest here. When we attack the\nbandit fortress, let's meet at the [Entrance Gate] in front\nof the fortress."
                             ]
                         },
                         {
@@ -30461,28 +29243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【捕らわれの娘】"
+                                "【Captured Daughter】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――アァン！　もう中に出さないで……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【山賊】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううぅ……！　出すぞぉ！　子宮で受け取れッ！"
+                                "\"Aaahn! Don't cum inside anymore...!\" [Bandit] \"Uuuh...! I'm\ngonna cum! Take it in your womb!\""
                             ]
                         },
                         {
@@ -30719,28 +29487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから逃げられねぇよ！　さぁケツを出せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【捕らわれの娘】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うああぁっ！　いやあぁ～～ッ！！　許してぇ！"
+                                "You can't escape from here! Now, show me that ass! [Captured\nGirl] Aaahh! Nooo~~!! Please, forgive me!"
                             ]
                         },
                         {
@@ -32009,7 +30763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【500 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -33108,7 +31862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【排卵剤】\\c[0]を手に入れた！"
+                                "--\\c[17]【Ovulation Drug】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -33786,14 +32540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【山賊】"
+                                "【Bandit】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待たねぇか！　ここから逃げられねぇゾ！"
+                                "Wait up! You can't escape from here!"
                             ]
                         },
                         {
@@ -33817,28 +32571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃあぁ～～ッ！（しまった！　見つかった……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kyaaah~~! (Darn it! I've been found...!)"
                             ]
                         },
                         {
@@ -36016,9 +34749,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "ロードする",
-                                    "やめる"
+                                    "Save",
+                                    "Load",
+                                    "Quit"
                                 ],
                                 2,
                                 0,

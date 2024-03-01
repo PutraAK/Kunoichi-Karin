@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "相模駐屯所",
+    "displayName": "Sagami Garrison",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6906,7 +6906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -12372,7 +12372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -15371,21 +15371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから西の巣裸無村に山賊が住み着いていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らも危惧している。討伐できれば良いのだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊の親玉はかなりの豪傑らしい。"
+                                "Bandits have settled in the village of Suranamu to the west\nfrom here, and we are also concerned. It would be good if we\ncould subdue them, but it seems that the bandit leader is\nquite a formidable figure."
                             ]
                         },
                         {
@@ -15453,21 +15439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山賊を倒したそうだな。こちらにも伝わってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たった二人で解決してしまうとはさすが公儀隠密。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たいしたものだ。"
+                                "I hear you defeated the bandits. The news has reached us\nhere as well. To think that just the two of you resolved it,\ntruly befitting of the official secret agents. Impressive\nindeed."
                             ]
                         },
                         {
@@ -16805,7 +16777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】相模駐屯所　関係者以外　立入禁止"
+                                "[Sign] Unauthorized Personnel Prohibited Beyond This Point -\nSagami Garrison"
                             ]
                         },
                         {
@@ -17233,21 +17205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近、衛兵が増員されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か火急の事態でも起きているのだろうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、我ら末端の兵士には預かり知らぬことだがな。"
+                                "Lately, the number of guards has been increased. I wonder if\nsome urgent situation has arisen... Well, it's none of our\nbusiness as low-ranking soldiers."
                             ]
                         },
                         {
@@ -17555,28 +17513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半年前に駐屯所に異形の者が現れてな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警備に来ていた伊賀忍たちが殺されたのだ。夜中だったため"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らは見てはいないのだが、異形の者の頭には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "角がついていたという話だ。"
+                                "Half a year ago, a grotesque figure appeared at the\ngarrison... The Iga ninjas who had come for security were\nkilled. We did not see it as it was in the middle of the\nnight, but there are stories that the grotesque figure had\nhorns on its head."
                             ]
                         },
                         {
@@ -18123,7 +18060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【速さの実】\\c[0]を３個手に入れた！"
+                                "--\\c[17]【Speed Fruit】\\c[0]Gained 3 pieces!"
                             ]
                         },
                         {
@@ -18369,7 +18306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【3500 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -20609,28 +20546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "其の方ら、もしや伊賀忍の者たちか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老中殿の命令で兵士は続々と駐屯所に集結している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不穏の際はいつでも駆けつけるぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけの兵がいれば、賊など容易く片づけられるはずだ。"
+                                "Are you perhaps the Iga ninja? Soldiers are gathering at the\ngarrison by the order of the council of elders. We will rush\nover at any sign of unrest. With this many soldiers, we\nshould be able to easily dispose of any bandits."
                             ]
                         },
                         {
@@ -20654,14 +20570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはかたじけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後詰として参陣して頂ければ有難いです。"
+                                "This is most gracious. It would be appreciated if you could\njoin as reinforcements."
                             ]
                         },
                         {
@@ -20685,21 +20594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（相手が人間ならば充分な兵士数だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　数だけ揃えても、果たして鬼に勝てるかしら……）"
+                                "...(If the opponent were human, this number of soldiers\nwould be sufficient, but even with these numbers, I wonder\nif we can truly defeat the demons...)"
                             ]
                         },
                         {
@@ -20920,14 +20815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "して、賊は何処にいるのだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊や盗賊相手に甲冑も仰々しい気はするがな。"
+                                "So, where are the bandits? It feels a bit over-the-top to\nwear armor against mere bandits and thieves."
                             ]
                         },
                         {
@@ -21004,14 +20892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "噂で異形の者が相手などと聞いたが、とても信じられんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大方、誤情報に違いあるまい。"
+                                "I heard rumors about facing a grotesque creature, but I can\nhardly believe it. It must mostly be misinformation, no\ndoubt."
                             ]
                         },
                         {

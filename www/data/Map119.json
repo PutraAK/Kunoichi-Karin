@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2137,21 +2137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！？　お前は流罪の者か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは島民の地区だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に入ってくるな。出ていけ――"
+                                "Whoa!? Are you an exile? This is the district of the\nislanders. Don't just barge in here. Get out--"
                             ]
                         },
                         {
@@ -2219,21 +2205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたが島抜けした女か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この孤島から脱出して江戸まで逃げ切るなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当たいしたものだよ。"
+                                "Are you the woman who escaped from the island? To break out\nfrom this deserted island and make it all the way to Edo,\nthat's really quite an achievement."
                             ]
                         },
                         {

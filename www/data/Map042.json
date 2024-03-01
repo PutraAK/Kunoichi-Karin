@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2478,7 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -2724,7 +2724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -3272,21 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は大漁だったから朝からご馳走さ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういや漁師たちが浦賀沖で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でっかいタコを見たって言ってたけど本当かね？"
+                                "We had a big catch today, so it's a feast from morning! By\nthe way, I heard the fishermen saying they saw a huge\noctopus off the coast of Uraga. I wonder if it's true?"
                             ]
                         },
                         {
@@ -3354,14 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聞いたよ。海岸洞窟へ行って鬼怨党を倒したんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは熱海を救ってくれたお礼さ。受け取っておくれよ。"
+                                "I heard about it. You went to the coastal cave and defeated\nthe Oni En Party? This is a token of gratitude for saving\nAtami. Please accept it."
                             ]
                         },
                         {
@@ -3400,7 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――お礼として\\c[17]【タイ】\\c[0]を１０匹もらった！"
+                                "--As a token of thanks, you received 10 \\c[17]Sea\nBreams\\c[0]!"
                             ]
                         },
                         {
@@ -3476,21 +3455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近は地震が多くてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "富士山がいつも噴煙を上げてて、村に住んでいる者は皆"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不安に思っているよ。噴火しなければいいなぁ……"
+                                "Lately, there have been many earthquakes. Mount Fuji is\nalways spewing smoke, and everyone living in the village\nfeels anxious. I hope it doesn't erupt..."
                             ]
                         },
                         {

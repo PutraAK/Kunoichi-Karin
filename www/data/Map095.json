@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "牢屋",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 26,
@@ -3595,14 +3595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘さんがこんな牢屋へ来ちゃいかんよ。"
+                                "What's this? A young lady like you shouldn't come to a place\nlike this cell."
                             ]
                         },
                         {
@@ -3679,7 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃ……　女とご無沙汰だぜ……"
+                                "Tch... It's been a while since I've been with a woman..."
                             ]
                         },
                         {
@@ -3816,21 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スリをして捕まったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗んだ財布にゃ１０文しかなかったのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ、とんだ下手をうってしまったよ。"
+                                "I got caught pickpocketing. And to think, the wallet I stole\nonly had 10 mon in it... Geez, I really botched that one."
                             ]
                         },
                         {
@@ -3907,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　早く牢屋から出たい……"
+                                "Ugh... I want to get out of this cell quickly..."
                             ]
                         },
                         {
@@ -4284,14 +4263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お隣さんから毎晩女性の泣く声が聞こえるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に気味が悪いわぁ……"
+                                "I can hear a woman's crying from the neighbor's place every\nnight. It's really creepy..."
                             ]
                         },
                         {
@@ -4488,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃ……　女とご無沙汰だぜ……"
+                                "Tch... It's been a while since I've been with a woman..."
                             ]
                         },
                         {
@@ -6689,7 +6661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃ……　女とご無沙汰だぜ……"
+                                "Tch... It's been a while since I've been with a woman..."
                             ]
                         },
                         {
@@ -6766,7 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃ……　女とご無沙汰だぜ……"
+                                "Tch... It's been a while since I've been with a woman..."
                             ]
                         },
                         {
@@ -6843,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちぃ……　女とご無沙汰だぜ……"
+                                "Tch... It's been a while since I've been with a woman..."
                             ]
                         },
                         {
@@ -7400,14 +7372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受刑者が多いからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飯の量も半端ないよ。"
+                                "There are a lot of prisoners, so the amount of food is no\njoke."
                             ]
                         },
                         {
@@ -8122,14 +8087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉし。米が炊けたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとは盛りつけだ。"
+                                "All right, the rice is cooked. Now it's just time to serve\nit up."
                             ]
                         },
                         {
@@ -8610,7 +8568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -8738,7 +8696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "異常なし――！"
+                                "No abnormalities--!"
                             ]
                         },
                         {
@@ -8877,14 +8835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "年々犯罪者が増えている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとも歯がゆいことだ。"
+                                "The number of criminals is increasing year by year. It's\nquite frustrating."
                             ]
                         },
                         {

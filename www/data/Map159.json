@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大名屋敷",
+    "displayName": "Daimyo Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -15846,14 +15846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -16795,7 +16788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしよう……　一度撤退しようかな……"
+                                "What should I do... Maybe I should retreat for now..."
                             ]
                         },
                         {
@@ -16803,8 +16796,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "撤退する",
-                                    "撤退しない"
+                                    "Retreat",
+                                    "Do not retreat"
                                 ],
                                 1,
                                 0,
@@ -16850,7 +16843,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仕方ない。ここは一度撤退して、再度準備して来よう。"
+                                "Can't be helped. Let's retreat for now and come back\nprepared."
                             ]
                         },
                         {
@@ -17007,7 +17000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は屋敷から撤退した！"
+                                "--Karin has retreated from the mansion!"
                             ]
                         },
                         {
@@ -22513,7 +22506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【450 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -22760,7 +22753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -23006,7 +22999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -23252,7 +23245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -23498,7 +23491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]【350 Mon】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -23744,7 +23737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]【350 Mon】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -23990,7 +23983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -24237,7 +24230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -24483,7 +24476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 mon!\\c[0]"
                             ]
                         },
                         {
@@ -24729,7 +24722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -24976,7 +24969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25222,7 +25215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -25468,7 +25461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -25715,7 +25708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Healing Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -25961,7 +25954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【６００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 600 mon!\\c[0]"
                             ]
                         },
                         {
@@ -26327,7 +26320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -28254,14 +28247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１１０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +110)\\c[0]"
                             ]
                         },
                         {
@@ -29087,14 +29073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -29860,14 +29839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -30641,14 +30613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -31414,14 +31379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -32187,14 +32145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -32961,14 +32912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -33719,14 +33663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -34492,14 +34429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋５５）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +55)\\c[0]"
                             ]
                         },
                         {
@@ -35281,14 +35211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -36054,14 +35977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -36835,14 +36751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -37616,14 +37525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {
@@ -38397,14 +38299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋８０）\\c[0]"
+                                "Gwaaahhh! \\c[17](EXP +80)\\c[0]"
                             ]
                         },
                         {

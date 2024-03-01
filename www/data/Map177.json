@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "妖の杜",
+    "displayName": "Forest of Mystique",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -18643,7 +18643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -18890,7 +18890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19137,7 +19137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -19384,7 +19384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -19630,7 +19630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -24797,7 +24797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] has been\nobtained!"
                             ]
                         },
                         {
@@ -31559,7 +31559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【戦神の首飾り】\\c[0]を手に入れた！"
+                                "--\\c[17]【Amulet of the War God】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -31805,7 +31805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1000 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -31945,14 +31945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【水牛】"
+                                "【Water Buffalo】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルルルルルルルルッ――！！"
+                                "Brrrrrrrrrrr--!!"
                             ]
                         },
                         {
@@ -31985,14 +31985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――わあああぁ！？　とても大きい水牛ね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上野に連れて行こう！　絶対に高く売れるわ！"
+                                "--Wowww!? Such a huge water buffalo!? Let's take it to Ueno!\nIt will definitely sell for a high price!"
                             ]
                         },
                         {
@@ -32047,7 +32040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【水牛】\\c[0]を捕獲した！"
+                                "--\\c[17]【Water Buffalo】\\c[0] captured!"
                             ]
                         },
                         {

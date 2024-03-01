@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "妖の杜",
+    "displayName": "Forest of Mystique",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -16590,7 +16590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬の香炉】\\c[0]手に入れた！"
+                                "--\\c[17]【Divine Medicine Incense Burner】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -18338,7 +18338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【復活の鈴】\\c[0]を手に入れた！"
+                                "--\\c[17]【Bell of Resurrection】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -22845,7 +22845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -25049,7 +25049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【超技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired the 【Super Technique Sake】!\\c[0]"
                             ]
                         },
                         {
@@ -29080,28 +29080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ガサガサガサ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Rustle rustle rustle!"
                             ]
                         },
                         {
@@ -29134,28 +29113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいたぁっ！　枝に頭をぶたれた！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ouch! I got hit in the head by a branch!"
                             ]
                         },
                         {
@@ -29179,28 +29137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだこいつら？　樹木に顔がついているぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What are these things? The trees have faces on them?"
                             ]
                         },
                         {
@@ -29224,28 +29161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こやつらは妖面樹。普段は人を襲ったりはしないのじゃが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "センビの凶悪な妖気にあてられてか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狂暴になっておるようじゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "These creatures are Demon-faced Trees. Normally, they don't\nattack people, but it seems they've become violent due to\nthe evil aura of the Senbi."
                             ]
                         },
                         {
@@ -29269,28 +29185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうします、お師匠さま？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What shall we do, Master?"
                             ]
                         },
                         {
@@ -29314,28 +29209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "致し方ない。懲らしめて大人しくなってもらう他ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There's no helping it. We must discipline them and make them\ncalm down."
                             ]
                         },
                         {
@@ -29359,28 +29233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "力づくで突破か。いつものことだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参るぞ、木のバケモノ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Force our way through, huh? It's the same as always. Here we\ngo, tree monsters!"
                             ]
                         },
                         {
@@ -29423,28 +29276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴワワワッ――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gwawawaw--!!"
                             ]
                         },
                         {
@@ -29461,7 +29293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――妖面樹たちが襲ってきた！"
+                                "--The Demon-faced Trees are attacking!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "風魔谷　洞窟",
+    "displayName": "Fuma Valley Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -17177,7 +17177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 350 mon!\\c[0]"
                             ]
                         },
                         {
@@ -18121,7 +18121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -20169,7 +20169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の巻物】\\c[0]を手に入れた！"
+                                "--\\c[17]【Scroll of Swiftness】\\c[0] has been acquired!"
                             ]
                         },
                         {
@@ -20475,7 +20475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1800 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -21850,7 +21850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 mon!\\c[0]"
                             ]
                         },
                         {
@@ -22098,7 +22098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【金剛の籠手】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained 【Adamantine Gauntlets】!\\c[0]"
                             ]
                         },
                         {
@@ -24876,7 +24876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -25122,7 +25122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【４５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 450 mon!\\c[0]"
                             ]
                         },
                         {
@@ -25369,7 +25369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -32061,7 +32061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -32307,7 +32307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 550 mon!\\c[0]"
                             ]
                         },
                         {
@@ -32558,7 +32558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "残念。この宝箱の中、空っぽだわ……"
+                                "What a pity. This treasure chest is empty..."
                             ]
                         },
                         {
@@ -32584,7 +32584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ざわわわわ――！）"
+                                "(Rustle rustle rustle--!)"
                             ]
                         },
                         {
@@ -32648,7 +32648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　なんじゃ？　急に敵が沸いたぞ？"
+                                "--! What's this? Enemies have suddenly appeared?"
                             ]
                         },
                         {
@@ -32672,7 +32672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しまった！　罠だったのか！？"
+                                "Damn it! Was it a trap!?"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下室",
+    "displayName": "Basement",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2828,21 +2828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【手紙】"
+                                "【Letter】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうか健やかに育つのだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "父、中太郎より――"
+                                "May you grow up healthy. From your father, Nakatarou--"
                             ]
                         },
                         {
@@ -2866,14 +2859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（お父ちゃん、いま何処にいるんだろう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く家に帰って来て……）"
+                                "(Daddy, where are you now... Please come home soon...)"
                             ]
                         },
                         {
@@ -3041,7 +3027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注　２周目以降特典。経験値の宝箱を開けますか？】"
+                                "[Note: Bonus for second playthrough and beyond. Open the EXP\ntreasure chest?]"
                             ]
                         },
                         {
@@ -3049,8 +3035,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3201,7 +3187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――【経験値　５００００】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained [EXP 50000]!\\c[0]"
                             ]
                         },
                         {
@@ -3410,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注　２周目以降特典。お金の宝箱を開けますか？】"
+                                "[Note: Bonus for second playthrough and beyond. Open the\ntreasure chest of money?]"
                             ]
                         },
                         {
@@ -3418,8 +3404,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3567,7 +3553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――【お金　５００００文】を手に入れた！\\c[0]"
+                                "\\c[17]--[Gained 50,000 monies!]\\c[0]"
                             ]
                         },
                         {
@@ -4007,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注　２周目以降特典。武器の宝箱を開けますか？】"
+                                "[Note: Bonus for second playthrough and beyond. Open the\nweapon treasure chest?]"
                             ]
                         },
                         {
@@ -4015,8 +4001,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4166,7 +4152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――【二周目特典剣】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained the [Second Playthrough Bonus Sword]!\\c[0]"
                             ]
                         },
                         {

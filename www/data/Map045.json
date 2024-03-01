@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "長屋",
+    "displayName": "Tenement House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2581,21 +2581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うへぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "若い娘さんが俺んちに来てくれるなんて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えへへ……♪　一緒に酒でもどうだい？"
+                                "Uhehe! To think a young lady would come to my place...!\nEhehe...♪ How about we have some drinks together?"
                             ]
                         },
                         {
@@ -3458,28 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初は内職のつもりだったんだけどね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手先が器用すぎて、今や傘はりから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダルマ製作やら人形製作やらで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てんやわんやだよ……"
+                                "I initially intended it to be just a side job... but my\nhands are too skillful, and now I'm swamped with everything\nfrom umbrella mending to Daruma doll making and puppet\ncrafting..."
                             ]
                         },
                         {
@@ -4609,7 +4574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【お団子】\\c[0]を手に入れた！"
+                                "--\\c[17]【Dango】\\c[0] acquired!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "からくり工房",
+    "displayName": "Clockwork Workshop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3359,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -5568,7 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガタガタ……　ガタガタ……"
+                                "Rattle... Rattle..."
                             ]
                         },
                         {
@@ -7112,21 +7112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここはからくり工房じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自動で動くからくり人形を作るのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ワシの夢じゃよ。"
+                                "This is the automaton workshop. Creating automatons that\nmove on their own is my dream."
                             ]
                         },
                         {
@@ -7167,14 +7153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや、煙玉がないようじゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "新しく作った煙玉、持っていくがよいぞ。"
+                                "Oh, it seems you're out of smoke bombs? Take these newly\nmade smoke bombs with you."
                             ]
                         },
                         {
@@ -7210,7 +7189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は\\c[17]【煙玉】\\c[0]を１０個手に入れた！"
+                                "--Karin obtained 10 \\c[17]Smoke Bombs\\c[0]!"
                             ]
                         },
                         {
@@ -7305,28 +7284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――こんにちわ、源外先生。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、大丈夫ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Master Genkai. Are you available right now?"
                             ]
                         },
                         {
@@ -7350,21 +7308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、花梨ちゃんかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょうどよいところに訪ねて来てくれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼まれていたモノ、完成したぞ。"
+                                "Oh, is that you, Karin-chan? You've come at just the right\ntime. The item you requested is complete."
                             ]
                         },
                         {
@@ -7388,28 +7332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当ですか？　見せてください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Really? Please show me!"
                             ]
                         },
                         {
@@ -7433,7 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………\\|"
+                                "..."
                             ]
                         },
                         {
@@ -7457,28 +7380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ！　煙玉、完成したんですね！　すごい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow! The smoke bombs are finished, aren't they? Amazing!"
                             ]
                         },
                         {
@@ -7502,28 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "投げつけると割れて中から煙が出る仕組みじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も実験した代物じゃ。我ながら完璧な出来じゃよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "When thrown, they break and smoke comes out. I've tested\nthem many times. They're a perfect creation, if I do say so\nmyself."
                             ]
                         },
                         {
@@ -7547,28 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "からくりに強い源外先生に頼んで良かったです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you so much! I'm glad I asked you, Master Genkai, who\nis skilled with mechanisms!"
                             ]
                         },
                         {
@@ -7592,28 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっほっほ。ワシは江戸で一番の発明者じゃからの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "煙玉を作るなど容易いことじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても……　コレは何に使うんじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ho ho ho. I am the best inventor in Edo, after all. Making\nsmoke bombs is a simple task for me. But still... what will\nyou use these for?"
                             ]
                         },
                         {
@@ -7637,28 +7476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それが……　わたし、最近痴漢に遭いやすくて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なので自分を守る護身用に……あはは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（盗み用に煙玉を使うなんて言えないよね……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Well, that's... I've been prone to encountering perverts\nlately... so it's for self-defense... ahaha...! (I can't say\nthat I'm going to use the smoke bombs for thieving...)"
                             ]
                         },
                         {
@@ -7682,21 +7500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふぅむ。花梨ちゃんは子供のころから見ているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに最近、体つきがふくよかで艶やかになって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痴漢に遭わぬよう用心するのも道理じゃな。"
+                                "...Hmm. I've been watching over you since you were a child,\nKarin-chan, and indeed, your figure has become more\nvoluptuous and alluring lately... It's only sensible to be\ncautious against perverts."
                             ]
                         },
                         {
@@ -7720,28 +7524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう！　そうです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というわけで煙玉、貰っていきますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作って頂きありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes! Exactly! So with that said, I'll be taking the smoke\nbombs with me! Thank you for making them!"
                             ]
                         },
                         {
@@ -7765,7 +7548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。ワシの作った煙玉、大事に使っておくれよ。"
+                                "Hmm. Take good care of the smoke bombs I made for you."
                             ]
                         },
                         {
@@ -7801,7 +7584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【煙玉】\\c[0]を１０個手に入れた！"
+                                "--Karin obtained 10 \\c[17]Smoke Bombs\\c[0]!"
                             ]
                         },
                         {
@@ -7929,28 +7712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅむ……　これで良いかのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm... I wonder if this is good enough."
                             ]
                         },
                         {
@@ -7974,28 +7736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ、源外先生！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hello, Dr. Gengai!"
                             ]
                         },
                         {
@@ -8019,28 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、花梨ちゃんか？　相変わらず元気じゃのう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ah, is that you, Karin-chan? As lively as ever, I see."
                             ]
                         },
                         {
@@ -8064,28 +7784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、これは――――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wh-What is this----!?"
                             ]
                         },
                         {
@@ -8109,7 +7808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -8133,28 +7832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。木馬じゃ。子供用ではなく、大人用の。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俗にいう【三角木馬】というやつじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. It's a wooden horse. Not for children, but for adults.\nCommonly known as a \"triangle horse.\""
                             ]
                         },
                         {
@@ -8178,28 +7856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、大人用の……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh, for adults...?"
                             ]
                         },
                         {
@@ -8223,28 +7880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見られてしまったからには仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ信用できる花梨ちゃんには特別に話してしんぜよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは頼まれて作ったのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Since you've seen it, there's no helping it. Well, I'll tell\nyou specially because I trust you, Karin-chan. This was made\nupon request."
                             ]
                         },
                         {
@@ -8268,28 +7904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ。依頼されて作ったんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Wow. You made it on request?"
                             ]
                         },
                         {
@@ -8313,28 +7928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左様。とある大名家に内密に頼まれての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、拷問用の三角木馬などはよくあるのじゃが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとまぁ、自動で動く木馬を依頼されてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく完成したのじゃよ。"
+                                "Indeed. It was a confidential request from a certain feudal\nlord's family. Well, torture devices like triangle horses\nare common, but this one was requested to move\nautomatically. I've finally completed it."
                             ]
                         },
                         {
@@ -8358,28 +7952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自動で木馬が動くんですか？　すごい仕組みですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "An automatically moving horse? That's an amazing mechanism."
                             ]
                         },
                         {
@@ -8403,28 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。中にゼンマイが入っており"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "からくり仕掛けで動くようになっておるんじゃが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとつ、問題があっての。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Yes. It has a spring inside and is designed to move with a\nclockwork mechanism... but there's one problem."
                             ]
                         },
                         {
@@ -8448,28 +8000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……問題……ですか？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...A problem...?"
                             ]
                         },
                         {
@@ -8493,14 +8024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃ。まだ人を使っての実験をしてなくてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内密のことじゃから誰にも頼めなくてのぉ。"
+                                "That's right. I haven't conducted any experiments using a\nperson yet. It's a confidential matter, so I can't ask just\nanyone."
                             ]
                         },
                         {
@@ -8524,7 +8048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど。まだ人での実験をしてないと……"
+                                "I see. So you haven't tested it with a person yet..."
                             ]
                         },
                         {
@@ -8548,14 +8072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分で試すにもワシは腰痛持ちの年寄りじゃし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直、困っていたところなのじゃよね……（ちらっちらっ）"
+                                "I would test it myself, but I'm an old man with back pain...\nHonestly, I've been in quite a bind... (glances over)"
                             ]
                         },
                         {
@@ -8579,28 +8096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！　なんで私のほう見るんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか……　先生はこれに私を乗せて試したいと……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Eh! Why are you looking at me? Don't tell me... Doctor, do\nyou want to put me on this and test it...?"
                             ]
                         },
                         {
@@ -8624,21 +8120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっほっほ。勘がいいのぅ。花梨ちゃんが乗った状態で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この木馬がちゃんと動作するか、見てみたいんじゃが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼まれてくれるか？　２０００文ほど謝礼はするぞい。"
+                                "Ho ho ho. You're sharp. I'd like to see if this horse\noperates properly with Karin-chan riding it... Would you do\nme the honor? I'll give you a reward of 2000 mon."
                             ]
                         },
                         {
@@ -8662,7 +8144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "..."
                             ]
                         },
                         {
@@ -8686,7 +8168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……三角木馬の実験かぁ……　どうしよう…………）"
+                                "(...An experiment with a triangle horse, huh... What should\nI do...)"
                             ]
                         },
                         {
@@ -8694,8 +8176,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "実験の仕事を引き受ける\\c[27]【Ｈイベント】\\c[0]",
-                                    "断る"
+                                    "Accept the experiment job \\c[27]【H Event】\\c[0]",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -8739,28 +8221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いいですよ。面白そうですし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Sure, why not. It sounds interesting."
                             ]
                         },
                         {
@@ -8784,21 +8245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんと！？　正気か？　三角木馬の実験体なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "普通に断られると思っておったぞ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まことによいのかね？"
+                                "What!? Are you serious? I thought for sure you'd refuse an\noffer to be a test subject for a triangle horse!? Are you\ntruly alright with this?"
                             ]
                         },
                         {
@@ -8822,21 +8269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ……　ただ乗るだけでいいんですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それだけで２０００文頂けるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わるくないと思ったので……"
+                                "Well... If all I have to do is ride it, and I get 2000 mon\nfor that, it doesn't seem too bad..."
                             ]
                         },
                         {
@@ -8860,28 +8293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやいや、嬉しい申し出じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "善は急げじゃ。さっそく試させてもらうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No no, I'm grateful for your offer. Let's not delay good\ndeeds. Let's proceed with the test at once."
                             ]
                         },
                         {
@@ -8905,28 +8317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（三角木馬に乗るの、初めてだわ。どきどき…………）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Riding a triangle horse for the first time, huh. I'm\nnervous...)"
                             ]
                         },
                         {
@@ -9002,28 +8393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は緊張しながら三角木馬にまたがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin straddled the triangle horse with nervousness."
                             ]
                         },
                         {
@@ -9131,14 +8501,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]――花梨は実験の謝礼として３０００文を受け取った！\\c[0]"
+                                "\\c[17]――Karin Received 3000 Mon As A Reward For Participating In The Experiment!\\c[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]淫乱度＋５\\c[0]"
+                                "\\c[27]Lewdness +5\\c[0]"
                             ]
                         },
                         {
@@ -9203,28 +8573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ごめんなさい。さすがに怖いのでやめておきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...I'm sorry. It's really scary after all, so I'll stop\nhere."
                             ]
                         },
                         {
@@ -9324,14 +8673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "毎日実験が楽しくてのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わしにとって本当生き甲斐じゃよ。"
+                                "Every day, the experiments are so much fun. It's truly my\nreason for living."
                             ]
                         },
                         {
@@ -9372,14 +8714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや、煙玉がないようじゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "新しく作った煙玉、持っていくがよいぞ。"
+                                "Oh, it seems you're out of smoke bombs? Take these newly\nmade smoke bombs with you."
                             ]
                         },
                         {
@@ -9415,7 +8750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は\\c[17]【煙玉】\\c[0]を１０個手に入れた！"
+                                "--Karin obtained 10 \\c[17]Smoke Bombs\\c[0]!"
                             ]
                         },
                         {

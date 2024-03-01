@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "海岸洞窟",
+    "displayName": "Coastal Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -8765,7 +8765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【８００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【800 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -12458,7 +12458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神通力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Miraculous Power Fruit】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -12704,7 +12704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 700 mon!\\c[0]"
                             ]
                         },
                         {

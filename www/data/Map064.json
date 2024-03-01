@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "丸の内",
+    "displayName": "Marunouchi",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9198,7 +9198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【守備力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Defense Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -9384,7 +9384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……入る前にお栄さんの団子屋に寄ってみよう）"
+                                "(...Let's stop by Oei-san's dumpling shop before going in.)"
                             ]
                         },
                         {
@@ -9497,14 +9497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……そういえば瓦版を見てなかったような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　自宅近くの瓦版屋さんと話そう）"
+                                "(...Come to think of it, I haven't checked the town\nbulletin... I should talk to the bulletin board owner near\nmy home.)"
                             ]
                         },
                         {
@@ -9841,14 +9834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丸の内は江戸の御城を守る前衛だ。当然、警備も厳しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しまれたくなければ街へ戻るがよい。"
+                                "Marunouchi is the vanguard protecting Edo Castle. Naturally,\nthe security is strict. If you don't want to be suspected,\nit's best to return to the town."
                             ]
                         },
                         {
@@ -9916,7 +9902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二列に並んでください！　押さないように！"
+                                "Please line up in two rows! And no pushing!"
                             ]
                         },
                         {
@@ -9984,14 +9970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上様と御城を守れなかったことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多くの者が意気消沈しているよ。"
+                                "Many are disheartened because we couldn't protect our lord\nand the castle."
                             ]
                         },
                         {
@@ -10776,14 +10755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の将軍様は有能なお方だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我ら幕臣も、うかうかしていられないよ。"
+                                "The current Shogun-sama is a capable person. We, the\nshogunate retainers, can't afford to be careless."
                             ]
                         },
                         {
@@ -10851,21 +10823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "例の快盗、奉行所に捕まったと聞いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠島流罪になって無常島に流されたという話だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう江戸へ戻ってくることはあるまい。"
+                                "I heard that the notorious thief was caught by the\nmagistrate's office. They say he's been exiled to Mujou\nIsland, so he likely won't be returning to Edo anymore."
                             ]
                         },
                         {
@@ -10933,21 +10891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸住みの旗本に対して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武装して登城する旨の通達がなされている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目的が分からないから困惑している旗本も多いようだ。"
+                                "A notice has been issued for the samurai lords living in Edo\nto enter the castle armed. It seems many are confused\nbecause the purpose is unclear."
                             ]
                         },
                         {
@@ -12751,28 +12695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　お前は――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Are you--?"
                             ]
                         },
                         {
@@ -12796,28 +12719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "のこのこ奉行所に顔を見せるとは大胆よな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすがは元快盗ねずみ小町といったところか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "How bold of you to show up at the magistrate's office so\ncasually. As expected of the former master thief, Nezumi\nKomachi, huh?"
                             ]
                         },
                         {
@@ -12848,28 +12750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！（ううっ、ここに来ないほうが良かったかも……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...! (Ugh, maybe I shouldn't have come here...)"
                             ]
                         },
                         {
@@ -12893,21 +12774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに警戒するな。老中の真苗様より通達は来ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町は無罪放免になった故"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後は自由に取り計らうようにとな――"
+                                "Don't be so wary. A directive has come from Lord Shinana of\nthe council of elders. Nezumi Komachi has been exonerated,\nand from now on, you are free to do as you please--"
                             ]
                         },
                         {
@@ -12931,28 +12798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうなんですか？　本当に？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is that so? Really?"
                             ]
                         },
                         {
@@ -12976,21 +12822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左様。ねずみ小町の犯行や沙汰の記録も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全て破棄するように命を受けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから奉行所は一切お主を追わぬ。"
+                                "Indeed. We have been ordered to dispose of all records of\nNezumi Komachi's crimes and disturbances. The magistrate's\noffice will no longer pursue you."
                             ]
                         },
                         {
@@ -13014,7 +12846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ正直、振り回されたこちらとしては苦々しいがな。"
+                                "Well, to be honest, it's quite bitter for us who have been\nrun ragged by you."
                             ]
                         },
                         {
@@ -13057,28 +12889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -13109,28 +12920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ううっ、刺さるような視線が辛い……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Ugh, those piercing stares are painful...)"
                             ]
                         },
                         {
@@ -13154,21 +12944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "捕縛後、お前さんの自宅も隅々まで調べさせてもらった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "千両箱を隠し持っていると思ったが小判は一枚もなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗んだ小判を本当に全て江戸市中へバラまいていたのだな？"
+                                "After your capture, we thoroughly searched your home. We\nthought you might be hiding a chest of a thousand ryō, but\nnot a single koban was found. So you really scattered all\nthe stolen koban throughout Edo, didn't you?"
                             ]
                         },
                         {
@@ -13192,14 +12968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ねずみ小僧を名乗っていた父がそうでしたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もそれに倣っただけです。別に褒められることじゃないわ。"
+                                "...My father who went by the name Nezumi Kozō did the same,\nand I simply followed in his footsteps. It's not something\nto be praised for."
                             ]
                         },
                         {
@@ -13223,28 +12992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッハッハ！　謙遜などするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世の中、義賊だなんて言われている盗賊は山ほどいるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "己自身の強欲ための盗みがほとんどだ。父親も含めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "清廉潔白な盗賊は珍しい。感心した次第だ。"
+                                "Ha ha ha! Don't be so modest. There are plenty of thieves in\nthe world who are called righteous outlaws, but most steal\nout of their own greed. A thief as incorruptible and honest\nas your father is rare. I'm impressed."
                             ]
                         },
                         {
@@ -13268,28 +13016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -13313,28 +13040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなたが自首したのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拙者の孫であるお美津のことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おもんばかってのことであろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "You turned yourself in because you were thinking about my\ngranddaughter Omitsu, weren't you?"
                             ]
                         },
                         {
@@ -13358,28 +13064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……だって、お爺ちゃんが切腹するって聞いたから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いてもたってもいられなくなって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Because I heard that grandpa was going to commit seppuku.\nI couldn't stand by and do nothing..."
                             ]
                         },
                         {
@@ -13403,28 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなお主だから信用できる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨よ。すでに聞いていると思うが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからお主に求められることは江戸を守ることだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That's why I can trust you. Karin, you must already know\nthis, but from now on, what is required of you is to protect\nEdo."
                             ]
                         },
                         {
@@ -13448,21 +13112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無常島から戻ってくるほどの根性がお前にはあるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで奉行所を散々に東奔西走させた罪を返上する気概で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからの任務、しかと立派に成し遂げるのだぞ？"
+                                "You have the guts to return from Mujou Island. With the\nresolve to make amends for the trouble you've caused the\nmagistrate's office, fulfill your upcoming duties with\nhonor, understand?"
                             ]
                         },
                         {
@@ -13493,7 +13143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。承知しました――"
+                                "Yes. I understand--"
                             ]
                         },
                         {
@@ -14559,7 +14209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】ただいま外出中――"
+                                "[Sign] Currently out--"
                             ]
                         },
                         {
@@ -14709,14 +14359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "富士へ向かうのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕霧殿のこと頼みます。ご武運を――"
+                                "So you're heading to Fuji. Please take care of Yugiri-dono.\nGood luck in battle--"
                             ]
                         },
                         {
@@ -15244,14 +14887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは奉行所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸の民衆の安寧のため、日夜働いている。"
+                                "This is the magistrate's office. Working day and night for\nthe peace of Edo's citizens."
                             ]
                         },
                         {
@@ -15357,7 +14993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奉行所は忙しい。用件は手短にな。"
+                                "The magistrate's office is busy. Please make it brief."
                             ]
                         },
                         {
@@ -15463,21 +15099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼が出たという報告が奉行所に増えていてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか本物の鬼相手に戦うなんてことはないと思うが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねずみ小町を追いかけていた時の方が良かったよ。"
+                                "Reports of ogre sightings have been increasing at the\nmagistrate's office. I never thought we'd actually have to\nfight a real ogre... Chasing after Nezumi Komachi was better\nthan this."
                             ]
                         },
                         {
@@ -15583,14 +15205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼たちは刺股（さすまた）などで倒せる相手ではなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悔しいが我らの完全敗北といっていい。無念だ……"
+                                "The demons were not foes that could be defeated with the\nlikes of a sasumata. It's frustrating, but it's fair to say\nit was our complete defeat. How regrettable..."
                             ]
                         },
                         {
@@ -15705,21 +15320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ここは何の屋敷だって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町民の娘が知らなくてよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はやく帰れ。"
+                                "...What is this mansion, you ask? It's not for a town girl\nlike you to know. Hurry on home."
                             ]
                         },
                         {
@@ -15885,28 +15486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはかつて広場であり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有事の際に兵士が集まる場所だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平和な時代になって、今は松の木が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たくさん植えられて公園になっている。"
+                                "This place was once a plaza where soldiers would gather in\ntimes of emergency. Now that it's a peaceful era, many pine\ntrees have been planted and it has become a park."
                             ]
                         },
                         {
@@ -16012,14 +15592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奉行所も忙しそうだな。ねずみの件が終わったと思ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度は人さらい事件が起きて休み返上で働いているそうだ。"
+                                "The magistrate's office seems busy too. Just when I thought\nthe rat problem was over, now there's been a kidnapping\nincident, and they're working without any days off, it\nseems."
                             ]
                         },
                         {
@@ -16134,21 +15707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貧乏旗本なので、ずいぶん前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鎧を売ってしまったから今回の通達は参ったよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処かで鎧を調達しないと！　はわわ……！"
+                                "Being a poor samurai family, we sold our armor quite some\ntime ago, so this new directive is quite the problem... I\nmust procure some armor from somewhere! Oh dear...!"
                             ]
                         },
                         {
@@ -16613,7 +16172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -16859,7 +16418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -17945,7 +17504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 200 mon!\\c[0]"
                             ]
                         },
                         {
@@ -20080,7 +19639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは大事な金蔵だ。絶対に中へは侵入させぬ。"
+                                "This is an important treasury. I will not allow anyone to\nintrude inside."
                             ]
                         },
                         {
@@ -20224,14 +19783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はわわ…ッ！　金蔵の中の宝箱が全部盗まれてる……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どど、どうしよう……！？"
+                                "Oh no...! All the treasure chests inside the treasury have\nbeen stolen...! Wha-what should we do...!?"
                             ]
                         },
                         {
@@ -20359,7 +19911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっさぁ、ほいさぁ！　えっさぁ、ほいさぁ！"
+                                "Heave-ho, heave-ho!"
                             ]
                         },
                         {
@@ -20702,14 +20254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】"
+                                "【Signboard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊ねずみ小町を見つけたらすぐ知らせたし――　奉行所"
+                                "\"If you find the thief Nezumi Komachi, report it immediately\n--Magistrate's Office\""
                             ]
                         },
                         {
@@ -20742,14 +20294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふえっ――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（奉行所の立て看板に、ねずみ小町の人相書が張ってある！）"
+                                "Huh--!? (There's a wanted poster for Nezumi Komachi on the\nmagistrate's office signboard!)"
                             ]
                         },
                         {
@@ -20773,7 +20318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -20797,7 +20342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……（うん……大丈夫。似てないよね……　私に見えないし）"
+                                "...(Yeah... It's okay. It doesn't look like me... I can't\nsee myself in it)"
                             ]
                         },
                         {
@@ -20872,21 +20417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】"
+                                "【Signboard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人組の兄弟の空き巣　被害多し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つけたら即　奉行所まで通報へ――"
+                                "Numerous burglary incidents by a duo of brothers. Report\nimmediately to the magistrate's office if spotted--"
                             ]
                         },
                         {
@@ -20954,14 +20492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】"
+                                "【Signboard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空き巣兄弟　捕縛済み――"
+                                "Burglar Brothers Captured--"
                             ]
                         },
                         {
@@ -21029,21 +20567,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】"
+                                "【Signboard】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "非常事態中のため、外出を禁ず――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぞれで身を守るように　奉行所"
+                                "Due to an emergency situation, going outside is prohibited--\nprotect yourselves accordingly. By order of the magistrate's\noffice."
                             ]
                         },
                         {
@@ -21342,7 +20873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "異常なし――　よし！"
+                                "No abnormalities--good!"
                             ]
                         },
                         {
@@ -24092,21 +23623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先代のお頭が鬼に殺されてすでに半年……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕霧殿が組頭を引き継いで懸命に任務をこなしているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "組織として人手が足りない。お主に期待するぞ、花梨殿。"
+                                "It's been half a year since the former boss was killed by a\ndemon... Yugiri-dono has taken over as the head and is\ndiligently carrying out her duties, but the organization is\nshort-staffed. I have high hopes for you, Karin-dono."
                             ]
                         },
                         {
@@ -24174,14 +23691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？　夕霧殿と巣裸無村に行ったのではなかったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕霧殿はこちらに戻ってないぞ？"
+                                "Oh? Weren't you supposed to go to Suranashi Village with\nYugiri-dono? Yugiri-dono hasn't returned here, has she?"
                             ]
                         },
                         {
@@ -24249,14 +23759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸周辺のあちこちで鬼が出現している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで示し合わせているかのようだ……"
+                                "Ogres are appearing all around the outskirts of Edo. It's as\nif they've coordinated this..."
                             ]
                         },
                         {
@@ -24324,14 +23827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御城も上様も守り切れなかったのは痛恨の極みだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伊賀忍も怪我人が多く、其方たちに命運を託す他ない。"
+                                "It is a matter of extreme regret that we could not protect\nthe castle and our lord... With many of the Iga ninja\ninjured, we have no choice but to entrust our fate to you\nall."
                             ]
                         },
                         {
@@ -25736,21 +25232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸城が焼失したことで町民たちは浮足立っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬼の首魁を倒さねば世に平和は来ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に勝つぞ、花梨――"
+                                "The townspeople are in a panic since Edo Castle burned down.\nWe must defeat the chief of the demons to bring peace to the\nworld. I will definitely win, Karin--"
                             ]
                         },
                         {
@@ -26842,14 +26324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりに鎧を蔵から出して身につけたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで合っているのだろうか……"
+                                "It's been a while since I took out the armor from the\nstorehouse and put it on, but I wonder if this is right..."
                             ]
                         },
                         {
@@ -27421,21 +26896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸の旗本にも声がかかっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも老中殿の指示らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この平和な江戸で兵を集めるとは何事なのだろうか……"
+                                "Even the Edo bannerets have been called upon. It seems to be\nan order from the elder councilor. What could be the matter\nthat they're gathering soldiers in this peaceful Edo..."
                             ]
                         },
                         {
@@ -27743,21 +27204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼に襲われていたところ、助けてくれて礼を申す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お主たち伊賀忍はあのような化け物たちと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人知れずに戦っていたのだな。苦労察するぞ。"
+                                "I was being attacked by demons, and I thank you for your\nhelp. So you Iga ninjas have been fighting such monsters in\nsecret. I acknowledge your hardships."
                             ]
                         },
                         {
@@ -27841,21 +27288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨か？　奉行所の役人も半数が怪我をして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "診療所で手当て中だ……　戒厳令を出して江戸の民衆たちに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自宅にいるよう呼びかけているところだ。"
+                                "Karin? Half of the officials at the magistrate's office are\ninjured and receiving treatment at the clinic... We're\ndeclaring martial law and urging the people of Edo to stay\nin their homes."
                             ]
                         },
                         {
@@ -27946,14 +27379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お美津よ、安心せい。わしは無事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事が治まるまで自宅に待機してなさい。よいな？"
+                                "Omitsu, be at ease. I am unharmed. Stay at home until things\nsettle down. Understood?"
                             ]
                         },
                         {
@@ -28044,7 +27470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじいちゃん、大丈夫だった！？　怪我はない！？"
+                                "Grandpa, are you okay!? Are you hurt!?"
                             ]
                         },
                         {

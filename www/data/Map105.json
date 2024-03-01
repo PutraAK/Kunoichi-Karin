@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2221,14 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊団が来てから、体の調子がよくなくてねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく困ったものですよ……"
+                                "Ever since the bandits came, I haven't been feeling well...\nIt's really quite troublesome..."
                             ]
                         },
                         {
@@ -2296,14 +2289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげさまでこの村の平穏は守られました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も身体の調子が戻って……　本当感謝します。"
+                                "Thanks to you, the peace of this village has been preserved.\nMy health has returned as well... I'm truly grateful."
                             ]
                         },
                         {
@@ -2447,7 +2433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやっ？　君は確か……　江戸の団子屋の……？"
+                                "Oh? Aren't you... from that dango shop in Edo...?"
                             ]
                         },
                         {
@@ -2471,21 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ。ちょっと気になったので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村がどんな様子か見に来ました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……盗賊団はどこにいるんですか？"
+                                "Hello. I was a bit curious, so I came to see what the\nvillage looks like... Where is the bandit gang?"
                             ]
                         },
                         {
@@ -2509,28 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、村の左上の木造りの門の先が盗賊団の縄張りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その先に戦国時代の古城があって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【匂坂迅雷（こうさかじんらい）】って男が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊団首領として棲家にして威張り散らしているよ。"
+                                "Ah, beyond the wooden gate at the top left of the village is\nthe bandit gang's territory. There's an old castle from the\nWarring States period there, and a man named Kousaka Jinrai\nhas made it his lair as the bandit leader, strutting around\nlike he owns the place."
                             ]
                         },
                         {
@@ -2554,28 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教えて頂きありがとうございます♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと盗賊たちの様子を見てきますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thank you for telling me♪ I'll go and take a look at what\nthe bandits are up to."
                             ]
                         },
                         {
@@ -2599,28 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？　それは無謀過ぎる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗賊団の人数は多い。女の子一人で行ったら危ないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奉行所の人が来るのを待ってからのほうが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What?! That's too reckless! There are many bandits. It's\ndangerous for a girl to go alone! It would be better to wait\nfor someone from the magistrate's office to come..."
                             ]
                         },
                         {
@@ -2644,14 +2553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫です。盗賊団の首領は匂坂って男ですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が白黒つけてきます。それじゃ！"
+                                "It's alright. The bandit leader is a man named Kousaka,\nright? I'll go and settle things with him. See you!"
                             ]
                         },
                         {
@@ -2675,7 +2577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～っ！？（大丈夫なのかな？）"
+                                "~~~~!? (Is she really going to be okay?)"
                             ]
                         },
                         {
@@ -2777,14 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奴ら盗賊団は古城を根城にしているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、君一人で本当に大丈夫なのかね？"
+                                "Those bandits have made the old castle their stronghold. But\nare you really going to be okay on your own?"
                             ]
                         },
                         {
@@ -2875,14 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ねずみ小町に似た娘が盗賊たちを倒したって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村人が話してたが……　もしかして……君が……？"
+                                "...I heard from the villagers that a girl resembling Nezumi\nKomachi defeated the bandits... Could it be... you...?"
                             ]
                         },
                         {
@@ -2906,21 +2794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえいえ！　違いますよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、ねずみ小町じゃないですから！　他人の空似ですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははっ……！"
+                                "No, no! That's not me!? I'm not Nezumi Komachi! It's just a\ncase of mistaken identity! Ahaha...!"
                             ]
                         },
                         {
@@ -3002,28 +2876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ？　君は――？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oh? You are--?"
                             ]
                         },
                         {
@@ -3047,28 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神岱村の村長さん、ご無沙汰してます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……先日はありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Village Chief of Shintai Village, it's been a while. Um...\nthank you for the other day."
                             ]
                         },
                         {
@@ -3092,28 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや、なんのなんの。この村は君に助けられたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奉行所に恩赦を頼むくらい、当然のことさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出歩いているところを見ると無実になったんだね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君がねずみ小町と気づいて、お上に嘆願して良かったよ。"
+                                "No, no, not at all. This village was saved by you. It was\nonly natural to ask the magistrate for a pardon. Seeing you\nout and about, you've been cleared of all charges, haven't\nyou? I'm glad I realized you were the thief Nezumi Komachi\nand petitioned the authorities on your behalf."
                             ]
                         },
                         {
@@ -3137,14 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ……　死罪は免れましたが、遠島流罪にされて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこから勝手に戻ってきたりして……　あはは……"
+                                "No... I was spared the death penalty, but I was exiled to a\ndistant island... and then I just came back on my own...\nahaha..."
                             ]
                         },
                         {
@@ -3168,21 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ええっ！？　島から脱出してきたのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやはや、さすがは快盗ねずみ小町だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天衣無縫とは君の様な人のことかもしれないなぁ。"
+                                "--Eh?! You escaped from the island? My, my, that's so like\nthe master thief Nezumi Komachi. The term 'carefree' must\nhave been coined for someone like you."
                             ]
                         },
                         {
@@ -3206,7 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへっ、褒め言葉として受け取っておきます♪"
+                                "Ehehe, I'll take that as a compliment♪"
                             ]
                         },
                         {
@@ -3230,21 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊団を追い出してくれたことへのお礼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだちゃんとしていなかったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村で捕れた猪の肉だ。受け取って欲しい。"
+                                "I haven't properly thanked you yet for driving out the band\nof thieves. This is some wild boar meat caught in the\nvillage. Please accept it."
                             ]
                         },
                         {
@@ -3268,14 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ！　こんなにたくさん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます、村長さん！"
+                                "Wow! So much?! Thank you very much, Village Chief!"
                             ]
                         },
                         {
@@ -3314,7 +3083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――村長から\\c[17]【猪の肉】\\c[0]を２０個貰った！"
+                                "--Received 20 pieces of [Color_17]【Wild Boar Meat】\\c[17]\nfrom the Village Chief!"
                             ]
                         },
                         {
@@ -3405,14 +3174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊たちがいなくなって、村人も喜んでるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村を代表してお礼を言わせて欲しい。本当にありがとう。"
+                                "The bandits are gone, and the villagers are happy too. I\nwant to thank you on behalf of the village. Thank you so\nmuch."
                             ]
                         },
                         {
@@ -3794,7 +3556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -4040,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【150 Mon】\\c[0]!"
                             ]
                         },
                         {

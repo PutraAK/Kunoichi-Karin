@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "富兆屋　敵将の間",
+    "displayName": "Tomochouya Enemy General's Chamber",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9856,7 +9856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――体力と技力が\\c[24]全回復\\c[0]した！"
+                                "--Stamina and skill power have been \\c[24]fully\nrestored\\c[0]!"
                             ]
                         },
                         {
@@ -10384,14 +10384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほおぉ！？　ホンマに来おったわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやはや、ごっつ勇敢な娘やなぁ！"
+                                "Oh!? You really did show up! My, my, what a brave girl you\nare!"
                             ]
                         },
                         {
@@ -10415,28 +10408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "富兆屋さん、あなたの小判を頂くわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪我したくなかったら大人しく差し出すことね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: Tomioka-san, I'll be taking your koban. If you don't\nwant to get hurt, hand them over quietly!"
                             ]
                         },
                         {
@@ -10460,14 +10432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁん？　自分、なんでワイが富兆屋って知っとんのや？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちら初対面やないんか？"
+                                "Kisanosuke: Huh? How do you know I'm Tomioka? Aren't we\nmeeting for the first time?"
                             ]
                         },
                         {
@@ -10491,21 +10456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ぎくっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、富兆屋さんて江戸じゃ有名ですし……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呉服商で一番儲けてますし……！"
+                                "--Gulp!? Well, Tomioka-san is famous in Edo...! The most\nprofitable kimono merchant...!"
                             ]
                         },
                         {
@@ -10529,21 +10480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アッハッハ！　せやろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワイのこと知っててくれて嬉しいのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったらここでお縄になってや♪"
+                                "Kisanosuke: Ahahaha! Is that so!? I'm glad you know about\nme! Then, I'll have you arrested right here and now♪"
                             ]
                         },
                         {
@@ -10579,28 +10516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ザシュッ――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "＜Swoosh--！＞"
                             ]
                         },
                         {
@@ -10624,28 +10540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！？　危ない……！　真剣……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: Whoa!? Dangerous...! A real sword...!?"
                             ]
                         },
                         {
@@ -10669,28 +10564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主がねずみ小町か？　華奢な娘だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのような古い刀で、我が一太刀を受けきれるかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kokuyou Tengu: Are you the infamous Nezumi Komachi? Such a\ndelicate girl. Can you really handle my sword with that old\nblade of yours?"
                             ]
                         },
                         {
@@ -10714,28 +10588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン！　舐めないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この忍刀は我が家に伝わる家宝よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方のなまくら刀なんて目じゃないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: Hmph! Don't underestimate me! This ninja sword is a\ntreasured heirloom of my family! It's no match for your dull\nblade!"
                             ]
                         },
                         {
@@ -10759,28 +10612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！？　盗賊やっちゅうのに刀を持っとるやないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険な娘やな！　大人しくさせてや、玄番はん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: Whoa!? A thief carrying a sword, aren't you\ndangerous! Calm down, Genban-san!"
                             ]
                         },
                         {
@@ -10804,28 +10636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お任せあれ。さぁねずみ小町よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざ尋常に、勝負――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Genban: Leave it to me. Now, Nezumi Komachi, let's have a\nfair fight--!"
                             ]
                         },
                         {
@@ -10849,28 +10660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――――――っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "------！！"
                             ]
                         },
                         {
@@ -10899,7 +10689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――玄番と富兆屋が襲ってきた！"
+                                "--Genban and Tomioka are attacking!"
                             ]
                         },
                         {
@@ -11028,28 +10818,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ガキン――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "＜Clang--！＞"
                             ]
                         },
                         {
@@ -11073,14 +10842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――ガハッ！？　ば、馬鹿なっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我が刀が折れた……だと……！？"
+                                "Genban: --Gahh!? Idiot!? My sword... it's broken... how can\nthis be...!?"
                             ]
                         },
                         {
@@ -11104,28 +10866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "技術はなかなかだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "剣先が当たらなきゃどうってことないわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これくらいの太刀筋で怯む私じゃあない！　そらっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: Your skills are decent, but if the tip of your sword\ndoesn't hit, it's all for naught! I won't flinch at such\nswordplay! Take this!"
                             ]
                         },
                         {
@@ -11177,28 +10918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐはあぁっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Genban: Guhaaah!?"
                             ]
                         },
                         {
@@ -11243,28 +10963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――玄番は花梨の蹴りで失神した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Genban has been knocked out by Karin's kick!"
                             ]
                         },
                         {
@@ -11288,14 +10987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なななッ！？　高い用心棒代をずっと出しとったのに……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "肝心なところで負けたらアカンやろ！？"
+                                "Kisanosuke: Wha-wha-what!? After paying so much for a\nbodyguard...! Losing at the crucial moment is unacceptable!"
                             ]
                         },
                         {
@@ -11319,14 +11011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひぃ！？　凄腕の玄番さんが、ねずみ小町に負けただと！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とてもかなわねぇ！　逃げろおっ！"
+                                "Tomioka's Henchman: Eek!? The formidable Genban-san was\ndefeated by Nezumi Komachi!? No way we can win! Run for it!"
                             ]
                         },
                         {
@@ -11359,28 +11044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、お前ら、逃げんなぁ！　命かけてワイを守れっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逃げるなら用心棒の給金、返さんかい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: Hey, you guys, don't run away! Protect me with\nyour lives! If you run away, I won't pay your bodyguard\nsalary!"
                             ]
                         },
                         {
@@ -11404,28 +11068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら残念ね、富兆屋さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ご自慢の用心棒の人たち、みんな逃げちゃったみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: Oh dear, Tomioka-san. It seems all your proud\nbodyguards have run away."
                             ]
                         },
                         {
@@ -11449,7 +11092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ……！　ワイを殺す気か？　殺生な！"
+                                "Kisanosuke: Ugh...! Are you going to kill me? How cruel!"
                             ]
                         },
                         {
@@ -11473,21 +11116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "安心して。私は盗みだけが生業よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大人しく千両箱をよこしなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それも１箱や２箱じゃない……　全部よ！！"
+                                "Karin: Relax. Thievery is my only trade. Hand over the boxes\nof koban quietly. Not just one or two boxes... all of them!!"
                             ]
                         },
                         {
@@ -11511,14 +11140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ナナナッ！？　全部やと！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんちゅう強欲な娘や！　やっぱり殺生や！"
+                                "Kisanosuke: Wha-wha-what!? All of them!? What a greedy girl!\nThis is indeed cruelty!"
                             ]
                         },
                         {
@@ -11542,28 +11164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふっ、冗談よ♪　たくさん欲しくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "重い千両箱を何箱も持っていけるわけないじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "１箱だけ頂くわ。盗み過ぎてそちらも商売が傾いたら悪いし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: Hehe, just kidding♪ Even if I wanted a lot, I\ncouldn't possibly carry several heavy boxes of koban, could\nI? I'll just take one box. It would be bad if I stole too\nmuch and your business suffered."
                             ]
                         },
                         {
@@ -11587,14 +11188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フン！　盗人が盗まれた側に情か？　偉そうに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……まぁええわ！　もってけ泥棒――！"
+                                "Kisanosuke: Hmph! A thief showing compassion for the victim?\nHow presumptuous! ...Well, whatever! Take it and be gone--\nthief!"
                             ]
                         },
                         {
@@ -11618,28 +11212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう、富兆屋さん！　領収書はいいよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっそく江戸の庶民に配らせてもらうね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: Thank you, Tomioka-san! No need for a receipt, right?\nI'll start distributing it to the common folk of Edo right\naway♪"
                             ]
                         },
                         {
@@ -11663,21 +11236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったく……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "義賊やら快盗やら、そんなモンが恰好ええ思っとるんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっとることはただの押し込み強盗！　犯罪やで？"
+                                "Kisanosuke: Seriously... whether it's a righteous thief or a\ndashing rogue, do you think that makes you look cool? What\nyou're doing is just plain burglary! It's a crime, you know?"
                             ]
                         },
                         {
@@ -11701,28 +11260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -11746,28 +11284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ねずみ小町。お前の本当の目的はなんや！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: Nezumi Komachi. What is your true purpose?"
                             ]
                         },
                         {
@@ -11791,28 +11308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……内緒……　千両箱、確かに頂いたよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それじゃあ、夜分お邪魔しました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Karin: ...That's a secret... I've properly taken the box of\nkoban♪ Well then, sorry for disturbing you at this late\nhour!"
                             ]
                         },
                         {
@@ -11921,7 +11417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は千両箱を脇に抱えて富兆屋の屋敷を脱出した！"
+                                "--Karin has escaped from Tomioka's mansion with a box of\nkoban tucked under her arm!"
                             ]
                         },
                         {
@@ -12032,28 +11528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　チャリン、チャリン――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "＜Clink, clink--！＞"
                             ]
                         },
                         {
@@ -12089,14 +11564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁさぁ、眠っている時間に済まないねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小判欲しい人は持って行ってね♪"
+                                "Karin: Now now, sorry to wake you at this hour! Anyone who\nwants koban, feel free to take them♪"
                             ]
                         },
                         {
@@ -12120,14 +11588,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【町人A】"
+                                "【Townsperson A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　あれは……ねずみ小町だ！"
+                                "--！That's... Nezumi Komachi!"
                             ]
                         },
                         {
@@ -12156,14 +11624,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【町人B】"
+                                "【Townsperson B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小判を屋根からバラまいてるぞ！　こりゃ有難い！"
+                                "She's scattering koban from the rooftops! How fortunate!"
                             ]
                         },
                         {
@@ -12199,14 +11667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゃんじゃん配るから持っていってね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たくさん小判を拾った人は他の人にも配ってあげてね♪"
+                                "Karin: I'll keep distributing them, so go ahead and take\nthem! Those who pick up a lot of koban, make sure to share\nwith others too♪"
                             ]
                         },
                         {
@@ -12256,14 +11717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は盗んだ小判を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "千両箱が空っぽになるまでバラ撒いた！"
+                                "--Karin scattered the stolen koban until the box was empty!"
                             ]
                         },
                         {
@@ -18016,14 +17470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Aaahhh--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -18986,14 +18433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -19928,14 +19368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -20842,7 +20275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21089,7 +20522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21336,7 +20769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21583,7 +21016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -21829,7 +21262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -22075,7 +21508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【700 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -24586,14 +24019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンジョン説明　その６】"
+                                "【Dungeon Description Part 6】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きな扉はクリックすると開きます。"
+                                "The large door will open when you click on it."
                             ]
                         },
                         {
@@ -24670,21 +24103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンジョン説明　その５】"
+                                "【Dungeon Description Part 5】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボス戦前には黄金の招き猫がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クリックすると体力と技力が最大まで回復します。"
+                                "Before the boss battle, there is a golden beckoning cat.\nClicking it will restore your health and skill power to\nmaximum."
                             ]
                         },
                         {

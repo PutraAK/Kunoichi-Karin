@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "大海原",
+    "displayName": "The Open Sea",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -9206,28 +9206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　ゴオオオオオオオオ！！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<ROOOOOOAR!!>"
                             ]
                         },
                         {
@@ -9292,28 +9271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駄目だ！　これ以上の航海は危険だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No good! It's too dangerous to sail any further!"
                             ]
                         },
                         {
@@ -9337,7 +9295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　花梨さん、あそこに島が見えます！"
+                                "Karin-san, I can see an island over there!"
                             ]
                         },
                         {
@@ -9361,14 +9319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無人島かしら！？　このままじゃ船が沈んじゃう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度あの島に避難しましょう！"
+                                "Could it be a deserted island!? If we keep going like this,\nthe ship will sink! Let's take refuge on that island for\nnow!"
                             ]
                         },
                         {
@@ -9392,28 +9343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぅ……！　あの島、何やら嫌な感じがするぞ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワシの八卦占いで不吉な結果が出ておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm...! That island gives off a bad vibe... My divination\nwith the Bagua tells me it's an ominous sign."
                             ]
                         },
                         {
@@ -9437,21 +9367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなこと言っても、このまま北上したら海の藻屑だぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嵐が過ぎるまで一時あの無人島に緊急避難しよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでいいかい、花梨さん！？"
+                                "Even so, if we continue north, we'll be nothing but seaweed!\nLet's take emergency refuge on that deserted island until\nthe storm passes! Is that alright with you, Karin-san?"
                             ]
                         },
                         {
@@ -9475,14 +9391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ！　お願い、喜三郎さんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船を無人島へ向けて！"
+                                "Yes! Please, Kisanosuke-san! Steer the ship towards the\ndeserted island!"
                             ]
                         },
                         {
@@ -9523,7 +9432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨たちは船を無人島へ向かわせた！"
+                                "Karin and the others directed the ship towards the deserted\nisland!"
                             ]
                         },
                         {

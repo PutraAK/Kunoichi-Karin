@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2881,14 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お隣さんから毎晩女性の泣く声が聞こえるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に気味が悪いわぁ……"
+                                "I can hear a woman's crying from the neighbor's place every\nnight. It's really creepy..."
                             ]
                         },
                         {
@@ -2956,14 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お隣のお屋敷、前よりも静かになったみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく一安心だわ。そろそろおやつでも食べようかね。"
+                                "It seems the mansion next door has become quieter than\nbefore. Anyway, it's a relief. Maybe it's about time for\nsome snacks."
                             ]
                         },
                         {
@@ -3399,7 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【退魔力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Demon-Repelling Power Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3899,14 +3885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わんわん！　ウオオオオォン……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（犬は震えている……）"
+                                "Woof woof! Wooooooon...! (The dog is trembling...)"
                             ]
                         },
                         {
@@ -3986,14 +3965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わんわん！　ワンワン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（犬は嬉しそうにはしゃいでいる）"
+                                "Woof woof! Woof woof! (The dog is frolicking happily.)"
                             ]
                         },
                         {

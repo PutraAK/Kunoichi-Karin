@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "修練場",
+    "displayName": "Training Grounds",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2508,14 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -3272,28 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふん！　私の腕前、甘く見たわね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\c[17]――花梨は稽古相手を全員倒した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（全員倒した追加ボーナス　経験値＋１５０）\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "Heheh! You underestimated my skills! \\c[17]--Karin has\ndefeated all her sparring partners! (Defeated All Bonus EXP\n+150)\\c[0]"
                             ]
                         },
                         {
@@ -3562,14 +3534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -4432,14 +4397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -5218,14 +5176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {
@@ -6004,14 +5955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！　一本とられた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋１５０）\\c[0]"
+                                "Uwah! I've been hit! \\c[17](EXP +150)\\c[0]"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "御城　入り口",
+    "displayName": "Castle Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -10243,14 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "息のある者は上野の診療所に連れて行った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念ながらここに置かれている者はみな屍だ。"
+                                "Those who were still breathing have been taken to the clinic\nin Ueno. Unfortunately, everyone left here is already dead."
                             ]
                         },
                         {
@@ -10274,7 +10267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -10418,21 +10411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここより先は立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん……？　お主はもしや……ねずみ……か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、なんでもない。鬼退治、大儀であった。"
+                                "Entry beyond this point is prohibited. Hm...? Could you\npossibly be... a rat...? No, never mind. Your demon-slaying\nefforts are much appreciated."
                             ]
                         },
                         {
@@ -13175,21 +13154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸の御城が本物の鬼に攻撃されるとは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このようなこと、実際に見た者でなければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じられぬであろうな。"
+                                "To think that Edo Castle would be attacked by a real\ndemon... Such an event, one would not believe it unless they\nsaw it with their own eyes."
                             ]
                         },
                         {
@@ -13431,7 +13396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13678,7 +13643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13925,7 +13890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【運の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Luck Berry】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15303,14 +15268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ、このような大事になるとは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先、幕府はどうなるのか……"
+                                "Good grief, to think it would come to such a serious\nmatter... What will become of the shogunate from now on..."
                             ]
                         },
                         {
@@ -15425,14 +15383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "城内は被害が甚大だ。特に天守閣は延焼がひどい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま破棄されるやもな。"
+                                "The damage inside the castle is extensive. The castle tower,\nin particular, has suffered severe fire damage. It might\neven be abandoned as it is."
                             ]
                         },
                         {
@@ -15727,7 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主が鬼を退けたそうだな。礼を申す。"
+                                "I hear you've driven off the demon. I offer my thanks."
                             ]
                         },
                         {
@@ -15842,7 +15793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから上様のお姿をみていない。もしや……"
+                                "I haven't seen Lord's figure since then. Could it be..."
                             ]
                         },
                         {
@@ -20568,14 +20519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は江戸御城の本丸。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近づくことはまかりならぬ。"
+                                "Beyond this point lies the inner citadel of Edo Castle.\nApproaching is strictly forbidden."
                             ]
                         },
                         {
@@ -20703,14 +20647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御城に入れる身分ではなかろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰るがよい。"
+                                "You're not of the status to enter the castle, are you? You\nshould leave."
                             ]
                         },
                         {

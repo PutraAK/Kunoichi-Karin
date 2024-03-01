@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "親分の家",
+    "displayName": "Boss's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2400,7 +2400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Godspeed Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -4464,21 +4464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでぃ、おめぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの組にヅカヅカ入ってきて？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちは忙しいんだよ！"
+                                "Who the hell are you? Marching into our turf like that?\nWe're busy here!"
                             ]
                         },
                         {
@@ -4620,21 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨さん、アンタのおかげで病気も治った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心から感謝しているぜ。何か困ったことがあったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠慮せずに言ってくれ。"
+                                "Karin-san, thanks to you, my illness has been cured. I'm\ntruly grateful. If you ever have any troubles, don't\nhesitate to tell me."
                             ]
                         },
                         {
@@ -4718,14 +4690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親分さんが寝たきりになって大変なんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったいどうしたら……"
+                                "The boss has become bedridden, and it's quite serious...\nWhat on earth should we do..."
                             ]
                         },
                         {
@@ -4793,21 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スッポンってすごいんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげで親分も元気になって良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けてくれてありがとな。"
+                                "Softshell turtles are amazing, huh. It's great that the boss\nhas gotten his energy back thanks to them. Thanks for your\nhelp."
                             ]
                         },
                         {
@@ -4891,7 +4842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　水をくれ……"
+                                "Ugh... give me some water..."
                             ]
                         },
                         {
@@ -4973,7 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……しっかりしてください。虎政の親分……"
+                                "Please hold on, boss of Toramasa..."
                             ]
                         },
                         {
@@ -4997,28 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん……　うーん…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Uh-huh... Uh-huh..."
                             ]
                         },
                         {
@@ -5042,7 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あの、お体のほう大丈夫ですか？"
+                                "...Excuse me, are you feeling alright?"
                             ]
                         },
                         {
@@ -5066,21 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでい、おめぇ！？　うちの組に勝手に入ってきやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虎政親分に気安く話しかけるんじゃねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見世もんじゃねぇんだ！　とっととけえぇんなッ！"
+                                "Who the hell are you!? Barging into our gang's territory\nlike that! Don't you dare speak so casually to the boss of\nToramasa! You're not welcome here! Get outta here!"
                             ]
                         },
                         {
@@ -5104,28 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……はぁ……っ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Phew... Hah... Ah..."
                             ]
                         },
                         {
@@ -5149,28 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親分さん、だいぶ具合が悪そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔色も悪いし、痩せてきて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss, you seem to be in pretty bad shape. Your complexion is\noff, and you've lost weight..."
                             ]
                         },
                         {
@@ -5194,7 +5068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見りゃわかるだろう！？　親分はずっと寝込んでいるんだ！"
+                                "Isn't it obvious!? The boss has been bedridden for a long\ntime!"
                             ]
                         },
                         {
@@ -5218,7 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ、はぁ……　ううぅ…………"
+                                "Hah, hah... Ugh..."
                             ]
                         },
                         {
@@ -5242,21 +5116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者に診せても原因がわからなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレたちも正直困ってるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬も気休め程度でなぁ……　どうしたら……"
+                                "We've had doctors look at him, but they can't figure out the\ncause. We're honestly at a loss here. The medicine is just a\nplacebo at this point... What should we do..."
                             ]
                         },
                         {
@@ -5389,21 +5249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これ……　上野の池で釣ったスッポンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちらを親分さんに食べさせたいんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "構いませんか？"
+                                "This... is a soft-shelled turtle I caught at Ueno Pond. I'd\nlike to feed it to the boss, if that's okay with you?"
                             ]
                         },
                         {
@@ -5427,28 +5273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――なに？　スッポン？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "別に構わねぇが……　アンタ料理できんのかよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--What? A soft-shelled turtle? I don't mind, but... Can you\neven cook?"
                             ]
                         },
                         {
@@ -5472,28 +5297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父ちゃんがスッポン鍋を作ってたのを何度も見たことあるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たぶん大丈夫です。厨房をお借りしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "My dad used to make soft-shelled turtle stew all the time,\nso I've seen it done plenty. I should be fine. May I use the\nkitchen?"
                             ]
                         },
                         {
@@ -5527,28 +5331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はスッポンを捌き、鍋に入れて煮たてた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin prepared the soft-shelled turtle and started boiling\nit in the pot."
                             ]
                         },
                         {
@@ -5565,28 +5348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5615,28 +5377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ぐつぐつ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Simmering...)"
                             ]
                         },
                         {
@@ -5690,14 +5431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\|\\|"
+                                "..."
                             ]
                         },
                         {
@@ -5721,28 +5455,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、完成した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっそく親分さんに食べさせていいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Alright, it's done! Can I go ahead and feed it to the boss\nnow?"
                             ]
                         },
                         {
@@ -5766,28 +5479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと待て。変なモノを親分に食べさせられねぇから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレが一応先に食べるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Wait a minute. I can't let you feed the boss something\nstrange without checking it first. I'll taste it myself\nfirst."
                             ]
                         },
                         {
@@ -5811,28 +5503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（もぐもぐ……　モキュ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(Munch munch... Slurp...)"
                             ]
                         },
                         {
@@ -5856,28 +5527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　こいつはうめぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! This is delicious!"
                             ]
                         },
                         {
@@ -5901,28 +5551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えへへ。じゃあ親分さんに食べさせますね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ehehe. Then I'll go ahead and feed it to the boss now♪"
                             ]
                         },
                         {
@@ -5946,28 +5575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5991,28 +5599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふーっ……はぁッ……　なんだい。そりゃ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Fu-uh... Hah... What's this now..."
                             ]
                         },
                         {
@@ -6043,28 +5630,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私が作ったスッポン料理です。栄養満点ですから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうか食べてみてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "This is a soft-shelled turtle dish I made. It's full of\nnutrients, so please try some."
                             ]
                         },
                         {
@@ -6088,28 +5654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は親分にスッポン鍋を食べさせた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin fed the soft-shelled turtle stew to the boss."
                             ]
                         },
                         {
@@ -6126,28 +5671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6183,28 +5707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……おおッ？　信じられねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体が…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Oh!? Unbelievable... My body feels...?"
                             ]
                         },
                         {
@@ -6228,28 +5731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "マジか！？　親分の顔に生気が――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Seriously!? The boss's face is getting some color back--!?"
                             ]
                         },
                         {
@@ -6280,21 +5762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "父ちゃんがいつも作ってた、病人用の滋養料理です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私も風邪をひいた時によく食べさせられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すぐに元気になった思い出のスッポン鍋です。"
+                                "This is the nourishing dish my dad always made when someone\nwas sick. I remember eating it whenever I caught a cold and\nit always helped me recover quickly. It's a memorable soft-\nshelled turtle stew."
                             ]
                         },
                         {
@@ -6318,28 +5786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "親分！　布団から起きて大丈夫なんですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Boss! Is it really okay for you to get out of bed!?"
                             ]
                         },
                         {
@@ -6363,28 +5810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ。苦労をかけたな、おめぇたち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう心配いらねぇ。大丈夫だ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ah, you all have been through a lot because of me. No need\nto worry anymore. I'm fine now--"
                             ]
                         },
                         {
@@ -6408,28 +5834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ううぅ！　良かった……！　親分の体調が回復して……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ugh! That's a relief...! The boss's health is recovering..."
                             ]
                         },
                         {
@@ -6453,28 +5858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "体の調子が戻って良かったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では私はこれで――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I'm glad your health has improved. Well then, I'll be on my\nway--"
                             ]
                         },
                         {
@@ -6498,28 +5882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オイオイ、待ってくれよ。礼ぐらいさせてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おい、お前ら。お茶くらいすぐ用意しろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このお嬢さんはオレの命の恩人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hey hey, wait a moment. Let me at least thank you. Hey guys,\nget some tea ready quickly! This young lady here saved my\nlife."
                             ]
                         },
                         {
@@ -6543,28 +5906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へぇ！　すんません、親分――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Oh! Sorry about that, boss--!"
                             ]
                         },
                         {
@@ -6588,21 +5930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -6682,28 +6010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6727,28 +6034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ふぅ。鍋全部食っちまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本気で美味かったぜ。この虎政、生き返った気分だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんた、名前はなんていうんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Phew. Finished the whole pot. It was seriously delicious.\nI feel like I've been brought back to life. What's your\nname, young lady?"
                             ]
                         },
                         {
@@ -6772,28 +6058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨といいます。城下町の団子屋近くに住んでいて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たまにお店を手伝ったりしてます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "My name is Karin. I live near the dumpling shop in the\ncastle town and sometimes help out there."
                             ]
                         },
                         {
@@ -6817,28 +6082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このスッポン鍋、親父さんとの思い出の料理って言ってたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "親父さんは亡くなったのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "This soft-shelled turtle stew, you said it was a dish filled\nwith memories of your father. Has he passed away?"
                             ]
                         },
                         {
@@ -6862,14 +6106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いえ。それが５年前に行方不明で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ずっと探してはいるんですけど……"
+                                "No, he went missing five years ago... I've been searching\nfor him ever since..."
                             ]
                         },
                         {
@@ -6893,28 +6130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そりゃ気の毒だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "親父さんの名前は何て言うんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "That's unfortunate. What's your father's name?"
                             ]
                         },
                         {
@@ -6938,28 +6154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええと、名前は中太郎っていいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Um, his name is Chuutarou."
                             ]
                         },
                         {
@@ -6983,28 +6178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なに？　アンタ、中太郎さんの娘さんかい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "What? You're Chuutarou's daughter?!"
                             ]
                         },
                         {
@@ -7035,28 +6209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――！　えっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "父ちゃんのこと、親分さんは知っているんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--! Eh!? Boss, you know my father?"
                             ]
                         },
                         {
@@ -7080,28 +6233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ。１０年以上前、別の組と抗争した時によぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うちの組に助っ人で来てくれてなぁ……　心底強かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "河原での決闘で１００人以上はブッ倒して――　何が凄いって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "刀も使わず、相手に怪我一つさせないで絞め落としてなぁ。"
+                                "Yeah. More than 10 years ago, during a conflict with another\ngroup. He came to help our gang... He was incredibly strong.\nIn a duel by the riverbank, he took down more than a hundred\nmen--and what's amazing is he did it without using a sword,\nand without injuring any of them, just knocking them out."
                             ]
                         },
                         {
@@ -7125,28 +6257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（そうだったんだ……　初めて聞いたわ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "(So that was it... It's the first time I've heard this.)"
                             ]
                         },
                         {
@@ -7170,28 +6281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "滅茶苦茶強いのに威張らず、優しくていなせな男でなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "懐かしいぜ……　その中太郎さんの娘さんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "親父さんのスッポン鍋をご馳走されて命を救われるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は大安吉日だぜ。"
+                                "Despite being incredibly strong, he never boasted, was kind\nand dashing. Ah, the memories... To think that I'd be saved\nby the daughter of that Chuutarou, with a soft-shelled\nturtle stew no less, today is indeed an auspicious day."
                             ]
                         },
                         {
@@ -7215,28 +6305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あははっ！　私も良い話を聞かせてもらって嬉しいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Ahaha! I'm happy to hear such a good story too."
                             ]
                         },
                         {
@@ -7260,28 +6329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か礼をしたいんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "欲しいものはあるかい、花梨さんよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "I want to give you something in return. Is there anything\nyou want, Karin-san?"
                             ]
                         },
                         {
@@ -7305,28 +6353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ええとですね。私、夜鷹をやる時があるんで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その……　できれば夜中に子分さんたちを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大人しくさせて欲しいんです……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夜の街での通行を自由にさせて欲しいというか。"
+                                "...Well, you see, sometimes I work as a nightingale...\nand... if possible, I'd like you to keep your underlings\nquiet at night... I mean, I'd like to be able to move freely\nthrough the streets at night."
                             ]
                         },
                         {
@@ -7350,28 +6377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へぇ！？　アンタ、夜鷹もやってるのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "普通の町娘に見えるが……意外だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Huh!? You work as a nightingale too? You look like an\nordinary town girl... That's surprising."
                             ]
                         },
                         {
@@ -7395,28 +6401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……はい。お願いできますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "...Yes. Can I ask for that?"
                             ]
                         },
                         {
@@ -7440,14 +6425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それくらいお安い御用だ。この辺りはうちのシマだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花梨さんに手出しさせねぇよう、子分たちに伝えて置くぜ。"
+                                "That's an easy request. This area is our turf, so I'll make\nsure my guys don't bother Karin-san. I'll pass the word\nalong."
                             ]
                         },
                         {
@@ -7471,14 +6449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "花梨さん、アンタの仕事の邪魔は二度としねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "夜中は自由になんでもやってくれたらいいさ。"
+                                "Karin-san, we won't interfere with your work again. You're\nfree to do whatever you need to at night."
                             ]
                         },
                         {
@@ -7509,7 +6480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わっ！　ありがとうございます！"
+                                "Wow! Thank you so much!"
                             ]
                         },
                         {
@@ -7533,28 +6504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それだけじゃオレの気がすまねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こいつはスッポン代だ。少ないが受け取ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "That alone doesn't satisfy me. This is for the soft-shelled\nturtle. It's not much, but please accept it."
                             ]
                         },
                         {
@@ -7592,7 +6542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は\\c[17]５０００文\\c[0]、謝礼として受け取った！"
+                                "--Karin received \\c[17]5000 mon\\c[0] as a token of\ngratitude!"
                             ]
                         },
                         {
@@ -7633,21 +6583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（滋養強壮のある食べ物……　確か父ちゃんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　調子が悪い時にスッポンをよく食べていたような……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　【上野の池】でスッポンを釣ってこよう）"
+                                "(Nourishing food... If I remember correctly, my father used\nto eat soft-shelled turtles when he wasn't feeling well... I\nshould go catch some at [Ueno Pond].)"
                             ]
                         },
                         {
@@ -7828,21 +6764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -7866,14 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんでぃ？　まだ組の中をウロウロしてんのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと帰ぇんな。"
+                                "Kisanosuke: \"What are you still doing wandering around here?\nHurry up and go home.\""
                             ]
                         },
                         {
@@ -7904,21 +6819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ……　上野の池で釣ったスッポンです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらを親分さんに食べさせたいんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "構いませんか？"
+                                "Karin: \"This... is a soft-shelled turtle I caught in Ueno\nPond. May I prepare it for the boss to eat?\""
                             ]
                         },
                         {
@@ -7942,28 +6843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――なに？　スッポン？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に構わねぇが……　アンタ料理できんのかよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: \"What? A soft-shelled turtle? I don't mind,\nbut... can you even cook?\""
                             ]
                         },
                         {
@@ -7987,28 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "父ちゃんがスッポン鍋を作ってたのを何度も見たことあるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん大丈夫です。厨房をお借りしますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"I've seen my father make turtle hotpot many times,\nso I should be fine. May I use the kitchen?\""
                             ]
                         },
                         {
@@ -8042,28 +6901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨はスッポンを捌き、鍋に入れて煮たてた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin skillfully butchered the turtle and put it in the pot\nto boil."
                             ]
                         },
                         {
@@ -8080,28 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8130,28 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぐつぐつ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Simmering...)"
                             ]
                         },
                         {
@@ -8205,14 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "..."
                             ]
                         },
                         {
@@ -8236,28 +7025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、完成した！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく親分さんに食べさせていいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"Alright, it's done! May I serve it to the boss right\naway?\""
                             ]
                         },
                         {
@@ -8281,28 +7049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと待て。変なモノを親分に食べさせられねぇから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレが一応先に食べるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: \"Hold on a second. I can't let the boss eat\nsomething strange without checking it first. I'll taste it\nmyself.\""
                             ]
                         },
                         {
@@ -8326,28 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（もぐもぐ……　モキュ……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Munching... Chewing...)"
                             ]
                         },
                         {
@@ -8371,28 +7097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　こいつはうめぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: \"--! This is delicious!\""
                             ]
                         },
                         {
@@ -8416,28 +7121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ。じゃあ親分さんに食べさせますね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"Ehehe. Then, I'll serve it to the boss now♪\""
                             ]
                         },
                         {
@@ -8461,28 +7145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8506,28 +7169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーっ……はぁッ……　なんだい。そりゃ…………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"Phew... Hah... What's this now?\""
                             ]
                         },
                         {
@@ -8558,28 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が作ったスッポン料理です。栄養満点ですから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか食べてみてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"It's a soft-shelled turtle dish I made. It's full of\nnutrients, so please try some.\""
                             ]
                         },
                         {
@@ -8603,28 +7224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は親分にスッポン鍋を食べさせた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin served the soft-shelled turtle hotpot to the boss."
                             ]
                         },
                         {
@@ -8641,28 +7241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8698,28 +7277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おおッ？　信じられねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体が…………？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"...Ohh? Unbelievable... My body feels...?\""
                             ]
                         },
                         {
@@ -8743,28 +7301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マジか！？　親分の顔に生気が――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: \"Seriously!? The boss's face is full of\nlife--!?\""
                             ]
                         },
                         {
@@ -8795,21 +7332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "父ちゃんがいつも作ってた、病人用の滋養料理です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も風邪をひいた時によく食べさせられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに元気になった思い出のスッポン鍋です。"
+                                "Karin: \"It's a nourishing dish for the sick that my father\nalways made. I remember eating it when I had a cold and it\nhelped me recover quickly.\""
                             ]
                         },
                         {
@@ -8833,28 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親分！　布団から起きて大丈夫なんですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Kisanosuke: \"Boss! Is it really okay for you to get out of\nbed!?\""
                             ]
                         },
                         {
@@ -8878,28 +7380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。苦労をかけたな、おめぇたち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう心配いらねぇ。大丈夫だ――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"Ah. You all have been through a lot of trouble for\nme. No need to worry anymore. I'm fine--\""
                             ]
                         },
                         {
@@ -8923,28 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううぅ！　良かった……！　親分の体調が回復して……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Omitsu: \"Uuu! I'm so glad...! The boss's condition has\nimproved...\""
                             ]
                         },
                         {
@@ -8968,28 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の調子が戻って良かったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では私はこれで――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"I'm glad your health has improved. Well then, I'll\nbe taking my leave--\""
                             ]
                         },
                         {
@@ -9013,28 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイオイ、待ってくれよ。礼ぐらいさせてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい、お前ら。お茶くらいすぐ用意しろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このお嬢さんはオレの命の恩人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"Hey, hey, wait a minute. Let me at least thank you.\nHey, you guys. Prepare some tea quickly! This young lady is\nthe savior of my life.\""
                             ]
                         },
                         {
@@ -9058,28 +7476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ！　すんません、親分――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Omitsu: \"Heh! Sorry, boss--!\""
                             ]
                         },
                         {
@@ -9103,21 +7500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -9197,28 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9242,28 +7604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふぅ。鍋全部食っちまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本気で美味かったぜ。この虎政、生き返った気分だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんた、名前はなんていうんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"...Phew. Finished the whole pot. It was seriously\ndelicious. This old tiger feels revived. What's your name,\nyoung lady?\""
                             ]
                         },
                         {
@@ -9287,28 +7628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨といいます。城下町の団子屋近くに住んでいて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまにお店を手伝ったりしてます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"My name is Karin. I live near the dumpling shop in\nthe castle town and sometimes help out there.\""
                             ]
                         },
                         {
@@ -9332,28 +7652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このスッポン鍋、親父さんとの思い出の料理って言ってたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親父さんは亡くなったのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"This soft-shelled turtle hotpot, you said it's a dish\nwith memories of your father, but has he passed away?\""
                             ]
                         },
                         {
@@ -9377,14 +7676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ。それが５年前に行方不明で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと探してはいるんですけど……"
+                                "Karin: \"No. The thing is, he went missing five years ago...\nI've been searching for him ever since...\""
                             ]
                         },
                         {
@@ -9408,28 +7700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃ気の毒だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親父さんの名前は何て言うんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"That's unfortunate. What's your father's name?\""
                             ]
                         },
                         {
@@ -9453,28 +7724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと、名前は中太郎っていいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"Um, his name is Chuutarou.\""
                             ]
                         },
                         {
@@ -9498,28 +7748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに？　アンタ、中太郎さんの娘さんかい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Boss: \"What? You're Chuutarou's daughter?!\""
                             ]
                         },
                         {
@@ -9550,28 +7779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　えっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "父ちゃんのこと、親分さんは知っているんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Karin: \"--! Eh!? You know my father, boss?\""
                             ]
                         },
                         {
@@ -9595,28 +7803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。１０年以上前、別の組と抗争した時によぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの組に助っ人で来てくれてなぁ……　心底強かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "河原での決闘で１００人以上はブッ倒して――　何が凄いって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "刀も使わず、相手に怪我一つさせないで絞め落としてなぁ。"
+                                "Boss: \"Yeah. Over ten years ago, during a conflict with\nanother group, he came to help us out... He was incredibly\nstrong. In a duel by the riverbank, he took down over a\nhundred men--and what was amazing was that he didn't use a\nsword and didn't injure anyone, just knocked them out with\nhis holds.\""
                             ]
                         },
                         {
@@ -9640,28 +7827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そうだったんだ……　初めて聞いたわ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(So that was his story... I'm hearing this for the first\ntime.)"
                             ]
                         },
                         {
@@ -9685,28 +7851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "滅茶苦茶強いのに威張らず、優しくていなせな男でなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "懐かしいぜ……　その中太郎さんの娘さんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親父さんのスッポン鍋をご馳走されて命を救われるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は大安吉日だぜ。"
+                                "Despite being incredibly strong, he never boasted, was kind\nand had a dashing air about him. Ah, it brings back\nmemories... To think that I'd be saved by the daughter of\nthat Chuutarou, and treated to his soft-shelled turtle\nhotpot, today is indeed an auspicious day."
                             ]
                         },
                         {
@@ -9730,28 +7875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははっ！　私も良い話を聞かせてもらって嬉しいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ahaha! I'm happy to hear such a nice story too."
                             ]
                         },
                         {
@@ -9775,28 +7899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か礼をしたいんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欲しいものはあるかい、花梨さんよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I want to give you something in return. Is there anything\nyou want, Karin-san?"
                             ]
                         },
                         {
@@ -9820,28 +7923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ええとですね。私、夜鷹をやる時があるんで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……　できれば夜中に子分さんたちを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大人しくさせて欲しいんです……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜の街での通行を自由にさせて欲しいというか。"
+                                "...Well, you see, sometimes I work as a courtesan... so...\nif possible, I'd like you to keep your underlings in check\nduring the night... I mean, I'd like to be able to move\nfreely through the streets at night."
                             ]
                         },
                         {
@@ -9865,28 +7947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ！？　アンタ、夜鷹もやってるのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の町娘に見えるが……意外だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Heh!? You work as a courtesan too? You look like an ordinary\ntown girl... that's surprising."
                             ]
                         },
                         {
@@ -9910,28 +7971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はい。お願いできますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...Yes. Can I ask for that?"
                             ]
                         },
                         {
@@ -9955,14 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それくらいお安い御用だ。この辺りはうちのシマだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花梨さんに手出しさせねぇよう、子分たちに伝えて置くぜ。"
+                                "That's an easy request. This area is our turf, so I'll make\nsure my guys don't mess with Karin-san. I'll pass the word\nalong."
                             ]
                         },
                         {
@@ -9986,14 +8019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花梨さん、アンタの仕事の邪魔は二度としねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜中は自由になんでもやってくれたらいいさ。"
+                                "Karin-san, we won't interfere with your work again. You're\nfree to do whatever you want at night."
                             ]
                         },
                         {
@@ -10024,7 +8050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっ！　ありがとうございます！"
+                                "Wow! Thank you very much!"
                             ]
                         },
                         {
@@ -10048,28 +8074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それだけじゃオレの気がすまねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつはスッポン代だ。少ないが受け取ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That alone doesn't satisfy me. This is for the soft-shelled\nturtle. It's not much, but please accept it."
                             ]
                         },
                         {
@@ -10107,7 +8112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]５０００文\\c[0]、謝礼として受け取った！"
+                                "--Karin received \\c[17]5000 mon\\c[0] as a token of\ngratitude!"
                             ]
                         },
                         {
@@ -10249,28 +8254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタには本当世話になったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治安の良い江戸でも、最近じゃ夜中は物騒でなぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜鷹が何人もさらわれてるから油断できねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下手人も捕まってねぇから気をつけてな、花梨さん。"
+                                "I really owe you one. Even in the safe streets of Edo, it's\nbecome dangerous at night lately... Several night hawks have\nbeen kidnapped, so we can't let our guard down. The culprit\nhasn't been caught yet, so be careful, Karin-san."
                             ]
                         },
                         {

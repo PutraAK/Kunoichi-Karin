@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "新宿の井戸",
+    "displayName": "Shinjuku Well",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -9798,7 +9798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【奇貨】\\c[0]を手に入れた！"
+                                "--\\c[17]Acquired \\c[0]Rare Item!"
                             ]
                         },
                         {
@@ -10045,7 +10045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Impenetrable Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -11846,14 +11846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Aaahhh~~! \\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -12668,7 +12661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -12914,7 +12907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 150 mon!\\c[0]"
                             ]
                         },
                         {
@@ -13161,7 +13154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -13407,7 +13400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -13666,14 +13659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Aaahhhhh~! \\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -14493,14 +14479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Gyaaaahhh! \\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -15313,14 +15292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Aaahhh~! \\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -16193,14 +16165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３０）\\c[0]"
+                                "Aaahhh~! \\c[17](EXP +30)\\c[0]"
                             ]
                         },
                         {
@@ -17088,14 +17053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Aaahhh~! \\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -17908,14 +17866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Aaahhh~~! \\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -18743,14 +18694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Gyaaaahhh! \\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -19635,14 +19579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３０）\\c[0]"
+                                "Gyaaahhh~! \\c[17](EXP +30)\\c[0]"
                             ]
                         },
                         {
@@ -20629,7 +20566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５０文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 150 mon!\\c[0]"
                             ]
                         },
                         {
@@ -20875,7 +20812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【２００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【200 Mon】!\\c[0]"
                             ]
                         },
                         {
@@ -21003,14 +20940,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【佳代】"
+                                "【Kayo】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわーん！　誰か助けてぇ！"
+                                "Waaah! Someone help me!"
                             ]
                         },
                         {
@@ -21034,14 +20971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！　あなたが佳代ちゃんね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けに来たわよ！"
+                                "Oh! You must be Kayo-chan! I've come to rescue you!"
                             ]
                         },
                         {
@@ -21058,14 +20988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【佳代】"
+                                "【Kayo】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、お姉ちゃんは……？"
+                                "Who are you, big sister...?"
                             ]
                         },
                         {
@@ -21089,14 +21019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心して。私の名は花梨――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの友達に頼まれて助けに来たの。"
+                                "Don't worry. My name is Karin--your friend asked me to come\nand help you."
                             ]
                         },
                         {
@@ -21113,21 +21036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【佳代】"
+                                "【Kayo】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん、くノ一なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忍者っぽい格好してるけど……"
+                                "Big sister, are you a kunoichi? You're dressed like a\nninja..."
                             ]
                         },
                         {
@@ -21151,21 +21067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あははは！　この格好はその……　内緒だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、地上に出るよ佳代ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の手を離さないでね？　一緒についてきて。"
+                                "Ahahaha! This outfit is, well... a secret, okay? Now, let's\nget out to the surface, Kayo-chan. Don't let go of my hand,\nokay? Follow me."
                             ]
                         },
                         {
@@ -21201,7 +21103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は佳代と一緒に井戸の入り口に向かった！"
+                                "--Karin headed towards the well's entrance with Kayo!"
                             ]
                         },
                         {
@@ -21278,14 +21180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【少女】"
+                                "【Girl】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わー！　佳代、無事だったのね！　良かったぁ！"
+                                "Waah! Kayo, you're safe! I'm so glad!"
                             ]
                         },
                         {
@@ -21302,21 +21204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【佳代】"
+                                "【Kayo】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん！　花梨お姉ちゃんに助けてもらったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうね、お姉ちゃん♪"
+                                "Yeah! Karin-oneechan saved me. Thank you, big sister♪"
                             ]
                         },
                         {
@@ -21340,14 +21235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今度は一人で井戸の中に行っちゃダメだからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあね～"
+                                "Remember not to go into the well alone next time, okay? See\nyou~"
                             ]
                         },
                         {
@@ -21364,14 +21252,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【子供たち】"
+                                "【Children】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん、ありがとう――！"
+                                "Thank you, big sister--!"
                             ]
                         },
                         {
@@ -21692,14 +21580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぎゃあぁ～～ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３０）\\c[0]"
+                                "Gyaaaahhh~! \\c[17](EXP +30)\\c[0]"
                             ]
                         },
                         {
@@ -22499,7 +22380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【300 Mon】\\c[0]!"
                             ]
                         },
                         {

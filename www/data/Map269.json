@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "富士溶岩窟",
+    "displayName": "Fuji Lava Cavern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 70,
@@ -21663,7 +21663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -21671,8 +21671,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21723,7 +21723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――溶岩から飛び石が出現した！"
+                                "--Stepping stones have appeared from the lava!"
                             ]
                         },
                         {
@@ -22054,7 +22054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【神弓天狐】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained the 【Divine Bow Celestial Fox】!\\c[0]"
                             ]
                         },
                         {
@@ -23420,7 +23420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -23428,8 +23428,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -23480,7 +23480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――溶岩から飛び石が出現した！"
+                                "--Stepping stones have appeared from the lava!"
                             ]
                         },
                         {
@@ -25496,7 +25496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【全員復活の太鼓】\\c[0]を手に入れた！"
+                                "--\\c[17]【Drum of Full Revival】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -25624,7 +25624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たいまつに火を灯しますか？"
+                                "Would you like to light the torch?"
                             ]
                         },
                         {
@@ -25632,8 +25632,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -25684,7 +25684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――溶岩から飛び石が出現した！"
+                                "--Stepping stones have appeared from the lava!"
                             ]
                         },
                         {
@@ -28850,28 +28850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（グウウゥ……！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Grrrrr...!)"
                             ]
                         },
                         {
@@ -28902,28 +28881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの怨霊鬼は……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That vengeful ghost...!?"
                             ]
                         },
                         {
@@ -28947,28 +28905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！　影の形からして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホーチクとセンビのようだな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--! Judging by the shape of the shadow, could it be Ho-Chiku\nand Senbi?"
                             ]
                         },
                         {
@@ -28992,28 +28929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズズズズズズ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Zzzzzzzz...!"
                             ]
                         },
                         {
@@ -29037,7 +28953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "蓬竹さんまで……！　　そんな……！？"
+                                "Even Mr. Houjiku...! How can this be...!?"
                             ]
                         },
                         {
@@ -29061,28 +28977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲガガガッ！　マァ…サァ…キィ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コ…ロ…ス……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gahahaha! Ma...sa...ki... I... will... kill...!"
                             ]
                         },
                         {
@@ -29106,28 +29001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フン！　ギョウオンの奴"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に癇に障ることをやりおるわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度葬った相手を、再度倒さねばならぬとはのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmph! That Gyouon really does things that get under my skin!\nTo think I have to defeat an opponent I've already buried\nonce."
                             ]
                         },
                         {
@@ -29170,28 +29044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グアアアアアアァ――ッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gwaaaaaaah--!!"
                             ]
                         },
                         {
@@ -29220,7 +29073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――怨霊鬼・傀闇と獣雷が襲ってきた！"
+                                "--Vengeful ghosts. Kugai and Julei are attacking!"
                             ]
                         },
                         {
@@ -34934,7 +34787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――体力と技力が\\c[24]全回復\\c[0]した！"
+                                "--Health and skill power have been \\c[24]fully\nrestored\\c[0]!"
                             ]
                         },
                         {

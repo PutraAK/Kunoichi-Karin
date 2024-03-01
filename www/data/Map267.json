@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "天守閣　３階",
+    "displayName": "Castle Tower 3rd Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -15185,7 +15185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 3500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -15432,7 +15432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15678,7 +15678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１５００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1500 Mon】\\c[0]!"
                             ]
                         },
                         {
@@ -15926,7 +15926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――【金剛の籠手】を手に入れた！\\c[0]"
+                                "\\c[17]--Gained 【Vajra Gauntlets】!\\c[0]"
                             ]
                         },
                         {
@@ -16892,7 +16892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１７００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 【1700 Mon】\\c[0]!"
                             ]
                         },
                         {

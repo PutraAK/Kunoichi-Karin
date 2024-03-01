@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "剣術道場",
+    "displayName": "Swordsmanship Dojo",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2329,7 +2329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -2429,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たくさん食べてつよくなるぞ～"
+                                "I'm going to eat a lot and get stronger~"
                             ]
                         },
                         {
@@ -2506,7 +2506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -2733,21 +2733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんじゃ？　新入りの弟子か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣術に興味があるのなら、女子も歓迎するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強くなりたければ実戦あるのみじゃ。"
+                                "What's this? A new apprentice? If you're interested in\nswordsmanship, we welcome women as well. The only way to get\nstronger is through actual combat."
                             ]
                         },
                         {
@@ -3251,21 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥の稽古場では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後を取る練習ができ、経験値も上がります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "段をあげたいのならば挑戦するといいですよ。"
+                                "In the training area beyond here, you can practice taking\nthe enemy from behind, and your EXP will increase. If you\nwant to level up, it's a good idea to give it a try."
                             ]
                         },
                         {
@@ -3342,7 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉおおお！！　えいやぁ！"
+                                "Ohhhhh!! Take this!"
                             ]
                         },
                         {
@@ -3442,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せやああぁ――！！"
+                                "Yes--!!"
                             ]
                         },
                         {
@@ -3722,14 +3694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと深く打ち込んで来い！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腰が引いてるぞ！"
+                                "Thrust deeper! You're holding back!"
                             ]
                         },
                         {
@@ -3829,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやーーーっ！！"
+                                "No---!!"
                             ]
                         },
                         {
@@ -3929,21 +3894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、珍しいお客さんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣術に興味があるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稽古を見ていくといいよ。"
+                                "Oh, what an unusual visitor. If you're interested in\nswordsmanship, you should watch the practice."
                             ]
                         },
                         {
@@ -4043,21 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たくさん面を打ち込んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "汗をかくと気持ちいいよ。"
+                                "Haa... haa... It feels good to sweat after hitting a lot of\nstrikes."
                             ]
                         },
                         {
@@ -4157,7 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -4436,7 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -4684,7 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たくさん食べてつよくなるぞ～"
+                                "I'm going to eat a lot and get stronger~"
                             ]
                         },
                         {
@@ -4761,14 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は剣術が盛んでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参勤交代の大名も道場に通うくらいさ。"
+                                "Edo is bustling with swordsmanship. Even the daimyo on their\nalternate attendance duty frequent the dojos."
                             ]
                         },
                         {
@@ -5384,7 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【堅守の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Impenetrable Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -7045,7 +6975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -7145,7 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -7605,7 +7535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -8125,7 +8055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -8225,7 +8155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -8325,7 +8255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there, you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -8647,7 +8577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらほら、そこにいたら稽古の邪魔だ。"
+                                "Come on, come on, if you stay there you'll be in the way of\npractice."
                             ]
                         },
                         {
@@ -8978,14 +8908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は剣術が盛んでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参勤交代の大名も道場に通うくらいさ。"
+                                "Edo is bustling with swordsmanship. Even the daimyo on their\nalternate attendance duty frequent the dojos."
                             ]
                         },
                         {
@@ -9062,14 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は剣術が盛んでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参勤交代の大名も道場に通うくらいさ。"
+                                "Edo is bustling with swordsmanship. Even the daimyo on their\nalternate attendance duty frequent the dojos."
                             ]
                         },
                         {
@@ -9146,14 +9062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸は剣術が盛んでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参勤交代の大名も道場に通うくらいさ。"
+                                "Edo is bustling with swordsmanship. Even the daimyo on their\nalternate attendance duty frequent the dojos."
                             ]
                         },
                         {
@@ -9230,21 +9139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥の稽古場では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後を取る練習ができ、経験値も上がります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "段をあげたいのならば挑戦するといいですよ。"
+                                "In the practice area beyond here, you can train to take the\nenemy by surprise, and your experience points will increase.\nIf you wish to advance your level, it would be good to take\non the challenge."
                             ]
                         },
                         {
@@ -9321,21 +9216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥の稽古場では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後を取る練習ができ、経験値も上がります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "段をあげたいのならば挑戦するといいですよ。"
+                                "In the practice area beyond here, you can train to take the\nenemy by surprise, and your experience points will increase.\nIf you wish to advance your level, it would be good to take\non the challenge."
                             ]
                         },
                         {
@@ -9412,21 +9293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥の稽古場では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後を取る練習ができ、経験値も上がります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "段をあげたいのならば挑戦するといいですよ。"
+                                "In the training area beyond here, you can practice taking\nthe enemy from behind, and it will also increase your EXP.\nIf you want to level up, it's a good idea to give it a try."
                             ]
                         },
                         {
@@ -9503,21 +9370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥の稽古場では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後を取る練習ができ、経験値も上がります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "段をあげたいのならば挑戦するといいですよ。"
+                                "In the practice area beyond here, you can train to take the\nenemy from behind, and your EXP will increase. If you wish\nto advance your level, it would be good to challenge it."
                             ]
                         },
                         {

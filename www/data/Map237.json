@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "路地裏",
+    "displayName": "Back Alley",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2477,7 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -2949,14 +2949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おっ？　わざわざ会いに来てくれたのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今晩もアンタの尻を貸してくれるかい？"
+                                "Oh? You came to see me on purpose! Will you lend me your\nbutt again tonight?"
                             ]
                         },
                         {
@@ -2980,7 +2973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………"
+                                "..."
                             ]
                         },
                         {
@@ -3021,7 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二ヒヒヒ！　アンタのケツ、いいねぇ\\I[15]"
+                                "Hehehe! Your ass, it's nice, you know\\I[15]"
                             ]
                         },
                         {
@@ -3045,28 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（あぅ……　また変な人に話しかけちゃった……）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "(Ah... I've talked to another weird person again...)"
                             ]
                         },
                         {
@@ -3090,14 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな時間にうろついているってことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬢ちゃん夜鷹だろ？　どうだい、一発させてくれるかい？"
+                                "Wandering around at this hour, you must be a nightwalker,\nright? How about it, will you let me have a go?"
                             ]
                         },
                         {
@@ -3121,28 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ちゃんとお金を払ってくれるならいいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どの体位でします？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "...If you pay properly, it's fine. Which position shall we\ndo?"
                             ]
                         },
                         {
@@ -3166,7 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "尻穴でいいかい？"
+                                "Is anal okay with you?"
                             ]
                         },
                         {
@@ -3190,28 +3134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――！？　えっ、お尻……ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "--!? Eh, my butt...?"
                             ]
                         },
                         {
@@ -3235,21 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレは尻穴愛好家で有名でねぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊郭だと断られるから夜鷹にしかできねぇんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁ、アンタの尻を少しばかり貸してくれよ？"
+                                "I'm famously an anal enthusiast♪ The brothels turn me down,\nso I can only do it with nightwalkers. Hey, could you lend\nme your butt for a bit?"
                             ]
                         },
                         {
@@ -3273,7 +3182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……（うーん、お尻かぁ……）\\c[17]【 夜鷹行動回数　\\V[49] / 5 回 】\\c[0]"
+                                "...(Hmm, my butt, huh...) \\c[17]【 Nightwalking Action Count\n\\V[49] / 5 Times 】\\c[0]"
                             ]
                         },
                         {
@@ -3299,8 +3208,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいですよ。減るもんじゃないですし\\c[27]【Ｈイベント】\\c[0]",
-                                    "断る"
+                                    "Sure, it's not like I have anything to lose. \\c[27]【H Event】\\c[0]",
+                                    "Refuse"
                                 ],
                                 1,
                                 0,
@@ -3398,7 +3307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]肛内射精＋１　淫乱度＋５\\c[0]"
+                                "\\c[27]Anal Creampie +1 Lewdness +5\\c[0]"
                             ]
                         },
                         {
@@ -3422,21 +3331,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "二ヒヒ！　ふぅ、締まりの良いケツだったぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがとな。今夜の報酬だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "尻穴を犯されたくなったらまた来なよ。歓迎するぜ\\I[15]"
+                                "Hehehe! Phew, that was a tight ass♪ Thanks. Here's your\nreward for tonight. If you want your ass violated again,\ncome back. I'll welcome you\\I[15]"
                             ]
                         },
                         {
@@ -3481,14 +3376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は体を売って、\\c[17]\\V[47]文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--Karin sold her body and obtained \\c[17]\\V[47] mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -3594,14 +3482,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（……もうそろそろ朝ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　今晩はこれまでにして自宅へ帰ろう）"
+                                "(...It's almost morning. That's enough for tonight; let's\nhead home.)"
                             ]
                         },
                         {
@@ -3723,7 +3604,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]肛内射精＋１　淫乱度＋５\\c[0]"
+                                "\\c[27]Anal Creampie +1 Lewdness +5\\c[0]"
                             ]
                         },
                         {
@@ -3747,21 +3628,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "二ヒヒ！　ふぅ、締まりの良いケツだったぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがとな。今夜の報酬だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "尻穴を犯されたくなったらまた来なよ。歓迎するぜ\\I[15]"
+                                "Hehehe! Phew, that was a tight ass♪ Thanks. Here's your\nreward for tonight. If you want your ass violated again,\ncome back. I'll welcome you\\I[15]"
                             ]
                         },
                         {
@@ -3806,14 +3673,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "――花梨は体を売って、\\c[17]\\V[47]文\\c[0]を手に入れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\$"
+                                "--Karin sold her body and obtained \\c[17]\\V[47] mon\\c[0].\\$"
                             ]
                         },
                         {
@@ -3919,14 +3779,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（……もうそろそろ朝ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　今晩はこれまでにして自宅へ帰ろう）"
+                                "(...It's almost morning. That's enough for tonight; let's\nhead home.)"
                             ]
                         },
                         {
@@ -4025,7 +3878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちっ、残念だなぁ。好みの尻なのに……"
+                                "Tsk, what a shame. I liked that ass..."
                             ]
                         },
                         {
@@ -4126,7 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタのケツ、最高だったぜ。またさせてくれよな♪"
+                                "Your ass was the best. Let me do it again, yeah?♪"
                             ]
                         },
                         {
@@ -4219,14 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぅ……ぐぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "買い物したいなら昼間にここへ来てくれ……　ぐぅ……"
+                                "Ugh... Ugh... If you want to shop, please come here during\nthe day... Ugh..."
                             ]
                         },
                         {

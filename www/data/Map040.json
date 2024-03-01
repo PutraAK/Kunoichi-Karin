@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "空き家",
+    "displayName": "Abandoned House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2478,7 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【神速の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Godspeed Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2724,7 +2724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -2979,7 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれ？　ここって厠――？"
+                                "...Huh? Is this a toilet--?"
                             ]
                         },
                         {
@@ -2987,8 +2987,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "厠を借りる\\c[27]【Ｈイベント】\\c[0]",
-                                    "借りない"
+                                    "Borrow the restroom \\c[27][H Event]\\c[0]",
+                                    "Do not borrow"
                                 ],
                                 1,
                                 0,
@@ -3025,28 +3025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この村で外で用を足してたら襲われそうだし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうどよかった。この空き家のお手洗い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "使わせてもらおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "If I relieve myself outside in this village, I might get\nattacked... Good timing. I'll use the restroom in this\nvacant house."
                             ]
                         },
                         {
@@ -3101,28 +3080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は着物をまくって便所にまたがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "--Karin lifted her kimono and straddled the toilet."
                             ]
                         },
                         {
@@ -3146,28 +3104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん…っ………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Uh...h..."
                             ]
                         },
                         {
@@ -3196,28 +3133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ちょろ……ちょろろろ…………　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Rustling...rustling sound...>"
                             ]
                         },
                         {
@@ -3549,28 +3465,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男A】"
+                                "【Man A】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ！　今だぁッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hehe! Now's my chance!!"
                             ]
                         },
                         {
@@ -3611,28 +3513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――――！？　なっ――！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "----!? Wha--!!"
                             ]
                         },
                         {
@@ -3649,28 +3530,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【男B】"
+                                "【Man B】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おらぁ！　動くな女ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Hey! Don't move, woman!"
                             ]
                         },
                         {
@@ -3701,28 +3568,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やああぁっ！？　だれ！？　は、放して……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "No, ahhhh!? Who are you!? Let go of me...!"
                             ]
                         },
                         {
@@ -3746,28 +3592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　＜　ドタン――！　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "<Thud--!>"
                             ]
                         },
                         {
@@ -3784,28 +3609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "突然襲ってきた男たちによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なすすべもなく花梨は床に押さえつけられた――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "Suddenly attacked by men, Karin was helplessly pinned down\nto the floor--"
                             ]
                         },
                         {
@@ -3901,14 +3705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]本番回数＋１　膣内射精＋１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "肛内射精＋１　淫乱度＋３\\c[0]"
+                                "\\c[27]Main event count +1, vaginal ejaculation +1, anal\nejaculation +1, lewdness +3\\c[0]"
                             ]
                         },
                         {
@@ -4017,7 +3814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……なにかイヤな雰囲気がする。やめておこう）"
+                                "(...Something feels off. I should stop.)"
                             ]
                         },
                         {
@@ -4151,14 +3948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな厠、二度と使わないわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野外の草むらでしたほうがまし――"
+                                "I'll never use such a toilet again... It's better to do it\nin a bush outdoors--"
                             ]
                         },
                         {
@@ -5206,14 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいおい、勝手に我が家に入ってくるなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また抱かしてくれるなら厠を使ってもいいぜ？"
+                                "Hey, hey, don't just barge into my house like that. But if\nyou're gonna let me hold you again, you can use the toilet,\nI guess."
                             ]
                         },
                         {
@@ -5237,7 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "..."
                             ]
                         },
                         {
@@ -5330,14 +5113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬢ちゃんのカラダ、とっても気持ち良かったぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "金を払うから、またヤらせてくれねぇか？"
+                                "Your body felt so good, missy♪ I'll pay, so how about we do\nit again?"
                             ]
                         },
                         {
@@ -5361,14 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ……ふざけないでよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の体、なんだと思ってるの！？"
+                                "Don't... Don't joke around! What do you think my body is!?"
                             ]
                         },
                         {

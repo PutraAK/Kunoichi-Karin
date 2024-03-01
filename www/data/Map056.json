@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "遊郭　１階",
+    "displayName": "Brothel 1st Floor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6832,14 +6832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっはっは！　もっと酒を持ってきておくれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜は無礼講ぞ！"
+                                "Wahahaha! Bring more sake! Tonight is a banquet without\nformalities!"
                             ]
                         },
                         {
@@ -7145,7 +7138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの階段から二階に上がれるよ。"
+                                "You can go up to the second floor from that staircase over\nthere."
                             ]
                         },
                         {
@@ -7502,7 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客の数　\\V[42]人目"
+                                "Customer number \\V[42]"
                             ]
                         },
                         {
@@ -8092,21 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さんに好かれるために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "髪型もお洒落にしないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの髪型、ばっちりよ。"
+                                "We have to style our hair nicely to be liked by the\ncustomers. Your hairstyle is perfect."
                             ]
                         },
                         {
@@ -8565,14 +8544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事をさぼってるわけじゃないぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "景気づけだ。ひっく……"
+                                "I'm not slacking off on the job. It's just a little pick-me-\nup. *hic*..."
                             ]
                         },
                         {
@@ -8700,21 +8672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……アンタの格好、なんとかならないのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔の遊女みたいに肩を出して……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の流行りはしっかり着こむのが洒落てるってもんさ。"
+                                "...Can't you do something about your outfit? Exposing your\nshoulders like a courtesan from the past... The trend\nnowadays is to dress properly, that's what's considered\nstylish."
                             ]
                         },
                         {
@@ -8842,14 +8800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向こう側から見える男の人の視線が怖いって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アハハ、最初のうちだけよ。すぐに慣れるわ。"
+                                "Scared of the gazes from men on the other side? Ahaha, it's\nonly scary at first. You'll get used to it soon."
                             ]
                         },
                         {
@@ -8917,14 +8868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アハハ、また遊郭に仕事しに来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタ清純そうな顔してるけど、意外と結構な男好きね♪"
+                                "Ahaha, you've come to work at the pleasure district again?\nYou have such an innocent face, but surprisingly, you're\nquite the man-lover, aren't you?♪"
                             ]
                         },
                         {
@@ -9366,7 +9310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁい、お酒をおもちしましたぁ\\I[15]"
+                                "Yes, I've brought the alcohol\\I[15]"
                             ]
                         },
                         {
@@ -9481,14 +9425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お酌をしてたのに、とんでもない娘だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ売上が台無しだよ！"
+                                "I was just serving drinks, and now this outrageous girl\ncomes along! This is going to ruin our sales!"
                             ]
                         },
                         {
@@ -9603,14 +9540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お酌をしてたのに、とんでもない娘だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ売上が台無しだよ！"
+                                "I was just pouring drinks, and now this outrageous girl\ncomes along! This is going to ruin our sales!"
                             ]
                         },
                         {
@@ -9776,14 +9706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事をさぼってるわけじゃないぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "景気づけだ。ひっく……"
+                                "I'm not slacking off on the job. It's just a little pick-me-\nup. *hic*..."
                             ]
                         },
                         {
@@ -10031,14 +9954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "台所、もうちょっと広くして欲しいわよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここじゃ手狭だわ……"
+                                "I wish the kitchen was a bit bigger. It's too cramped\nhere..."
                             ]
                         },
                         {
@@ -10157,14 +10073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座敷のお客も減ったから忙しさは減ったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか寂しいね……　これからどうなるんだろう。"
+                                "The number of guests in the tatami room has decreased, so\nit's less busy, but somehow it feels lonely... I wonder what\nwill happen from now on."
                             ]
                         },
                         {
@@ -10241,21 +10150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……遊女の暮らしも一見華やかに見えるかもしれないけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは間違いなく苦界よ。貴女も無縁仏になりたくなきゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く良い旦那さまに出会って身請けしてもらうと良いわ。"
+                                "...The life of a courtesan might seem glamorous at first\nglance, but this place is undoubtedly a world of suffering.\nIf you don't want to end up as a forsaken soul, you'd better\nfind yourself a good husband soon and have him redeem you."
                             ]
                         },
                         {
@@ -10323,14 +10218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座敷の客も減ったみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁこんな状況じゃ仕方ないよね……"
+                                "It seems like we have fewer guests in the tatami room. Well,\nit can't be helped given the situation..."
                             ]
                         },
                         {
@@ -11048,7 +10936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力酒】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Sake】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -11656,7 +11544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "追加のお料理、はやく運ばなきゃ……！（おろおろ）"
+                                "I need to hurry and serve the additional dishes...!\n(flustered)"
                             ]
                         },
                         {
@@ -12221,7 +12109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、新入りの子かい？　どうだね一献。"
+                                "Oh, are you the new girl? How about a drink?"
                             ]
                         },
                         {
@@ -12289,14 +12177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッハ！　酔狂かと思うかい？　違うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常時だからこそ女の子と遊ばないと心が持たないのさ。"
+                                "Ha-ha! You think I'm being eccentric? No, it's precisely\nbecause these are desperate times that I must play with\ngirls to keep my spirits up."
                             ]
                         },
                         {
@@ -13091,21 +12972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は調子が悪いのでお休み中よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客さんを待たせて悪いけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体が資本の商売。健康のほうが大事だからね。"
+                                "I'm taking the day off because I'm not feeling well today. I\nfeel bad for keeping the customers waiting... but in this\nbusiness, your body is your capital. Health comes first,\nafter all."
                             ]
                         },
                         {
@@ -14957,7 +14824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -15940,21 +15807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さんとの行為が終わったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お湯でしっかりと膣洗浄をしておきなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妊娠したらお客さんを取れなくなるからね。"
+                                "Make sure to thoroughly cleanse your vagina with warm water\nafter being with a client. You won't be able to take on\nclients if you get pregnant, after all."
                             ]
                         },
                         {
@@ -15978,7 +15831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……身籠ったらどうしよう。知らないお客さんの子を……）"
+                                "(...What if I become pregnant? Carrying the child of a\nclient I don't even know...)"
                             ]
                         },
                         {
@@ -16053,14 +15906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お武家の旦那さん達が来客しないようになったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お城で大変なことがあったのは間違いないみたいね。"
+                                "The samurai lords have stopped coming to visit. It seems\ncertain that something serious has happened at the castle."
                             ]
                         },
                         {
@@ -16175,14 +16021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（お客さんを相手にしてる時、お手洗いに行きづらいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今の内にしておこう……）"
+                                "(It's hard to go to the bathroom when I'm attending to\ncustomers. I should go now while I have the chance...)"
                             ]
                         },
                         {
@@ -16252,21 +16091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　チョロチョロ…………　＞"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\|\\|"
+                                "<Trickle, trickle...>"
                             ]
                         },
                         {
@@ -16283,21 +16108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　………"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…"
+                                "..."
                             ]
                         },
                         {
@@ -16328,7 +16139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　スッキリした……"
+                                "Ah... That's much better..."
                             ]
                         },
                         {
@@ -16528,7 +16339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ぽたっ……　ぽたっ……）"
+                                "(Drip... Drip...)"
                             ]
                         },
                         {
@@ -16552,14 +16363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　こんなにたくさん中に出されちゃったんだ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤ちゃん……デキてないといいけど……"
+                                "Phew... I've been filled with so much... I hope I'm not\npregnant..."
                             ]
                         },
                         {
@@ -16588,7 +16392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は秘部に指を入れて精子を掻きだし紙で拭きとった。"
+                                "--Karin scooped out the semen with her finger and wiped her\ngenitals with a tissue."
                             ]
                         },
                         {
@@ -16737,7 +16541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……………………）"
+                                "(...)"
                             ]
                         },
                         {
@@ -16761,7 +16565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……生理、来てないよね……　まさか、私のお腹に……）"
+                                "(...I haven't gotten my period... Could it be, in my\nbelly...)"
                             ]
                         },
                         {
@@ -17685,14 +17489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご飯食べている時が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番しあわせ……（もぐもぐ）"
+                                "I'm happiest when I'm eating... (munch munch)"
                             ]
                         },
                         {
@@ -22530,21 +22327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……アンタの格好、なんとかならないのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔の遊女みたいに肩を出して……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の流行りはしっかり着こむのが洒落てるってもんさ。"
+                                "...Can't you do something about your outfit? Exposing your\nshoulders like a courtesan from the past... The trend these\ndays is to dress more modestly, that's what's considered\nstylish."
                             ]
                         },
                         {
@@ -22568,21 +22351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい……！　新入りの遊女でして――"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（他の遊女と違って私だけ肩を出してるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっちのほうが良いかなって……）"
+                                "I'm sorry...! I'm a new courtesan--(I'm the only one\nexposing my shoulders unlike the other courtesans, but I\nthought this might be better...)"
                             ]
                         },
                         {
@@ -22726,7 +22495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……はぁ……　ここで口吸いしてくれぇ\\I[15]"
+                                "Haa... haa... Suck me off right here\\I[15]"
                             ]
                         },
                         {
@@ -23844,7 +23613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――客を取りますか？　\\c[17]【 遊女行動回数　\\V[43] / 4 回 】\\c[0]"
+                                "--Will you take a client?\\c[17]【 Courtesan Actions\\V[43] / 4\nTimes 】\\c[0]"
                             ]
                         },
                         {
@@ -23852,8 +23621,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遊女として客を取る",
-                                    "しない"
+                                    "Entertain a patron as a courtesan",
+                                    "Do not"
                                 ],
                                 1,
                                 0,
@@ -24038,21 +23807,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（あはっ……\\I[15]　男の人に見られてると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　アソコ……ジンジンしてきちゃう……\\I[15]）"
+                                "(Ahaha...\\I[15]When men look at me like that, my pussy\nstarts to tingle...\\I[15])"
                             ]
                         },
                         {
@@ -24112,14 +23874,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【売春客】"
+                                "【Prostitute Client】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへへ♪　可愛い娘だなぁ……！　気に入ったぜ\\I[15]"
+                                "Hehehe♪ What a cute girl...! I like you\\I[15]"
                             ]
                         },
                         {
@@ -24378,7 +24140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は男と一緒に布団のある二階へ上がった。"
+                                "--Karin went upstairs to the room with the futon, together\nwith the man."
                             ]
                         },
                         {
@@ -24687,7 +24449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今はやめておこう。"
+                                "Let's not do this now."
                             ]
                         },
                         {
@@ -24791,14 +24553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（今は暢気に遊郭で客を取ってる場合じゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　客を取るなら元凶のアオマルを倒した後にしよう）"
+                                "(This is no time to be leisurely picking up clients in the\npleasure district. If I'm going to entertain clients, I\nshould do it after defeating the root of all this trouble,\nAomaru.)"
                             ]
                         },
                         {
@@ -24873,7 +24628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――客を取りますか？　\\c[17]【 遊女行動回数　\\V[43] / 4 回 】\\c[0]"
+                                "--Shall we take a customer?\\c[17]【 Courtesan Action\nCount\\V[43] / 4 Times 】\\c[0]"
                             ]
                         },
                         {
@@ -24881,8 +24636,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遊女として客を取る",
-                                    "しない"
+                                    "Work as a courtesan and take a client",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -25037,21 +24792,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【花梨】"
+                                "【Karin】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（あはっ……\\I[15]　男の人に見られてると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　アソコ……ジンジンしてきちゃう……\\I[15]）"
+                                "(Ahaha...\\I[15]When men look at me, my pussy starts to\ntingle...\\I[15])"
                             ]
                         },
                         {
@@ -25111,14 +24859,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【売春客】"
+                                "【Prostitute Client】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへへ♪　可愛い娘だなぁ……！　気に入ったぜ\\I[15]"
+                                "Hehehe♪ What a cute girl...! I like you\\I[15]"
                             ]
                         },
                         {
@@ -25377,7 +25125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は男と一緒に布団のある二階へ上がった。"
+                                "--Karin went upstairs to the room with the futon with the\nman."
                             ]
                         },
                         {
@@ -25686,7 +25434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今はやめておこう。"
+                                "Let's not do it now."
                             ]
                         },
                         {
@@ -26011,14 +25759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむうむ、苦しゅうない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒をついでくれ。ひっく……"
+                                "Mmm, not bad at all. Pour me some more sake. *hic*..."
                             ]
                         },
                         {
@@ -26264,21 +26005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ？　お主なかなかの上玉よの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この広い遊郭でも五指に入る美しさじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度、相手してもらおう。ハッハッハ\\I[15]"
+                                "Oh? You're quite the catch, aren't you? In this vast\npleasure district, you'd be among the top five beauties.\nI'll have to take you up on your services next time.\nHahahaha\\I[15]"
                             ]
                         },
                         {
@@ -26302,7 +26029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、ハイ――　よろこんで……♪"
+                                "Ah, yes--I'd be delighted...♪"
                             ]
                         },
                         {
@@ -26555,14 +26282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あううぅ……　飲み過ぎた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か、厠へ連れてってくれ……"
+                                "Ahh... I drank too much... Can you take me to the\nbathroom..."
                             ]
                         },
                         {
@@ -26757,14 +26477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう。駄目ですよ、旦那さま。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜は私がお相手するんですから……"
+                                "No more, Master. Tonight, it's my turn to be your partner..."
                             ]
                         },
                         {
@@ -26879,14 +26592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう！　なんてことするの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客の横取りはご法度よ！　プンプン！"
+                                "Geez! How could you do that!? Snatching away customers is a\nbig no-no! Hmph!"
                             ]
                         },
                         {
@@ -27052,7 +26758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アソーレ！　ホイホイ！"
+                                "Assault! Heave-ho!"
                             ]
                         },
                         {
@@ -27076,7 +26782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……！（すごい……　アソコが膨らんで、フンドシが……）"
+                                "...! (Incredible... It's swelling up down there, and the\nloincloth is...)"
                             ]
                         },
                         {
@@ -27521,7 +27227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいぞいいぞ！　さすがは宴会部長！"
+                                "That's the spirit! Just as expected from the party committee\nchief!"
                             ]
                         },
                         {
@@ -27767,7 +27473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウフフ、あなたも一緒に踊りましょう\\I[15]"
+                                "Ufufu, let's dance together\\I[15]"
                             ]
                         },
                         {
@@ -27943,7 +27649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁん！　ダメよ！　するなら二階でして頂戴！"
+                                "Ahhn! No, not here! If you're going to do it, please take me\nupstairs!"
                             ]
                         },
                         {
@@ -28034,14 +27740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "常連客もあまり来なくなっちゃったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊郭の仕事も本当に水モノね……"
+                                "The regulars hardly come around anymore. The work in the\npleasure district is truly fleeting..."
                             ]
                         },
                         {
@@ -28217,14 +27916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁん。座敷じゃだめぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "するならお布団のあるお二階へ行きましょう♪"
+                                "Ahhn, we can't do it here on the tatami mats. If we're going\nto do it, let's go upstairs where the futons are♪"
                             ]
                         },
                         {
@@ -28292,7 +27984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座敷でしちゃ駄目なのに……　ぐすん……"
+                                "We shouldn't do it in the parlor... *sniffle*..."
                             ]
                         },
                         {
@@ -28600,7 +28292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旦那さま、お酒をどうぞ\\I[15]"
+                                "Master, please enjoy your drink\\I[15]"
                             ]
                         },
                         {
@@ -28668,7 +28360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ……旦那さまぁ！？　座布団が汚れちゃった……"
+                                "Oh... Master!? The cushion is soiled..."
                             ]
                         },
                         {
@@ -28796,21 +28488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、新人さん？　一晩でとれるお客は最高で４人までよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "器量の良さそうな貴女ならたくさん稼げると思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張ってね。"
+                                "Oh, a newcomer? The most clients you can take in one night\nis four. You seem quite charming, so I think you'll be able\nto earn a lot. Do your best."
                             ]
                         },
                         {
@@ -28878,21 +28556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "御城が襲われたって話だけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "非常時でも遊郭通いを止められない人もいるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たっぷりと相手してあげないとね\\I[15]"
+                                "I've heard that the castle was attacked, but there are those\nwho can't stop visiting the pleasure quarters even in times\nof emergency. We have to give them plenty of attention,\ndon't we?\\I[15]"
                             ]
                         },
                         {
@@ -29020,7 +28684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヘッヘッヘ\\I[15]　今日もたっぷり抱いてやるぜ。"
+                                "Heh heh heh\\I[15]I'll hold you plenty today too."
                             ]
                         },
                         {
@@ -29429,14 +29093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うふふっ、今日も会いに来て下さったのですね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい\\I[15]　二階の座敷へ参りましょう。"
+                                "Ufufu, you came to see me again today? I'm so happy\\I[15]\nLet's go to the parlor on the second floor."
                             ]
                         },
                         {
@@ -29571,7 +29228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふええぇ！？　旦那さまが目の前で寝取られた！？"
+                                "Whaaat!? My husband was cuckolded right before my eyes!?"
                             ]
                         },
                         {
@@ -29706,7 +29363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふええぇ！？　旦那さまが目の前で寝取られた！？"
+                                "Whaaat!? My husband was cuckolded right before my eyes!?"
                             ]
                         },
                         {
@@ -29883,14 +29540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旦那さま、お店に全然来なくなっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のこと飽きちゃったのかしら……　ぐすん……"
+                                "Master, you've stopped coming to the shop altogether. Have\nyou grown tired of me, I wonder... *sniffle*..."
                             ]
                         },
                         {
@@ -30316,14 +29966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁはぁ……！　さすが日ノ本一の色街だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美人ぞろいだぜ♪"
+                                "Haa haa...! As expected of Hinomoto's number one red-light\ndistrict. It's a lineup of beauties♪"
                             ]
                         },
                         {
@@ -30694,7 +30337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この三味線の音色、良いでしょう？　ウフフ……"
+                                "The sound of this shamisen is nice, isn't it? Ufufu..."
                             ]
                         },
                         {
@@ -30812,21 +30455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さんが戻って来た時のために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "三味線の稽古は毎日してるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く以前のような遊郭に戻って欲しいね。"
+                                "I practice the shamisen every day for when the customers\nreturn. I hope the pleasure district goes back to how it was\nbefore soon."
                             ]
                         },
                         {
@@ -30941,14 +30570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　お気に入りの子と話したいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今月の給料が振り込まれてないからなぁ……"
+                                "Ugh... I want to talk to my favorite girl, but I can't\nbecause this month's salary hasn't been deposited yet..."
                             ]
                         },
                         {
@@ -31127,14 +30749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅむ……　どの娘にしようかな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い子が多いから悩むなぁ……"
+                                "Hmm... Which girl should I choose... It's tough to decide\nwith so many cute ones..."
                             ]
                         },
                         {
@@ -31304,14 +30919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -31439,14 +31047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この遊郭はお江戸で一番盛んな場所じゃよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠らない街とはよく言ったものじゃ。"
+                                "This pleasure district is the liveliest place in Edo. They\naptly call it the city that never sleeps."
                             ]
                         },
                         {
@@ -31574,14 +31175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't ya!? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -31760,14 +31354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get friendly\nwith me?"
                             ]
                         },
                         {
@@ -31946,14 +31533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -32335,14 +31915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううぅ……　馴染みの子が身請けされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊郭からいなくなってしまった……"
+                                "Uuu... The girl I was familiar with has been bought and is\nno longer in the red-light district..."
                             ]
                         },
                         {
@@ -32457,14 +32030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから別の女の子を好きになったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔のことは忘れるしかないからなぁ。"
+                                "Since then, I've fallen for another girl. There's nothing to\ndo but forget about the past."
                             ]
                         },
                         {
@@ -33344,14 +32910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とったどー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――花梨は\\c[17]【ニシキゴイ】\\c[0]を手に入れた！"
+                                "Got it! --Karin has obtained the \\c[17]【Nishikigoi】\\c[0]!"
                             ]
                         },
                         {
@@ -33559,14 +33118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とったどー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "――花梨は\\c[17]【鯉】\\c[0]を手に入れた！"
+                                "Got it! --Karin has obtained a [Color_17]Carp\\c[17]!"
                             ]
                         },
                         {
@@ -33826,28 +33378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【注】遊郭で売春客を取り続けると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　メインイベントが進行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（処女プレイをされたい場合は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　客との会話の選択肢で「だが断る」を続けてください）"
+                                "Note: Continuously entertaining clients in the brothel will\nadvance the main event. (If you wish to play as a virgin,\nkeep choosing \"But I refuse\" during the dialogue options\nwith clients.)"
                             ]
                         },
                         {
@@ -35046,14 +34577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -35286,14 +34810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -35526,14 +35043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -35712,14 +35222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -35847,14 +35350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -36033,14 +35529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -36168,7 +35657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぉっふぉっ\\I[15]　さぁ二階の座敷に参ろうぞ♪"
+                                "Fooffooffoo\\I[15]Now, let's head to the parlor on the second\nfloor♪"
                             ]
                         },
                         {
@@ -36283,14 +35772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぁに、こんな時に遊ぶのが遊び人の真骨頂じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、今宵も今生の苦しみを和らげておくれ。ほっほ。"
+                                "What's this, playing at such a time is the true essence of a\npleasure-seeker. Now, soothe the sorrows of this life\ntonight as well. Hohho."
                             ]
                         },
                         {
@@ -36630,14 +36112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさいねぇ、順番で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少々、お待ちくださいね。"
+                                "I'm sorry, you'll have to wait in line... Just a little\nlonger, please."
                             ]
                         },
                         {
@@ -36661,7 +36136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（遊郭、いつも混んでるなぁ。眠らない街も嘘じゃないわ）"
+                                "(The pleasure district is always so crowded. The city that\nnever sleeps isn't a lie.)"
                             ]
                         },
                         {
@@ -36745,14 +36220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "す、すごい……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客様があっというまに昇天して……！？"
+                                "Amazing...! The customer reached climax so quickly...!?"
                             ]
                         },
                         {
@@ -36931,21 +36399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お梨ちゃんっていうの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと私みたいに頭にかんざしをつけたら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウフフッ、これが遊女のたしなみよ♪"
+                                "Karin-chan, is it? How about wearing a hairpin in your hair\nlike I do? Ufufu, this is the refinement of a courtesan.♪"
                             ]
                         },
                         {
@@ -37013,7 +36467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（この子、とんでもない淫乱娘だわ……　こ、怖い……）"
+                                "(This girl, she's such an incredibly lewd minx... I-I'm\nscared...)"
                             ]
                         },
                         {
@@ -37192,14 +36646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、新入りの人？　ずいぶんと可愛いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだから私の馴染み客を取らないでね。"
+                                "Oh, are you the new girl? You're quite cute. Please don't\ntake away my regular customers."
                             ]
                         },
                         {
@@ -37267,21 +36714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……貴女は囲われてる身じゃないでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままだと江戸もどうなるかわからない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこか遠くに逃げたほうが良いわよ。"
+                                "...You're not someone who's confined, are you? If things\ncontinue this way, who knows what will become of Edo. It\nwould be better for you to flee somewhere far away."
                             ]
                         },
                         {
@@ -37409,28 +36842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、見ない顔だけど新人さん？　お客の人は皆"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中に出してくるから避妊は心掛けたほうが良いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薄い和紙でできた詰め紙をね、アソコの奥に入れておくの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすると精子が侵入しなくなって少しは気休めになるわ。"
+                                "Oh, are you new here? The clients always finish inside, so\nit's best to be mindful of contraception. You see, you can\ninsert a thin piece of Japanese paper deep inside there.\nThat way, it prevents the sperm from entering, at least\ngiving some peace of mind."
                             ]
                         },
                         {
@@ -37507,21 +36919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さんに好かれるために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "髪型もお洒落にしないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの髪型、ばっちりよ。"
+                                "We have to style our hair nicely to be liked by the\ncustomers. Your hairstyle is perfect."
                             ]
                         },
                         {
@@ -37545,7 +36943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ……ありがとうございます♪"
+                                "Ah... Thank you very much♪"
                             ]
                         },
                         {
@@ -37620,14 +37018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸から逃げたくてもアタシらには自由がないからね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく嫌な世の中さ。"
+                                "Even if we want to escape from Edo, we don't have the\nfreedom to do so... It's really a terrible world."
                             ]
                         },
                         {
@@ -37755,14 +37146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も遊郭は混んでるなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "座敷の準備はまだなのかい？"
+                                "The pleasure quarter is crowded today too, huh. Is the\nparlor not ready yet?"
                             ]
                         },
                         {
@@ -38230,7 +37614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁい♪　今宵もたくさん可愛がってくださいまし\\I[15]"
+                                "Yes♪ Please shower me with lots of love tonight as\nwell\\I[15]"
                             ]
                         },
                         {
@@ -38349,7 +37733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旦那様？　よいのですか、このような時に？"
+                                "Master? Is it really okay to do this now?"
                             ]
                         },
                         {
@@ -38477,7 +37861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁっ！　旦那さまが謎の白い液体に――！？"
+                                "Ahh! Master is covered in some mysterious white liquid--!?"
                             ]
                         },
                         {
@@ -38775,7 +38159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -39886,14 +39270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -40490,7 +39867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――帰宅して寝ますか？"
+                                "--Shall we go home and sleep?"
                             ]
                         },
                         {
@@ -40498,8 +39875,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -40536,14 +39913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（……もうそろそろ朝ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　今晩はこれまでにして自宅へ帰ろう）"
+                                "(...It's almost morning. Let's call it a night and head\nhome.)"
                             ]
                         },
                         {
@@ -40688,14 +40058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さんも半分以上減ったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなご時世だからしょうがないわね。"
+                                "The number of customers has dropped by more than half. It\ncan't be helped in times like these."
                             ]
                         },
                         {
@@ -40772,14 +40135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼が攻めて来てお城が燃えちまったって本当かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシらは外に出られないから、外の情報が疎くてねぇ……"
+                                "Is it true that the demons attacked and the castle burned\ndown? We can't go outside, so we're not well-informed about\nthe outside world..."
                             ]
                         },
                         {
@@ -41425,14 +40781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -41560,14 +40909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're quite the beauty! Wanna get cozy with me?"
                             ]
                         },
                         {
@@ -41695,14 +41037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -41830,14 +41165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -41965,14 +41293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -42100,14 +41421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you! Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -42235,14 +41549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? Wanna get cozy with\nme?"
                             ]
                         },
                         {
@@ -42370,14 +41677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！？　べっぴんさんだねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺っちと懇ろにならないかい？"
+                                "Oh!? You're a real beauty, aren't you? How about getting\ncozy with me?"
                             ]
                         },
                         {
@@ -43162,14 +42462,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（……もうそろそろ朝ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　今晩はこれまでにして自宅へ帰ろう）"
+                                "(...It's almost morning. Let's call it a night and head\nhome.)"
                             ]
                         },
                         {

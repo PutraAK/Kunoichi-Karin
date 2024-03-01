@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "金座",
+    "displayName": "Gold Seat",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2172,7 +2172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Stamina Fruit】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -2421,7 +2421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えいさ！　えいさ！"
+                                "Heave-ho! Heave-ho!"
                             ]
                         },
                         {
@@ -3026,14 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こらっ！　ここは立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く出ていきなさい！"
+                                "Hey! This area is off-limits. Get out of here quickly!"
                             ]
                         },
                         {
@@ -3410,14 +3403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よぉし。小判ができたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く冷やさないとな。"
+                                "Alright! The coin is ready. Gotta cool it down quickly."
                             ]
                         },
                         {
@@ -3734,14 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん、勝手に入っちゃダメだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから出ていきなさい。"
+                                "Young lady, you mustn't enter without permission. Please\nleave this place."
                             ]
                         },
                         {
@@ -5120,21 +5099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゃんと管理しないと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蔵にある千両箱をねずみ小町に盗られたら大変だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ……　胃が痛い……"
+                                "We must manage it properly... It would be terrible if the\nmouse thief stole the thousand ryō boxes in the storehouse.\nUgh... my stomach hurts..."
                             ]
                         },
                         {
@@ -5158,14 +5123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……すごい！　千両箱がたくさんある！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今度ここへ忍び込もうかしら……\\I[15]）"
+                                "(...Amazing! There are so many thousand ryō boxes! Maybe I\nshould sneak in here next time...\\I[15])"
                             ]
                         },
                         {
@@ -5314,21 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねずみ小町が出なくなって良かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "千両箱をねずみ小町に盗まれたらどうしようと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと心配してたからね。"
+                                "It's good that Nezumi Komachi isn't showing up anymore. I\nwas always worried about what I'd do if Nezumi Komachi stole\nthe thousand-ryo box."
                             ]
                         },
                         {
@@ -5771,14 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小判の枚数が間違っていないか数えているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一枚でも足りないと大騒ぎになるからね。"
+                                "I'm counting the koban coins to make sure the number isn't\nwrong. Even one missing would cause a huge commotion."
                             ]
                         },
                         {

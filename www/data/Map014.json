@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "富兆屋",
+    "displayName": "Tomochouya Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -16458,14 +16458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋３５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +35)\\c[0]"
                             ]
                         },
                         {
@@ -17298,14 +17291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -18122,14 +18108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Wha-!? Aaahhh--!\\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -19075,14 +19054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋６０）\\c[0]"
+                                "Wha-!? Aaahhh--!\\c[17](EXP +60)\\c[0]"
                             ]
                         },
                         {
@@ -19899,14 +19871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わわん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２０）\\c[0]"
+                                "Wahh!? \\c[17](EXP +20)\\c[0]"
                             ]
                         },
                         {
@@ -20708,14 +20673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ななっ！？　ぎゃあぁッ――！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（経験値＋２５）\\c[0]"
+                                "Wha-!? Gyaaah--!\\c[17](EXP +25)\\c[0]"
                             ]
                         },
                         {
@@ -21417,14 +21375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――わわっ！　ね、ねずみ小町……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆ、許してくださいっ！"
+                                "Wah! Ne, Nezumi Komachi...!? P-Please forgive me!"
                             ]
                         },
                         {
@@ -21448,14 +21399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心して。無抵抗な人には攻撃したりしないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……富兆屋は何処にいるの？"
+                                "Relax. I don't attack those who are defenseless... Where is\nTomichouya?"
                             ]
                         },
                         {
@@ -21486,14 +21430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、旦那さまは奥の部屋に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用心棒の浪人と一緒にいますッ！"
+                                "Th-The master is in the back room with the ronin bodyguard!"
                             ]
                         },
                         {
@@ -21517,7 +21454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥の部屋ね。ありがとう。"
+                                "The back room, huh. Thank you."
                             ]
                         },
                         {
@@ -21720,7 +21657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -21967,7 +21904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -22215,7 +22152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【体力の護符】\\c[0]を手に入れた！"
+                                "--\\c[17]【Talisman of Strength】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -22461,7 +22398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【３００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 300 mon!\\c[0]"
                             ]
                         },
                         {
@@ -22708,7 +22645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【傷薬】\\c[0]を手に入れた！"
+                                "--\\c[17]【Medicine】\\c[0] obtained!"
                             ]
                         },
                         {
@@ -23317,7 +23254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【おにぎり】\\c[0]を手に入れた！"
+                                "--\\c[17]【Rice Ball】\\c[0] acquired!"
                             ]
                         },
                         {

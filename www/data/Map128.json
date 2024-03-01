@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ふんどし愛好家宅",
+    "displayName": "Loincloth Aficionado's Home",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2520,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻勢の梨】\\c[0]を手に入れた！"
+                                "--\\c[17]【Offensive Pear】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -3606,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 100 mon!\\c[0]"
                             ]
                         },
                         {
@@ -4401,14 +4401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、こんな可愛い娘さんが我が家に来訪とは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気分が高揚しますねぇ\\I[15]"
+                                "Oh my, such a cute girl visiting my home...! This is quite\nexhilarating\\I[15]"
                             ]
                         },
                         {
@@ -4432,14 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（すごいふんどしの数！　ここってふんどし屋さん……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんだかいけない人の自宅に来てしまったみたい）"
+                                "(Wow, that's a lot of loincloths! Is this a loincloth\nshop...? It feels like I've accidentally come to the house\nof someone with peculiar tastes.)"
                             ]
                         },
                         {
@@ -4463,21 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フッフッフ――！　私の収集物に目を丸くされてますね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心してください。盗んだものは一つもありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すべて私が手作りした作品です。"
+                                "Ho ho ho--! You seem quite surprised by my collection, don't\nyou? Rest assured, none of these are stolen. They are all\nhandcrafted by me."
                             ]
                         },
                         {
@@ -4501,28 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たくさんふんどしありますね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通のものより薄くて短くて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして、これって全部……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "There are so many loincloths, aren't there? They're thinner\nand shorter than normal ones... Could it be that all of\nthese are..."
                             ]
                         },
                         {
@@ -4546,21 +4497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう！　女性用のふんどしです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性だけでもなく女性も履いて欲しくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたくしが手作りしたものです！"
+                                "Exactly! They are loincloths for women! I handcrafted them\nmyself because I want not only men but also women to wear\nthem!"
                             ]
                         },
                         {
@@ -4584,21 +4521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？　でも、ふんどしって男の人しか履きませんよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜいぜい腰に巻く湯文字くらいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふんどししている女の人ってみたことないような……"
+                                "Eh!? But, loincloths are only worn by men, right? At most,\nwomen might wrap a towel around their waist, but I've never\nseen a woman wearing a loincloth..."
                             ]
                         },
                         {
@@ -4622,14 +4545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんです！　だからこそ女性もふんどしが必要なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでしょう、娘さん。貴女も一枚どうでしょうか！"
+                                "That's right! That's precisely why women need loincloths\ntoo. What do you say, young lady? Would you like to try one\non?"
                             ]
                         },
                         {
@@ -4653,7 +4569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――ええっ！？　私に、ふんどしを履けと？"
+                                "--Eh!? You want me to wear a loincloth?"
                             ]
                         },
                         {
@@ -4677,21 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無料で貸し出します。そして私に返してください\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "謝礼も少ないですが差し上げますのでッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ…はぁ……！）"
+                                "I'll lend it to you for free. And please return it to\nme\\I[15] I'll also give you a small reward for it! (Haa...\nhaa...!)"
                             ]
                         },
                         {
@@ -4715,14 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（……この人、それが目的みたいね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　謝礼もくれるっていうし、どうしよう……）"
+                                "(...This person seems to have that as his motive... He's\noffering a reward too, what should I do...)"
                             ]
                         },
                         {
@@ -4730,8 +4625,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ふんどしを借りる\\c[17]【イベントＣＧ】\\c[0]",
-                                    "懇切丁寧に断る"
+                                    "Borrow the loincloth \\c[17][Event CG]\\c[0]",
+                                    "Politely decline"
                                 ],
                                 1,
                                 0,
@@ -4844,14 +4739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんなさい！　とても嬉しい申し出ですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私、急いでるので――！　では失礼しますっ！"
+                                "I'm sorry! It's a very kind offer, but I'm in a hurry--! So,\nif you'll excuse me!"
                             ]
                         },
                         {
@@ -4875,7 +4763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨はそそくさとふんどし愛好家に家を後にした！"
+                                "--Karin hastily left the home of the loincloth enthusiast!"
                             ]
                         },
                         {
@@ -4972,14 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前はありがとうございました\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じつは新しいふんどしを作りまして――"
+                                "Thank you for last time\\I[15]Actually, I've made a new\nloincloth--"
                             ]
                         },
                         {
@@ -5003,7 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……お断りします。"
+                                "...I must decline."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "上野",
+    "displayName": "Ueno",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9653,7 +9653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【釣り竿】があったら、ここで魚が釣れそうね……"
+                                "If we had a 【Fishing Rod】, it looks like we could catch some\nfish here..."
                             ]
                         },
                         {
@@ -9777,14 +9777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よーし、釣るぞ～！　（釣り餌　残り×\\V[57]）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "【注　音に合わせてenter】"
+                                "Alright, let's fish! (Remaining bait ×\\V[57])【Press enter in\nsync with the sound cue】"
                             ]
                         },
                         {
@@ -10033,7 +10026,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "やった！　釣れた！"
+                                "Yes! I caught one!"
                             ]
                         },
                         {
@@ -10125,7 +10118,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "……だめね。ちょっと遅かったみたい。"
+                                "...No good. Looks like I was a bit too late."
                             ]
                         },
                         {
@@ -10243,7 +10236,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "逃げちゃった。早かったかな……"
+                                "It got away. Was I too early...?"
                             ]
                         },
                         {
@@ -10318,14 +10311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれ、釣り餌がないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確か道具屋で売ってたわね。買ってこないと……"
+                                "Huh, I'm out of bait. I'm pretty sure the tool shop was\nselling some. I need to go buy more..."
                             ]
                         },
                         {
@@ -10911,7 +10897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わんわん！"
+                                "Bark bark!"
                             ]
                         },
                         {
@@ -11224,7 +11210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【万能草】\\c[0]を手に入れた！"
+                                "--\\c[17]【All-Purpose Herb】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -11471,7 +11457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【攻撃力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Attack Power】\\c[0] has been obtained!"
                             ]
                         },
                         {
@@ -11838,7 +11824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -12718,7 +12704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホ～　ホ～"
+                                "Ho~ Ho~"
                             ]
                         },
                         {
@@ -12913,7 +12899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【１０００文】\\c[0]手に入れた！"
+                                "--\\c[17]Gained 1000 Mon!\\c[0]"
                             ]
                         },
                         {
@@ -13401,14 +13387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらに鎮座する大仏さまは名物さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "春になるとお花見でとても賑わう憩いの場所だよ。"
+                                "The Great Buddha that sits here is a famous attraction. When\nspring comes, it becomes a bustling spot for cherry blossom\nviewing."
                             ]
                         },
                         {
@@ -13738,14 +13717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いけど、しばらく休業するつもりだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても指圧しているような状況じゃないからね……"
+                                "Sorry, but I'm planning to close up shop for a while. It's\nnot exactly a situation where I can be giving acupressure\ntreatments..."
                             ]
                         },
                         {
@@ -14591,7 +14563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃあ～お！"
+                                "Meow~ow!"
                             ]
                         },
                         {
@@ -14622,21 +14594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひえっ！？　猫――！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【作者注　ねずみ小町だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　猫は苦手と初期設定していたのですが――】"
+                                "Eek!? A cat--!? [Author's note: Initially, it was set that\nNezumi Komachi would be scared of cats--]"
                             ]
                         },
                         {
@@ -14660,21 +14618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃお～ん\\I[15]（うふふ、猫かわいいなぁ♪）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【すでにマップに猫をたくさん配置していたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　面倒なので設定をやめました……】"
+                                "Meow~n \\I[15] (Ufufu, cats are so cute♪) [Since there were\nalready many cats placed on the map, it was troublesome so\nthe setting was abandoned...]"
                             ]
                         },
                         {
@@ -14769,7 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃあ～お！"
+                                "Meow~ow!"
                             ]
                         },
                         {
@@ -14802,7 +14746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゃおにゃお♪"
+                                "Meow meow♪"
                             ]
                         },
                         {
@@ -15079,7 +15023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒヒーン！"
+                                "Heeheehee!"
                             ]
                         },
                         {
@@ -16566,7 +16510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】ただいま閉店中――　狐茶屋"
+                                "[Sign] Currently Closed--Fox Tea House"
                             ]
                         },
                         {
@@ -17198,14 +17142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この丘から池を眺めるのが好きでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "散歩がてら弁当を持って深川から歩いてきたのさ。"
+                                "I love gazing at the pond from this hill. I walked here from\nFukagawa, bringing a lunchbox for a stroll."
                             ]
                         },
                         {
@@ -19088,14 +19025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洗濯もの、溜めすぎちまってね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事を休んで洗っている最中さ。"
+                                "I've let the laundry pile up too much... I'm in the middle\nof washing it on my day off."
                             ]
                         },
                         {
@@ -19163,21 +19093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼が攻めて来たなんて最初は信じられなかったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "診療所でたくさんの兵士が手当てしてるのを見たら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘じゃないってことが分ったよ。"
+                                "I couldn't believe it at first when I heard that demons were\nattacking, but after seeing so many soldiers getting treated\nat the clinic, I realized it wasn't a lie."
                             ]
                         },
                         {
@@ -19612,14 +19528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは上野だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "東に行ったら浅草に着くよ。"
+                                "This is Ueno. If you go east, you'll reach Asakusa."
                             ]
                         },
                         {
@@ -19687,14 +19596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近こちらに引っ越してきた華蝶さんって女性が花好きでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長屋がとても華やかになったよ。"
+                                "The woman named Kachou-san, who recently moved here, loves\nflowers. The tenement has become very lively because of\nthat."
                             ]
                         },
                         {
@@ -19762,7 +19664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちは鬼が来なくて助かったよ。"
+                                "We were lucky that no demons came this way."
                             ]
                         },
                         {
@@ -19957,14 +19859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれぇ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不忍池のそばに甘味屋なんてあったっけ？"
+                                "Huh...? Was there a sweet shop near Shinobazu Pond?"
                             ]
                         },
                         {
@@ -20032,14 +19927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前まで狐茶屋ってここにあったわよねぇ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はまた野原になって、まるでキツネに化かされたみたい。"
+                                "There used to be a fox teahouse right here until recently...\nNow it's turned back into a meadow, almost as if we've been\nbewitched by a fox."
                             ]
                         },
                         {
@@ -20680,7 +20568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ……！　珍しい動物がたくさんいる！"
+                                "Wow...! There are so many rare animals!"
                             ]
                         },
                         {
@@ -21537,14 +21425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お城が炎上したと聞きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これからどうなるのか……　とても不安です。"
+                                "I heard that the castle has caught fire. What's going to\nhappen now... I'm very anxious."
                             ]
                         },
                         {
@@ -21585,21 +21466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここに動物園を作るのが夢なんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もし変わった動物を見つけたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "引き取りますんで連れてきてください。歓迎しますよ。"
+                                "It's my dream to build a zoo here. If you find any unusual\nanimals, please bring them to me. I'll welcome them."
                             ]
                         },
                         {
@@ -21691,14 +21558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかげさまで動物の数も増えてきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また見つけたらここへ連れて来てくださいね♪"
+                                "Thanks to you, the number of animals has increased. If you\nfind more, please bring them here♪"
                             ]
                         },
                         {
@@ -21780,21 +21640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たくさん動物が増えて、今や立派な動物園になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはお礼です。お受け取り下さい。"
+                                "The number of animals has increased, and now it has become a\nsplendid zoo. Thank you very much. This is a token of our\ngratitude. Please accept it."
                             ]
                         },
                         {
@@ -21834,7 +21680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――お礼として\\c[17]【獣神のかんざし】\\c[0]を手に入れた！"
+                                "--As a token of thanks, you've received the \\c[17]Beast God\nHairpin\\c[0]!"
                             ]
                         },
                         {
@@ -21934,14 +21780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【ブタ】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１５００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]pig\\c[0]? Could I buy it for 1500 mon?"
                             ]
                         },
                         {
@@ -21949,8 +21788,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't Sell"
                                 ],
                                 1,
                                 0,
@@ -21987,7 +21826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it♪"
                             ]
                         },
                         {
@@ -22011,7 +21850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -22086,14 +21925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【ブタ】\\c[0]を売って\\c[17]１５００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]pig\\c[0] and got \\c[17]1500 mon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -22130,14 +21962,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's a shame... If you change your mind, please let\nme know."
                             ]
                         },
                         {
@@ -22238,14 +22070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【タヌキ】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２０００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]Tanuki\\c[0]? Could I buy it for 2000\nmon?"
                             ]
                         },
                         {
@@ -22253,8 +22078,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -22291,7 +22116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it♪"
                             ]
                         },
                         {
@@ -22315,7 +22140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -22390,14 +22215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【タヌキ】\\c[0]を売って\\c[17]２０００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]Tanuki\\c[0] and obtained \\c[17]2000\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -22434,14 +22252,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's too bad... If you change your mind, please let\nme have it."
                             ]
                         },
                         {
@@ -22542,14 +22360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【ヤギ】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "２５００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]goat\\c[0]? Could I buy it for 2500\nmon?"
                             ]
                         },
                         {
@@ -22557,8 +22368,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -22595,7 +22406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it♪"
                             ]
                         },
                         {
@@ -22619,7 +22430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -22694,14 +22505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【ヤギ】\\c[0]を売って\\c[17]２５００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]goat\\c[0] and obtained \\c[17]2500\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -22738,14 +22542,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's too bad... If you change your mind, please let\nme know."
                             ]
                         },
                         {
@@ -22846,14 +22650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【赤猪】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３０００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]Red Boar\\c[0]? Could I buy it for 3000\nmon?"
                             ]
                         },
                         {
@@ -22861,8 +22658,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -22899,7 +22696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it.♪"
                             ]
                         },
                         {
@@ -22923,7 +22720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -22998,14 +22795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【赤猪】\\c[0]を売って\\c[17]３０００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]Red Boar\\c[0] and obtained \\c[17]3000\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -23042,14 +22832,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's a shame... If you change your mind, please let\nme have it."
                             ]
                         },
                         {
@@ -23150,14 +22940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【駱駝】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３５００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]【camel】\\c[0]? Could I buy it for 3500\nmon?"
                             ]
                         },
                         {
@@ -23165,8 +22948,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -23203,7 +22986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "That's fine. Please take good care of it♪"
                             ]
                         },
                         {
@@ -23227,7 +23010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -23302,14 +23085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【駱駝】\\c[0]を売って\\c[17]３５００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]【camel】\\c[0] and obtained \\c[17]3500\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -23346,14 +23122,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's a shame... If you change your mind, please let\nme know."
                             ]
                         },
                         {
@@ -23454,14 +23230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【雪猿】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "４０００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]Snow Monkey\\c[0]? Could I buy it for\n4000 mon?"
                             ]
                         },
                         {
@@ -23469,8 +23238,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -23507,7 +23276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it♪"
                             ]
                         },
                         {
@@ -23531,7 +23300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -23606,14 +23375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【雪猿】\\c[0]を売って\\c[17]４０００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]Snow Monkey\\c[0] and got \\c[17]4000\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -23650,14 +23412,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's a shame... If you change your mind, please let\nme have it."
                             ]
                         },
                         {
@@ -23758,14 +23520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【水牛】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "５０００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]Water Buffalo\\c[0]? Could I buy it for\n5000 mon?"
                             ]
                         },
                         {
@@ -23773,8 +23528,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -23811,7 +23566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it♪"
                             ]
                         },
                         {
@@ -23835,7 +23590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -23910,14 +23665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【水牛】\\c[0]を売って\\c[17]５０００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]Water Buffalo\\c[0] and obtained \\c[17]5000\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -23954,14 +23702,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's too bad... If you change your mind, please let\nme know."
                             ]
                         },
                         {
@@ -24062,14 +23810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――おおっ！　それは\\c[17]【虎】\\c[0]だね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて立派な……！　８０００文で売って貰えないかい？"
+                                "--Oh! Is that a \\c[17]tiger\\c[0]? What a magnificent\ncreature...! Would you sell it for 8000 mon?"
                             ]
                         },
                         {
@@ -24077,8 +23818,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Don't sell"
                                 ],
                                 1,
                                 0,
@@ -24115,7 +23856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "構いませんよ。大切に飼ってくださいね♪"
+                                "Not a problem. Please take good care of it♪"
                             ]
                         },
                         {
@@ -24139,7 +23880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとう！　さっそく動物園に展示させてもらうよ！"
+                                "Thank you! I'll display it in the zoo right away!"
                             ]
                         },
                         {
@@ -24214,14 +23955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――\\c[17]【虎】\\c[0]を売って\\c[17]８０００文\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\$"
+                                "--Sold the \\c[17]tiger\\c[0] and obtained \\c[17]8000\nmon\\c[0]!\\$"
                             ]
                         },
                         {
@@ -24258,14 +23992,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【飼育員】"
+                                "【Breeder】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅむ、残念……　気が変わったら譲ってくださいね。"
+                                "Hmm, that's too bad... If you change your mind, please let\nme have it."
                             ]
                         },
                         {
@@ -24366,21 +24100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸の住民も動物が好きみたいで、今日も人が見に来てます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちも愛情込めて動物を大事に飼育していきますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは当園の功労者です。本当にありがとうございました♪"
+                                "It seems the residents of Edo also love animals, as people\nare coming to see them today as well. We will continue to\ncare for the animals with love. You are a person of merit\nfor our zoo. Thank you so very much!♪"
                             ]
                         },
                         {
@@ -24524,7 +24244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲間が鬼に殺されてしまった……　仇を取ってくれ……"
+                                "My comrade was killed by a demon... Please avenge them..."
                             ]
                         },
                         {
@@ -25441,7 +25161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ……　そろそろこの馬もお役御免になりそうだな。"
+                                "Phew... It seems this horse is about to be retired soon."
                             ]
                         },
                         {
@@ -25509,7 +25229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "馬のこと頼んだよ。"
+                                "I'm counting on you to take care of the horse."
                             ]
                         },
                         {
@@ -25577,28 +25297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【馬の飼い主】"
+                                "【Horse Owner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ……　困ったねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Phew... This is troubling."
                             ]
                         },
                         {
@@ -25622,28 +25328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうかしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What seems to be the problem?"
                             ]
                         },
                         {
@@ -25660,21 +25345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【馬の飼い主】"
+                                "【Horse Owner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ。最近この馬、脚力が衰えてきててね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつも年老いてるから、そろそろお役御免になりそうだ。"
+                                "Ah, recently this horse's strength has been fading. It's\ngetting old, so it might be time to retire it soon."
                             ]
                         },
                         {
@@ -25710,7 +25388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒン！"
+                                "Neigh!"
                             ]
                         },
                         {
@@ -25734,28 +25412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？　この馬、処分しちゃうんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "What!? You're going to get rid of this horse?"
                             ]
                         },
                         {
@@ -25772,14 +25429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【馬の飼い主】"
+                                "【Horse Owner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。でも処分するにも可哀想だし困っててねぇ……"
+                                "Yeah. But it feels too cruel to dispose of it, and I'm at a\nloss..."
                             ]
                         },
                         {
@@ -25803,28 +25460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良かったらその馬、私に譲ってもらえません？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "If it's alright with you, could you let me take care of the\nhorse?"
                             ]
                         },
                         {
@@ -25841,28 +25477,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【馬の飼い主】"
+                                "【Horse Owner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？　駿馬でもないこの馬が欲しいのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょうがないねぇ。でもさすがにタダは無理だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か交換できるものがあるかい？"
+                                "What!? You want this horse that's not even a fine steed?\nCan't help it, I guess. But I can't just give it away for\nfree. Do you have something to trade?"
                             ]
                         },
                         {
@@ -25886,28 +25508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね。じゃあこの富くじはどうですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Let's see... How about this lottery ticket?"
                             ]
                         },
                         {
@@ -25924,28 +25525,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【馬の飼い主】"
+                                "【Horse Owner】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ。富くじかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいぜ。それと交換だ。じゃあ達者でな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までありがとよ。"
+                                "Huh, a lottery ticket, huh? Alright, it's a deal. Take good\ncare of it. Thanks for everything up until now."
                             ]
                         },
                         {
@@ -25969,7 +25556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒーン！　ヒヒーン！"
+                                "Neigh! Neigh!"
                             ]
                         },
                         {
@@ -25993,14 +25580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ。馬も喜んでいるみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日から私があなたの飼い主よ。"
+                                "Hehe. The horse seems happy too. From today on, I'm your\nowner."
                             ]
                         },
                         {
@@ -26086,14 +25666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は富くじを交換して\\c[17]【馬】\\c[0]を手に入れた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（次　→　花梨の自宅の横）"
+                                "--Karin traded the lottery ticket and acquired\n\\c[17]【Horse】\\c[0]! (Next→Beside Karin's home)"
                             ]
                         },
                         {
@@ -26901,7 +26474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】只今、浅草の井戸に出張中――　薬屋"
+                                "[Sign] Currently on a business trip at the Asakusa well--\nPharmacy"
                             ]
                         },
                         {
@@ -26925,14 +26498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（傷薬が欲しいけど、お店の人は出張中かぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うーん、浅草の井戸に向かってみよう）"
+                                "(I want some medicine for wounds, but it looks like the\nshopkeeper is away on a business trip... Hmm, I should head\ntowards the Asakusa well.)"
                             ]
                         },
                         {
@@ -27019,21 +26585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【薬屋】"
+                                "【Pharmacy】"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸では助けて頂きありがとうございました♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちら様々な薬を売っています。どちらをお求めですか？"
+                                "Thank you for your help at the well♪ We sell various\nmedicines here. Which one would you like to purchase?"
                             ]
                         },
                         {
@@ -27091,7 +26650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございました～　またいらしてくださいね。"
+                                "Thank you very much~ Please come again."
                             ]
                         },
                         {
@@ -27235,21 +26794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい、そこの娘。ねずみ小町を見たことがないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先日うちの店が盗みに入られてな。見つけたら知らせてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗まれた金を全額取り戻して見せる……！"
+                                "Hey, you there, girl. Have you seen the Mouse Minx around?\nThe other day, my shop was burglarized. If you find her, let\nme know. I'll recover every last coin that was stolen...!"
                             ]
                         },
                         {
@@ -27331,7 +26876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おいっ、そこの娘！　ちょっと用がある！"
+                                "Hey, girl over there! I need a word with you!"
                             ]
                         },
                         {
@@ -27355,7 +26900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ！？（この人、この前盗みに入った角蔵屋の主人だ……）"
+                                "Eh!? (This man... he's the owner of the Sumiya store I\nburgled the other day...)"
                             ]
                         },
                         {
@@ -27363,8 +26908,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "無視する"
+                                    "Strike up a conversation",
+                                    "Ignore"
                                 ],
                                 1,
                                 0,
@@ -27401,14 +26946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの……　私に……何か御用ですか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（私の正体バレてないよね？　ドキドキ……）"
+                                "Um... Do you need something from me...? (He hasn't realized\nwho I am, right? My heart's racing...)"
                             ]
                         },
                         {
@@ -27432,14 +26970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少し時間があるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実は頼んだ絵が届かなくて困っているんだ。"
+                                "Do you have a moment? Actually, I'm in trouble because a\npainting I ordered hasn't arrived yet."
                             ]
                         },
                         {
@@ -27463,7 +26994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……頼んだ絵ですか？"
+                                "...A painting you ordered?"
                             ]
                         },
                         {
@@ -27487,21 +27018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ。江戸城下に住む浮世絵工房の貝月堂という絵師に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふすま絵を頼んだのだが、まだ仕上がってこないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "駄賃として５００文渡すから、催促の使いを頼めるか？"
+                                "Yes. I commissioned a fusuma painting from an ukiyo-e artist\nliving in Edo Castle Town named Kaigetsudou, but it still\nhasn't been finished. I'll give you 500 mon as a reward,\ncould you go and hurry them along for me?"
                             ]
                         },
                         {
@@ -27525,21 +27042,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……いいですよ。家から近いですし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "絵の催促くらいならすぐに行ってきますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（お金を盗んだ手前、少しくらい助けてあげないと……）"
+                                "...Sure, that's fine. It's close to my house anyway. I can\nquickly go and urge them about the painting. (After stealing\nfrom him, I should help out at least a little bit...)"
                             ]
                         },
                         {
@@ -27563,14 +27066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おお、それはありがたい。場所は【浮世絵工房】だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では頼むぞ。"
+                                "Oh, that would be much appreciated. The place is called\n[Ukiyo-e Workshop]. I'm counting on you then."
                             ]
                         },
                         {
@@ -27606,7 +27102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "――花梨は駄賃として\\c[17]５００文\\c[0]手に入れた！"
+                                "--Karin received \\c[17]500 mon\\c[0] as a reward!"
                             ]
                         },
                         {
@@ -27731,7 +27227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絵の催促、頼んだぞ。場所は江戸城下町の浮世絵工房だ。"
+                                "I'm counting on you to prompt for the painting. The place is\nthe Ukiyo-e workshop in Edo's castle town."
                             ]
                         },
                         {
@@ -27813,14 +27309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お待たせしました。貝月堂さん、やる気が出たそうなので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふすま絵のほう、急いで製作するそうです。"
+                                "Sorry to keep you waiting. It seems that Kaigetsudou-san has\nfound his motivation, so he's going to rush the production\nof the fusuma painting."
                             ]
                         },
                         {
@@ -27844,21 +27333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお！　それは良かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふすま絵が出来上がるのが楽しみだ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは追加の成功報酬だ。受け取っておくれ。"
+                                "Oh! That's great news! I can't wait to see the finished\nfusuma painting♪ Here's an additional reward for your\nsuccess. Please accept it."
                             ]
                         },
                         {
@@ -27887,7 +27362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\c[17]――花梨はさらに５００文手に入れた！\\c[0]"
+                                "\\c[17]--Karin has gained an additional 500 mon!\\c[0]"
                             ]
                         },
                         {
@@ -27989,7 +27464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふすま絵が出来上がるのが楽しみだ。ムフフ！"
+                                "I'm looking forward to the completion of the fusuma\npainting. Hehehe!"
                             ]
                         },
                         {
@@ -28575,7 +28050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】上野指圧店　一回１０００文"
+                                "[Sign] Ueno Shiatsu Massage - 1000 Mon per session"
                             ]
                         },
                         {
@@ -28652,7 +28127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】珍しい動物　高く買い取ります"
+                                "[Sign] We buy rare animals at high prices"
                             ]
                         },
                         {
@@ -28720,7 +28195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】この動物園の虎は数寄大名様の寄贈になります。"
+                                "[Sign] The tiger in this zoo has been donated by the\ngenerous lord."
                             ]
                         },
                         {
@@ -30800,7 +30275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい、すごーい！"
+                                "Amazing, amaz-ing!"
                             ]
                         },
                         {
@@ -31279,14 +30754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっという間に城へ乱入されてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日々鍛錬してきたのに、まったく情けない限りだ。"
+                                "We were stormed into the castle in the blink of an eye.\nDespite our daily training, it's utterly shameful."
                             ]
                         },
                         {
@@ -31363,14 +30831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅっ！　鬼に切り裂かれた背中が痛い……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして……こんな目に……"
+                                "Ouch! My back hurts where the demon slashed it... Why... did\nthis happen to me..."
                             ]
                         },
                         {
@@ -31627,7 +31088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ！　虎ってカッコイイなぁ！　初めて本物を見た♪"
+                                "Wow! Tigers are so cool! It's my first time seeing a real\none♪"
                             ]
                         },
                         {
@@ -31755,7 +31216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつのまにか立派な動物園が出来ておる。こりゃすごい！"
+                                "Before I knew it, a splendid zoo has been built. This is\namazing!"
                             ]
                         },
                         {
@@ -33886,7 +33347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに身近で動物を見られるなんて……　素敵ね♪"
+                                "Being able to see animals up close like this... it's\nwonderful♪"
                             ]
                         },
                         {
@@ -34014,14 +33475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身近で珍しい動物が観れるなんてとても嬉しいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、おじいさん、虎よ！　すごい迫力ねぇ♪"
+                                "It's so delightful to be able to see rare animals up close.\nLook, Grandpa, a tiger! Such an impressive presence♪"
                             ]
                         },
                         {
@@ -34200,7 +33654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブタ……　美味そうだなぁ（ごくり……）"
+                                "Pig... looks delicious (gulp...)"
                             ]
                         },
                         {
@@ -34397,14 +33851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと！　割り込みしないでよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちが先に並んでるんだから！"
+                                "Hey! Don't cut in line! I was here first!"
                             ]
                         },
                         {
@@ -34428,7 +33875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご、ごめんなさい！（演舞場に寄ってからまた来よう）"
+                                "I-I'm sorry! (I'll stop by the dance hall and then come\nback.)"
                             ]
                         },
                         {
@@ -34577,21 +34024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とほほ……　材料が全部腐ってしまってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく休業じゃ。せっかく店が軌道に乗ってたのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅葉も店に来なくなったわ。何かあったのかのぅ？"
+                                "Alas... all the ingredients have spoiled. We'll have to\nclose for a while. Just when the shop was getting on\ntrack... Momiji has stopped coming to the shop too. I wonder\nif something happened?"
                             ]
                         },
                         {
@@ -34701,14 +34134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風魔の里に行くのなら妾も参戦するぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸の外で落ち合おうぞ――"
+                                "If we're heading to the Fuma village, I shall join the\nbattle as well! Let's meet outside of Edo--"
                             ]
                         },
                         {
@@ -34818,14 +34244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすがの妾も動揺を隠せぬわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噴火まであと数日。今度は富士に向かうぞ花梨。"
+                                "Even I can't hide my agitation... There are only a few days\nleft until the eruption. Next, we head to Fuji, Karin."
                             ]
                         },
                         {
@@ -34960,7 +34379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】空き家　入居者募集中――"
+                                "[Sign] Vacant House - Tenants Wanted--"
                             ]
                         },
                         {
@@ -35110,14 +34529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！　花梨さん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタ、無事だったのかい！？"
+                                "Oh! Karin-san! Are you alright?"
                             ]
                         },
                         {
@@ -35141,7 +34553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬉三郎さん！　そちらも無事でしたか？"
+                                "Kisanosuke-san! Are you safe as well?"
                             ]
                         },
                         {
@@ -35165,14 +34577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。しかし鬼が攻めて来たって本当なのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この目で見てないから眉唾もんだが……？"
+                                "Yeah. But is it true that the demons attacked? I haven't\nseen it with my own eyes, so it's hard to believe..."
                             ]
                         },
                         {
@@ -35196,21 +34601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……本当です。まさか江戸に軍勢を連れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本気で攻めてくるなんて思いも寄らなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえ、信じたくなかっただけかも……"
+                                "...It's true. I never imagined they would seriously attack\nEdo with an army. No, maybe I just didn't want to believe\nit..."
                             ]
                         },
                         {
@@ -35234,21 +34625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうかい。でもとにかく息災で何よりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "診療所には怪我だらけの武士で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野戦病院みたいになってるからな。"
+                                "Is that so. But anyway, it's a relief that you're unharmed.\nThe clinic is like a field hospital with all the injured\nsamurai."
                             ]
                         },
                         {
@@ -35272,7 +34649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "華蝶さんはどうしたんですか？　姿が見えませんが？"
+                                "What about Kachou-san? I don't see her around?"
                             ]
                         },
                         {
@@ -35296,14 +34673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。華蝶は安瀬にして寝ているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はその……　腹の中に子供ができたみたいで……"
+                                "Ah. Kachou is resting in bed. Actually... it seems she's\npregnant..."
                             ]
                         },
                         {
@@ -35327,14 +34697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？　そうなんですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おめでとうございます！"
+                                "Eh?! Really?! Congratulations!"
                             ]
                         },
                         {
@@ -35358,21 +34721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハハッ！　照れくさいねぇ。ありがとよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタと無常島で会えなきゃ江戸には戻れなかったし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "華蝶と結ばれることはなかった。花梨さんには感謝しきりさ。"
+                                "Ha ha! It's a bit embarrassing. Thanks. If I hadn't met you\non Mujou Island, I wouldn't have been able to return to Edo\nand be with Kachou. I owe you a lot, Karin-san."
                             ]
                         },
                         {
@@ -35396,14 +34745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "江戸を守る理由が増えました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから最期の戦いへ行ってきます。"
+                                "I have one more reason to protect Edo now. I'm off to the\nfinal battle."
                             ]
                         },
                         {
@@ -35427,21 +34769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、鬼たちと戦いに行くのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは餞別だ。流通が止まっているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少ししかないが持っていってくれ。"
+                                "Oh, you're going to fight the demons? This is a parting\ngift. There's not much because trade has stopped, but please\ntake it."
                             ]
                         },
                         {
@@ -35487,7 +34815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――花梨は\\c[17]【マグロ】\\c[0]を３匹貰った！"
+                                "--Karin received 3 \\c[17]Tuna\\c[0]!"
                             ]
                         },
                         {
@@ -35518,21 +34846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます、嬉三郎さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃまた。華蝶さんとお義母さんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしく伝えてください。"
+                                "Thank you, Kisanosuke-san. Well then, see you again. Please\ngive my regards to Kachou-san and your mother-in-law."
                             ]
                         },
                         {
@@ -35556,14 +34870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事でな、花梨さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に江戸に帰ってくるんだぜ。"
+                                "Stay safe, Karin-san. Make sure you come back to Edo,\nalright."
                             ]
                         },
                         {
@@ -35698,14 +35005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気をつけてな花梨さん。アンタは強い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えどんな鬼が相手でも絶対負けないはずだ。"
+                                "Be careful, Karin-san. You are strong. No matter what kind\nof demon you face, you should never lose."
                             ]
                         },
                         {
@@ -36974,7 +36274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】トロ専門店　新規開店！"
+                                "[Sign] New Specialty Toro Shop Now Open!"
                             ]
                         },
                         {
@@ -38404,7 +37704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【看板】この緑地　私有地につき　立ち入り禁止――"
+                                "[Sign] No Trespassing - This Green Space is Private\nProperty--"
                             ]
                         },
                         {
@@ -38541,7 +37841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやくお店の中に入れそうね。"
+                                "Looks like we can finally get inside the shop."
                             ]
                         },
                         {
@@ -38785,14 +38085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちはすでに準備はできています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギョウオンを倒すため富士山へ向かいましょう。"
+                                "We are already prepared. Let's head to Mount Fuji to defeat\nGyōon."
                             ]
                         },
                         {
@@ -38927,14 +38220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待ってる間にお腹がすくから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く甘味を食べたいわね。"
+                                "I'm getting hungry while waiting, so I want to eat something\nsweet soon."
                             ]
                         },
                         {
@@ -39164,14 +38450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう半刻も列に待機してるの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人気店で食事するの大変よねぇ……"
+                                "I've been waiting in line for half an hour already... Eating\nat a popular restaurant is such a hassle..."
                             ]
                         },
                         {
@@ -39401,14 +38680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先日開店したのに、もうこんなに混んでるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "江戸っ子は美味しい店には目がないからねぇ。"
+                                "It only opened the other day, and it's already this crowded.\nEdo folks just can't resist a good eatery, can they?"
                             ]
                         },
                         {
@@ -39638,14 +38910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊郭でも話題になってねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しいって噂を聞いて、ここまで食べに来たのよ。"
+                                "It's even a hot topic in the pleasure quarters. I heard it\nwas delicious, so I came all the way here to eat."
                             ]
                         },
                         {
@@ -39875,14 +39140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの看板娘さん、とっても可愛いのよ\\I[15]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キツネの恰好してて、のじゃのじゃ言ってて面白いの♪"
+                                "The poster girl here is super cute\\I[15]She's dressed like a\nfox, and the way she says \"noja noja\" is so amusing♪"
                             ]
                         },
                         {
@@ -40112,7 +39370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ……　腕の骨が折れているみたいだ……"
+                                "Ugh... It seems like my arm bone is broken..."
                             ]
                         },
                         {
@@ -40263,7 +39521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しっかりいたせ！　傷は浅いぞ！？"
+                                "Hold on tight! The wound is shallow!?"
                             ]
                         },
                         {
@@ -40580,14 +39838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなにたくさん怪我人が運ばれてくるとは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく止血をせねば。"
+                                "So many injured people being brought in...! We must stop the\nbleeding at any cost."
                             ]
                         },
                         {
@@ -40664,7 +39915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひどい怪我だ！？　早く包帯を――！"
+                                "It's a terrible injury! Quick, get the bandages--!"
                             ]
                         },
                         {
@@ -40787,14 +40038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼どもに襲われて痛めつけられたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奇跡的に助かったよ。アイテテテ……"
+                                "I was attacked and tormented by demons, but miraculously I\nsurvived. Ouch, ouch, ouch..."
                             ]
                         },
                         {
@@ -40871,14 +40115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一瞬で爪で切り裂かれてこのザマだ。敵が強すぎた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかバケモノ相手に戦う日が来るなんて……"
+                                "I was torn apart by claws in an instant, ending up like\nthis. The enemy was too strong... I never imagined I'd have\nto fight a monster..."
                             ]
                         },
                         {
@@ -40955,7 +40192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喋らないで！　傷に障ります！"
+                                "Don't speak! It will affect your wounds!"
                             ]
                         },
                         {
@@ -41032,7 +40269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一体誰と戦ったの！？　すごい傷だわ！？"
+                                "Who on earth did you fight with?! These are some serious\nwounds!"
                             ]
                         },
                         {
@@ -42315,14 +41552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へぇ、こんなところに寿司屋が開店したのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マグロのトロ専門店とは珍しいな。"
+                                "Huh, a sushi restaurant opened in a place like this? A\nspecialty shop for tuna belly is quite unusual."
                             ]
                         },
                         {
@@ -42346,7 +41576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（トロ専門店？　もしかして……）"
+                                "(A specialty shop for tuna belly? Could it be...)"
                             ]
                         },
                         {
@@ -43388,14 +42618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（お父ちゃんが早く帰ってくるように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　大仏様に願をかけておこう……）"
+                                "(I'll make a wish to the Great Buddha for daddy to come home\nsoon...)"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "タコ洞窟",
+    "displayName": "Octopus Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6258,7 +6258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【技力の実】\\c[0]を手に入れた！"
+                                "--\\c[17]【Fruit of Technique】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -6709,7 +6709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――\\c[17]【金丹】\\c[0]を手に入れた！"
+                                "--\\c[17]【Elixir】\\c[0] acquired!"
                             ]
                         },
                         {
@@ -6904,7 +6904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……しゅるるる…………"
+                                "...slithering..."
                             ]
                         },
                         {
@@ -6928,14 +6928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――っ！　これがさっきの正体？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねとねとしてて気持ち悪い……"
+                                "--! Is this what was lurking before? It's slimy and gross..."
                             ]
                         },
                         {
@@ -6959,14 +6952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　＜　にゅにゅっ――！！　＞"
+                                "<Squirm--!!>"
                             ]
                         },
                         {
@@ -6995,7 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――謎の触手が襲ってきた！"
+                                "--Mysterious tentacles are attacking!"
                             ]
                         },
                         {
