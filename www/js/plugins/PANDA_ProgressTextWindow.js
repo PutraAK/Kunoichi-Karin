@@ -335,6 +335,7 @@
   Window_Progress.prototype.setProgressText = function () {
     const p = $gameVariables.value(ProgressVariable) || 0;
     const text = ProgressText[p] || "";
+    this.contents.fontSize = 10
     this.setText(text);
   };
 })();

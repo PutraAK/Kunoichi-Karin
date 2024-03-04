@@ -4859,7 +4859,7 @@
                                 20,
                                 0,
                                 4,
-                                "'\\x1bC[17] 経験済み \\x1bC[0]'"
+                                "'\\x1bC[17] Experienced \\x1bC[0]'"
                             ]
                         },
                         {
@@ -7926,7 +7926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Number of Fish Caught × \\V[58]Ambush Count × \\V[55]Night\nHawk Clients × \\V[51]Brothel Clients × \\V[42]Children ×\n\\V[18]"
+                                "Fish Caught \\V[58]x, Ambush Count \\V[55]x, NightHawk Clients \\V[51]x,\nBrothel Clients \\V[42]x, Children \\V[18]x"
                             ]
                         },
                         {

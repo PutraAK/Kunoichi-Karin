@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 121,
-        "description": "花梨専用の武器　攻撃力＋１０",
+        "description": "Karin's exclusive weapon Attack +10",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "忍刀",
+        "name": "Ninja Sword",
         "note": "<skill_id:1>\n\n<shotWay:1>\n<shotCount:45>\n<shotSpeed:0.1>\n<shotInterval:15>\n<shotType:1>\n<shotIndex:8>\n",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 122,
-        "description": "花梨専用の武器　攻撃力＋２０",
+        "description": "Karin's exclusive weapon Attack +20",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "斬魔刀",
+        "name": "Demon-Slaying Sword",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 123,
-        "description": "花梨専用の武器　攻撃力＋３０　技力＋１割増加\n属性　炎",
+        "description": "Karin's exclusive weapon Attack +30 Skill Power +10%\nincrease Attribute: Fire",
         "etypeId": 1,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "妖刀時雨火",
+        "name": "Mystic Sword Shigurebi",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -112,7 +112,7 @@
     {
         "id": 4,
         "animationId": 124,
-        "description": "花梨専用の武器　攻撃力＋５０\n属性　雷　確率で敵にしびれを付与",
+        "description": "Karin's exclusive weapon Attack +50 Attribute: Thunder\nChance to paralyze the enemy",
         "etypeId": 1,
         "traits": [
             {
@@ -142,7 +142,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "雷切",
+        "name": "Raikiri",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -160,7 +160,7 @@
     {
         "id": 5,
         "animationId": 125,
-        "description": "花梨専用の武器　攻撃力＋８０　戦闘時に体力自動回復\n属性　水",
+        "description": "Karin's exclusive weapon Attack +80 Automatically recovers\nHP during battle Attribute: Water",
         "etypeId": 1,
         "traits": [
             {
@@ -180,7 +180,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "梨地龍雲剣",
+        "name": "Pear Ground Dragon Cloud Sword",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -198,7 +198,7 @@
     {
         "id": 6,
         "animationId": 126,
-        "description": "花梨専用の武器　攻撃力＋１００　体力＋５００\n属性　光　鬼属性の相手に追加ダメージ付与",
+        "description": "Karin's exclusive weapon Attack +100 HP +500 Attribute:\nLight Extra damage to demon-type enemies",
         "etypeId": 1,
         "traits": [
             {
@@ -218,7 +218,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "神通三明剣",
+        "name": "Divine Power Sanmei Sword",
         "note": "<skill_id:1>",
         "params": [
             500,
@@ -236,7 +236,7 @@
     {
         "id": 7,
         "animationId": 196,
-        "description": "クリアありがとうございます　２周目専用の剣【全体攻撃】\n攻撃力＋７０　速さ＋２０　（研ぎ屋で強化はできません）",
+        "description": "Thank you for clearing the game. Second playthrough\nexclusive sword [Area Attack] Attack +70 Speed +20 (Cannot\nbe enhanced at the sharpening shop)",
         "etypeId": 1,
         "traits": [
             {
@@ -251,7 +251,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "二周目特典剣",
+        "name": "Second Playthrough Bonus Sword",
         "note": "<skill_id:196>",
         "params": [
             0,
@@ -269,7 +269,7 @@
     {
         "id": 8,
         "animationId": 195,
-        "description": "河童が残していった剣　【全体攻撃】\n攻撃力＋１２０　速さ＋３０　運＋３０",
+        "description": "Sword left behind by a Kappa [Area Attack] Attack +120 Speed\n+30 Luck +30",
         "etypeId": 1,
         "traits": [
             {
@@ -284,7 +284,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "カーツパ―ル剣",
+        "name": "Kurzweil Sword",
         "note": "<skill_id:194>",
         "params": [
             0,
@@ -302,7 +302,7 @@
     {
         "id": 9,
         "animationId": 127,
-        "description": "夕霧専用の武器　攻撃力＋２０",
+        "description": "Yugiri's exclusive weapon Attack +20",
         "etypeId": 1,
         "traits": [
             {
@@ -317,7 +317,7 @@
             }
         ],
         "iconIndex": 125,
-        "name": "小太刀",
+        "name": "Short Sword",
         "note": "<CAG攻撃:164>",
         "params": [
             0,
@@ -335,7 +335,7 @@
     {
         "id": 10,
         "animationId": 128,
-        "description": "夕霧専用の武器　攻撃力＋３０",
+        "description": "Yugiri's exclusive weapon Attack +30",
         "etypeId": 1,
         "traits": [
             {
@@ -350,7 +350,7 @@
             }
         ],
         "iconIndex": 125,
-        "name": "首切り小太刀",
+        "name": "Beheading Short Sword",
         "note": "<CAG攻撃:164>",
         "params": [
             0,
@@ -368,7 +368,7 @@
     {
         "id": 11,
         "animationId": 129,
-        "description": "夕霧専用の武器　攻撃力＋４０\n属性　水",
+        "description": "Yugiri's exclusive weapon Attack +40 Attribute: Water",
         "etypeId": 1,
         "traits": [
             {
@@ -388,7 +388,7 @@
             }
         ],
         "iconIndex": 125,
-        "name": "村雨の小太刀",
+        "name": "Murasame Short Sword",
         "note": "<CAG攻撃:164>",
         "params": [
             0,
@@ -406,7 +406,7 @@
     {
         "id": 12,
         "animationId": 130,
-        "description": "夕霧専用の武器　攻撃力＋５０",
+        "description": "Yugiri's exclusive weapon Attack +50",
         "etypeId": 1,
         "traits": [
             {
@@ -421,7 +421,7 @@
             }
         ],
         "iconIndex": 125,
-        "name": "白虎の小太刀",
+        "name": "White Tiger Short Sword",
         "note": "<CAG攻撃:164>",
         "params": [
             0,
@@ -439,7 +439,7 @@
     {
         "id": 13,
         "animationId": 131,
-        "description": "夕霧専用の武器　攻撃力＋６０　体力＋２割増加",
+        "description": "Yugiri's exclusive weapon Attack +60 HP +20% increase",
         "etypeId": 1,
         "traits": [
             {
@@ -459,7 +459,7 @@
             }
         ],
         "iconIndex": 125,
-        "name": "神威の小太刀",
+        "name": "Divine Might Short Sword",
         "note": "<CAG攻撃:164>",
         "params": [
             0,
@@ -543,7 +543,7 @@
     {
         "id": 16,
         "animationId": 1,
-        "description": "紅葉専用の武器　攻撃力＋２０",
+        "description": "Momiji's exclusive weapon Attack +20",
         "etypeId": 1,
         "traits": [
             {
@@ -558,7 +558,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "和扇",
+        "name": "Japanese Fan",
         "note": "",
         "params": [
             0,
@@ -576,7 +576,7 @@
     {
         "id": 17,
         "animationId": 1,
-        "description": "紅葉専用の武器　攻撃力＋３０\n属性　風",
+        "description": "Momiji's exclusive weapon Attack +30 Attribute: Wind",
         "etypeId": 1,
         "traits": [
             {
@@ -596,7 +596,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "芭蕉扇",
+        "name": "Banana Leaf Fan",
         "note": "",
         "params": [
             0,
@@ -614,7 +614,7 @@
     {
         "id": 18,
         "animationId": 1,
-        "description": "紅葉専用の武器　攻撃力＋５０\n属性　風",
+        "description": "Momiji's exclusive weapon Attack +50 Attribute: Wind",
         "etypeId": 1,
         "traits": [
             {
@@ -634,7 +634,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "流星の扇",
+        "name": "Meteor Fan",
         "note": "",
         "params": [
             0,
@@ -652,7 +652,7 @@
     {
         "id": 19,
         "animationId": 3,
-        "description": "紅葉専用の武器　攻撃力＋７０　体力＋２割増加\n属性　火",
+        "description": "Momiji's exclusive weapon Attack +70 HP +20% increase\nAttribute: Fire",
         "etypeId": 1,
         "traits": [
             {
@@ -677,7 +677,7 @@
             }
         ],
         "iconIndex": 124,
-        "name": "鳳凰神扇",
+        "name": "Phoenix Divine Fan",
         "note": "",
         "params": [
             0,
@@ -794,7 +794,7 @@
     {
         "id": 23,
         "animationId": 150,
-        "description": "真沙妃専用の武器　攻撃力＋４０",
+        "description": "Masaki's exclusive weapon Attack +40",
         "etypeId": 1,
         "traits": [
             {
@@ -809,7 +809,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "梓弓",
+        "name": "Azusa Bow",
         "note": "",
         "params": [
             0,
@@ -827,7 +827,7 @@
     {
         "id": 24,
         "animationId": 152,
-        "description": "真沙妃専用の武器　攻撃力＋５０",
+        "description": "Masaki's exclusive weapon Attack +50",
         "etypeId": 1,
         "traits": [
             {
@@ -842,7 +842,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "空狐の弓",
+        "name": "Sky Fox Bow",
         "note": "",
         "params": [
             0,
@@ -860,7 +860,7 @@
     {
         "id": 25,
         "animationId": 29,
-        "description": "真沙妃専用の武器　【全体攻撃】\n攻撃力＋７０　体力＋２割増加",
+        "description": "Masaki's exclusive weapon [Area Attack] Attack +70 HP +20%\nincrease",
         "etypeId": 1,
         "traits": [
             {
@@ -880,7 +880,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "神弓天狐",
+        "name": "Divine Bow Tenko",
         "note": "<skill_id:195>",
         "params": [
             0,
@@ -964,7 +964,7 @@
     {
         "id": 28,
         "animationId": 121,
-        "description": "花梨専用の武器　攻撃力＋２０",
+        "description": "Karin's exclusive weapon Attack +20",
         "etypeId": 1,
         "traits": [
             {
@@ -979,7 +979,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "忍刀・改",
+        "name": "Ninja Sword - Kai",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -997,7 +997,7 @@
     {
         "id": 29,
         "animationId": 122,
-        "description": "花梨専用の武器　攻撃力＋３０",
+        "description": "Karin's exclusive weapon Attack +30",
         "etypeId": 1,
         "traits": [
             {
@@ -1012,7 +1012,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "斬魔刀・改",
+        "name": "Demon-Slaying Sword - Kai",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -1030,7 +1030,7 @@
     {
         "id": 30,
         "animationId": 123,
-        "description": "花梨専用の武器　攻撃力＋４０　技力＋１割増加\n属性　炎",
+        "description": "Karin's exclusive weapon Attack +40 Skill Power +10%\nincrease Attribute: Fire",
         "etypeId": 1,
         "traits": [
             {
@@ -1055,7 +1055,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "妖刀時雨火・改",
+        "name": "Mystic Sword Shigurebi - Kai",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -1073,7 +1073,7 @@
     {
         "id": 31,
         "animationId": 124,
-        "description": "花梨専用の武器　攻撃力＋６０\n属性　雷　確率で敵にしびれを付与",
+        "description": "Karin's exclusive weapon Attack +60 Attribute: Thunder\nChance to paralyze the enemy",
         "etypeId": 1,
         "traits": [
             {
@@ -1098,7 +1098,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "雷切・改",
+        "name": "Raikiri - Kai",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -1116,7 +1116,7 @@
     {
         "id": 32,
         "animationId": 125,
-        "description": "花梨専用の武器　攻撃力＋９０　戦闘時に体力自動回復\n属性　水",
+        "description": "Karin's exclusive weapon Attack +90 Automatically recovers\nHP during battle Attribute: Water",
         "etypeId": 1,
         "traits": [
             {
@@ -1136,7 +1136,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "梨地龍雲剣・改",
+        "name": "Pear Ground Dragon Cloud Sword - Kai",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -1187,7 +1187,7 @@
     {
         "id": 34,
         "animationId": 124,
-        "description": "花梨専用の武器　攻撃力＋３５　通常攻撃が二回攻撃に変化\n属性　雷　確率で敵にしびれを付与",
+        "description": "Karin's exclusive weapon Attack +35 Normal attacks change to\ndouble attack Attribute: Thunder Chance to paralyze the\nenemy",
         "etypeId": 1,
         "traits": [
             {
@@ -1217,7 +1217,7 @@
             }
         ],
         "iconIndex": 120,
-        "name": "雷切　二連",
+        "name": "Raikiri Dual Blades",
         "note": "<skill_id:1>",
         "params": [
             0,
@@ -1283,7 +1283,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "剣",
+        "name": "Sword",
         "note": "",
         "params": [
             0,
@@ -1316,7 +1316,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "斧",
+        "name": "Axe",
         "note": "",
         "params": [
             0,
@@ -1349,7 +1349,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖",
+        "name": "Staff",
         "note": "",
         "params": [
             0,
@@ -1382,7 +1382,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "弓",
+        "name": "Bow",
         "note": "",
         "params": [
             0,

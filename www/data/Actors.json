@@ -44,10 +44,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "花梨",
-        "nickname": "快盗ねずみ小町",
-        "note": "\n<SBI画像:av-019>\n\n<xxx:cutin_testA1>\n<yyy:cutin_testA1a>\n\n<equipSlotEx:1 3 4 5 5>\n\n<PE拡張:\\n好きな食べ物　\\V[82]> \n\n<SACスキル封印スイッチ:293>\n\n<stand_picture:au-001>\n<stand_picture2:au-001a>\n<stand_picture3:au-001b>\n\n\n<Speech/Turn: 気合を入れて行くわよ！ , 負けないんだから！ , 勝負――！ >\n<Speech/Dead: そんな……… , こんな…ところで…… , きゃああぁっ！！ >\n<Speech/Recovery: ありがとう！ >\n<Speech/Damage: あうっ！ , ひあっ！ , いた…っ！ >\n<Speech/Victory: やったね！ , 勝ったー！ , 大勝利～！ >\n\n<Speech/Skill[9]: ――食らうといいわ！ >\n<Speech/Skill[11]: ――燃えなさい！ >\n<Speech/Skill[12]: ――でやあああぁ！！ >\n<Speech/Skill[13]: ――私の全身全霊よ！！ >\n\n\n",
-        "profile": "快盗ねずみ小町の中の人　正義感が強い　\\V[20]\n第\\V[60]章　\\V[31]日目　\\V[19] 　"
+        "name": "Karin",
+        "nickname": "Nezumi Komachi",
+        "note": "\n<SBI画像:av-019>\n\n<xxx:cutin_testA1>\n<yyy:cutin_testA1a>\n\n<equipSlotEx:1 3 4 5 5>\n\n<PE拡張:\\n Favorite Food:　\\V[82]> \n\n<SACスキル封印スイッチ:293>\n\n<stand_picture:au-001>\n<stand_picture2:au-001a>\n<stand_picture3:au-001b>\n\n\n<Speech/Turn: 気合を入れて行くわよ！ , 負けないんだから！ , 勝負――！ >\n<Speech/Dead: そんな……… , こんな…ところで…… , きゃああぁっ！！ >\n<Speech/Recovery: ありがとう！ >\n<Speech/Damage: あうっ！ , ひあっ！ , いた…っ！ >\n<Speech/Victory: やったね！ , 勝ったー！ , 大勝利～！ >\n\n<Speech/Skill[9]: ――食らうといいわ！ >\n<Speech/Skill[11]: ――燃えなさい！ >\n<Speech/Skill[12]: ――でやあああぁ！！ >\n<Speech/Skill[13]: ――私の全身全霊よ！！ >\n\n\n",
+        "profile": "The person behind Phantom Thief Nezumi Komachi, has a\nstrong sense of justice. \\V[20] Chapter \\V[60] Day \\V[31]\n\\V[19]"
     },
     {
         "id": 2,
@@ -73,10 +73,10 @@
         ],
         "initialLevel": 20,
         "maxLevel": 99,
-        "name": "夕霧",
+        "name": "Yugiri",
         "nickname": "伊賀忍組頭",
         "note": "\n<stand_picture:au-002>\n\n<SBI画像:at-002>\n<xx02:cutin_testA2>\n\n<equipSlotEx:1 3 4 5 5>\n\n\n<Speech/Turn: 斬り捨てる！ , かかって来い！ , 我が剣を喰らえ >\n<Speech/Dead: 馬鹿な…… , まだ…戦える…… , あうぅ…っ！ >\n<Speech/Recovery: すまない！ >\n<Speech/Damage: うあっ！ , ぐうっ！ , ――っ！ >\n<Speech/Victory: 伊賀忍に敗北はない , 勝てて良かったな , この先へ進もう >\n\n<Speech/Skill[25]: ――逃がさん！ >\n<Speech/Skill[26]: ――切り刻む！！ >\n<Speech/Skill[27]: ――我が秘剣、知るがよい！ >\n\n\n",
-        "profile": "幕府に仕える伊賀忍の最精鋭　小太刀二刀流の使い手\n鬼を恨み仇討ちのために公儀隠密となった過去がある"
+        "profile": "An elite Iga ninja serving the shogunate, a master of the\nkodachi dual-wielding style, who became an official secret\nagent to avenge a grudge against demons"
     },
     {
         "id": 3,
@@ -112,10 +112,10 @@
         ],
         "initialLevel": 25,
         "maxLevel": 99,
-        "name": "紅葉",
+        "name": "Momiji",
         "nickname": "芸子",
         "note": "\n<stand_picture:au-003>\n\n<SBI画像:at-003>\n<xx03:cutin_testA3>\n<yy01:cutin_testA31>\n\n<equipSlotEx:1 3 4 5 5>\n\n\n<Speech/Turn: 全力で行きます , 容赦しません , 頑張りましょう >\n<Speech/Dead: もう…体が…… , 強すぎる…… , ごめんなさい…… >\n<Speech/Recovery: 感謝します >\n<Speech/Damage: あっ！ , やあっ！ , く…っ！ >\n<Speech/Victory: 先へ進みましょう , 次も勝ちましょう , さすがですね >\n\n<Speech/Skill[15]: どうか癒しの力を―― >\n<Speech/Skill[19]: みんな元気になって―― >\n<Speech/Skill[20]: ――限界まで闘います！ >\n\n\n",
-        "profile": "遊郭に住む芸子　握力が強く用心棒も兼ねる\n人の心を持つ鬼人　赤子の花梨と同じ里に住んでいたらしい"
+        "profile": "A geisha living in the pleasure district, with a strong grip\nwho also serves as a bodyguard, a demon with a human heart,\nseems to have lived in the same village as the infant Karin"
     },
     {
         "id": 4,
@@ -151,10 +151,10 @@
         ],
         "initialLevel": 35,
         "maxLevel": 99,
-        "name": "真沙妃",
+        "name": "Masaki",
         "nickname": "空狐",
         "note": "\n<stand_picture:au-004>\n\n<SBI画像:at-004>\n<xx04:cutin_testA4>\n\n<equipSlotEx:1 3 4 5 5>\n\n\n\n<Speech/Turn: 行くぞ――！ , にゃはは、参るぞ！ , さぁ来い！ >\n<Speech/Dead: なんじゃと！？ , ぐふっ！　嘘じゃろ？ , 信じられぬ…… >\n<Speech/Recovery: よいぞよいぞ！ >\n<Speech/Damage: ぬわっ！ , ぐぬぬ！ , 痛いっ！ >\n<Speech/Victory: 負けはせんわ！ , 相手にならぬわ！ , うむっ、勝ったぞ♪ >\n\n<Speech/Skill[30]: 燃えて灰になるがいい！ >\n<Speech/Skill[31]: 必殺の雷撃、受けよ！ >\n<Speech/Skill[32]: 皆、頑張るのじゃ！ >\n\n\n",
-        "profile": "上野の池の近くで茶屋を営む空狐\n妖の王を名乗るだけあってとても強い"
+        "profile": "A sky fox who runs a teahouse near the pond in Ueno,\nclaiming to be the king of specters and is very powerful"
     },
     {
         "id": 5,
@@ -174,7 +174,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "嬉三郎",
+        "name": "Kisanosuke",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -197,7 +197,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "華蝶",
+        "name": "Kachou",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -220,7 +220,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "黒曜天狗",
+        "name": "Kokuyou Tengu",
         "nickname": "",
         "note": "",
         "profile": ""
