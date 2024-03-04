@@ -1566,7 +1566,7 @@ var $plugins = [
       txtY_35: "510",
       txtShow_35: "on",
       "#### テキスト36 ####": "",
-      txtSubject_36: "\\V[16] Kan",
+      txtSubject_36: "\\V[16] Mon",
       txtSize_36: "22",
       txtOrigin_36: "right",
       txtAlign_36: "top",
@@ -2867,48 +2867,48 @@ var $plugins = [
       "Reward Popup Delay": "0",
       "Battle Show List": "item,gold,exp,skill,params,level,abp,classLevel",
       "Get Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[24]手に入れた！",
-      "Lost Gold Text": "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[2]失った",
+        "「\\I[_icon]_num\\C[14]\\G\\C[0]」\\C[24] Obtained!",
+      "Lost Gold Text": "「\\I[_icon]_num\\C[14]\\G\\C[0]」\\C[2]Lost",
       "Get Item Text":
-        "「\\I[_icon]_name」 を\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」\\C[24]Obtained!\\n\\C[6]_desc1",
       "Lost Item Text":
-        "「\\I[_icon]_name」 を\\C[2]失った・・・\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」\\C[2]Lost...\\n\\C[6]_desc1",
       "Get Item Text Num":
-        "「\\I[_icon]_name」 を\\C[14]_num個\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」\\C[14]_num\\C[24]Obtained!\\n\\C[6]_desc1",
       "Lost Item Text Num":
-        "「\\I[_icon]_name」を\\C[14]_num個\\C[2]失った・・・\\n\\C[6]_desc1",
+        "「\\I[_icon]_name」\\C[14]_num\\C[2]Lost...\\n\\C[6]_desc1",
       "Get Skill Text":
-        "_actorは「\\I[_icon]_name」 を\\C[24]覚えた！\\n\\C[6]_desc1",
+        "_actorは「\\I[_icon]_name」\\C[24] Learned!\\n\\C[6]_desc1",
       "Lost Skill Text":
-        "_actorは「\\I[_icon]_name」を \\C[2]忘れてしまった・・・\\n\\C[6]_desc1",
+        "_actorは「\\I[_icon]_name」 \\C[2] Forgotten...\\n\\C[6]_desc1",
       "Exp Up Text":
-        "_actorは\\C[14]_num\\C[0]の\\C[0]_name\\C[0]を\\C[0]得た！",
+        "_actorは\\C[14]_num\\C[0] \\C[0]_name\\C[0\\C[0] Gained!",
       "Exp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
-      "Lv Up Text": "_actorは\\C[21]_name\\C[0]が\\C[0]_num\\C[0]上がった！",
+        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0\\C[2]Lost...",
+      "Lv Up Text": "_actorは\\C[21]_name\\C[0] \\C[0]_num\\C[0] Went Up!",
       "Lv Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2] Went Down...",
       "Param Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24] Went Up!",
       "Param Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2] Went Down...",
       "Abp Up Text": "服を着替えた！",
       "Abp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0\\C[2]Lost...",
       "Class Lv Up Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[24] Went Up!",
       "Class Lv Down Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[2] Went Down...",
       "Formation Lv Up Text":
-        "\\C[4]_nameの熟練度\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
-      "Formation Lv Max Text": "\\C[4]_name\\C[0]を\\C[14]マスターした！",
+        "\\C[4]_nameの熟練度\\C[0]が\\C[14]_numポイント\\C[24] Went Up!",
+      "Formation Lv Max Text": "\\C[4]_name\\C[0\\C[14]マスターした！",
     },
   },
   {
     name: "PopupMessage",
     status: true,
     description:
-      "ver1.02/メッセージの表示をポップアップに変更する制御文字_pum[delay,x,y,action]を追加します。",
+      "ver1.02/メッセージの表示をポップアップに変更する制御文字_pum[delay,x,y,action追加します。",
     parameters: {
       "Pop Message FontSize": "30",
       "Pop Message Count": "240",
@@ -3279,7 +3279,7 @@ var $plugins = [
     parameters: {
       ProgressVariable: "60",
       ProgressText:
-        '["Chapter 1 Rob the Tomitaka Residence","Chapter 2 Defeat the bandit group in the ancient castle at Kami-Tai Village","Chapter 3 Infiltrate the Kiritodo Family Mansion in Hibiya","Chapter 4 Escape from Mujou Island and return to Edo","Chapter 5 Become a night-hawk to gather information and defeat ogres","Chapter 6 Infiltrate Suzuramu Village and defeat the mountain bandits","Chapter 7 Become a courtesan and solve the red-light district incident","Chapter 8 Subjugate the ogres in the coastal caves of Atami","Chapter 9 Go to the Forest of Apparitions to obtain the legendary sword","Chapter 10 Head to Fuma Valley to defeat Kotaro","Chapter 11 Subjugate the ogres that attacked Edo","Chapter 12 Head towards Odawara","Chapter 13 Head to Mount Fuji to prevent an eruption","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]"]',
+        '["Rob the Tomitaka Residence","Defeat the bandit group in the ancient castle","Infiltrate the Kiritodo Family Mansion in Hibiya","Escape from Mujou Island and return to Edo","Become a night-hawk to gather information and defeat ogres","Infiltrate Suzuramu Village and defeat the mountain bandits","Become a courtesan and solve the red-light district incident","Subjugate the ogres in the coastal caves of Atami","Go to the Forest of Apparitions to obtain the legendary sword","Head to Fuma Valley to defeat Kotaro","Subjugate the ogres that attacked Edo","Head towards Odawara","Head to Mount Fuji to prevent an eruption","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]"]',
       WindowLayout:
         '{"IsDefault":"false","Left":"570","Top":"655","Width":"437","Height":"62"}',
     },

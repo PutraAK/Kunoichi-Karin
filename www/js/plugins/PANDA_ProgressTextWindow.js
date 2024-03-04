@@ -319,7 +319,7 @@
         this,
         rect.x,
         rect.y,
-        rect.width,
+        rect.width + 20,
         rect.height
       );
     }
@@ -335,7 +335,34 @@
   Window_Progress.prototype.setProgressText = function () {
     const p = $gameVariables.value(ProgressVariable) || 0;
     const text = ProgressText[p] || "";
-    this.contents.fontSize = 10
-    this.setText(text);
+    this.setTextP(text);
+  };
+
+  Window_Progress.prototype.setTextP = function (text) {
+    if (this._text !== text) {
+      this._text = text;
+      this.refresh();
+    }
+  };
+
+  Window_Progress.prototype.refresh = function () {
+    this.contents.clear();
+    this.drawTextExP(this._text, this.textPadding(), 0);
+  };
+
+  Window_Progress.prototype.drawTextExP = function (text, x, y) {
+    if (text) {
+      var textState = { index: 0, x: x, y: y, left: x };
+      textState.text = this.convertEscapeCharacters(text);
+      textState.height = this.calcTextHeight(textState, false);
+      this.resetFontSettings();
+      this.contents.fontSize = 12
+      while (textState.index < textState.text.length) {
+        this.processCharacter(textState);
+      }
+      return textState.x - x;
+    } else {
+      return 0;
+    }
   };
 })();
