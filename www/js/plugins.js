@@ -3279,7 +3279,7 @@ var $plugins = [
     parameters: {
       ProgressVariable: "60",
       ProgressText:
-        '["Rob the Tomitaka Residence","Defeat the bandit group in the ancient castle","Infiltrate the Kiritodo Family Mansion in Hibiya","Escape from Mujou Island and return to Edo","Become a night-hawk to gather information and defeat ogres","Infiltrate Suzuramu Village and defeat the mountain bandits","Become a courtesan and solve the red-light district incident","Subjugate the ogres in the coastal caves of Atami","Go to the Forest of Apparitions to obtain the legendary sword","Head to Fuma Valley to defeat Kotaro","Subjugate the ogres that attacked Edo","Head towards Odawara","Head to Mount Fuji to prevent an eruption","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]"]',
+        '["Rob the Tomichouya Residence","Defeat the bandit group in the ancient castle","Infiltrate the Kiritodo Family Mansion in Hibiya","Escape from Mujou Island and return to Edo","Become a night-hawk to gather information and defeat ogres","Infiltrate Suzuramu Village and defeat the mountain bandits","Become a courtesan and solve the red-light district incident","Subjugate the ogres in the coastal caves of Atami","Go to the Forest of Apparitions to obtain the legendary sword","Head to Fuma Valley to defeat Kotaro","Subjugate the ogres that attacked Edo","Head towards Odawara","Head to Mount Fuji to prevent an eruption","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]","\\\\c[17]――――――☆Congratulations on Completion☆――――――\\\\c[0]"]',
       WindowLayout:
         '{"IsDefault":"false","Left":"570","Top":"655","Width":"437","Height":"62"}',
     },
