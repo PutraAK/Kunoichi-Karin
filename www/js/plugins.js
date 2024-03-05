@@ -2878,30 +2878,30 @@ var $plugins = [
       "Lost Item Text Num":
         "「\\I[_icon]_name」\\C[14]_num\\C[2]Lost...\\n\\C[6]_desc1",
       "Get Skill Text":
-        "_actorは「\\I[_icon]_name」\\C[24] Learned!\\n\\C[6]_desc1",
+        "_actor「\\I[_icon]_name」\\C[24] Learned!\\n\\C[6]_desc1",
       "Lost Skill Text":
-        "_actorは「\\I[_icon]_name」 \\C[2] Forgotten...\\n\\C[6]_desc1",
+        "_actor「\\I[_icon]_name」 \\C[2] Forgotten...\\n\\C[6]_desc1",
       "Exp Up Text":
-        "_actorは\\C[14]_num\\C[0] \\C[0]_name\\C[0\\C[0] Gained!",
-      "Exp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0\\C[2]Lost...",
-      "Lv Up Text": "_actorは\\C[21]_name\\C[0] \\C[0]_num\\C[0] Went Up!",
+        "_actor gained \\C[14]_num\\C[0] \\C[0]_name\\C[0]!",
+        "Exp Down Text":
+        "_actor lost \\C[14]_num points\\C[0] of \\C[4]_name\\C[0].",
+      "Lv Up Text": "_actor's \\C[21]_name\\C[0] went up by _num!",
       "Lv Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2] Went Down...",
+        "_actor's \\C[4]_name\\C[0] went down by \\C[14]_num\\C[2].",
       "Param Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24] Went Up!",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num\\C[24]!",
       "Param Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2] Went Down...",
-      "Abp Up Text": "服を着替えた！",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num\\C[2].",
+      "Abp Up Text": "Changed clothes!",
       "Abp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0\\C[2]Lost...",
+        "_actor lost \\C[14]_num points\\C[0] of \\C[4]_name\\C[0].",
       "Class Lv Up Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[24] Went Up!",
+        "_actor's \\C[4]_class _name\\C[0] increased by \\C[14]_num points\\C[24]!",
       "Class Lv Down Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[2] Went Down...",
+        "_actor's \\C[4]_class _name\\C[0] decreased by \\C[14]_num points\\C[2].",
       "Formation Lv Up Text":
-        "\\C[4]_nameの熟練度\\C[0]が\\C[14]_numポイント\\C[24] Went Up!",
-      "Formation Lv Max Text": "\\C[4]_name\\C[0\\C[14]マスターした！",
+        "Proficiency of \\C[4]_name\\C[0] went up by \\C[14]_num points\\C[24]!",
+      "Formation Lv Max Text": "\\C[4]_name\\C[0] mastered!",
     },
   },
   {

@@ -173,7 +173,7 @@
     "skillTypes": [
         "",
         "Magic",
-        "Combat Skills"
+        "Skills"
     ],
     "sounds": [
         {
@@ -1274,7 +1274,7 @@
             "expNext": "Next %1",
             "expTotal": "Current %1",
             "file": "File",
-            "levelUp": "\\SE[x-se_level]\\{――%1 has become \\c[17]%3 %2\\c[0]!\\}",
+            "levelUp": "\\SE[x-se_level]\\{――%1 has become \\c[17]%2 %3\\c[0]!\\}",
             "loadMessage": "Which file would you like to load? \\c[17][LOAD]\\c[0]",
             "magicEvasion": "%1 dodged!",
             "magicReflection": "%1 reflected the magic!",
