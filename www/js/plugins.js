@@ -3677,7 +3677,7 @@ var $plugins = [
       "Turn Window Y": "5",
       "Turn Window Width": "96",
       "Turn Window Height": "96",
-      "Turn Window Name": "ターン数",
+      "Turn Window Name": "Turns",
       "Turn Window Use Sprite": "true",
       "Turn Window Sprite": "turn_window",
       "Split LogWindow Back": "true",
