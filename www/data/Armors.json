@@ -277,7 +277,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "Defense +25, Skill power increases by 10%, Darkness\nnullified",
+        "description": "Defense +25, Skill power increases by 10%, Darkness nullified",
         "etypeId": 3,
         "traits": [
             {
@@ -726,7 +726,7 @@
     {
         "id": 33,
         "atypeId": 3,
-        "description": "Accessory, Defense +5, Exorcism power +30, Halves lightning\ndamage, Paralysis nullified",
+        "description": "Accessory, Defense +5, Exorcism power +30, Halves lightning damage, Paralysis nullified",
         "etypeId": 5,
         "traits": [
             {
@@ -758,7 +758,7 @@
     {
         "id": 34,
         "atypeId": 3,
-        "description": "Accessory, Defense +5, Exorcism power +30, Halves enemy\nwater attacks",
+        "description": "Accessory, Defense +5, Exorcism power +30, Halves enemy water attacks",
         "etypeId": 5,
         "traits": [
             {
@@ -785,7 +785,7 @@
     {
         "id": 35,
         "atypeId": 3,
-        "description": "Accessory, Attack power +5, Defense +5, Exorcism power +30,\nEnemy poison attacks nullified",
+        "description": "Accessory, Attack power +5, Defense +5, Exorcism power +30, Enemy poison attacks nullified",
         "etypeId": 5,
         "traits": [
             {
@@ -812,7 +812,7 @@
     {
         "id": 36,
         "atypeId": 3,
-        "description": "Accessory, Attack power +5, Defense +5, HP +30, Defense\nincreases by 20%",
+        "description": "Accessory, Attack power +5, Defense +5, HP +30, Defense increases by 20%",
         "etypeId": 5,
         "traits": [
             {
@@ -839,7 +839,7 @@
     {
         "id": 37,
         "atypeId": 3,
-        "description": "Accessory, Attack power +5, Defense +5, HP +30, Sleep\nnullified",
+        "description": "Accessory, Attack power +5, Defense +5, HP +30, Sleep nullified",
         "etypeId": 5,
         "traits": [
             {
@@ -866,7 +866,7 @@
     {
         "id": 38,
         "atypeId": 3,
-        "description": "Accessory, Attack power +10, Defense +10, HP +50, Confusion\nnullified",
+        "description": "Accessory, Attack power +10, Defense +10, HP +50, Confusion nullified",
         "etypeId": 5,
         "traits": [
             {
@@ -893,7 +893,7 @@
     {
         "id": 39,
         "atypeId": 3,
-        "description": "Accessory, Attack power +10, Defense +10, HP +50, Darkness\nnullified",
+        "description": "Accessory, Attack power +10, Defense +10, HP +50, Darkness nullified",
         "etypeId": 5,
         "traits": [
             {
@@ -920,7 +920,7 @@
     {
         "id": 40,
         "atypeId": 3,
-        "description": "Accessory, Attack power +15, Defense +15, HP +100,\nOccasionally counterattacks when attacked by an enemy",
+        "description": "Accessory, Attack power +15, Defense +15, HP +100, Occasionally counterattacks when\nattacked by an enemy",
         "etypeId": 5,
         "traits": [
             {
@@ -974,7 +974,7 @@
     {
         "id": 42,
         "atypeId": 3,
-        "description": "Accessory: Skill Power +200 Defense +20 Automatically\nrecovers Skill Power during battle",
+        "description": "Accessory: Skill Power +200 Defense +20 Automatically recovers Skill Power during battle",
         "etypeId": 5,
         "traits": [
             {
@@ -1001,7 +1001,7 @@
     {
         "id": 43,
         "atypeId": 3,
-        "description": "Accessory: Attack +25 Defense +20 HP +300 [Karin Exclusive\nAccessory] Automatically recovers HP during battle",
+        "description": "Accessory: Attack +25 Defense +20 HP +300 [Karin Exclusive Accessory] Automatically\nrecovers HP during battle",
         "etypeId": 5,
         "traits": [
             {

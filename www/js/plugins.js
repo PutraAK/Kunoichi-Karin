@@ -1334,7 +1334,7 @@ var $plugins = [
       txtY_6: "210",
       txtShow_6: "on",
       "#### Text 7 ####": "",
-      txtSubject_7: "Thighjob",
+      txtSubject_7: "Intercrural",
       txtSize_7: "22",
       txtOrigin_7: "left",
       txtAlign_7: "top",

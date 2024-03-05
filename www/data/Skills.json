@@ -121,7 +121,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Entices all enemies, with a certain chance to charm them\n(rendering them unable to act) (No effect in boss battles)",
+        "description": "Entices all enemies, with a certain chance to charm them (rendering them unable to act)\n(No effect in boss battles)",
         "effects": [
             {
                 "code": 21,
@@ -188,7 +188,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Significantly increases evasion rate for 2 turns (Higher\nchance to evade than with smoke bombs)",
+        "description": "Significantly increases evasion rate for 2 turns (Higher chance to evade than with smoke\nbombs)",
         "effects": [
             {
                 "code": 21,
@@ -352,7 +352,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Randomly attacks multiple enemies twice, with a chance to\ninflict burn",
+        "description": "Randomly attacks multiple enemies twice, with a chance to inflict burn",
         "effects": [
             {
                 "code": 21,
@@ -475,7 +475,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cures status ailments such as poison (Can be used during\nbattle)",
+        "description": "Cures status ailments such as poison (Can be used during battle)",
         "effects": [
             {
                 "code": 22,
@@ -620,7 +620,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Puts all enemies to sleep with a certain chance (No effect\nin boss battles)",
+        "description": "Puts all enemies to sleep with a certain chance (No effect in boss battles)",
         "effects": [
             {
                 "code": 21,
@@ -657,7 +657,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the attack power of all allies for 4 turns (Cannot\nbe stacked during use)",
+        "description": "Increases the attack power of all allies for 4 turns (Cannot be stacked during use)",
         "effects": [
             {
                 "code": 21,
@@ -694,7 +694,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the defense of all allies for 4 turns (Cannot be\nstacked during use)",
+        "description": "Increases the defense of all allies for 4 turns (Cannot be stacked during use)",
         "effects": [
             {
                 "code": 21,
@@ -761,7 +761,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Significantly increases own attack and defense for 4 turns\nand recovers 800 HP [Not controllable]",
+        "description": "Significantly increases own attack and defense for 4 turns and recovers 800 HP [Not\ncontrollable]",
         "effects": [
             {
                 "code": 21,
@@ -828,7 +828,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals moderate damage to one enemy, with a 20% chance to\ninflict burn",
+        "description": "Deals moderate damage to one enemy, with a 20% chance to inflict burn",
         "effects": [
             {
                 "code": 21,
@@ -932,7 +932,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals major damage to all enemies, with a 30% chance to\ninflict burn",
+        "description": "Deals major damage to all enemies, with a 30% chance to inflict burn",
         "effects": [
             {
                 "code": 21,
@@ -1079,7 +1079,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Has a chance to inflict confusion and reduce speed on all\nenemies (No effect in boss battles)",
+        "description": "Has a chance to inflict confusion and reduce speed on all enemies (No effect in boss\nbattles)",
         "effects": [
             {
                 "code": 21,
@@ -1122,7 +1122,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals fire damage to one enemy, with a 70% chance to inflict\nburn",
+        "description": "Deals fire damage to one enemy, with a 70% chance to inflict burn",
         "effects": [
             {
                 "code": 21,
@@ -1700,7 +1700,7 @@
             "type": 1,
             "variance": 10
         },
-        "description": "Deals major lightning damage to all enemies with a chance to\nparalyze them.",
+        "description": "Deals major lightning damage to all enemies with a chance to paralyze them.",
         "effects": [
             {
                 "code": 21,
@@ -7319,7 +7319,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Inflicts confusion and reduces speed on all enemies with a\ncertain probability",
+        "description": "Inflicts confusion and reduces speed on all enemies with a certain probability",
         "effects": [
             {
                 "code": 21,

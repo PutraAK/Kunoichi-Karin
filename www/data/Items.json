@@ -242,7 +242,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sellable item (can be sold at the tool shop for a high\nprice)",
+        "description": "Sellable item (can be sold at the tool shop for a high price)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 313,
@@ -334,7 +334,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ueno (north of the pond) Fukagawa (along the river by the\nsumo ring) Yotsuya (beside the shrine) Red-light district\n(next to the pond in the back of the first floor)",
+        "description": "Ueno (north of the pond) Fukagawa (along the river by the sumo ring) Yotsuya (beside the\nshrine) Red-light district (next to the pond in the back of the first floor)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 194,
@@ -360,7 +360,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sunamura Village (north of the pond in the upper right)\nAtami (along the beach in the upper right) Edo Castle\nEntrance (along the river on the right side of the central\nbridge)",
+        "description": "Sunamura Village (north of the pond in the upper right) Atami (along the beach in the\nupper right) Edo Castle Entrance (along the river on the right side of the central bridge)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 194,
@@ -530,7 +530,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Revives an incapacitated ally, can only be used during\nbattle",
+        "description": "Revives an incapacitated ally, can only be used during battle",
         "effects": [
             {
                 "code": 22,
@@ -563,7 +563,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Revives all incapacitated allies, can only be used during\nbattle",
+        "description": "Revives all incapacitated allies, can only be used during battle",
         "effects": [
             {
                 "code": 22,
@@ -860,7 +860,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "User's Attack increases for 3 turns, can only be used during\nbattle (no stacking upon use)",
+        "description": "User's Attack increases for 3 turns, can only be used during battle (no stacking upon use)",
         "effects": [
             {
                 "code": 21,
@@ -893,7 +893,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "User's Defense increases for 3 turns, can only be used\nduring battle (no stacking upon use)",
+        "description": "User's Defense increases for 3 turns, can only be used during battle (no stacking upon\nuse)",
         "effects": [
             {
                 "code": 21,
@@ -926,7 +926,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "User's Speed increases for 3 turns, can only be used during\nbattle (no stacking upon use)",
+        "description": "User's Speed increases for 3 turns, can only be used during battle (no stacking upon use)",
         "effects": [
             {
                 "code": 21,
@@ -959,7 +959,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "All allies' Attack increases for 3 turns, can only be used\nduring battle (no stacking upon use)",
+        "description": "All allies' Attack increases for 3 turns, can only be used during battle (no stacking upon\nuse)",
         "effects": [
             {
                 "code": 21,
@@ -992,7 +992,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "All allies' Defense increases for 3 turns, can only be used\nduring battle (no stacking upon use)",
+        "description": "All allies' Defense increases for 3 turns, can only be used during battle (no stacking\nupon use)",
         "effects": [
             {
                 "code": 21,
@@ -1025,7 +1025,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "All allies' Speed increases for 3 turns, can only be used\nduring battle (no stacking upon use)",
+        "description": "All allies' Speed increases for 3 turns, can only be used during battle (no stacking upon\nuse)",
         "effects": [
             {
                 "code": 21,
@@ -1058,7 +1058,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 160,
@@ -1084,7 +1084,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 161,
@@ -1110,7 +1110,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 162,
@@ -1136,7 +1136,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 163,
@@ -1162,7 +1162,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 164,
@@ -1188,7 +1188,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 165,
@@ -1214,7 +1214,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "One of the seven jewels. Grants EXP in the basement of the\nRecollection Shack.",
+        "description": "One of the seven jewels. Grants EXP in the basement of the Recollection Shack.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 166,
@@ -1240,7 +1240,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Becomes able to bathe and stay overnight at Asakusa's public\nbath as many times as you want.",
+        "description": "Becomes able to bathe and stay overnight at Asakusa's public bath as many times as you\nwant.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 188,
@@ -1266,7 +1266,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Becomes able to bathe at Atami's hot springs as many times\nas you want.",
+        "description": "Becomes able to bathe at Atami's hot springs as many times as you want.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 188,
@@ -1292,7 +1292,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Eating it restores 1000 HP (can be sold at the tool shop for\na high price)",
+        "description": "Eating it restores 1000 HP (can be sold at the tool shop for a high price)",
         "effects": [
             {
                 "code": 11,
@@ -1325,7 +1325,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Straw obtained in Shinjuku [Straw Millionaire Event] →\nAsakusa",
+        "description": "Straw obtained in Shinjuku [Straw Millionaire Event] → Asakusa",
         "effects": [],
         "hitType": 0,
         "iconIndex": 89,
@@ -1351,7 +1351,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Charm obtained in Asakusa [Straw Millionaire Event] →\nNihonbashi",
+        "description": "Charm obtained in Asakusa [Straw Millionaire Event] → Nihonbashi",
         "effects": [],
         "hitType": 0,
         "iconIndex": 89,
@@ -1377,7 +1377,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mikan obtained in Nihonbashi [Straw Millionaire Event] →\nFukagawa",
+        "description": "Mikan obtained in Nihonbashi [Straw Millionaire Event] → Fukagawa",
         "effects": [],
         "hitType": 0,
         "iconIndex": 89,
@@ -1403,7 +1403,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bolt of cloth obtained in Fukagawa [Straw Millionaire Event]\n→ Tsukiji",
+        "description": "Bolt of cloth obtained in Fukagawa [Straw Millionaire Event] → Tsukiji",
         "effects": [],
         "hitType": 0,
         "iconIndex": 89,
@@ -1429,7 +1429,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lottery ticket obtained in Tsukiji [Straw Millionaire Event]\n→ Ueno",
+        "description": "Lottery ticket obtained in Tsukiji [Straw Millionaire Event] → Ueno",
         "effects": [],
         "hitType": 0,
         "iconIndex": 89,
@@ -1455,7 +1455,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Horse obtained in Ueno [Straw Millionaire Event] → Castle\nTown",
+        "description": "Horse obtained in Ueno [Straw Millionaire Event] → Castle Town",
         "effects": [],
         "hitType": 0,
         "iconIndex": 89,
@@ -1481,7 +1481,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strange currency: If you take it to the mansion of the\nwealthy hobbyist in Hibiya, you can exchange it for a\nvaluable ornament",
+        "description": "Strange currency: If you take it to the mansion of the wealthy hobbyist in Hibiya, you can\nexchange it for a valuable ornament",
         "effects": [],
         "hitType": 0,
         "iconIndex": 196,
@@ -1889,7 +1889,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Consumable: Increases lewdness by +100 for one day (effect\nends upon sleeping) (cannot stack effects when used)",
+        "description": "Consumable: Increases lewdness by +100 for one day (effect ends upon sleeping) (cannot\nstack effects when used)",
         "effects": [
             {
                 "code": 44,
@@ -1922,7 +1922,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Consumable: Increases pregnancy chance by 70% for one day\n(effect ends upon sleeping) (cannot stack effects when used)",
+        "description": "Consumable: Increases pregnancy chance by 70% for one day (effect ends upon sleeping)\n(cannot stack effects when used)",
         "effects": [
             {
                 "code": 44,
@@ -1955,7 +1955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sex toy: Shaped like a kokeshi doll (can be used at home any\nnumber of times)",
+        "description": "Sex toy: Shaped like a kokeshi doll (can be used at home any number of times)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -1981,7 +1981,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For dancing: Used for dance performances at the sideshow\ntent",
+        "description": "For dancing: Used for dance performances at the sideshow tent",
         "effects": [],
         "hitType": 0,
         "iconIndex": 88,
@@ -2007,7 +2007,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For dancing: Used for dance performances at the sideshow\ntent",
+        "description": "For dancing: Used for dance performances at the sideshow tent",
         "effects": [],
         "hitType": 0,
         "iconIndex": 88,
@@ -2411,7 +2411,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Necessary item for fishing: Fishing possible locations\n(Mujou Island's southern beach, Ueno, Tsukiji)",
+        "description": "Necessary item for fishing: Fishing possible locations (Mujou Island's southern beach,\nUeno, Tsukiji)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 213,
@@ -2437,7 +2437,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it during battle will result in defeat (includes\nallies)",
+        "description": "Using it during battle will result in defeat (includes allies)",
         "effects": [
             {
                 "code": 44,
@@ -2503,7 +2503,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rusted treasure sword obtained in the Forest of\nApparitions. It might shine if polished...",
+        "description": "A rusted treasure sword obtained in the Forest of Apparitions. It might shine if\npolished...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 97,
@@ -2581,7 +2581,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Entertain 50 clients as a night owl. Stamina increases by\n100.",
+        "description": "Entertain 50 clients as a night owl. Stamina increases by 100.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 14,
@@ -2607,7 +2607,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Entertain 50 clients in the pleasure district. Stamina\nincreases by 200.",
+        "description": "Entertain 50 clients in the pleasure district. Stamina increases by 200.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 14,
@@ -2763,7 +2763,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lewdness level achieved over 300. (Transforms into Super\nLewd Mode)",
+        "description": "Lewdness level achieved over 300. (Transforms into Super Lewd Mode)",
         "effects": [],
         "hitType": 0,
         "iconIndex": 15,
@@ -2945,7 +2945,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Achieve masturbating (including mutual masturbation) 30\ntimes or more.",
+        "description": "Achieve masturbating (including mutual masturbation) 30 times or more.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 15,
@@ -3257,7 +3257,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A ukiyo-e of Karin drawn by an artist. Let's decorate the\nhouse with it.",
+        "description": "A ukiyo-e of Karin drawn by an artist. Let's decorate the house with it.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 88,
