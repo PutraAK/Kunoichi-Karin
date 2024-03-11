@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Kimono Shop Tomochiyo-ya",
+    "displayName": "Kimono Shop Tomichouya-ya",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -3531,7 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ha ha! There is no attire that Tomochiyo, the finest drapery\nstore in the land, does not have. We shall prepare whatever\nyou desire."
+                                "Ha ha! There is no attire that Tomichouya, the finest drapery\nstore in the land, does not have. We shall prepare whatever\nyou desire."
                             ]
                         },
                         {
@@ -6890,7 +6890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Right now, they're cutting the fabric I want in the back. I\nrecommend this Tomochiyo store because they have a good\nselection."
+                                "Right now, they're cutting the fabric I want in the back. I\nrecommend this Tomichouya store because they have a good\nselection."
                             ]
                         },
                         {
@@ -10910,7 +10910,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Go to the Tomochiyo Residence \\c[27][H Event]\\c[0]",
+                                    "Go to the Tomichouya Residence \\c[27][H Event]\\c[0]",
                                     "Leave"
                                 ],
                                 1,
