@@ -20,7 +20,7 @@
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
-    "note": "",
+    "note": "団子屋",
     "parallaxLoopX": false,
     "parallaxLoopY": false,
     "parallaxName": "",
@@ -2083,7 +2083,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyaa! Kyaa! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Kyaa! Kyaa! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -2227,7 +2234,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dango and dango and dango, I've ended up with too many..."
+                                "Dango and dango and dango, I've ended up with "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "too many..."
                             ]
                         },
                         {
@@ -2481,7 +2495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karin-chan, are the dumplings not ready yet? My tea's going\nto get cold."
+                                "Karin-chan, are the dumplings not ready yet? "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "My tea's going to get cold."
                             ]
                         },
                         {
@@ -2631,7 +2652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm so glad Oei-san has come back. This is a place of rest,\nthe dumpling shop after all."
+                                "I'm so glad Oei-san has come back. This is a "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "place of rest, the dumpling shop after all."
                             ]
                         },
                         {
@@ -2706,7 +2734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"I haven't seen Karin-chan around for a while, where did she\ngo? Oei-san was worried.\""
+                                "\"I haven't seen Karin-chan around for a while, "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "where did she go? Oei-san was worried.\""
                             ]
                         },
                         {
@@ -2781,7 +2816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"It seems a baby has been born, but is it Oei-san's child?\nEh!? Karin-chan's baby--!? Dohyaaa!\""
+                                "\"It seems a baby has been born, but is it Oei-san's "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "child? Eh!? Karin-chan's baby--!? Dohyaaa!\""
                             ]
                         },
                         {
@@ -2856,7 +2898,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eh? Why am I still coming to the shop? Well, it's because\nI'm a true regular, haha! Eating dango at this shop is my\nreason for living."
+                                "Eh? Why am I still coming to the shop? Well, it's "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "because I'm a true regular, haha! Eating dango at this"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "shop is my reason for living."
                             ]
                         },
                         {
@@ -3263,7 +3319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oei-san is amazing, taking care of so many babies like this."
+                                "Oei-san is amazing, taking care of so many babies "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "like this."
                             ]
                         },
                         {
@@ -3398,7 +3461,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karin, are you free right now? I could use some help with\nthe shop, can I ask for your assistance?"
+                                "Karin, are you free right now? I could use some help "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "with the shop, can I ask for your assistance?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Help out at the dumpling shop?"
                             ]
                         },
                         {
@@ -3406,7 +3493,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Help out at the dumpling shop [Until evening, reward 800 mon]",
+                                    "Help her [Until evening, reward 800 mon]",
                                     "Decline"
                                 ],
                                 1,
@@ -3420,7 +3507,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "団子屋を手伝う【夜まで　報酬８００文】"
+                                "Help her [Until evening, reward 800 mon]"
                             ]
                         },
                         {
@@ -3460,7 +3547,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sure. I don't have anything else to do right now, so I'll\nhelp out."
+                                "Sure. I don't have anything else to do right now, "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "so I'll help out the store."
                             ]
                         },
                         {
@@ -3484,7 +3578,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh! That's great! Then please take these dumplings to the\ncustomers' tables."
+                                "Oh! That's great! Then please take these dumplings "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "to the customers' tables."
                             ]
                         },
                         {
@@ -3810,7 +3911,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Phew. Is it already evening? We're closing for today.\nThanks, Karin, for your help. Here's your payment."
+                                "...Phew. Is it already evening? We're closing for "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "today. Thanks, Karin, for your help. Here's your "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "payment for helping."
                             ]
                         },
                         {
@@ -3884,7 +3999,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "断る"
+                                "Decline"
                             ]
                         },
                         {
@@ -3932,7 +4047,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh dear, that's too bad. When you have time, please come\nhelp again. I'll make sure to pay you properly."
+                                "Oh dear, that's too bad. When you have time, "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "please come help the store again. I'll make sure to "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "pay you properly."
                             ]
                         },
                         {
@@ -5088,7 +5217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babu~ Babu~! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Babu~ Babu~! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -5583,7 +5719,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, do you know, Karin-oneechan? I heard that the sushi\nplace in Ueno is really delicious. Why don't we go check if\nit's true?"
+                                "Hey, do you know, Karin-oneechan? I heard that the "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sushi place in Ueno is really delicious. Why don't we "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "go check if it's true?"
                             ]
                         },
                         {
@@ -5665,7 +5815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What exactly is a pleasure district for... If it's just for\ndrinking, wouldn't a tavern be enough?"
+                                "What exactly is a pleasure district for... If it's "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "just for drinking, wouldn't a tavern be enough?"
                             ]
                         },
                         {
@@ -5747,7 +5904,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You went far from Edo again? Eh, to Atami? I'm envious, I've\nnever been in a hot spring before."
+                                "You went far from Edo again? Eh, to Atami? "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm envious, I've never been in a hot spring before."
                             ]
                         },
                         {
@@ -5829,7 +5993,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karin-oneechan's friends are quite an interesting bunch,\naren't they?"
+                                "Karin-oneechan's friends are quite an interesting "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "bunch, aren't they?"
                             ]
                         },
                         {
@@ -5911,7 +6082,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lately, we've had an increase in samurai customers. I heard\nthey're gathering lots of soldiers at the Sagamihara\ngarrison too. Ah, keep it a secret, okay? I secretly heard\nit from the old man at the magistrate's office..."
+                                "Lately, we've had an increase in samurai customers. "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I heard they're gathering lots of soldiers at the "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Sagamihara garrison too."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ah, keep it a secret, okay? I secretly heard"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "it from the old man at the magistrate's office..."
                             ]
                         },
                         {
@@ -5993,7 +6202,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you going to Mount Fuji? Please be really careful... I\ndon't want you to die, Karin-oneechan."
+                                "Are you going to Mount Fuji? Please be really "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "careful... I don't want you to die, Karin-oneechan."
                             ]
                         },
                         {
@@ -6157,7 +6373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babies are brought by storks, that's what grandpa said.\nKarin-oneechan must be really liked by the storks, huh\\I[15]"
+                                "Babies are brought by storks, that's what grandpa said."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Karin-oneechan must be really liked by the storks\\I[15]"
                             ]
                         },
                         {
@@ -6943,7 +7166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... Ahh...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Ahh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -7351,7 +7581,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This dumpling shop has a good reputation, so I came from\nAsakusa to eat here. I'll order the mitarashi dumplings."
+                                "This dumpling shop has a good reputation, so I came "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "from Asakusa to eat here. I'll order the mitarashi "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "dumplings."
                             ]
                         },
                         {
@@ -7470,7 +7714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did you produce all this by yourself? Wow, I'm surprised."
+                                "Did you produce all this by yourself? "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Wow, I'm surprised."
                             ]
                         },
                         {
@@ -7945,7 +8196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Hmm...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Hmm... Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -8094,7 +8352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zzz... Zzz...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Zzz... Zzz..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -8243,7 +8508,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zzz... Zzz...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Zzz... Zzz..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -8392,7 +8664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Hmm...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Hmm... Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -8541,7 +8820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... Ahh...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Ahh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -8690,7 +8976,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babu~ Babu~! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Babu~ Babu~! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -8839,7 +9132,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyaa! Kyaa! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Kyaa! Kyaa! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9055,7 +9355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyaa! Kyaa! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Kyaa! Kyaa! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9204,7 +9511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babu-babu! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Babu-babu! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9353,7 +9667,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... Ahh...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Ahh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9502,7 +9823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Hmm...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Hmm... Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9651,7 +9979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zzz... Zzz...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Zzz... Zzz..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9800,7 +10135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyaa! Kyaa! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Kyaa! Kyaa! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -9949,7 +10291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babu-babu! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Babu-babu! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10098,7 +10447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... Ahh...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Ahh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10247,7 +10603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Hmm...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Hmm... Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10396,7 +10759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wahh! Wahh! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Wahh! Wahh! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10545,7 +10915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyaa! Kyaa! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Kyaa! Kyaa! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10694,7 +11071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babu-babu! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Babu-babu! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10843,7 +11227,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... Ahh...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Ahh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -10992,7 +11383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Hmm...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Hmm... Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -11141,7 +11539,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Zzz... Zzz...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Zzz... Zzz..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -11290,7 +11695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kyaa! Kyaa! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Kyaa! Kyaa! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -11439,7 +11851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Babu-babu! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Babu-babu! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -11588,7 +12007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... Ahh...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Ahh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -11737,7 +12163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Hmm...\\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Hmm... Hmm..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -11886,7 +12319,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wahh! Wahh~! \\c[17](Number of boys \\V[44], number of girls\n\\V[45])\\c[0]"
+                                "Wahh! Wahh~! "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\c[17](Number of boys \\V[44], number of girls \\V[45])\\c[0]"
                             ]
                         },
                         {
@@ -12224,7 +12664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, it's your favorite \\V[82]. If you have time, go ahead\nand eat♪"
+                                "Here, it's your favorite \\V[82]."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If you have time, go ahead and eat♪"
                             ]
                         },
                         {
@@ -12248,7 +12695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yay \\V[82]! Karin loves \\V[82]\\I[15]"
+                                "Yay \\V[82]!"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Karin loves \\V[82]\\I[15]"
                             ]
                         },
                         {
@@ -12265,7 +12719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "--Karin happily devoured her favorite \\V[82]!"
+                                "--Karin happily devoured her favorite "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\V[82]!"
                             ]
                         },
                         {
@@ -12480,7 +12941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...You don't seem to have a tan, Karin. Did you really go to\nAtami?"
+                                "...You don't seem to have a tan, Karin. Did you "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "really go to Atami?"
                             ]
                         },
                         {
@@ -12562,7 +13030,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "--Eh? You're going to Suranashi Village now? I've heard that\nbandits are running wild at the bandit fortress in that\nvillage. Things have been rather dangerous around here\nlately... Anyway, be careful, okay?"
+                                "--Eh? You're going to Suranashi Village now? "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I've heard that bandits are running wild at "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the bandit fortress in that village."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Things have been rather dangerous around here"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "lately... Anyway, be careful, okay?"
                             ]
                         },
                         {
@@ -12644,7 +13150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Karin, are you busy? You seem a bit tired lately... Make\nsure to take care of your health, okay?"
+                                "Karin, are you busy? You seem a bit tired lately... "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Make sure to take care of your health, okay?"
                             ]
                         },
                         {
@@ -12726,7 +13239,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The red-light district isn't a place for a town girl like\nyou to visit casually, okay? If you get hungry, come back\nhome quickly, alright?"
+                                "The red-light district isn't a place for a town girl "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "like you to visit casually, okay?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If you get hungry, come back home quickly, alright?"
                             ]
                         },
                         {
@@ -12808,7 +13345,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eh? You're on a business trip to Atami right now? Next time,\nplease bring back some hot spring buns as a souvenir."
+                                "Eh? You're on a business trip to Atami right now? "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Next time, please bring back some hot spring buns as "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "a souvenir."
                             ]
                         },
                         {
@@ -12890,7 +13441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems you've been going out of Edo lately, but don't\noverdo it, Karin."
+                                "It seems you've been going out of Edo lately, but "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "don't overdo it, Karin."
                             ]
                         },
                         {
@@ -12972,7 +13530,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lately, it feels like there are more soldiers around town. I\nwonder if something's happening that us common folk don't\nknow about..."
+                                "Lately, it feels like there are more soldiers around "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "town. I wonder if something's happening that us "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "common folk don't know about..."
                             ]
                         },
                         {
@@ -13054,7 +13626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I tried my best as a mother in my own way. Never overdo it,\nokay? You hear me, Karin--"
+                                "I tried my best as a mother in my own way. Never "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "overdo it, okay? You hear me, Karin--"
                             ]
                         },
                         {
@@ -13136,7 +13715,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The babies are also waiting for their mother's return. You\nmust come back to this dumpling shop, okay? Understand,\nKarin--?"
+                                "The babies are also waiting for their mother's return."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You must come back to this dumpling shop, okay? "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Understand, Karin--?"
                             ]
                         },
                         {
@@ -13218,7 +13811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't worry, I'm watching the baby. But make sure to come\ncheck on the baby once in a while, okay?"
+                                "Don't worry, I'm watching the baby. But make sure to "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "come check on the baby once in a while, okay?"
                             ]
                         },
                         {
@@ -13300,7 +13900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's like a nursery rather than a dumpling shop with all\nthese babies around... Well, it's lively and never boring.\nHaha."
+                                "It's like a nursery rather than a dumpling shop with "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "all these babies around... Well, it's lively and "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "never boring here. Haha."
                             ]
                         },
                         {
@@ -22002,7 +22616,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll have tea and dango. Wearing this unfamiliar armor has\ntired me out..."
+                                "I'll have tea and dango. Wearing this unfamiliar "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "armor has tired me out..."
                             ]
                         },
                         {
@@ -22130,7 +22751,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What could the higher-ups possibly be planning by gathering\nso many soldiers in such a peaceful world... Hmm, it's no\nuse thinking about it, but it's troubling indeed."
+                                "What could the higher-ups possibly be planning by "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "gathering so many soldiers in such a peaceful world..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm, it's no use thinking about it, but it's troubling "
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "indeed."
                             ]
                         },
                         {
